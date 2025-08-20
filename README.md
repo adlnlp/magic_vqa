@@ -32,7 +32,10 @@
 </div>
 
 
-Implementation of [MAGIC-VQA: Multimodal And Grounded Inference with Commonsense Knowledge for Visual Question Answering](https://aclanthology.org/2025.findings-acl.872/). 
+Implementation of [MAGIC-VQA](https://aclanthology.org/2025.findings-acl.872/). 
+
+
+<p align="center"><img src="MAGIC_architecture.jpg" width="750" /></p>
 
 
 ## Updates
