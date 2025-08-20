@@ -20,8 +20,8 @@
 
 <div align="center">
 <p>
-      <sup>1</sup> <a href="mailto:shuo.yang.3@unimelb.edu.au">shuo.yang.3@unimelb.edu.au</a> 
-      <sup>2</sup> <a href="mailto:caren.han@unimelb.edu.au">caren.han@unimelb.edu.au</a>,  
+      <a href="mailto:shuo.yang.3@unimelb.edu.au">shuo.yang.3@unimelb.edu.au</a> 
+      <a href="mailto:caren.han@unimelb.edu.au">caren.han@unimelb.edu.au</a>,  
 </p>
 </div>
 
