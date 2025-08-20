@@ -41,7 +41,7 @@ Implementation of [MAGIC-VQA](https://aclanthology.org/2025.findings-acl.872/).
 ## Updates
 - [08/24/2025]:🎉 Will be open-sourced very soon
 
-## Introduction
+## Abstract
 Visual Question Answering (VQA) requires reasoning across visual and textual modalities, yet Large Vision-Language Models (LVLMs) often lack integrated commonsense knowledge, limiting their robustness in real-world scenarios. To address this, we introduce MAGIC-VQA, a novel framework that enhances VQA by systematically integrating  commonsense knowledge with LVLMs.
 MAGIC-VQA employs a three-stage process: (1) Explicit Knowledge Integration from external sources, (2) By-Type Post-Processing for contextual refinement, and (3) Implicit Knowledge Augmentation using a Graph Neural Network (GNN) for structured reasoning. While GNNs bring greater depth to structured inference, they enable superior relational inference beyond LVLMs. MAGIC-VQA bridges a key gap by unifying commonsensse knowledge with LVLM-driven reasoning, eliminating the need for extensive pre-training or complex prompt tuning.
 Our framework achieves state-of-the-art performance on benchmark datasets, significantly improving commonsense reasoning in VQA.
@@ -78,7 +78,7 @@ If you find our method useful, please kindly cite our paper.
 ```
 
 ## 4. Contributing
-We welcome contributions from the research community to improve the effeicency of MAGIC-VQA. If you have any idea or would like to report a bug, please open an issue or submit a pull request.
+We welcome contributions from the research community to improve the efficiency of MAGIC-VQA. If you have any idea or would like to report a bug, please open an issue or submit a pull request.
 
 ## 5. License
 The code is released under the MIT License.
