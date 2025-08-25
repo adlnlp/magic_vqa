@@ -39,7 +39,7 @@ Implementation of [MAGIC-VQA](https://aclanthology.org/2025.findings-acl.872/).
 
 
 ## Updates
-- [08/24/2025]:🎉 Will be open-sourced very soon
+- [08/24/2025]:🎉 We have released the code for MAGIC-VQA. 
 
 ## Abstract
 Visual Question Answering (VQA) requires reasoning across visual and textual modalities, yet Large Vision-Language Models (LVLMs) often lack integrated commonsense knowledge, limiting their robustness in real-world scenarios. To address this, we introduce MAGIC-VQA, a novel framework that enhances VQA by systematically integrating  commonsense knowledge with LVLMs.
@@ -47,7 +47,9 @@ MAGIC-VQA employs a three-stage process: (1) Explicit Knowledge Integration from
 Our framework achieves state-of-the-art performance on benchmark datasets, significantly improving commonsense reasoning in VQA.
 
 ## How to Use MAGIC-VQA 
-TBD
+Following the original paper, please first use the CLIP_Retrieval to retreive and proceed with the filtered triplets. Then use the GCN training for train the graph network and do the inference. 
+
+The result for ScienceQA, TextVQA, MMMU and their responding knowledge triplets can be found in the Atomic folder.
 
 
 ------
