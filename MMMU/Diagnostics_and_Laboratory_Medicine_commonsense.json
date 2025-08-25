@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_1",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.9067582190036774,
+                "tail": "PersonX offers one example"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "isBefore",
+                "similarity": 0.9031441807746887,
+                "tail": "PersonX explains it slowly"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xReact",
+                "similarity": 0.9024688005447388,
+                "tail": "good about himself"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xIntent",
+                "similarity": 0.9021691977977753,
+                "tail": "to be understood"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xReact",
+                "similarity": 0.9021691977977753,
+                "tail": "understood"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.28243403136730194,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.28066951036453247,
+                "tail": "adrenal gland"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.27991992235183716,
+                "tail": "convoluted tubule"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.27964574098587036,
+                "tail": "arcuate vein of kidney"
+            },
+            {
+                "head": "spleen",
+                "relation": "MadeUpOf",
+                "similarity": 0.2783098965883255,
+                "tail": "splenic vein"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX depends upon the condition",
+                "relation": "HinderedBy",
+                "similarity": 0.9015787541866302,
+                "tail": "The condition keeps changing on PersonX."
+            },
+            {
+                "head": "PersonX depends upon the condition",
+                "relation": "xWant",
+                "similarity": 0.8996252417564392,
+                "tail": "the condition to happen"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8961459398269653,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8937320411205292,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX depends upon the condition",
+                "relation": "HinderedBy",
+                "similarity": 0.8921778202056885,
+                "tail": "PersonX doesn't understand the situation."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "scouring pad",
+                "relation": "ObjectUse",
+                "similarity": 0.26218950748443604,
+                "tail": "get tough stains off of durable surfaces"
+            },
+            {
+                "head": "putty knife",
+                "relation": "ObjectUse",
+                "similarity": 0.2597101777791977,
+                "tail": "to mold clay"
+            },
+            {
+                "head": "scouring pad",
+                "relation": "ObjectUse",
+                "similarity": 0.25623784959316254,
+                "tail": "exfoliate"
+            },
+            {
+                "head": "salivary gland",
+                "relation": "MadeUpOf",
+                "similarity": 0.2539159804582596,
+                "tail": "saliva"
+            },
+            {
+                "head": "loofah",
+                "relation": "ObjectUse",
+                "similarity": 0.2536555975675583,
+                "tail": "scrub off dead skin"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "isAfter",
+                "similarity": 0.7357197105884552,
+                "tail": "PersonX sees a patient"
+            },
+            {
+                "head": "PersonX becomes infected",
+                "relation": "xNeed",
+                "similarity": 0.7283635437488556,
+                "tail": "to have been close to someone infected"
+            },
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "xWant",
+                "similarity": 0.7265655100345612,
+                "tail": "to help PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "isAfter",
+                "similarity": 0.725887805223465,
+                "tail": "PersonX takes PersonY as a patient"
+            },
+            {
+                "head": "PersonX gets back to work",
+                "relation": "xEffect",
+                "similarity": 0.7253814041614532,
+                "tail": "gets a pay raise"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.294113352894783,
+                "tail": "venae interlobulares hepatis"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2852069139480591,
+                "tail": "hepatic lobe"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.28475500643253326,
+                "tail": "common bile duct"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.28342247009277344,
+                "tail": "biliary ductule"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2811630815267563,
+                "tail": "hepatic duct"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses PersonY microscope",
+                "relation": "isAfter",
+                "similarity": 0.9018137753009796,
+                "tail": "PersonX breaks their microscope"
+            },
+            {
+                "head": "PersonX uses PersonY microscope",
+                "relation": "oWant",
+                "similarity": 0.8939370214939117,
+                "tail": "put up the microscope"
+            },
+            {
+                "head": "PersonX uses PersonY microscope",
+                "relation": "xNeed",
+                "similarity": 0.8928555548191071,
+                "tail": "wipe off the microscope"
+            },
+            {
+                "head": "PersonX uses PersonY microscope",
+                "relation": "xEffect",
+                "similarity": 0.8884757459163666,
+                "tail": "sees magnified objects"
+            },
+            {
+                "head": "PersonX uses PersonY microscope",
+                "relation": "xWant",
+                "similarity": 0.8798276484012604,
+                "tail": "learn science"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.27697229385375977,
+                "tail": "venae interlobulares hepatis"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.2700476795434952,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2697138041257858,
+                "tail": "biliary ductule"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.26710352301597595,
+                "tail": "hepatic lobe"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.2662713825702667,
+                "tail": "adrenal gland"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_5",
+        "question_commonsense": [
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.7360597550868988,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.7289530634880066,
+                "tail": "write a medical journal"
+            },
+            {
+                "head": "biopsy",
+                "relation": "HasProperty",
+                "similarity": 0.7195700109004974,
+                "tail": "used especially for tumors"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.7167885303497314,
+                "tail": "get a referral to another doctor"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.7162116169929504,
+                "tail": "test the results"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.2778550684452057,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.2655879110097885,
+                "tail": "check and see if a lump is cancerous"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.2588876485824585,
+                "tail": "test cells"
+            },
+            {
+                "head": "PersonX is diagnosed with cancer",
+                "relation": "isBefore",
+                "similarity": 0.25612957775592804,
+                "tail": "PersonX receives chemotherapy treatment"
+            },
+            {
+                "head": "coccidiosis",
+                "relation": "Causes",
+                "similarity": 0.2549542412161827,
+                "tail": "treatment with anticoccidials"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_6",
+        "question_commonsense": [
+            {
+                "head": "x ray",
+                "relation": "ObjectUse",
+                "similarity": 0.5576700270175934,
+                "tail": "find broken bones"
+            },
+            {
+                "head": "x ray",
+                "relation": "ObjectUse",
+                "similarity": 0.5571177899837494,
+                "tail": "check for tumors"
+            },
+            {
+                "head": "x ray",
+                "relation": "ObjectUse",
+                "similarity": 0.5559882521629333,
+                "tail": "look at a person's bones"
+            },
+            {
+                "head": "x ray",
+                "relation": "ObjectUse",
+                "similarity": 0.5536203384399414,
+                "tail": "show broken bone"
+            },
+            {
+                "head": "x-rays",
+                "relation": "ObjectUse",
+                "similarity": 0.553330808877945,
+                "tail": "use a negative in the darkroom"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "x ray",
+                "relation": "ObjectUse",
+                "similarity": 0.2756343334913254,
+                "tail": "determine if the dog ate a sock"
+            },
+            {
+                "head": "x ray",
+                "relation": "ObjectUse",
+                "similarity": 0.2639913409948349,
+                "tail": "show broken bone"
+            },
+            {
+                "head": "x ray",
+                "relation": "ObjectUse",
+                "similarity": 0.2637871950864792,
+                "tail": "look at a person's bones"
+            },
+            {
+                "head": "x-rays",
+                "relation": "ObjectUse",
+                "similarity": 0.25990843772888184,
+                "tail": "view the broken leg"
+            },
+            {
+                "head": "xray",
+                "relation": "ObjectUse",
+                "similarity": 0.2584362104535103,
+                "tail": "check for broken bones"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_7",
+        "question_commonsense": [
+            {
+                "head": "PersonX lets PersonY know what you think",
+                "relation": "HinderedBy",
+                "similarity": 0.9184332489967346,
+                "tail": "PersonX does not know what you think."
+            },
+            {
+                "head": "PersonX lets PersonY know what you think",
+                "relation": "xWant",
+                "similarity": 0.9143898487091064,
+                "tail": "to be understood"
+            },
+            {
+                "head": "statements",
+                "relation": "ObjectUse",
+                "similarity": 0.9140896499156952,
+                "tail": "to make sure it is correct"
+            },
+            {
+                "head": "PersonX lets PersonY know what you think",
+                "relation": "xIntent",
+                "similarity": 0.9136840105056763,
+                "tail": "to know you think"
+            },
+            {
+                "head": "PersonX tells PersonY do not know",
+                "relation": "oReact",
+                "similarity": 0.913028746843338,
+                "tail": "also confused"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.29023344814777374,
+                "tail": "venae interlobulares hepatis"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.287610188126564,
+                "tail": "arcuate vein of kidney"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.28747355937957764,
+                "tail": "renal vein"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.28700220584869385,
+                "tail": "common bile duct"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2861870527267456,
+                "tail": "biliary ductule"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "xReact",
+                "similarity": 0.881803035736084,
+                "tail": "like they know where PersonY is"
+            },
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "oReact",
+                "similarity": 0.8774169683456421,
+                "tail": "exposed"
+            },
+            {
+                "head": "PersonX gives PersonY indication",
+                "relation": "xReact",
+                "similarity": 0.8755927085876465,
+                "tail": "sure of himself"
+            },
+            {
+                "head": "PersonX gives PersonY indication",
+                "relation": "xAttr",
+                "similarity": 0.874989926815033,
+                "tail": "done"
+            },
+            {
+                "head": "PersonX gives PersonY indication",
+                "relation": "oWant",
+                "similarity": 0.872961014509201,
+                "tail": "to tell PersonX that she knows."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "coccidiosis",
+                "relation": "Causes",
+                "similarity": 0.2588103264570236,
+                "tail": "treatment with anticoccidials"
+            },
+            {
+                "head": "salivary gland",
+                "relation": "MadeUpOf",
+                "similarity": 0.25551845878362656,
+                "tail": "saliva"
+            },
+            {
+                "head": "liver",
+                "relation": "HasProperty",
+                "similarity": 0.25326361507177353,
+                "tail": "produces bile to help digest food"
+            },
+            {
+                "head": "PersonX casts ___ before swine",
+                "relation": "xWant",
+                "similarity": 0.25153641402721405,
+                "tail": "to figure it out"
+            },
+            {
+                "head": "ulcer",
+                "relation": "AtLocation",
+                "similarity": 0.2509949132800102,
+                "tail": "stomach"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_9",
+        "question_commonsense": [
+            {
+                "head": "PersonX evaluates the patient 's ___",
+                "relation": "xWant",
+                "similarity": 0.7419444024562836,
+                "tail": "to educate the patient"
+            },
+            {
+                "head": "PersonX evaluates the patient 's ___",
+                "relation": "xIntent",
+                "similarity": 0.7338219285011292,
+                "tail": "to take care of the patient"
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "xIntent",
+                "similarity": 0.7326416373252869,
+                "tail": "to learn medicine."
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.726235419511795,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "PersonX evaluates the patient 's ___",
+                "relation": "xNeed",
+                "similarity": 0.7262108325958252,
+                "tail": "to take the patient's vital signs"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.27629995346069336,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "main artery",
+                "relation": "AtLocation",
+                "similarity": 0.2686954140663147,
+                "tail": "organism with heart"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.26453450322151184,
+                "tail": "check and see if a lump is cancerous"
+            },
+            {
+                "head": "main artery",
+                "relation": "ObjectUse",
+                "similarity": 0.26381435990333557,
+                "tail": "moving blood directly from heart"
+            },
+            {
+                "head": "main artery",
+                "relation": "ObjectUse",
+                "similarity": 0.26370759308338165,
+                "tail": "moving blood through body"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_10",
+        "question_commonsense": [
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "xIntent",
+                "similarity": 0.7715564370155334,
+                "tail": "to learn medicine."
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "isBefore",
+                "similarity": 0.7684469521045685,
+                "tail": "PersonX gets accepted to medical school"
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "isBefore",
+                "similarity": 0.7684469521045685,
+                "tail": "PersonX gets accepted to medical school"
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "xEffect",
+                "similarity": 0.7640355229377747,
+                "tail": "goes to college."
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "isAfter",
+                "similarity": 0.7626917362213135,
+                "tail": "PersonX is going to be a doctor"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX blots PersonX's copy book",
+                "relation": "isAfter",
+                "similarity": 0.2754173278808594,
+                "tail": "PersonX spilled a bottle of ink"
+            },
+            {
+                "head": "watercolors",
+                "relation": "ObjectUse",
+                "similarity": 0.2710855007171631,
+                "tail": "Create a painting"
+            },
+            {
+                "head": "water color",
+                "relation": "ObjectUse",
+                "similarity": 0.26915381848812103,
+                "tail": "paint colors"
+            },
+            {
+                "head": "watercolors",
+                "relation": "ObjectUse",
+                "similarity": 0.26832397282123566,
+                "tail": "paint with"
+            },
+            {
+                "head": "paint samples",
+                "relation": "ObjectUse",
+                "similarity": 0.2682737112045288,
+                "tail": "paint different color designs"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "oWant",
+                "similarity": 0.9051361083984375,
+                "tail": "to know if they have a disease"
+            },
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "isBefore",
+                "similarity": 0.9044332206249237,
+                "tail": "PersonX gives a prescribed treatment"
+            },
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "HinderedBy",
+                "similarity": 0.9010117948055267,
+                "tail": "PersonY has not given enough information."
+            },
+            {
+                "head": "PersonX is diagnosed with cancer",
+                "relation": "isAfter",
+                "similarity": 0.900925487279892,
+                "tail": "PersonX goes to the doctor after feeling terrible"
+            },
+            {
+                "head": "PersonX is diagnosed with cancer",
+                "relation": "isAfter",
+                "similarity": 0.8997134566307068,
+                "tail": "PersonX goes to the docto"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.29196152091026306,
+                "tail": "venae interlobulares hepatis"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.27694500982761383,
+                "tail": "biliary ductule"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2767847627401352,
+                "tail": "hepatic lobe"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.2760716825723648,
+                "tail": "adrenal gland"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.27286289632320404,
+                "tail": "renal cortex"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_12",
+        "question_commonsense": [
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.8101038634777069,
+                "tail": "brainstem"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.7855491638183594,
+                "tail": "ventricle"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.7834697961807251,
+                "tail": "cerebellum"
+            },
+            {
+                "head": "brain",
+                "relation": "HasProperty",
+                "similarity": 0.7833142876625061,
+                "tail": "connected to brain stem"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.7781521081924438,
+                "tail": "frontal lobe"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "vertebrate",
+                "relation": "MadeUpOf",
+                "similarity": 0.277957946062088,
+                "tail": "tail"
+            },
+            {
+                "head": "parasite",
+                "relation": "AtLocation",
+                "similarity": 0.2700444310903549,
+                "tail": "organism"
+            },
+            {
+                "head": "vertebrate",
+                "relation": "MadeUpOf",
+                "similarity": 0.2663700580596924,
+                "tail": "rib"
+            },
+            {
+                "head": "tail",
+                "relation": "ObjectUse",
+                "similarity": 0.2651923894882202,
+                "tail": "protecting animal from insects"
+            },
+            {
+                "head": "hippocampus",
+                "relation": "HasProperty",
+                "similarity": 0.2647734135389328,
+                "tail": "essential for forming new memories"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_13",
+        "question_commonsense": [
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.7569005489349365,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.7511040568351746,
+                "tail": "write a medical journal"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.7457749247550964,
+                "tail": "check and see if a lump is cancerous"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.7428144216537476,
+                "tail": "prevent a disease"
+            },
+            {
+                "head": "biopsy",
+                "relation": "HasProperty",
+                "similarity": 0.7388576567173004,
+                "tail": "used especially for tumors"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.27337712049484253,
+                "tail": "venae interlobulares hepatis"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.2700829952955246,
+                "tail": "adrenal gland"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.2656506299972534,
+                "tail": "convoluted tubule"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2637743055820465,
+                "tail": "common bile duct"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2633817195892334,
+                "tail": "biliary ductule"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "isAfter",
+                "similarity": 0.8378311991691589,
+                "tail": "PersonX sees a patient"
+            },
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "xWant",
+                "similarity": 0.8359814584255219,
+                "tail": "to help PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "oWant",
+                "similarity": 0.8322261273860931,
+                "tail": "to know if they have a disease"
+            },
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "isBefore",
+                "similarity": 0.8314681351184845,
+                "tail": "PersonX gives a prescribed treatment"
+            },
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "isAfter",
+                "similarity": 0.8312006294727325,
+                "tail": "PersonX takes PersonY as a patient"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.29279740154743195,
+                "tail": "arcuate vein of kidney"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.2924293428659439,
+                "tail": "arcuate artery of kidney"
+            },
+            {
+                "head": "main artery",
+                "relation": "AtLocation",
+                "similarity": 0.2915729582309723,
+                "tail": "organism with heart"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.2872805595397949,
+                "tail": "renal vein"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.28352542221546173,
+                "tail": "renal artery"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX depends upon the condition",
+                "relation": "xWant",
+                "similarity": 0.8867093622684479,
+                "tail": "the condition to happen"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8856090903282166,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.885136067867279,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX prevents PersonY's recurrence",
+                "relation": "oEffect",
+                "similarity": 0.8813316822052002,
+                "tail": "they cry"
+            },
+            {
+                "head": "PersonX prevents PersonY's recurrence",
+                "relation": "xNeed",
+                "similarity": 0.8783391118049622,
+                "tail": "to understand PersonY"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "neosporine",
+                "relation": "ObjectUse",
+                "similarity": 0.2753928154706955,
+                "tail": "kill bacteria on an abrasion"
+            },
+            {
+                "head": "coccidiosis",
+                "relation": "Causes",
+                "similarity": 0.27021507918834686,
+                "tail": "treatment with anticoccidials"
+            },
+            {
+                "head": "vertebrate",
+                "relation": "MadeUpOf",
+                "similarity": 0.26782360672950745,
+                "tail": "rib"
+            },
+            {
+                "head": "coccidiosis",
+                "relation": "Causes",
+                "similarity": 0.2673584967851639,
+                "tail": "infected chickens die"
+            },
+            {
+                "head": "neosporine",
+                "relation": "ObjectUse",
+                "similarity": 0.2671722397208214,
+                "tail": "Prevent infection"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_16",
+        "question_commonsense": [
+            {
+                "head": "PersonX bites PersonY's head off",
+                "relation": "HinderedBy",
+                "similarity": 0.6460545361042023,
+                "tail": "PersonY's head is too big"
+            },
+            {
+                "head": "PersonX bites PersonY's head off",
+                "relation": "HinderedBy",
+                "similarity": 0.6337188184261322,
+                "tail": "the police would arrest PersonX"
+            },
+            {
+                "head": "PersonX bites PersonY's lower lip",
+                "relation": "oEffect",
+                "similarity": 0.6333282291889191,
+                "tail": "PersonY lip swells from bite"
+            },
+            {
+                "head": "PersonX bites PersonY's head off",
+                "relation": "oWant",
+                "similarity": 0.6324284076690674,
+                "tail": "to apologize to PersonX"
+            },
+            {
+                "head": "PersonX bites PersonY's head off",
+                "relation": "xWant",
+                "similarity": 0.6324284076690674,
+                "tail": "apologize"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.28291942179203033,
+                "tail": "adrenal gland"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.2811027616262436,
+                "tail": "arcuate vein of kidney"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.28066688776016235,
+                "tail": "renal vein"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.27643558382987976,
+                "tail": "renal artery"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.27541351318359375,
+                "tail": "arcuate artery of kidney"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX applies the ___ to cases",
+                "relation": "xEffect",
+                "similarity": 0.873771458864212,
+                "tail": "PersonX applies the results to cases"
+            },
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "isBefore",
+                "similarity": 0.8649216294288635,
+                "tail": "PersonX gives a prescribed treatment"
+            },
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "isAfter",
+                "similarity": 0.8636164963245392,
+                "tail": "PersonX sees a patient"
+            },
+            {
+                "head": "PersonX applies the ___ to cases",
+                "relation": "xWant",
+                "similarity": 0.8636023700237274,
+                "tail": "to check their answer"
+            },
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "oWant",
+                "similarity": 0.8606504201889038,
+                "tail": "to know if they have a disease"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "rosin",
+                "relation": "ObjectUse",
+                "similarity": 0.2648961916565895,
+                "tail": "make cabochons with"
+            },
+            {
+                "head": "neosporine",
+                "relation": "ObjectUse",
+                "similarity": 0.26420657336711884,
+                "tail": "kill bacteria on an abrasion"
+            },
+            {
+                "head": "rosin",
+                "relation": "ObjectUse",
+                "similarity": 0.26385418325662613,
+                "tail": "prevent bow from slippage"
+            },
+            {
+                "head": "rosin",
+                "relation": "ObjectUse",
+                "similarity": 0.25879641622304916,
+                "tail": "coat the bow"
+            },
+            {
+                "head": "rosin",
+                "relation": "ObjectUse",
+                "similarity": 0.25839968025684357,
+                "tail": "make a coating"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_18",
+        "question_commonsense": [
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.804747462272644,
+                "tail": "visual cortex"
+            },
+            {
+                "head": "brain",
+                "relation": "HasProperty",
+                "similarity": 0.8037307858467102,
+                "tail": "connected to brain stem"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.8029175698757172,
+                "tail": "frontal lobe"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.7986450791358948,
+                "tail": "midbrain"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.7971689105033875,
+                "tail": "neurons"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.28643685579299927,
+                "tail": "temporal lobe"
+            },
+            {
+                "head": "neocortex",
+                "relation": "AtLocation",
+                "similarity": 0.2830958217382431,
+                "tail": "human brain"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.2815166711807251,
+                "tail": "hindbrain"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.2803095132112503,
+                "tail": "neencephalon"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.2800949960947037,
+                "tail": "frontal lobe"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_19",
+        "question_commonsense": [
+            {
+                "head": "PersonX becomes like PersonY",
+                "relation": "xAttr",
+                "similarity": 0.8716840147972107,
+                "tail": "Inspired"
+            },
+            {
+                "head": "PersonX becomes like PersonY",
+                "relation": "xWant",
+                "similarity": 0.8707592189311981,
+                "tail": "to continue acting like PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8700571656227112,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX becomes like PersonY",
+                "relation": "xEffect",
+                "similarity": 0.8688420057296753,
+                "tail": "they do better"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8677974343299866,
+                "tail": "to sell the image"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.28926487267017365,
+                "tail": "venae interlobulares hepatis"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.2832379639148712,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2827146649360657,
+                "tail": "biliary ductule"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2818152457475662,
+                "tail": "common bile duct"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.2801080048084259,
+                "tail": "arcuate vein of kidney"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "xIntent",
+                "similarity": 0.7777233123779297,
+                "tail": "to learn medicine."
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "isBefore",
+                "similarity": 0.7775307893753052,
+                "tail": "PersonX gets accepted to medical school"
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "isBefore",
+                "similarity": 0.7775307893753052,
+                "tail": "PersonX gets accepted to medical school"
+            },
+            {
+                "head": "PersonX gets a second opinion",
+                "relation": "oEffect",
+                "similarity": 0.7719780504703522,
+                "tail": "gets a new client"
+            },
+            {
+                "head": "PersonX gets back to work",
+                "relation": "xEffect",
+                "similarity": 0.7687743008136749,
+                "tail": "gets a pay raise"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.2811214476823807,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.277243435382843,
+                "tail": "common bile duct"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2752588093280792,
+                "tail": "hepatic vein"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2732502967119217,
+                "tail": "hepatic duct"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2722274214029312,
+                "tail": "hepatic artery"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_21",
+        "question_commonsense": [
+            {
+                "head": "PersonX diagnoses with cancer",
+                "relation": "xWant",
+                "similarity": 0.7570471167564392,
+                "tail": "to inform their patient of their diagnosis"
+            },
+            {
+                "head": "PersonX diagnoses with cancer",
+                "relation": "xEffect",
+                "similarity": 0.7471614480018616,
+                "tail": "to diagnoses with cancer"
+            },
+            {
+                "head": "PersonX diagnoses with cancer",
+                "relation": "xWant",
+                "similarity": 0.7461669445037842,
+                "tail": "to inform family of diagnosis."
+            },
+            {
+                "head": "PersonX diagnoses with cancer",
+                "relation": "xNeed",
+                "similarity": 0.745660275220871,
+                "tail": "to understand what cancer is"
+            },
+            {
+                "head": "PersonX diagnoses with cancer",
+                "relation": "xWant",
+                "similarity": 0.7439664602279663,
+                "tail": "to help their patient recover"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.28786998987197876,
+                "tail": "arcuate vein of kidney"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.28466781973838806,
+                "tail": "adrenal gland"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.28182877600193024,
+                "tail": "hepatic lobe"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2796257883310318,
+                "tail": "venae interlobulares hepatis"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2788168042898178,
+                "tail": "biliary ductule"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_22",
+        "question_commonsense": [
+            {
+                "head": "cancerous tumor",
+                "relation": "Causes",
+                "similarity": 0.8676941990852356,
+                "tail": "death"
+            },
+            {
+                "head": "PersonX is diagnosed with cancer",
+                "relation": "HinderedBy",
+                "similarity": 0.8637944161891937,
+                "tail": "PersonX doesn't have cancer"
+            },
+            {
+                "head": "PersonX is diagnosed with cancer",
+                "relation": "HinderedBy",
+                "similarity": 0.8547928631305695,
+                "tail": "PersonX does not have the genes for cancer."
+            },
+            {
+                "head": "PersonX is diagnosed with cancer",
+                "relation": "HinderedBy",
+                "similarity": 0.8505207598209381,
+                "tail": "PersonX is too young to develop cancer."
+            },
+            {
+                "head": "PersonX is diagnosed with cancer",
+                "relation": "isBefore",
+                "similarity": 0.8501661419868469,
+                "tail": "PersonX starts chemotherapy"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.2668178230524063,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.25910376757383347,
+                "tail": "convoluted tubule"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.2553057298064232,
+                "tail": "adrenal gland"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.25037214905023575,
+                "tail": "arcuate vein of kidney"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.24805091321468353,
+                "tail": "renal cortex"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_23",
+        "question_commonsense": [
+            {
+                "head": "brain",
+                "relation": "AtLocation",
+                "similarity": 0.7657202184200287,
+                "tail": "skull"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.7611396312713623,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "brain",
+                "relation": "HasProperty",
+                "similarity": 0.7557210028171539,
+                "tail": "protected by skull"
+            },
+            {
+                "head": "cancerous tumor",
+                "relation": "Causes",
+                "similarity": 0.753931313753128,
+                "tail": "death"
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "xIntent",
+                "similarity": 0.7504295706748962,
+                "tail": "to learn medicine."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "liquid dye",
+                "relation": "ObjectUse",
+                "similarity": 0.2646098732948303,
+                "tail": "make tie dye tee shirts"
+            },
+            {
+                "head": "liquid dye",
+                "relation": "ObjectUse",
+                "similarity": 0.25989699363708496,
+                "tail": "color surfaces"
+            },
+            {
+                "head": "tiny brush",
+                "relation": "ObjectUse",
+                "similarity": 0.2593972384929657,
+                "tail": "paint a tiny painting"
+            },
+            {
+                "head": "liquid dye",
+                "relation": "ObjectUse",
+                "similarity": 0.2579449862241745,
+                "tail": "keep track of a liquid substance"
+            },
+            {
+                "head": "tiny brush",
+                "relation": "ObjectUse",
+                "similarity": 0.2538646310567856,
+                "tail": "clean out any small hairs from the insides"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_24",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9362452924251556,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9361388385295868,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "picture",
+                "relation": "ObjectUse",
+                "similarity": 0.9285886883735657,
+                "tail": "post on their account"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9260416030883789,
+                "tail": "PersonY grabs the picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "xNeed",
+                "similarity": 0.925260990858078,
+                "tail": "make a copy of the picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "main artery",
+                "relation": "AtLocation",
+                "similarity": 0.2805109918117523,
+                "tail": "organism with heart"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.27324116230010986,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "main artery",
+                "relation": "ObjectUse",
+                "similarity": 0.2694106101989746,
+                "tail": "transport blood through human body"
+            },
+            {
+                "head": "main artery",
+                "relation": "AtLocation",
+                "similarity": 0.26901452243328094,
+                "tail": "cirulatory system"
+            },
+            {
+                "head": "main artery",
+                "relation": "ObjectUse",
+                "similarity": 0.2689661979675293,
+                "tail": "moving blood directly from heart"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_25",
+        "question_commonsense": [
+            {
+                "head": "PersonX diagnoses with cancer",
+                "relation": "xWant",
+                "similarity": 0.7889904975891113,
+                "tail": "to inform their patient of their diagnosis"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.7865096628665924,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "PersonX is diagnosed with cancer",
+                "relation": "HinderedBy",
+                "similarity": 0.781998336315155,
+                "tail": "PersonX doesn't have cancer"
+            },
+            {
+                "head": "cancerous tumor",
+                "relation": "Causes",
+                "similarity": 0.7819089293479919,
+                "tail": "death"
+            },
+            {
+                "head": "PersonX diagnoses with cancer",
+                "relation": "xEffect",
+                "similarity": 0.7813366055488586,
+                "tail": "to diagnoses with cancer"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.2896343916654587,
+                "tail": "arcuate vein of kidney"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.28734077513217926,
+                "tail": "arcuate artery of kidney"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.28695355355739594,
+                "tail": "renal vein"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.2855684757232666,
+                "tail": "renal artery"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.2833472490310669,
+                "tail": "adrenal gland"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_26",
+        "question_commonsense": [
+            {
+                "head": "have physical exam",
+                "relation": "HasSubEvent",
+                "similarity": 0.6684479713439941,
+                "tail": "doctor gives bad news"
+            },
+            {
+                "head": "math exam",
+                "relation": "ObjectUse",
+                "similarity": 0.6587112247943878,
+                "tail": "take exam"
+            },
+            {
+                "head": "have physical exam",
+                "relation": "HasSubEvent",
+                "similarity": 0.6585418283939362,
+                "tail": "visit doctor"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.6585018634796143,
+                "tail": "scientific"
+            },
+            {
+                "head": "have physical exam",
+                "relation": "xNeed",
+                "similarity": 0.6575194299221039,
+                "tail": "see doctor"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX has a heart condition",
+                "relation": "HinderedBy",
+                "similarity": 0.2885293662548065,
+                "tail": "PersonX was just born too healthy to have a heart condition."
+            },
+            {
+                "head": "heart monitor",
+                "relation": "ObjectUse",
+                "similarity": 0.28399816155433655,
+                "tail": "check for a heartbeat"
+            },
+            {
+                "head": "PersonX has a heart condition",
+                "relation": "xEffect",
+                "similarity": 0.2792631685733795,
+                "tail": "personX has a heart attack"
+            },
+            {
+                "head": "pacemaker",
+                "relation": "ObjectUse",
+                "similarity": 0.27505122125148773,
+                "tail": "extend life despite a heart condition"
+            },
+            {
+                "head": "pacemaker",
+                "relation": "ObjectUse",
+                "similarity": 0.27451933920383453,
+                "tail": "keep his heart beating normally"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_27",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY incision",
+                "relation": "oEffect",
+                "similarity": 0.8246367573738098,
+                "tail": "gets an infection"
+            },
+            {
+                "head": "PersonX makes PersonY incision",
+                "relation": "oEffect",
+                "similarity": 0.82451131939888,
+                "tail": "bleeds from incision"
+            },
+            {
+                "head": "PersonX makes PersonY incision",
+                "relation": "xEffect",
+                "similarity": 0.8227408826351166,
+                "tail": "gets blood on hands"
+            },
+            {
+                "head": "PersonX makes PersonY incision",
+                "relation": "xWant",
+                "similarity": 0.8198584616184235,
+                "tail": "to check up on PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY incision",
+                "relation": "oEffect",
+                "similarity": 0.8193153142929077,
+                "tail": "PersonY is hurt by PersonX"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2813868671655655,
+                "tail": "venae interlobulares hepatis"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2713523805141449,
+                "tail": "biliary ductule"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.267411008477211,
+                "tail": "common bile duct"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.26265327632427216,
+                "tail": "hepatic duct"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2626483291387558,
+                "tail": "hepatic lobe"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_28",
+        "question_commonsense": [
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.823433518409729,
+                "tail": "cerebellum"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.7882216572761536,
+                "tail": "temporal lobe"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.7861030995845795,
+                "tail": "neencephalon"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.7836849689483643,
+                "tail": "frontal lobe"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.7821240425109863,
+                "tail": "ventricle"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2591353952884674,
+                "tail": "biliary ductule"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2583829164505005,
+                "tail": "venae interlobulares hepatis"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.25678329169750214,
+                "tail": "common bile duct"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2548496276140213,
+                "tail": "hepatic lobe"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.24941503256559372,
+                "tail": "hepatic artery"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_29",
+        "question_commonsense": [
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.6867651641368866,
+                "tail": "biliary ductule"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.6857821941375732,
+                "tail": "common bile duct"
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.6835522949695587,
+                "tail": "venae interlobulares hepatis"
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "xIntent",
+                "similarity": 0.6785260140895844,
+                "tail": "to learn medicine."
+            },
+            {
+                "head": "liver",
+                "relation": "MadeUpOf",
+                "similarity": 0.6743119955062866,
+                "tail": "hepatic artery"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.2807062119245529,
+                "tail": "adrenal gland"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.278701975941658,
+                "tail": "arcuate vein of kidney"
+            },
+            {
+                "head": "mri",
+                "relation": "ObjectUse",
+                "similarity": 0.2771001607179642,
+                "tail": "detect abnormalities"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.27618199586868286,
+                "tail": "arcuate artery of kidney"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.2757573127746582,
+                "tail": "renal artery"
+            }
+        ]
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX plays PersonY ___ in the pathogenesis",
+                "relation": "xWant",
+                "similarity": 0.8551173508167267,
+                "tail": "to find out what Pathogenesis is"
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "xIntent",
+                "similarity": 0.838250994682312,
+                "tail": "to learn medicine."
+            },
+            {
+                "head": "PersonX plays PersonY ___ in the pathogenesis",
+                "relation": "xNeed",
+                "similarity": 0.8271464407444,
+                "tail": "to explain the disease"
+            },
+            {
+                "head": "PersonX plays PersonY ___ in the pathogenesis",
+                "relation": "xNeed",
+                "similarity": 0.8216428458690643,
+                "tail": "to know the disease"
+            },
+            {
+                "head": "PersonX plays PersonY ___ in the pathogenesis",
+                "relation": "xNeed",
+                "similarity": 0.8188323378562927,
+                "tail": "to talk to personY"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.27776578068733215,
+                "tail": "arcuate vein of kidney"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.27639439702033997,
+                "tail": "renal vein"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.2747475653886795,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.27342888712882996,
+                "tail": "convoluted tubule"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.271026149392128,
+                "tail": "adrenal gland"
+            }
+        ]
+    }
+]

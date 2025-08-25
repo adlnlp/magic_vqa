@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Electronics_1",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7909355759620667,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7861068844795227,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.782956600189209,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7800958752632141,
+                "tail": "try to understand the solution"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7788575887680054,
+                "tail": "answer another math problem"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "programmable logic controller",
+                "relation": "ObjectUse",
+                "similarity": 0.2614631801843643,
+                "tail": "control processes in factory"
+            },
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.2605352997779846,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.2566605359315872,
+                "tail": "electricity"
+            },
+            {
+                "head": "PersonX conducts ___ to determine",
+                "relation": "xWant",
+                "similarity": 0.2525443509221077,
+                "tail": "to figure it out"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.2522789463400841,
+                "tail": "find out how an engine works"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.7209663689136505,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7183451652526855,
+                "tail": "scientific"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xAttr",
+                "similarity": 0.7157760858535767,
+                "tail": "precise"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7152400314807892,
+                "tail": "illustrative"
+            },
+            {
+                "head": "PersonX waves ___ around",
+                "relation": "xNeed",
+                "similarity": 0.7130758464336395,
+                "tail": "send out signal"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2669263258576393,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.2650081515312195,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xAttr",
+                "similarity": 0.2644512578845024,
+                "tail": "illustrative"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.26402924954891205,
+                "tail": "a demonstration"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.2634110376238823,
+                "tail": "PersonX doesn't understand PersonY's point."
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xWant",
+                "similarity": 0.7424360513687134,
+                "tail": "to apply for jobs in computer programming"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xEffect",
+                "similarity": 0.7424298822879791,
+                "tail": "too learns computer programing"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xNeed",
+                "similarity": 0.7396147549152374,
+                "tail": "to find a computer programming class"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xWant",
+                "similarity": 0.7383515238761902,
+                "tail": "write a program from code"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xEffect",
+                "similarity": 0.73807093501091,
+                "tail": "to coding and decoding"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2903399169445038,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2899581342935562,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2827128767967224,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2825222611427307,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX performs PersonX's functions",
+                "relation": "xWant",
+                "similarity": 0.28184352815151215,
+                "tail": "to take notes on the functions"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7260582447052002,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7235523164272308,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7231174409389496,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.721844345331192,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7200234830379486,
+                "tail": "study the diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "electrical conductor",
+                "relation": "ObjectUse",
+                "similarity": 0.28554241359233856,
+                "tail": "short current source"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.27924662828445435,
+                "tail": "field magnet"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2767286002635956,
+                "tail": "armature"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2762673497200012,
+                "tail": "stator"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.27316272258758545,
+                "tail": "rotor"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX puts another ___",
+                "relation": "xWant",
+                "similarity": 0.7920648157596588,
+                "tail": "Look for another."
+            },
+            {
+                "head": "PersonX puts another ___",
+                "relation": "xNeed",
+                "similarity": 0.7919382452964783,
+                "tail": "Test it."
+            },
+            {
+                "head": "PersonX puts another ___",
+                "relation": "xAttr",
+                "similarity": 0.7867864370346069,
+                "tail": "query"
+            },
+            {
+                "head": "PersonX puts it another ___",
+                "relation": "xEffect",
+                "similarity": 0.78445965051651,
+                "tail": "confuses the situation"
+            },
+            {
+                "head": "amplifier",
+                "relation": "ObjectUse",
+                "similarity": 0.7838264107704163,
+                "tail": "throw out their back"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2874220758676529,
+                "tail": "know if your electric bill is correct"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2867923229932785,
+                "tail": "measure electricity use"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2827630192041397,
+                "tail": "estimate a power bill"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.28066399693489075,
+                "tail": "document to electric company for billing"
+            },
+            {
+                "head": "power supply",
+                "relation": "ObjectUse",
+                "similarity": 0.2804846316576004,
+                "tail": "provide an energy source for electrical appliances"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_6",
+        "question_commonsense": [
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.7256359159946442,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7174555957317352,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.711786687374115,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7115513682365417,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.7106853127479553,
+                "tail": "check what is affecting the variables"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2907346189022064,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2901556044816971,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28653186559677124,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2819044142961502,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2788503170013428,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_7",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.784675657749176,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7845697700977325,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7835106551647186,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.7833209931850433,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7787165939807892,
+                "tail": "to understand the equation."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.27651268243789673,
+                "tail": "stator"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.27650950849056244,
+                "tail": "field magnet"
+            },
+            {
+                "head": "geiger counter",
+                "relation": "MadeUpOf",
+                "similarity": 0.2755385637283325,
+                "tail": "geiger tube"
+            },
+            {
+                "head": "electrical conductor",
+                "relation": "ObjectUse",
+                "similarity": 0.27511371672153473,
+                "tail": "short current source"
+            },
+            {
+                "head": "power supply",
+                "relation": "ObjectUse",
+                "similarity": 0.27326929569244385,
+                "tail": "provide an energy source for electrical appliances"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.8098005950450897,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.8050825595855713,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7974194288253784,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7918549180030823,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX performs PersonX's functions",
+                "relation": "xWant",
+                "similarity": 0.7917049527168274,
+                "tail": "to take notes on the functions"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2876909077167511,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.28661616146564484,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2861212342977524,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2818778455257416,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.27506962418556213,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_9",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7460930943489075,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7403164505958557,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7401527762413025,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.7387689650058746,
+                "tail": "to read the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7378984987735748,
+                "tail": "to understand the equation."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2820999175310135,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "right triangle",
+                "relation": "MadeUpOf",
+                "similarity": 0.2783695459365845,
+                "tail": "one angle 90 degrees"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.2773001044988632,
+                "tail": "a demonstration"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.27709759771823883,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xNeed",
+                "similarity": 0.273281455039978,
+                "tail": "to understand person Y"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_10",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7888656556606293,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7883647382259369,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.7790756523609161,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7784425020217896,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.776455283164978,
+                "tail": "prove theorems"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "electrical conductor",
+                "relation": "ObjectUse",
+                "similarity": 0.29221878945827484,
+                "tail": "short current source"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2905176877975464,
+                "tail": "measure electricity use"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2879771441221237,
+                "tail": "know if your electric bill is correct"
+            },
+            {
+                "head": "power supply",
+                "relation": "ObjectUse",
+                "similarity": 0.2856976240873337,
+                "tail": "provide an energy source for electrical appliances"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2839444577693939,
+                "tail": "field magnet"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.8047144412994385,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.8027117252349854,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.79793781042099,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.7956401407718658,
+                "tail": "to read the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.7949387729167938,
+                "tail": "to learn more mathematics"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX defrays ___ in connection",
+                "relation": "xEffect",
+                "similarity": 0.29422587156295776,
+                "tail": "PersonX defrays show in connection"
+            },
+            {
+                "head": "ball receiver",
+                "relation": "CapableOf",
+                "similarity": 0.291051909327507,
+                "tail": "carry football"
+            },
+            {
+                "head": "receiver",
+                "relation": "MadeUpOf",
+                "similarity": 0.28194452822208405,
+                "tail": "radio chassis"
+            },
+            {
+                "head": "PersonX defrays ___ in connection",
+                "relation": "xEffect",
+                "similarity": 0.28012189269065857,
+                "tail": "PersonX defrays expose in connection"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2741924077272415,
+                "tail": "field magnet"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_12",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7642628252506256,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.7601883411407471,
+                "tail": "test program for errors"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.7588661313056946,
+                "tail": "test if variable works"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7571468353271484,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.756933867931366,
+                "tail": "show the result of the equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "circuit",
+                "relation": "MadeUpOf",
+                "similarity": 0.28656452894210815,
+                "tail": "capacitor"
+            },
+            {
+                "head": "electrical conductor",
+                "relation": "ObjectUse",
+                "similarity": 0.28305840492248535,
+                "tail": "short current source"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2820543050765991,
+                "tail": "stator"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.28069397807121277,
+                "tail": "know if your electric bill is correct"
+            },
+            {
+                "head": "programmable logic controller",
+                "relation": "ObjectUse",
+                "similarity": 0.2790227234363556,
+                "tail": "control processes in factory"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_13",
+        "question_commonsense": [
+            {
+                "head": "PersonX learns programming",
+                "relation": "xEffect",
+                "similarity": 0.7770600020885468,
+                "tail": "learns functions"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7704750895500183,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.7704201638698578,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7638024091720581,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7636994123458862,
+                "tail": "Practices maths equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27357617020606995,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.27340173721313477,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.26947711408138275,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.26601487398147583,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2643728330731392,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.8139238953590393,
+                "tail": "test if variable works"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.8129143118858337,
+                "tail": "test program for errors"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xNeed",
+                "similarity": 0.8123838007450104,
+                "tail": "to be programming"
+            },
+            {
+                "head": "signal",
+                "relation": "ObjectUse",
+                "similarity": 0.8123213350772858,
+                "tail": "signal for help"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.8087165057659149,
+                "tail": "check what is affecting the variables"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.27911387383937836,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.27434466779232025,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xNeed",
+                "similarity": 0.2732793241739273,
+                "tail": "to understand person Y"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "oWant",
+                "similarity": 0.2727762460708618,
+                "tail": "find holes in the individual's argument"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.27223873138427734,
+                "tail": "a demonstration"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7099861204624176,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7055613696575165,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7040390074253082,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7029055655002594,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.7024176120758057,
+                "tail": "to learn more mathematics"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "cathode ray tube",
+                "relation": "MadeUpOf",
+                "similarity": 0.2945680469274521,
+                "tail": "electron gun"
+            },
+            {
+                "head": "electrical conductor",
+                "relation": "ObjectUse",
+                "similarity": 0.28135234117507935,
+                "tail": "short current source"
+            },
+            {
+                "head": "capacitor",
+                "relation": "MadeUpOf",
+                "similarity": 0.27663302421569824,
+                "tail": "2 piece of thin metal seperated by insulator"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2764158993959427,
+                "tail": "field magnet"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2747696489095688,
+                "tail": "know if your electric bill is correct"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_16",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.8067871630191803,
+                "tail": "to test out her theory"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xEffect",
+                "similarity": 0.7999552488327026,
+                "tail": "Starts another task"
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xNeed",
+                "similarity": 0.7979785799980164,
+                "tail": "to start doing a problem"
+            },
+            {
+                "head": "PersonX transforms inputs into outputs",
+                "relation": "isAfter",
+                "similarity": 0.7976014912128448,
+                "tail": "PersonX opens their work application"
+            },
+            {
+                "head": "PersonX solves the ___ by using",
+                "relation": "xEffect",
+                "similarity": 0.7975293695926666,
+                "tail": "uses logic"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.27883246541023254,
+                "tail": "know if your electric bill is correct"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.27729493379592896,
+                "tail": "measure electricity use"
+            },
+            {
+                "head": "power supply",
+                "relation": "ObjectUse",
+                "similarity": 0.2758248448371887,
+                "tail": "open for parts when something specific is needed"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2749437540769577,
+                "tail": "estimate a power bill"
+            },
+            {
+                "head": "volume switch",
+                "relation": "ObjectUse",
+                "similarity": 0.27059072256088257,
+                "tail": "control the TV volume"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7316107451915741,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.7314272224903107,
+                "tail": "check what is affecting the variables"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7312507927417755,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.7307713627815247,
+                "tail": "test if variable works"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7307204306125641,
+                "tail": "PersonX makes diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2762865126132965,
+                "tail": "measure electricity use"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2748219072818756,
+                "tail": "know if your electric bill is correct"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.273084431886673,
+                "tail": "field magnet"
+            },
+            {
+                "head": "toggle switch",
+                "relation": "ObjectUse",
+                "similarity": 0.2729126363992691,
+                "tail": "stop the device"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2720630019903183,
+                "tail": "estimate a power bill"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_18",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.8485874831676483,
+                "tail": "to test out her theory"
+            },
+            {
+                "head": "PersonX solves the ___ by using",
+                "relation": "isFilledBy",
+                "similarity": 0.8350780308246613,
+                "tail": "equation"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xEffect",
+                "similarity": 0.8342208564281464,
+                "tail": "Starts another task"
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xNeed",
+                "similarity": 0.8328344225883484,
+                "tail": "to start doing a problem"
+            },
+            {
+                "head": "PersonX solves the ___ by using",
+                "relation": "xEffect",
+                "similarity": 0.8326981067657471,
+                "tail": "uses logic"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2742304801940918,
+                "tail": "field magnet"
+            },
+            {
+                "head": "capacitor",
+                "relation": "MadeUpOf",
+                "similarity": 0.27259789407253265,
+                "tail": "2 piece of thin metal seperated by insulator"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2685362249612808,
+                "tail": "stator"
+            },
+            {
+                "head": "electrostatic plotter",
+                "relation": "CapableOf",
+                "similarity": 0.2669118195772171,
+                "tail": "letter diagram"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2658695951104164,
+                "tail": "armature"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_19",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.8603167235851288,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.859334409236908,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.8579758405685425,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.8573422729969025,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.8573307991027832,
+                "tail": "to see PersonY"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2708529084920883,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.2600776329636574,
+                "tail": "find out how an engine works"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.257494293153286,
+                "tail": "different atoms"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.2569820359349251,
+                "tail": "electricity"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.2564173862338066,
+                "tail": "make the machine work"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.8109408915042877,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.8005101978778839,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7991240918636322,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.7949970662593842,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7934955358505249,
+                "tail": "answer another math problem"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "slide rule",
+                "relation": "ObjectUse",
+                "similarity": 0.2875189930200577,
+                "tail": "approximate multiplication and division"
+            },
+            {
+                "head": "asterisk wildcard symbol",
+                "relation": "ObjectUse",
+                "similarity": 0.28234119713306427,
+                "tail": "specify strings of characters"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.27799655497074127,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2775302231311798,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27334800362586975,
+                "tail": "procure a book with diagrams"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_21",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7016391456127167,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.6968667209148407,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.6946132183074951,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.6942372918128967,
+                "tail": "to read the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.6933985948562622,
+                "tail": "to understand the equation."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.2963295727968216,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xEffect",
+                "similarity": 0.2816970944404602,
+                "tail": "Does the math"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.2766038328409195,
+                "tail": "to be percise"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "oWant",
+                "similarity": 0.27590082585811615,
+                "tail": "find holes in the individual's argument"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.2758302837610245,
+                "tail": "to illustrate point"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.8303588032722473,
+                "tail": "to test out her theory"
+            },
+            {
+                "head": "PersonX solves the ___ by using",
+                "relation": "isFilledBy",
+                "similarity": 0.8189119100570679,
+                "tail": "equation"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xWant",
+                "similarity": 0.8181331753730774,
+                "tail": "find the solution"
+            },
+            {
+                "head": "PersonX solves the ___ by using",
+                "relation": "xEffect",
+                "similarity": 0.8174699544906616,
+                "tail": "uses logic"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xEffect",
+                "similarity": 0.8164719343185425,
+                "tail": "Starts another task"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "geiger counter",
+                "relation": "MadeUpOf",
+                "similarity": 0.2887655943632126,
+                "tail": "geiger tube"
+            },
+            {
+                "head": "capacitor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2854514569044113,
+                "tail": "2 piece of thin metal seperated by insulator"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2853812277317047,
+                "tail": "measure electricity use"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.28309501707553864,
+                "tail": "field magnet"
+            },
+            {
+                "head": "electrical conductor",
+                "relation": "ObjectUse",
+                "similarity": 0.28306396305561066,
+                "tail": "short current source"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_23",
+        "question_commonsense": [
+            {
+                "head": "capacitor",
+                "relation": "MadeUpOf",
+                "similarity": 0.744630366563797,
+                "tail": "2 piece of thin metal seperated by insulator"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.6970537900924683,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "power supply",
+                "relation": "ObjectUse",
+                "similarity": 0.6965759098529816,
+                "tail": "provide an energy source for electrical appliances"
+            },
+            {
+                "head": "electronics",
+                "relation": "ObjectUse",
+                "similarity": 0.6897035837173462,
+                "tail": "take out the batteries and power something when the electricity goes out"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.6864336431026459,
+                "tail": "to understand the equation."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.29193897545337677,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.28983092308044434,
+                "tail": "to read the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.28546178340911865,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.2841569483280182,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.28224629163742065,
+                "tail": "answer another math problem"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_24",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.6463369727134705,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xNeed",
+                "similarity": 0.6439415812492371,
+                "tail": "to find a computer programming class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.6422540247440338,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.6421748995780945,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.6384648382663727,
+                "tail": "to understand the equation."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.28263330459594727,
+                "tail": "stator"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.28073620796203613,
+                "tail": "field magnet"
+            },
+            {
+                "head": "receiver",
+                "relation": "MadeUpOf",
+                "similarity": 0.2784046232700348,
+                "tail": "radio chassis"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.27628307044506073,
+                "tail": "armature"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.27290698885917664,
+                "tail": "measure electricity use"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_25",
+        "question_commonsense": [
+            {
+                "head": "electronic equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.7864978015422821,
+                "tail": "measure voltage"
+            },
+            {
+                "head": "power supply",
+                "relation": "ObjectUse",
+                "similarity": 0.781720370054245,
+                "tail": "provide an energy source for electrical appliances"
+            },
+            {
+                "head": "solder wick",
+                "relation": "ObjectUse",
+                "similarity": 0.7720683217048645,
+                "tail": "remove solder"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.7623423039913177,
+                "tail": "measure electricity use"
+            },
+            {
+                "head": "programmable logic controller",
+                "relation": "ObjectUse",
+                "similarity": 0.7582105994224548,
+                "tail": "control processes in factory"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2925295829772949,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2866031229496002,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2860187143087387,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2820931226015091,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "capacitor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2746928781270981,
+                "tail": "2 piece of thin metal seperated by insulator"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_26",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses PersonY array",
+                "relation": "HinderedBy",
+                "similarity": 0.7698603868484497,
+                "tail": "PersonY isn't willing to share their array."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7684348821640015,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7642364501953125,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.7607584297657013,
+                "tail": "find a calculator"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7591703534126282,
+                "tail": "Practices maths equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2809337377548218,
+                "tail": "know if your electric bill is correct"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.28075115382671356,
+                "tail": "measure electricity use"
+            },
+            {
+                "head": "geiger counter",
+                "relation": "MadeUpOf",
+                "similarity": 0.28066422045230865,
+                "tail": "geiger tube"
+            },
+            {
+                "head": "power supply",
+                "relation": "ObjectUse",
+                "similarity": 0.2804023176431656,
+                "tail": "provide an energy source for electrical appliances"
+            },
+            {
+                "head": "electrical conductor",
+                "relation": "ObjectUse",
+                "similarity": 0.27907727658748627,
+                "tail": "short current source"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_27",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.8150517642498016,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.8139842748641968,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.8103087544441223,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.8097057938575745,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.8089601099491119,
+                "tail": "Practices maths equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX defrays ___ in connection",
+                "relation": "xEffect",
+                "similarity": 0.2927190810441971,
+                "tail": "PersonX defrays show in connection"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2883128672838211,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28488659858703613,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX defrays ___ in connection",
+                "relation": "xEffect",
+                "similarity": 0.2818079739809036,
+                "tail": "PersonX defrays expose in connection"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2770817428827286,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.8374830782413483,
+                "tail": "to test out her theory"
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xReact",
+                "similarity": 0.8368597626686096,
+                "tail": "good about himself"
+            },
+            {
+                "head": "PersonX solves the ___ by using",
+                "relation": "xEffect",
+                "similarity": 0.834686815738678,
+                "tail": "uses logic"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xWant",
+                "similarity": 0.8336038589477539,
+                "tail": "find the solution"
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xAttr",
+                "similarity": 0.8333015143871307,
+                "tail": "logical"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "geiger counter",
+                "relation": "MadeUpOf",
+                "similarity": 0.28955528140068054,
+                "tail": "geiger tube"
+            },
+            {
+                "head": "oscilloscope",
+                "relation": "MadeUpOf",
+                "similarity": 0.2814088612794876,
+                "tail": "cathode ray tube"
+            },
+            {
+                "head": "electrical conductor",
+                "relation": "ObjectUse",
+                "similarity": 0.2774272859096527,
+                "tail": "short current source"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2774111181497574,
+                "tail": "know if your electric bill is correct"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2772635966539383,
+                "tail": "measure electricity use"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_29",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.8097370862960815,
+                "tail": "to test out her theory"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.8069691061973572,
+                "tail": "to learn a formula"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xWant",
+                "similarity": 0.8040370047092438,
+                "tail": "find the solution"
+            },
+            {
+                "head": "PersonX solves the ___ by using",
+                "relation": "xAttr",
+                "similarity": 0.8026633560657501,
+                "tail": "smart"
+            },
+            {
+                "head": "PersonX solves the ___ by using",
+                "relation": "xEffect",
+                "similarity": 0.8016869127750397,
+                "tail": "uses logic"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "geiger counter",
+                "relation": "MadeUpOf",
+                "similarity": 0.28582344949245453,
+                "tail": "geiger tube"
+            },
+            {
+                "head": "power supply",
+                "relation": "ObjectUse",
+                "similarity": 0.2802523970603943,
+                "tail": "provide an energy source for electrical appliances"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.27932973206043243,
+                "tail": "stator"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.27894173562526703,
+                "tail": "know if your electric bill is correct"
+            },
+            {
+                "head": "solar cell",
+                "relation": "ObjectUse",
+                "similarity": 0.2789071351289749,
+                "tail": "converting light into electricity"
+            }
+        ]
+    },
+    {
+        "id": "validation_Electronics_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses PersonY array",
+                "relation": "HinderedBy",
+                "similarity": 0.7924779653549194,
+                "tail": "PersonY isn't willing to share their array."
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.7901228368282318,
+                "tail": "test if variable works"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xIntent",
+                "similarity": 0.7824159562587738,
+                "tail": "to solve a problem"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.7824144661426544,
+                "tail": "test program for errors"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xNeed",
+                "similarity": 0.782322347164154,
+                "tail": "to be programming"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "electrical conductor",
+                "relation": "ObjectUse",
+                "similarity": 0.29286110401153564,
+                "tail": "short current source"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2889767736196518,
+                "tail": "know if your electric bill is correct"
+            },
+            {
+                "head": "power supply",
+                "relation": "ObjectUse",
+                "similarity": 0.28873005509376526,
+                "tail": "provide an energy source for electrical appliances"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2878277152776718,
+                "tail": "measure electricity use"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.28336119651794434,
+                "tail": "stator"
+            }
+        ]
+    }
+]

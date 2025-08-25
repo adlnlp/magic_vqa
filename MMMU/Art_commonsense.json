@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Art_1",
+        "question_commonsense": [
+            {
+                "head": "PersonX looks like a woman",
+                "relation": "xNeed",
+                "similarity": 0.5583995580673218,
+                "tail": "to act like woman"
+            },
+            {
+                "head": "PersonX looks like a woman",
+                "relation": "xAttr",
+                "similarity": 0.5568821132183075,
+                "tail": "womanly"
+            },
+            {
+                "head": "PersonX looks like a woman",
+                "relation": "xAttr",
+                "similarity": 0.5568821132183075,
+                "tail": "womanly"
+            },
+            {
+                "head": "PersonX looks like a woman",
+                "relation": "xWant",
+                "similarity": 0.5560451745986938,
+                "tail": "to talk like woman"
+            },
+            {
+                "head": "PersonX looks like a woman",
+                "relation": "xNeed",
+                "similarity": 0.5556717216968536,
+                "tail": "to wear dress like women"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "face cloth",
+                "relation": "ObjectUse",
+                "similarity": 0.2716875448822975,
+                "tail": "remove make-up"
+            },
+            {
+                "head": "face cloth",
+                "relation": "ObjectUse",
+                "similarity": 0.2653283104300499,
+                "tail": "moisturize face"
+            },
+            {
+                "head": "PersonX finds the necklace",
+                "relation": "xEffect",
+                "similarity": 0.26487457752227783,
+                "tail": "frowns because his necklace is damaged"
+            },
+            {
+                "head": "face cloth",
+                "relation": "ObjectUse",
+                "similarity": 0.25980278849601746,
+                "tail": "wash face before bed"
+            },
+            {
+                "head": "face cloth",
+                "relation": "ObjectUse",
+                "similarity": 0.25855284184217453,
+                "tail": "wash your body"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX creates ___ in PersonY's image",
+                "relation": "oEffect",
+                "similarity": 0.9307100176811218,
+                "tail": "PersonZ is created by PersonX in PersonY's image"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "xReact",
+                "similarity": 0.9301216304302216,
+                "tail": "image was very beautiful"
+            },
+            {
+                "head": "PersonX creates ___ in PersonY's image",
+                "relation": "xNeed",
+                "similarity": 0.9297842383384705,
+                "tail": "to create a design"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9253481924533844,
+                "tail": "to be a good example"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9245580732822418,
+                "tail": "buy image"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nudist",
+                "relation": "Desires",
+                "similarity": 0.2860852777957916,
+                "tail": "naked"
+            },
+            {
+                "head": "young man",
+                "relation": "CapableOf",
+                "similarity": 0.281219482421875,
+                "tail": "date young woman"
+            },
+            {
+                "head": "bather",
+                "relation": "CapableOf",
+                "similarity": 0.2764909788966179,
+                "tail": "oil skin"
+            },
+            {
+                "head": "naked woman",
+                "relation": "ObjectUse",
+                "similarity": 0.2728923112154007,
+                "tail": "straight pornography"
+            },
+            {
+                "head": "garment",
+                "relation": "MadeUpOf",
+                "similarity": 0.26979343593120575,
+                "tail": "yoke"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.8983394205570221,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8944571316242218,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.894101083278656,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.894101083278656,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8939522802829742,
+                "tail": "to make more images"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "cover art",
+                "relation": "ObjectUse",
+                "similarity": 0.26293225586414337,
+                "tail": "adorn the book exterior"
+            },
+            {
+                "head": "cover art",
+                "relation": "ObjectUse",
+                "similarity": 0.2594989836215973,
+                "tail": "market the book"
+            },
+            {
+                "head": "advertisement",
+                "relation": "AtLocation",
+                "similarity": 0.25896672904491425,
+                "tail": "la ville"
+            },
+            {
+                "head": "advertisement",
+                "relation": "ObjectUse",
+                "similarity": 0.2566646412014961,
+                "tail": "analyze and learn graphic design"
+            },
+            {
+                "head": "cover",
+                "relation": "ObjectUse",
+                "similarity": 0.25514277070760727,
+                "tail": "close on a book"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX immediately noticed",
+                "relation": "xEffect",
+                "similarity": 0.8689215779304504,
+                "tail": "learns new details"
+            },
+            {
+                "head": "PersonX immediately noticed ___",
+                "relation": "oWant",
+                "similarity": 0.8682399690151215,
+                "tail": "to fix the problem"
+            },
+            {
+                "head": "PersonX immediately noticed",
+                "relation": "xWant",
+                "similarity": 0.8659378886222839,
+                "tail": "to gasp"
+            },
+            {
+                "head": "PersonX immediately noticed",
+                "relation": "xAttr",
+                "similarity": 0.8655767142772675,
+                "tail": "alert"
+            },
+            {
+                "head": "PersonX immediately noticed ___",
+                "relation": "xAttr",
+                "similarity": 0.8655767142772675,
+                "tail": "alert"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "ranch house",
+                "relation": "ObjectUse",
+                "similarity": 0.2742942273616791,
+                "tail": "living accomodations on ranch"
+            },
+            {
+                "head": "PersonX renders ___ to PersonY's country",
+                "relation": "xNeed",
+                "similarity": 0.2615355998277664,
+                "tail": "Decide to render service"
+            },
+            {
+                "head": "ranch house",
+                "relation": "AtLocation",
+                "similarity": 0.25359034538269043,
+                "tail": "ranch"
+            },
+            {
+                "head": "ranch house",
+                "relation": "AtLocation",
+                "similarity": 0.2522304952144623,
+                "tail": "montana"
+            },
+            {
+                "head": "ranch house",
+                "relation": "AtLocation",
+                "similarity": 0.2498909756541252,
+                "tail": "subdivision"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX creates ___ in PersonY's image",
+                "relation": "oEffect",
+                "similarity": 0.9307100176811218,
+                "tail": "PersonZ is created by PersonX in PersonY's image"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "xReact",
+                "similarity": 0.9301216304302216,
+                "tail": "image was very beautiful"
+            },
+            {
+                "head": "PersonX creates ___ in PersonY's image",
+                "relation": "xNeed",
+                "similarity": 0.9297842383384705,
+                "tail": "to create a design"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9253481924533844,
+                "tail": "to be a good example"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9245580732822418,
+                "tail": "buy image"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "bather",
+                "relation": "CapableOf",
+                "similarity": 0.2656695321202278,
+                "tail": "oil skin"
+            },
+            {
+                "head": "siren",
+                "relation": "ObjectUse",
+                "similarity": 0.26091063022613525,
+                "tail": "keep Odysseus away from his wife longer"
+            },
+            {
+                "head": "sunhat",
+                "relation": "ObjectUse",
+                "similarity": 0.2596519663929939,
+                "tail": "keep the sun off your face"
+            },
+            {
+                "head": "sunhat",
+                "relation": "ObjectUse",
+                "similarity": 0.25889989733695984,
+                "tail": "look fashionable in the sun"
+            },
+            {
+                "head": "sunhat",
+                "relation": "ObjectUse",
+                "similarity": 0.25818249583244324,
+                "tail": "wear on head"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.9469396770000458,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9310595393180847,
+                "tail": "to keep the image"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9296714067459106,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9296714067459106,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9282129406929016,
+                "tail": "to make more images"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "cover",
+                "relation": "ObjectUse",
+                "similarity": 0.2510249689221382,
+                "tail": "protecting from rain"
+            },
+            {
+                "head": "PersonX often made paintings",
+                "relation": "isAfter",
+                "similarity": 0.24783875793218613,
+                "tail": "PersonX decides to paint a picture"
+            },
+            {
+                "head": "cover",
+                "relation": "ObjectUse",
+                "similarity": 0.24714014679193497,
+                "tail": "wear a raincoat"
+            },
+            {
+                "head": "cover",
+                "relation": "ObjectUse",
+                "similarity": 0.24454132467508316,
+                "tail": "keep dry from the rain"
+            },
+            {
+                "head": "cover",
+                "relation": "ObjectUse",
+                "similarity": 0.2444586679339409,
+                "tail": "protecting from hail"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_7",
+        "question_commonsense": [
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8006633520126343,
+                "tail": "try art"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.7982751727104187,
+                "tail": "love art"
+            },
+            {
+                "head": "paint picture",
+                "relation": "HasSubEvent",
+                "similarity": 0.795510321855545,
+                "tail": "have paint"
+            },
+            {
+                "head": "PersonX often made paintings",
+                "relation": "isAfter",
+                "similarity": 0.7939538955688477,
+                "tail": "PersonX decides to paint a picture"
+            },
+            {
+                "head": "paint picture",
+                "relation": "xNeed",
+                "similarity": 0.7938661873340607,
+                "tail": "artist"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "ceiling",
+                "relation": "ObjectUse",
+                "similarity": 0.2662688344717026,
+                "tail": "painting"
+            },
+            {
+                "head": "paintings",
+                "relation": "ObjectUse",
+                "similarity": 0.2576233372092247,
+                "tail": "sell in a gallery"
+            },
+            {
+                "head": "ceiling",
+                "relation": "AtLocation",
+                "similarity": 0.2536837086081505,
+                "tail": "chapel"
+            },
+            {
+                "head": "PersonX has two children",
+                "relation": "xNeed",
+                "similarity": 0.2517804577946663,
+                "tail": "to have given birth"
+            },
+            {
+                "head": "mural",
+                "relation": "AtLocation",
+                "similarity": 0.25152578204870224,
+                "tail": "wall"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX sees the ocean",
+                "relation": "HinderedBy",
+                "similarity": 0.7903995513916016,
+                "tail": "PersonX does not live on the coast."
+            },
+            {
+                "head": "PersonX sees the ocean",
+                "relation": "isAfter",
+                "similarity": 0.7896968722343445,
+                "tail": "PersonX travels to the coast"
+            },
+            {
+                "head": "PersonX throws PersonY into the sea",
+                "relation": "oReact",
+                "similarity": 0.7871327102184296,
+                "tail": "afraid by seeing the sea"
+            },
+            {
+                "head": "PersonX throws PersonY into the sea",
+                "relation": "xIntent",
+                "similarity": 0.78619584441185,
+                "tail": "to play with y in sea"
+            },
+            {
+                "head": "PersonX sees the ocean",
+                "relation": "xNeed",
+                "similarity": 0.7845959067344666,
+                "tail": "Look out over ocean"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX collects sea shells",
+                "relation": "HinderedBy",
+                "similarity": 0.2840753197669983,
+                "tail": "the beach doesn't allow shells to be removed"
+            },
+            {
+                "head": "PersonX collects shells",
+                "relation": "xEffect",
+                "similarity": 0.2815190255641937,
+                "tail": "Person X puts some shells back in the water"
+            },
+            {
+                "head": "PersonX collects sea shells",
+                "relation": "xWant",
+                "similarity": 0.2721301168203354,
+                "tail": "to put sea shells away"
+            },
+            {
+                "head": "PersonX collects shells",
+                "relation": "isBefore",
+                "similarity": 0.27189192175865173,
+                "tail": "PersonX puts the shells in a bucket"
+            },
+            {
+                "head": "PersonX collects shells",
+                "relation": "isBefore",
+                "similarity": 0.2715615928173065,
+                "tail": "PersonX puts the shells in a bag"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_9",
+        "question_commonsense": [
+            {
+                "head": "italian language",
+                "relation": "AtLocation",
+                "similarity": 0.47808967530727386,
+                "tail": "italy"
+            },
+            {
+                "head": "PersonX catches PersonX's death",
+                "relation": "xWant",
+                "similarity": 0.4756268113851547,
+                "tail": "To rest in peace"
+            },
+            {
+                "head": "PersonX falls fast asleep",
+                "relation": "xWant",
+                "similarity": 0.47395940124988556,
+                "tail": "wake up"
+            },
+            {
+                "head": "PersonX catches PersonX's death",
+                "relation": "xEffect",
+                "similarity": 0.47361811995506287,
+                "tail": "thinks of life's events"
+            },
+            {
+                "head": "PersonX falls fast asleep",
+                "relation": "xAttr",
+                "similarity": 0.470435231924057,
+                "tail": "tired"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "opera patron",
+                "relation": "AtLocation",
+                "similarity": 0.25611788779497147,
+                "tail": "theatre"
+            },
+            {
+                "head": "PersonX proclaims ___ to the captives",
+                "relation": "xNeed",
+                "similarity": 0.2559283524751663,
+                "tail": "to be with the captives"
+            },
+            {
+                "head": "PersonX casts PersonX's ___ upon PersonY",
+                "relation": "xAttr",
+                "similarity": 0.24967970699071884,
+                "tail": "Impertinent"
+            },
+            {
+                "head": "PersonX proclaims ___ to the captives",
+                "relation": "xNeed",
+                "similarity": 0.24925866723060608,
+                "tail": "to have worked out an exchange for the captives"
+            },
+            {
+                "head": "council",
+                "relation": "ObjectUse",
+                "similarity": 0.24811670929193497,
+                "tail": "talking"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_10",
+        "question_commonsense": [
+            {
+                "head": "paint picture",
+                "relation": "HasSubEvent",
+                "similarity": 0.9132682979106903,
+                "tail": "have paint"
+            },
+            {
+                "head": "paint picture",
+                "relation": "xNeed",
+                "similarity": 0.9087752997875214,
+                "tail": "use oil paint"
+            },
+            {
+                "head": "PersonX often made paintings",
+                "relation": "isAfter",
+                "similarity": 0.9065070152282715,
+                "tail": "PersonX decides to paint a picture"
+            },
+            {
+                "head": "paint picture",
+                "relation": "xNeed",
+                "similarity": 0.9050399363040924,
+                "tail": "paint on canvas"
+            },
+            {
+                "head": "paint picture",
+                "relation": "HasSubEvent",
+                "similarity": 0.9039768874645233,
+                "tail": "get paint on yourself"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "french restaurant",
+                "relation": "ObjectUse",
+                "similarity": 0.26117998361587524,
+                "tail": "fine dining and impressing others"
+            },
+            {
+                "head": "french restaurant",
+                "relation": "ObjectUse",
+                "similarity": 0.26055535674095154,
+                "tail": "preparing and providing french cuisine"
+            },
+            {
+                "head": "french restaurant",
+                "relation": "ObjectUse",
+                "similarity": 0.26050565391778946,
+                "tail": "dining in style"
+            },
+            {
+                "head": "french restaurant",
+                "relation": "ObjectUse",
+                "similarity": 0.25983043015003204,
+                "tail": "buy and eat french food"
+            },
+            {
+                "head": "french restaurant",
+                "relation": "ObjectUse",
+                "similarity": 0.25575145334005356,
+                "tail": "getting french cpo"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX creates ___ in PersonY's image",
+                "relation": "oEffect",
+                "similarity": 0.9307100176811218,
+                "tail": "PersonZ is created by PersonX in PersonY's image"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "xReact",
+                "similarity": 0.9301216304302216,
+                "tail": "image was very beautiful"
+            },
+            {
+                "head": "PersonX creates ___ in PersonY's image",
+                "relation": "xNeed",
+                "similarity": 0.9297842383384705,
+                "tail": "to create a design"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9253481924533844,
+                "tail": "to be a good example"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9245580732822418,
+                "tail": "buy image"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "english channel",
+                "relation": "AtLocation",
+                "similarity": 0.26718252897262573,
+                "tail": "atlantic ocean"
+            },
+            {
+                "head": "barrow island",
+                "relation": "AtLocation",
+                "similarity": 0.2640261650085449,
+                "tail": "indian ocean"
+            },
+            {
+                "head": "english channel",
+                "relation": "AtLocation",
+                "similarity": 0.2621171474456787,
+                "tail": "england"
+            },
+            {
+                "head": "english channel",
+                "relation": "ObjectUse",
+                "similarity": 0.2597513496875763,
+                "tail": "separate england from france"
+            },
+            {
+                "head": "mound",
+                "relation": "ObjectUse",
+                "similarity": 0.2591588422656059,
+                "tail": "burial place"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_12",
+        "question_commonsense": [
+            {
+                "head": "PersonX creates ___ in PersonY's image",
+                "relation": "oEffect",
+                "similarity": 0.9307100176811218,
+                "tail": "PersonZ is created by PersonX in PersonY's image"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "xReact",
+                "similarity": 0.9301216304302216,
+                "tail": "image was very beautiful"
+            },
+            {
+                "head": "PersonX creates ___ in PersonY's image",
+                "relation": "xNeed",
+                "similarity": 0.9297842383384705,
+                "tail": "to create a design"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9253481924533844,
+                "tail": "to be a good example"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9245580732822418,
+                "tail": "buy image"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "orchestra",
+                "relation": "HasProperty",
+                "similarity": 0.2654971331357956,
+                "tail": "composed of musicians"
+            },
+            {
+                "head": "PersonX shares these works with a audience",
+                "relation": "xWant",
+                "similarity": 0.26438935101032257,
+                "tail": "to present to the audience"
+            },
+            {
+                "head": "audience",
+                "relation": "ObjectUse",
+                "similarity": 0.26299595832824707,
+                "tail": "listen to orchestra"
+            },
+            {
+                "head": "PersonX shares these works with a audience",
+                "relation": "isAfter",
+                "similarity": 0.2625032365322113,
+                "tail": "PersonX paints new paintings for a gallery"
+            },
+            {
+                "head": "PersonX shares these works with a audience",
+                "relation": "xNeed",
+                "similarity": 0.2555346265435219,
+                "tail": "to find an audience"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_13",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY movement",
+                "relation": "xNeed",
+                "similarity": 0.9004483222961426,
+                "tail": "to make people aware of the movement"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8974273502826691,
+                "tail": "love art"
+            },
+            {
+                "head": "PersonX makes PersonY movement",
+                "relation": "oWant",
+                "similarity": 0.8969734311103821,
+                "tail": "to participate in the movement"
+            },
+            {
+                "head": "see art",
+                "relation": "HasSubEvent",
+                "similarity": 0.895156979560852,
+                "tail": "inspired"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8950821161270142,
+                "tail": "try art"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX proclaims ___ to the captives",
+                "relation": "xNeed",
+                "similarity": 0.27560845017433167,
+                "tail": "to be with the captives"
+            },
+            {
+                "head": "PersonX offering PersonX's hand",
+                "relation": "xIntent",
+                "similarity": 0.2700384259223938,
+                "tail": "to shake hands"
+            },
+            {
+                "head": "PersonX proclaims ___ to the captives",
+                "relation": "xWant",
+                "similarity": 0.2649219259619713,
+                "tail": "to declare something"
+            },
+            {
+                "head": "PersonX offering PersonX's hand",
+                "relation": "xEffect",
+                "similarity": 0.26197153329849243,
+                "tail": "gets a handshake"
+            },
+            {
+                "head": "PersonX proclaims ___ to the captives",
+                "relation": "xWant",
+                "similarity": 0.2617742344737053,
+                "tail": "to send the captives home"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.8599198758602142,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8574941158294678,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xWant",
+                "similarity": 0.8561125695705414,
+                "tail": "to sell the artwork"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "oWant",
+                "similarity": 0.8513582050800323,
+                "tail": "to buy the artwork"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "isFilledBy",
+                "similarity": 0.8507117033004761,
+                "tail": "drawing"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "art dealer",
+                "relation": "CapableOf",
+                "similarity": 0.2460000216960907,
+                "tail": "supply paintings"
+            },
+            {
+                "head": "ovan mitt",
+                "relation": "ObjectUse",
+                "similarity": 0.24549739807844162,
+                "tail": "trace a mitten"
+            },
+            {
+                "head": "PersonX often made paintings",
+                "relation": "isAfter",
+                "similarity": 0.24222342669963837,
+                "tail": "PersonX decides to paint a picture"
+            },
+            {
+                "head": "PersonX paints oneself into a corner",
+                "relation": "xWant",
+                "similarity": 0.23799313604831696,
+                "tail": "to justify things"
+            },
+            {
+                "head": "PersonX often made paintings",
+                "relation": "isBefore",
+                "similarity": 0.23584549129009247,
+                "tail": "PersonX decides to sell some to a dealer"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX creates ___ in PersonY's image",
+                "relation": "oEffect",
+                "similarity": 0.9307100176811218,
+                "tail": "PersonZ is created by PersonX in PersonY's image"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "xReact",
+                "similarity": 0.9301216304302216,
+                "tail": "image was very beautiful"
+            },
+            {
+                "head": "PersonX creates ___ in PersonY's image",
+                "relation": "xNeed",
+                "similarity": 0.9297842383384705,
+                "tail": "to create a design"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9253481924533844,
+                "tail": "to be a good example"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9245580732822418,
+                "tail": "buy image"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "horseman",
+                "relation": "CapableOf",
+                "similarity": 0.25758104771375656,
+                "tail": "ride horse"
+            },
+            {
+                "head": "devil",
+                "relation": "AtLocation",
+                "similarity": 0.25080642104148865,
+                "tail": "hell"
+            },
+            {
+                "head": "tyrant",
+                "relation": "CapableOf",
+                "similarity": 0.24535080045461655,
+                "tail": "ruling nation"
+            },
+            {
+                "head": "PersonX catches PersonX's death",
+                "relation": "xWant",
+                "similarity": 0.2446216121315956,
+                "tail": "To go to heaven"
+            },
+            {
+                "head": "PersonX mounts PersonY attack",
+                "relation": "oWant",
+                "similarity": 0.24453821033239365,
+                "tail": "to help PersonX attack"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_16",
+        "question_commonsense": [
+            {
+                "head": "pipe",
+                "relation": "ObjectUse",
+                "similarity": 0.6053035855293274,
+                "tail": "replace a broken pipe"
+            },
+            {
+                "head": "PersonX fixes the pipe",
+                "relation": "xWant",
+                "similarity": 0.5973052382469177,
+                "tail": "to test the pipe"
+            },
+            {
+                "head": "pipe",
+                "relation": "ObjectUse",
+                "similarity": 0.590779185295105,
+                "tail": "smoke the weed"
+            },
+            {
+                "head": "PersonX smokes PersonX's pipe",
+                "relation": "xEffect",
+                "similarity": 0.5894235670566559,
+                "tail": "PersonX enjoys smoking his pipe"
+            },
+            {
+                "head": "pipe",
+                "relation": "ObjectUse",
+                "similarity": 0.5879011452198029,
+                "tail": "inhale tobacco"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX smokes PersonX's pipe",
+                "relation": "xWant",
+                "similarity": 0.3010091781616211,
+                "tail": "to enjoy smoking the pipe."
+            },
+            {
+                "head": "PersonX smokes PersonX's pipe",
+                "relation": "xIntent",
+                "similarity": 0.29163573682308197,
+                "tail": "to smoke the other persons pipe."
+            },
+            {
+                "head": "PersonX smokes PersonX's pipe",
+                "relation": "xWant",
+                "similarity": 0.2850838154554367,
+                "tail": "to enjoy the smell of the pipes."
+            },
+            {
+                "head": "PersonX smokes PersonX's pipe",
+                "relation": "xEffect",
+                "similarity": 0.28395943343639374,
+                "tail": "PersonX enjoys smoking his pipe"
+            },
+            {
+                "head": "PersonX smokes PersonX's pipe",
+                "relation": "xNeed",
+                "similarity": 0.2836245894432068,
+                "tail": "to pick up a pipe."
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX is on vacation in mexico",
+                "relation": "xNeed",
+                "similarity": 0.6425797343254089,
+                "tail": "to travel to Mexico."
+            },
+            {
+                "head": "PersonX always loved sculptures",
+                "relation": "isBefore",
+                "similarity": 0.6314506828784943,
+                "tail": "PersonX takes pictures of the sculptures"
+            },
+            {
+                "head": "PersonX visits mexico",
+                "relation": "xEffect",
+                "similarity": 0.6286582946777344,
+                "tail": "Makes friend with Mexican people"
+            },
+            {
+                "head": "archaeology",
+                "relation": "Causes",
+                "similarity": 0.6192891597747803,
+                "tail": "destroy archaeological record"
+            },
+            {
+                "head": "PersonX is on vacation in mexico",
+                "relation": "xEffect",
+                "similarity": 0.6180120408535004,
+                "tail": "eats Mexican food"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX heads to the beach",
+                "relation": "xEffect",
+                "similarity": 0.2557564526796341,
+                "tail": "experiences the beach"
+            },
+            {
+                "head": "PersonX heads to the beach",
+                "relation": "xNeed",
+                "similarity": 0.2519487664103508,
+                "tail": "to drive to the beach"
+            },
+            {
+                "head": "PersonX heads to the beach",
+                "relation": "xIntent",
+                "similarity": 0.251201294362545,
+                "tail": "lay on the beach."
+            },
+            {
+                "head": "PersonX heads to the beach",
+                "relation": "xNeed",
+                "similarity": 0.25072014331817627,
+                "tail": "to buy beachwear."
+            },
+            {
+                "head": "PersonX heads to the beach",
+                "relation": "xEffect",
+                "similarity": 0.2466704472899437,
+                "tail": "arrives at the beach"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_18",
+        "question_commonsense": [
+            {
+                "head": "acrylic medium",
+                "relation": "ObjectUse",
+                "similarity": 0.6388814449310303,
+                "tail": "help make paint more transparent"
+            },
+            {
+                "head": "acrylic",
+                "relation": "ObjectUse",
+                "similarity": 0.6331565976142883,
+                "tail": "painting things"
+            },
+            {
+                "head": "PersonX draws another ___",
+                "relation": "isFilledBy",
+                "similarity": 0.6314624547958374,
+                "tail": "painting"
+            },
+            {
+                "head": "acrylic",
+                "relation": "AtLocation",
+                "similarity": 0.6313323974609375,
+                "tail": "painting"
+            },
+            {
+                "head": "acrylic",
+                "relation": "ObjectUse",
+                "similarity": 0.6313323974609375,
+                "tail": "for painting with"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX describes the ___ in detail",
+                "relation": "isFilledBy",
+                "similarity": 0.25569726526737213,
+                "tail": "Painting"
+            },
+            {
+                "head": "PersonX describes the ___ in detail",
+                "relation": "isFilledBy",
+                "similarity": 0.25569726526737213,
+                "tail": "painting"
+            },
+            {
+                "head": "religious icon",
+                "relation": "AtLocation",
+                "similarity": 0.24672778695821762,
+                "tail": "church"
+            },
+            {
+                "head": "painting",
+                "relation": "ObjectUse",
+                "similarity": 0.2437959760427475,
+                "tail": "paint the house"
+            },
+            {
+                "head": "painting",
+                "relation": "ObjectUse",
+                "similarity": 0.24298958480358124,
+                "tail": "post to instagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_19",
+        "question_commonsense": [
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8124454617500305,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.8092485964298248,
+                "tail": "PersonX offers one example"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xAttr",
+                "similarity": 0.8057146966457367,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "HinderedBy",
+                "similarity": 0.8033139407634735,
+                "tail": "PersonX is out of ideas."
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.8024224936962128,
+                "tail": "have something to illustrate"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "rgb light strips",
+                "relation": "ObjectUse",
+                "similarity": 0.27402491867542267,
+                "tail": "provide a spectrum of illuminated coulor"
+            },
+            {
+                "head": "precision lighting",
+                "relation": "ObjectUse",
+                "similarity": 0.2734363377094269,
+                "tail": "light up only one part of an object"
+            },
+            {
+                "head": "PersonX lights a match",
+                "relation": "HinderedBy",
+                "similarity": 0.2660013288259506,
+                "tail": "PersonX doesn't know how to light a match."
+            },
+            {
+                "head": "switch on light",
+                "relation": "HasSubEvent",
+                "similarity": 0.26551882922649384,
+                "tail": "locate next light switch"
+            },
+            {
+                "head": "precision lighting",
+                "relation": "ObjectUse",
+                "similarity": 0.26530303061008453,
+                "tail": "light up an art gallery"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX draws another ___",
+                "relation": "isFilledBy",
+                "similarity": 0.6996278464794159,
+                "tail": "painting"
+            },
+            {
+                "head": "PersonX paints something",
+                "relation": "xEffect",
+                "similarity": 0.6989195048809052,
+                "tail": "has painting"
+            },
+            {
+                "head": "see art",
+                "relation": "HasSubEvent",
+                "similarity": 0.6976341009140015,
+                "tail": "figure out who painted"
+            },
+            {
+                "head": "PersonX paints something",
+                "relation": "xEffect",
+                "similarity": 0.6962617039680481,
+                "tail": "hangs painting"
+            },
+            {
+                "head": "PersonX paints something",
+                "relation": "xNeed",
+                "similarity": 0.6940272748470306,
+                "tail": "paint"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "young man",
+                "relation": "CapableOf",
+                "similarity": 0.2501131743192673,
+                "tail": "date young woman"
+            },
+            {
+                "head": "portrait",
+                "relation": "AtLocation",
+                "similarity": 0.23930125683546066,
+                "tail": "wall"
+            },
+            {
+                "head": "portrait",
+                "relation": "HasProperty",
+                "similarity": 0.23925361037254333,
+                "tail": "one kind of painting or photograph"
+            },
+            {
+                "head": "alexander hamilton bill",
+                "relation": "ObjectUse",
+                "similarity": 0.2380104511976242,
+                "tail": "hand off"
+            },
+            {
+                "head": "PersonX marries ___ at kamouraska",
+                "relation": "xWant",
+                "similarity": 0.23747825622558594,
+                "tail": "to retire in kamouraska"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_21",
+        "question_commonsense": [
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8037608563899994,
+                "tail": "try art"
+            },
+            {
+                "head": "artwork",
+                "relation": "ObjectUse",
+                "similarity": 0.803432285785675,
+                "tail": "show artistic tastes"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.798242837190628,
+                "tail": "love art"
+            },
+            {
+                "head": "PersonX always loved artwork",
+                "relation": "isAfter",
+                "similarity": 0.7917446792125702,
+                "tail": "PersonX is an artist"
+            },
+            {
+                "head": "PersonX always loved artwork",
+                "relation": "isBefore",
+                "similarity": 0.7903916537761688,
+                "tail": "PersonX wants to become a professional artist"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "torturer",
+                "relation": "CapableOf",
+                "similarity": 0.27077616751194,
+                "tail": "subject victim to torture"
+            },
+            {
+                "head": "scalpel",
+                "relation": "ObjectUse",
+                "similarity": 0.26935718953609467,
+                "tail": "cutting flesh"
+            },
+            {
+                "head": "torturer",
+                "relation": "CapableOf",
+                "similarity": 0.2599771022796631,
+                "tail": "subject victim"
+            },
+            {
+                "head": "patient",
+                "relation": "ObjectUse",
+                "similarity": 0.25861701369285583,
+                "tail": "teach medical students"
+            },
+            {
+                "head": "patient",
+                "relation": "CapableOf",
+                "similarity": 0.2585044354200363,
+                "tail": "feel pain during operation"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes waves",
+                "relation": "HinderedBy",
+                "similarity": 0.4184490591287613,
+                "tail": "PersonX doesn't know enough to make waves"
+            },
+            {
+                "head": "mermaid",
+                "relation": "AtLocation",
+                "similarity": 0.4155556857585907,
+                "tail": "sea"
+            },
+            {
+                "head": "PersonX swims upstream",
+                "relation": "HinderedBy",
+                "similarity": 0.40848976373672485,
+                "tail": "PersonX's mother told him to never swim upstream."
+            },
+            {
+                "head": "PersonX makes waves",
+                "relation": "xEffect",
+                "similarity": 0.4080122411251068,
+                "tail": "yelled at"
+            },
+            {
+                "head": "PersonX swims upstream",
+                "relation": "HinderedBy",
+                "similarity": 0.4060278385877609,
+                "tail": "PersonX's swim instructor never showed him how to swim upstream."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "siren",
+                "relation": "ObjectUse",
+                "similarity": 0.2584070712327957,
+                "tail": "keep Odysseus away from his wife longer"
+            },
+            {
+                "head": "mermaid",
+                "relation": "AtLocation",
+                "similarity": 0.25509534776210785,
+                "tail": "sea"
+            },
+            {
+                "head": "sirens",
+                "relation": "ObjectUse",
+                "similarity": 0.2527051940560341,
+                "tail": "turn on"
+            },
+            {
+                "head": "PersonX lives by the ocean",
+                "relation": "HinderedBy",
+                "similarity": 0.2476663887500763,
+                "tail": "PersonX is afraid of drowning."
+            },
+            {
+                "head": "sirens",
+                "relation": "ObjectUse",
+                "similarity": 0.24691461771726608,
+                "tail": "signal an emergency"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_23",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8597232401371002,
+                "tail": "to make more images"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.8594888746738434,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8578444421291351,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8578444421291351,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.8536191284656525,
+                "tail": "to keep the image"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "courtyard",
+                "relation": "ObjectUse",
+                "similarity": 0.2632564678788185,
+                "tail": "garden"
+            },
+            {
+                "head": "courtyard",
+                "relation": "ObjectUse",
+                "similarity": 0.2632564678788185,
+                "tail": "have garden"
+            },
+            {
+                "head": "paintings",
+                "relation": "ObjectUse",
+                "similarity": 0.2629784643650055,
+                "tail": "sell in a gallery"
+            },
+            {
+                "head": "back courtyard",
+                "relation": "ObjectUse",
+                "similarity": 0.2623412683606148,
+                "tail": "private area behind building"
+            },
+            {
+                "head": "courtyard",
+                "relation": "AtLocation",
+                "similarity": 0.2605418562889099,
+                "tail": "english countryhouse"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_24",
+        "question_commonsense": [
+            {
+                "head": "PersonX always loved sculptures",
+                "relation": "isBefore",
+                "similarity": 0.5722396969795227,
+                "tail": "PersonX takes pictures of the sculptures"
+            },
+            {
+                "head": "sculptor",
+                "relation": "CapableOf",
+                "similarity": 0.5601476728916168,
+                "tail": "form piece of art"
+            },
+            {
+                "head": "sculptor",
+                "relation": "CapableOf",
+                "similarity": 0.5571041405200958,
+                "tail": "produce statue"
+            },
+            {
+                "head": "sculpture",
+                "relation": "AtLocation",
+                "similarity": 0.5520760715007782,
+                "tail": "gallery opening"
+            },
+            {
+                "head": "sculpture",
+                "relation": "ObjectUse",
+                "similarity": 0.5496308207511902,
+                "tail": "sell at an art show"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "statue",
+                "relation": "ObjectUse",
+                "similarity": 0.2879052758216858,
+                "tail": "propagandanize a figure"
+            },
+            {
+                "head": "sculptor",
+                "relation": "CapableOf",
+                "similarity": 0.2863510996103287,
+                "tail": "produce statue"
+            },
+            {
+                "head": "statue",
+                "relation": "ObjectUse",
+                "similarity": 0.27354849874973297,
+                "tail": "honor a civic figure"
+            },
+            {
+                "head": "chess piece",
+                "relation": "AtLocation",
+                "similarity": 0.2733447626233101,
+                "tail": "chess set"
+            },
+            {
+                "head": "sculptor",
+                "relation": "CapableOf",
+                "similarity": 0.27019527554512024,
+                "tail": "create statues"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_25",
+        "question_commonsense": [
+            {
+                "head": "paint picture",
+                "relation": "HasSubEvent",
+                "similarity": 0.9132682979106903,
+                "tail": "have paint"
+            },
+            {
+                "head": "paint picture",
+                "relation": "xNeed",
+                "similarity": 0.9087752997875214,
+                "tail": "use oil paint"
+            },
+            {
+                "head": "PersonX often made paintings",
+                "relation": "isAfter",
+                "similarity": 0.9065070152282715,
+                "tail": "PersonX decides to paint a picture"
+            },
+            {
+                "head": "paint picture",
+                "relation": "xNeed",
+                "similarity": 0.9050399363040924,
+                "tail": "paint on canvas"
+            },
+            {
+                "head": "paint picture",
+                "relation": "HasSubEvent",
+                "similarity": 0.9039768874645233,
+                "tail": "get paint on yourself"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX says ___ to anybody",
+                "relation": "xAttr",
+                "similarity": 0.2586808204650879,
+                "tail": "extrovert"
+            },
+            {
+                "head": "PersonX makes ___ for everyone",
+                "relation": "oEffect",
+                "similarity": 0.258307546377182,
+                "tail": "think of PersonX as a kind person"
+            },
+            {
+                "head": "PersonX says ___ to anybody",
+                "relation": "oEffect",
+                "similarity": 0.25683169811964035,
+                "tail": "none"
+            },
+            {
+                "head": "PersonX says ___ to anybody",
+                "relation": "oReact",
+                "similarity": 0.25683169811964035,
+                "tail": "none"
+            },
+            {
+                "head": "PersonX says ___ to anybody",
+                "relation": "oWant",
+                "similarity": 0.25683169811964035,
+                "tail": "none"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_26",
+        "question_commonsense": [
+            {
+                "head": "travel",
+                "relation": "HasSubEvent",
+                "similarity": 0.7254986464977264,
+                "tail": "visit historical sites"
+            },
+            {
+                "head": "travel",
+                "relation": "HasSubEvent",
+                "similarity": 0.7230272889137268,
+                "tail": "choose destination"
+            },
+            {
+                "head": "travel",
+                "relation": "xNeed",
+                "similarity": 0.7230272889137268,
+                "tail": "choose destination"
+            },
+            {
+                "head": "travel",
+                "relation": "HasSubEvent",
+                "similarity": 0.7220315635204315,
+                "tail": "getting travel sick"
+            },
+            {
+                "head": "travel",
+                "relation": "HasSubEvent",
+                "similarity": 0.7210823893547058,
+                "tail": "take picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "mosque",
+                "relation": "MadeUpOf",
+                "similarity": 0.3097638636827469,
+                "tail": "minaret"
+            },
+            {
+                "head": "chimney",
+                "relation": "MadeUpOf",
+                "similarity": 0.29843205213546753,
+                "tail": "chimneystack"
+            },
+            {
+                "head": "chimney",
+                "relation": "MadeUpOf",
+                "similarity": 0.285213440656662,
+                "tail": "fireplace"
+            },
+            {
+                "head": "lantern",
+                "relation": "ObjectUse",
+                "similarity": 0.2832805812358856,
+                "tail": "illuminate the area"
+            },
+            {
+                "head": "lantern",
+                "relation": "ObjectUse",
+                "similarity": 0.2825923413038254,
+                "tail": "illumination"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_27",
+        "question_commonsense": [
+            {
+                "head": "PersonX takes an art class",
+                "relation": "xIntent",
+                "similarity": 0.5991251468658447,
+                "tail": "to teach art to his students"
+            },
+            {
+                "head": "PersonX loves art",
+                "relation": "HinderedBy",
+                "similarity": 0.5963466167449951,
+                "tail": "PersonX does not understand the art world."
+            },
+            {
+                "head": "PersonX takes an art class",
+                "relation": "HinderedBy",
+                "similarity": 0.5905778408050537,
+                "tail": "Person X cant afford the art class"
+            },
+            {
+                "head": "PersonX loves art",
+                "relation": "HinderedBy",
+                "similarity": 0.5884060263633728,
+                "tail": "PersonX hates art"
+            },
+            {
+                "head": "PersonX loves art",
+                "relation": "HinderedBy",
+                "similarity": 0.5855458378791809,
+                "tail": "PersonX does not understand art"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "paintings",
+                "relation": "ObjectUse",
+                "similarity": 0.25427231192588806,
+                "tail": "sell in a gallery"
+            },
+            {
+                "head": "PersonX lays eyes on the painting",
+                "relation": "isAfter",
+                "similarity": 0.24997242540121078,
+                "tail": "PersonX looking for a painting for the house"
+            },
+            {
+                "head": "gallery visitor",
+                "relation": "CapableOf",
+                "similarity": 0.2477182373404503,
+                "tail": "view art"
+            },
+            {
+                "head": "art",
+                "relation": "ObjectUse",
+                "similarity": 0.2447492927312851,
+                "tail": "art's sake"
+            },
+            {
+                "head": "widow",
+                "relation": "CapableOf",
+                "similarity": 0.2446882650256157,
+                "tail": "crying for husband"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX outlines briefly the ___",
+                "relation": "xNeed",
+                "similarity": 0.8436172902584076,
+                "tail": "become aware of what is being outlined"
+            },
+            {
+                "head": "lines",
+                "relation": "ObjectUse",
+                "similarity": 0.8394221067428589,
+                "tail": "wait to check out"
+            },
+            {
+                "head": "PersonX becomes aware",
+                "relation": "xReact",
+                "similarity": 0.8362647593021393,
+                "tail": "good"
+            },
+            {
+                "head": "PersonX becomes aware",
+                "relation": "xEffect",
+                "similarity": 0.834623247385025,
+                "tail": "realizes something"
+            },
+            {
+                "head": "PersonX becomes aware",
+                "relation": "xEffect",
+                "similarity": 0.8326216638088226,
+                "tail": "becomes informed"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX designs formats to make",
+                "relation": "HinderedBy",
+                "similarity": 0.2858837991952896,
+                "tail": "PersonX does not know how to design formats."
+            },
+            {
+                "head": "PersonX forms PersonY image",
+                "relation": "xNeed",
+                "similarity": 0.2846726179122925,
+                "tail": "to buy the drawing materials"
+            },
+            {
+                "head": "PersonX designs formats to make",
+                "relation": "HinderedBy",
+                "similarity": 0.27476415038108826,
+                "tail": "PersonX's parents never signed them up for classes to learn how to design formats."
+            },
+            {
+                "head": "PersonX designs formats to make",
+                "relation": "xNeed",
+                "similarity": 0.26876720786094666,
+                "tail": "decide which formats they are making"
+            },
+            {
+                "head": "PersonX designs formats to make",
+                "relation": "HinderedBy",
+                "similarity": 0.2664829045534134,
+                "tail": "PersonX was never trained to design formats."
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_29",
+        "question_commonsense": [
+            {
+                "head": "PersonX often made paintings",
+                "relation": "isAfter",
+                "similarity": 0.9140815734863281,
+                "tail": "PersonX decides to paint a picture"
+            },
+            {
+                "head": "paint picture",
+                "relation": "xNeed",
+                "similarity": 0.9136727452278137,
+                "tail": "use oil paint"
+            },
+            {
+                "head": "paint picture",
+                "relation": "xNeed",
+                "similarity": 0.9134704172611237,
+                "tail": "paint on canvas"
+            },
+            {
+                "head": "paint picture",
+                "relation": "HasSubEvent",
+                "similarity": 0.9049164354801178,
+                "tail": "have paint"
+            },
+            {
+                "head": "paint picture",
+                "relation": "xNeed",
+                "similarity": 0.9026222825050354,
+                "tail": "take class on painting"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX outpope the pope the pope",
+                "relation": "xWant",
+                "similarity": 0.27246375381946564,
+                "tail": "to have more strict rules than the pope"
+            },
+            {
+                "head": "PersonX outpope the pope the pope",
+                "relation": "xEffect",
+                "similarity": 0.2702350616455078,
+                "tail": "wears pope mask"
+            },
+            {
+                "head": "pope",
+                "relation": "HasProperty",
+                "similarity": 0.2637813314795494,
+                "tail": "catholic"
+            },
+            {
+                "head": "pope",
+                "relation": "CapableOf",
+                "similarity": 0.25832685828208923,
+                "tail": "speak to masses"
+            },
+            {
+                "head": "PersonX outpope the pope the pope",
+                "relation": "xWant",
+                "similarity": 0.25521550327539444,
+                "tail": "to enforce christianity rules to the extreme"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX creates ___ in PersonY's image",
+                "relation": "oEffect",
+                "similarity": 0.9307100176811218,
+                "tail": "PersonZ is created by PersonX in PersonY's image"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "xReact",
+                "similarity": 0.9301216304302216,
+                "tail": "image was very beautiful"
+            },
+            {
+                "head": "PersonX creates ___ in PersonY's image",
+                "relation": "xNeed",
+                "similarity": 0.9297842383384705,
+                "tail": "to create a design"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9253481924533844,
+                "tail": "to be a good example"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9245580732822418,
+                "tail": "buy image"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX has three children",
+                "relation": "HinderedBy",
+                "similarity": 0.2723748981952667,
+                "tail": "PersonX has five children"
+            },
+            {
+                "head": "PersonX has two children",
+                "relation": "xNeed",
+                "similarity": 0.26083804666996,
+                "tail": "to have given birth"
+            },
+            {
+                "head": "PersonX has three children",
+                "relation": "xAttr",
+                "similarity": 0.2580437958240509,
+                "tail": "nurturing"
+            },
+            {
+                "head": "PersonX has two children",
+                "relation": "xIntent",
+                "similarity": 0.25547175109386444,
+                "tail": "a happy family"
+            },
+            {
+                "head": "PersonX has three children",
+                "relation": "oEffect",
+                "similarity": 0.2550114616751671,
+                "tail": "are nurtured"
+            }
+        ]
+    }
+]

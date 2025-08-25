@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Marketing_1",
+        "question_commonsense": [
+            {
+                "head": "PersonX studies for PersonX's math test",
+                "relation": "xWant",
+                "similarity": 0.7367632985115051,
+                "tail": "to find out whats on the test"
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "xEffect",
+                "similarity": 0.7341594696044922,
+                "tail": "to has a math test"
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "HinderedBy",
+                "similarity": 0.7325238585472107,
+                "tail": "Math tests were given out last month."
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "isAfter",
+                "similarity": 0.7312918603420258,
+                "tail": "PersonX studies math problems"
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "HinderedBy",
+                "similarity": 0.7306152284145355,
+                "tail": "A math test isn't on the agenda"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX classifies ___ into groups",
+                "relation": "xNeed",
+                "similarity": 0.2830127775669098,
+                "tail": "Gather data on the group"
+            },
+            {
+                "head": "PersonX groups ___ according",
+                "relation": "xAttr",
+                "similarity": 0.2679186686873436,
+                "tail": "methodically"
+            },
+            {
+                "head": "PersonX groups ___ according",
+                "relation": "xIntent",
+                "similarity": 0.2678336501121521,
+                "tail": "to organize people and things"
+            },
+            {
+                "head": "PersonX groups ___ according",
+                "relation": "xEffect",
+                "similarity": 0.2657943218946457,
+                "tail": "becomes more organized"
+            },
+            {
+                "head": "PersonX classifies ___ into groups",
+                "relation": "oReact",
+                "similarity": 0.2650063559412956,
+                "tail": "categorized"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX scores two goals",
+                "relation": "xEffect",
+                "similarity": 0.7288436591625214,
+                "tail": "kicks ball into goal twice."
+            },
+            {
+                "head": "PersonX scores the winning goal",
+                "relation": "xNeed",
+                "similarity": 0.7148430347442627,
+                "tail": "kicks the ball"
+            },
+            {
+                "head": "PersonX scores two goals",
+                "relation": "xNeed",
+                "similarity": 0.7139918208122253,
+                "tail": "to go to the game"
+            },
+            {
+                "head": "PersonX scores two goals",
+                "relation": "isAfter",
+                "similarity": 0.7139050960540771,
+                "tail": "PersonX plays in a soccer game"
+            },
+            {
+                "head": "PersonX scores two goals",
+                "relation": "xNeed",
+                "similarity": 0.7129383087158203,
+                "tail": "to learn a sport"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "final tabulations",
+                "relation": "ObjectUse",
+                "similarity": 0.26295457780361176,
+                "tail": "show data results"
+            },
+            {
+                "head": "PersonX scores ___ for PersonX's team",
+                "relation": "xIntent",
+                "similarity": 0.2620730996131897,
+                "tail": "to help his team win"
+            },
+            {
+                "head": "PersonX scores ___ for PersonX's team",
+                "relation": "xAttr",
+                "similarity": 0.25791990756988525,
+                "tail": "competitive"
+            },
+            {
+                "head": "final tabulations",
+                "relation": "ObjectUse",
+                "similarity": 0.2559533938765526,
+                "tail": "show the winning score"
+            },
+            {
+                "head": "PersonX scores ___ for PersonX's team",
+                "relation": "xEffect",
+                "similarity": 0.25319334119558334,
+                "tail": "wins the game"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xWant",
+                "similarity": 0.8569450378417969,
+                "tail": "write a program from code"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xNeed",
+                "similarity": 0.8430337607860565,
+                "tail": "to find a computer programming class"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xWant",
+                "similarity": 0.8372980654239655,
+                "tail": "to apply for jobs in computer programming"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xWant",
+                "similarity": 0.837241142988205,
+                "tail": "apply for programming jobs"
+            },
+            {
+                "head": "PersonX learns programming",
+                "relation": "xEffect",
+                "similarity": 0.8333559930324554,
+                "tail": "learns functions"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX purchases ___ at a price",
+                "relation": "xNeed",
+                "similarity": 0.25588272511959076,
+                "tail": "to compare prices"
+            },
+            {
+                "head": "PersonX splits the difference",
+                "relation": "HinderedBy",
+                "similarity": 0.2529182583093643,
+                "tail": "PersonX isn't good at math."
+            },
+            {
+                "head": "PersonX splits the difference",
+                "relation": "HinderedBy",
+                "similarity": 0.2496844157576561,
+                "tail": "PersonX can't find the person they owe the money to."
+            },
+            {
+                "head": "PersonX splits the difference",
+                "relation": "isBefore",
+                "similarity": 0.2494989112019539,
+                "tail": "PersonX pays their part of the bill"
+            },
+            {
+                "head": "PersonX purchases ___ at a price",
+                "relation": "xWant",
+                "similarity": 0.24913565814495087,
+                "tail": "to sell them at a higher price"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX is good at math",
+                "relation": "xNeed",
+                "similarity": 0.8319452702999115,
+                "tail": "to like math"
+            },
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "xAttr",
+                "similarity": 0.8293346464633942,
+                "tail": "precise"
+            },
+            {
+                "head": "PersonX is good at math",
+                "relation": "xNeed",
+                "similarity": 0.8254346549510956,
+                "tail": "to major in math"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.8217843770980835,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "xAttr",
+                "similarity": 0.8217556774616241,
+                "tail": "smart"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.27789613604545593,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.266014888882637,
+                "tail": "clearly present data"
+            },
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "xNeed",
+                "similarity": 0.2656507045030594,
+                "tail": "to figure how many cells there are"
+            },
+            {
+                "head": "participation number",
+                "relation": "ObjectUse",
+                "similarity": 0.2643880844116211,
+                "tail": "keep track of the participants"
+            },
+            {
+                "head": "PersonX views the graph in terms",
+                "relation": "isAfter",
+                "similarity": 0.26286711543798447,
+                "tail": "PersonX studies for a math test"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX is on the soccer team",
+                "relation": "HinderedBy",
+                "similarity": 0.7113311886787415,
+                "tail": "The soccer team has no openings on its roster."
+            },
+            {
+                "head": "PersonX is on the soccer team",
+                "relation": "xNeed",
+                "similarity": 0.7103231847286224,
+                "tail": "to be good at soccer"
+            },
+            {
+                "head": "PersonX is on the soccer team",
+                "relation": "xIntent",
+                "similarity": 0.7049973011016846,
+                "tail": "to play soccer"
+            },
+            {
+                "head": "PersonX is on the soccer team",
+                "relation": "xWant",
+                "similarity": 0.7049973011016846,
+                "tail": "to play soccer"
+            },
+            {
+                "head": "PersonX is on the soccer team",
+                "relation": "HinderedBy",
+                "similarity": 0.7033780217170715,
+                "tail": "The soccer team is not recruiting new players."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX evens the score",
+                "relation": "HinderedBy",
+                "similarity": 0.24963999539613724,
+                "tail": "No one will pass them the ball."
+            },
+            {
+                "head": "PersonX evens the score",
+                "relation": "HinderedBy",
+                "similarity": 0.2484808936715126,
+                "tail": "PersonX can't get any more points."
+            },
+            {
+                "head": "PersonX evens added ___",
+                "relation": "oReact",
+                "similarity": 0.24843238294124603,
+                "tail": "moved"
+            },
+            {
+                "head": "PersonX evens the score",
+                "relation": "HinderedBy",
+                "similarity": 0.2483946532011032,
+                "tail": "PersonX is disqualified from the match."
+            },
+            {
+                "head": "PersonX evens the score",
+                "relation": "HinderedBy",
+                "similarity": 0.2477237656712532,
+                "tail": "The game is already over."
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX helps PersonY lose weight",
+                "relation": "oWant",
+                "similarity": 0.7413582801818848,
+                "tail": "to help others to lose weight"
+            },
+            {
+                "head": "PersonX does n't lose weight",
+                "relation": "oWant",
+                "similarity": 0.7396340668201447,
+                "tail": "to motivate PersonX to loose weight"
+            },
+            {
+                "head": "PersonX does n't lose weight",
+                "relation": "xWant",
+                "similarity": 0.7343917489051819,
+                "tail": "to change her diet program"
+            },
+            {
+                "head": "PersonX does n't lose weight",
+                "relation": "xNeed",
+                "similarity": 0.7336374223232269,
+                "tail": "to not eat less"
+            },
+            {
+                "head": "PersonX does n't lose weight",
+                "relation": "xWant",
+                "similarity": 0.7336374223232269,
+                "tail": "to eat less"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX supports PersonY's claims",
+                "relation": "oEffect",
+                "similarity": 0.27186915278434753,
+                "tail": "gains credability"
+            },
+            {
+                "head": "cholesterol",
+                "relation": "HasProperty",
+                "similarity": 0.2673033997416496,
+                "tail": "only in animal tissue and products"
+            },
+            {
+                "head": "PersonX has been deferred until test results are in",
+                "relation": "xEffect",
+                "similarity": 0.26017385721206665,
+                "tail": "check results"
+            },
+            {
+                "head": "cholesterol",
+                "relation": "HasProperty",
+                "similarity": 0.2599857300519943,
+                "tail": "considered bad for heart"
+            },
+            {
+                "head": "PersonX supports PersonY's claims",
+                "relation": "oEffect",
+                "similarity": 0.2598889470100403,
+                "tail": "achieves goal"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_7",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows the flag",
+                "relation": "xAttr",
+                "similarity": 0.7032777667045593,
+                "tail": "patriotic"
+            },
+            {
+                "head": "PersonX shows the flag",
+                "relation": "xAttr",
+                "similarity": 0.7032777667045593,
+                "tail": "patriotic"
+            },
+            {
+                "head": "PersonX shows the flag",
+                "relation": "xAttr",
+                "similarity": 0.7032777667045593,
+                "tail": "Patriotic"
+            },
+            {
+                "head": "PersonX shows the flag",
+                "relation": "xIntent",
+                "similarity": 0.7032777667045593,
+                "tail": "to be patriotic"
+            },
+            {
+                "head": "PersonX shows the flag",
+                "relation": "xNeed",
+                "similarity": 0.7029138207435608,
+                "tail": "have a flag"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX names fred",
+                "relation": "oEffect",
+                "similarity": 0.2882886379957199,
+                "tail": "fred learns name"
+            },
+            {
+                "head": "PersonX names fred",
+                "relation": "oEffect",
+                "similarity": 0.2861718088388443,
+                "tail": "fred has a name"
+            },
+            {
+                "head": "PersonX names fred",
+                "relation": "isBefore",
+                "similarity": 0.2762291878461838,
+                "tail": "PersonX announces fred's promotion"
+            },
+            {
+                "head": "spreadsheet program",
+                "relation": "ObjectUse",
+                "similarity": 0.26673470437526703,
+                "tail": "keep track of expenses"
+            },
+            {
+                "head": "spreadsheet program",
+                "relation": "ObjectUse",
+                "similarity": 0.26458027958869934,
+                "tail": "track finances"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.8276384174823761,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.818714052438736,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.8157298564910889,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.8112282752990723,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.8080717921257019,
+                "tail": "scientific"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "xNeed",
+                "similarity": 0.27149002254009247,
+                "tail": "to figure how many cells there are"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.2663068324327469,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "xNeed",
+                "similarity": 0.26330290734767914,
+                "tail": "to count an item"
+            },
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "oWant",
+                "similarity": 0.2628602311015129,
+                "tail": "to help PersonX with the research"
+            },
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "xWant",
+                "similarity": 0.26246993988752365,
+                "tail": "to ask others to help with the research"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_9",
+        "question_commonsense": [
+            {
+                "head": "high jumper",
+                "relation": "CapableOf",
+                "similarity": 0.7184090614318848,
+                "tail": "jump high"
+            },
+            {
+                "head": "jump up and down",
+                "relation": "HasSubEvent",
+                "similarity": 0.713321328163147,
+                "tail": "jump"
+            },
+            {
+                "head": "jump up and down",
+                "relation": "HasSubEvent",
+                "similarity": 0.713321328163147,
+                "tail": "jump up"
+            },
+            {
+                "head": "PersonX is a great basketball player",
+                "relation": "xWant",
+                "similarity": 0.7046599984169006,
+                "tail": "to join a basketball team"
+            },
+            {
+                "head": "jump at chance",
+                "relation": "HasSubEvent",
+                "similarity": 0.7014521360397339,
+                "tail": "think before jump"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "final tabulations",
+                "relation": "ObjectUse",
+                "similarity": 0.26646649837493896,
+                "tail": "show data results"
+            },
+            {
+                "head": "PersonX scores ___ for PersonX's team",
+                "relation": "xIntent",
+                "similarity": 0.259500116109848,
+                "tail": "to help his team win"
+            },
+            {
+                "head": "PersonX splits the difference",
+                "relation": "HinderedBy",
+                "similarity": 0.25847820192575455,
+                "tail": "PersonX isn't good at math."
+            },
+            {
+                "head": "final tabulations",
+                "relation": "ObjectUse",
+                "similarity": 0.25808775424957275,
+                "tail": "show the winning score"
+            },
+            {
+                "head": "PersonX scores ___ for PersonX's team",
+                "relation": "xAttr",
+                "similarity": 0.2519529312849045,
+                "tail": "competitive"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_10",
+        "question_commonsense": [
+            {
+                "head": "dvds",
+                "relation": "ObjectUse",
+                "similarity": 0.691713958978653,
+                "tail": "see older films"
+            },
+            {
+                "head": "electronics store",
+                "relation": "ObjectUse",
+                "similarity": 0.689825713634491,
+                "tail": "buying computer software"
+            },
+            {
+                "head": "dvds",
+                "relation": "ObjectUse",
+                "similarity": 0.6890279054641724,
+                "tail": "collect your favorite movies"
+            },
+            {
+                "head": "electronics store",
+                "relation": "ObjectUse",
+                "similarity": 0.688930481672287,
+                "tail": "buying dvd player"
+            },
+            {
+                "head": "electronics store",
+                "relation": "ObjectUse",
+                "similarity": 0.6883620619773865,
+                "tail": "buying computers"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.2527630552649498,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX assists the ___ in determining",
+                "relation": "xNeed",
+                "similarity": 0.25258250534534454,
+                "tail": "to determine the correct action"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xAttr",
+                "similarity": 0.25208281725645065,
+                "tail": "percise"
+            },
+            {
+                "head": "sizes",
+                "relation": "ObjectUse",
+                "similarity": 0.25166110694408417,
+                "tail": "mark your clothing size"
+            },
+            {
+                "head": "PersonX views the grid in terms",
+                "relation": "isAfter",
+                "similarity": 0.2502100095152855,
+                "tail": "PersonX picks up the financial paper"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.7472845911979675,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7462345659732819,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7381763458251953,
+                "tail": "PersonX did not learn how to do this equation"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7373106479644775,
+                "tail": "Person X does not understand the math problems."
+            },
+            {
+                "head": "math",
+                "relation": "HasProperty",
+                "similarity": 0.7332350611686707,
+                "tail": "difficult for students"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "sizes",
+                "relation": "ObjectUse",
+                "similarity": 0.25198568403720856,
+                "tail": "mark your clothing size"
+            },
+            {
+                "head": "PersonX views the grid in terms",
+                "relation": "isAfter",
+                "similarity": 0.2519759237766266,
+                "tail": "PersonX picks up the financial paper"
+            },
+            {
+                "head": "PersonX assists the ___ in determining",
+                "relation": "xNeed",
+                "similarity": 0.25040219724178314,
+                "tail": "to determine the correct action"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xAttr",
+                "similarity": 0.24999023973941803,
+                "tail": "percise"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.2490134909749031,
+                "tail": "to have the thing in question"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_12",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7014725208282471,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "time sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.6996940672397614,
+                "tail": "keep track of work time."
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.699110597372055,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "work schedule",
+                "relation": "ObjectUse",
+                "similarity": 0.6986686885356903,
+                "tail": "be on time"
+            },
+            {
+                "head": "exercise schedule",
+                "relation": "ObjectUse",
+                "similarity": 0.6981322765350342,
+                "tail": "use to stay healthy"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX decides to make breakfast",
+                "relation": "xWant",
+                "similarity": 0.26899243891239166,
+                "tail": "eat breakfast"
+            },
+            {
+                "head": "PersonX decides to make breakfast",
+                "relation": "isBefore",
+                "similarity": 0.266630157828331,
+                "tail": "PersonX they get up to breakfast and begin the day with PersonX as thier leader"
+            },
+            {
+                "head": "work schedule",
+                "relation": "ObjectUse",
+                "similarity": 0.25669318437576294,
+                "tail": "know when you work"
+            },
+            {
+                "head": "PersonX decides to make breakfast",
+                "relation": "HinderedBy",
+                "similarity": 0.25312089920043945,
+                "tail": "They don't want the extra calories."
+            },
+            {
+                "head": "work schedule",
+                "relation": "ObjectUse",
+                "similarity": 0.2530912756919861,
+                "tail": "give out to employees"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_13",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9040923714637756,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9007167816162109,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "xNeed",
+                "similarity": 0.9005812704563141,
+                "tail": "make a copy of the picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.8964909315109253,
+                "tail": "to pick up a picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.8956765532493591,
+                "tail": "looks at picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "product manual",
+                "relation": "ObjectUse",
+                "similarity": 0.2690097242593765,
+                "tail": "know what product to order"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.26861993968486786,
+                "tail": "check what is affecting the variables"
+            },
+            {
+                "head": "manuscript paper",
+                "relation": "ObjectUse",
+                "similarity": 0.2592500150203705,
+                "tail": "send to multiple publishers"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.2570996731519699,
+                "tail": "figure out more calculations"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.25707215815782547,
+                "tail": "test if variable works"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX sees red",
+                "relation": "xWant",
+                "similarity": 0.6991190910339355,
+                "tail": "to see normal colors"
+            },
+            {
+                "head": "colour",
+                "relation": "HasProperty",
+                "similarity": 0.6961930096149445,
+                "tail": "color"
+            },
+            {
+                "head": "PersonX sees red",
+                "relation": "xEffect",
+                "similarity": 0.6956707835197449,
+                "tail": "think about what the color means"
+            },
+            {
+                "head": "color",
+                "relation": "HasProperty",
+                "similarity": 0.6923406422138214,
+                "tail": "more colorful with low value contrast"
+            },
+            {
+                "head": "get",
+                "relation": "xIntent",
+                "similarity": 0.6857581734657288,
+                "tail": "have"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "pie charts",
+                "relation": "ObjectUse",
+                "similarity": 0.28803399205207825,
+                "tail": "visualize data"
+            },
+            {
+                "head": "pie charts",
+                "relation": "ObjectUse",
+                "similarity": 0.2723594829440117,
+                "tail": "overstate financial gains"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2718890756368637,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "pie charts",
+                "relation": "ObjectUse",
+                "similarity": 0.27047716081142426,
+                "tail": "Understand the data"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.26779623329639435,
+                "tail": "draw a diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX orders fries",
+                "relation": "xWant",
+                "similarity": 0.7254384458065033,
+                "tail": "to eat the fries"
+            },
+            {
+                "head": "PersonX orders fries",
+                "relation": "oEffect",
+                "similarity": 0.7188892662525177,
+                "tail": "ring up order of fries."
+            },
+            {
+                "head": "PersonX orders fries",
+                "relation": "isBefore",
+                "similarity": 0.7160469889640808,
+                "tail": "PersonX eats the fries"
+            },
+            {
+                "head": "some fries",
+                "relation": "ObjectUse",
+                "similarity": 0.7145743072032928,
+                "tail": "use in a food display"
+            },
+            {
+                "head": "PersonX orders fries",
+                "relation": "oEffect",
+                "similarity": 0.7125966548919678,
+                "tail": "cook fries."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "south",
+                "relation": "HasProperty",
+                "similarity": 0.26355645060539246,
+                "tail": "south of north"
+            },
+            {
+                "head": "PersonX divides the ___ into districts",
+                "relation": "xIntent",
+                "similarity": 0.2545062154531479,
+                "tail": "be certain to fairly, equitably, appropriately & effectively carry out own redistricting responsibilities."
+            },
+            {
+                "head": "PersonX divides the ___ into districts",
+                "relation": "isFilledBy",
+                "similarity": 0.24822328239679337,
+                "tail": "chart"
+            },
+            {
+                "head": "PersonX divides the ___ into districts",
+                "relation": "xEffect",
+                "similarity": 0.2481180876493454,
+                "tail": "PersonX influences the election"
+            },
+            {
+                "head": "PersonX divides the ___ into districts",
+                "relation": "xIntent",
+                "similarity": 0.24760838598012924,
+                "tail": "serve each district well"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_16",
+        "question_commonsense": [
+            {
+                "head": "PersonX takes PersonY to the dentist",
+                "relation": "xWant",
+                "similarity": 0.7001264691352844,
+                "tail": "to ask the dentist what the problem is"
+            },
+            {
+                "head": "PersonX takes PersonY to the dentist",
+                "relation": "oWant",
+                "similarity": 0.6996749937534332,
+                "tail": "to give PersonX oral health advice"
+            },
+            {
+                "head": "PersonX takes PersonY to the dentist",
+                "relation": "xEffect",
+                "similarity": 0.6975857615470886,
+                "tail": "to takes to the dentist"
+            },
+            {
+                "head": "PersonX takes PersonY to the dentist",
+                "relation": "xIntent",
+                "similarity": 0.6974299848079681,
+                "tail": "to make sure someone's teeth are healthy"
+            },
+            {
+                "head": "PersonX takes PersonY to the dentist",
+                "relation": "oEffect",
+                "similarity": 0.6947221457958221,
+                "tail": "PersonY gets their teeth cleaned"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX never ate gum",
+                "relation": "isAfter",
+                "similarity": 0.259001187980175,
+                "tail": "PersonX tried gum for the first time"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.2571491152048111,
+                "tail": "read studies"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xEffect",
+                "similarity": 0.2556300163269043,
+                "tail": "is reading diagnosis reports of patients"
+            },
+            {
+                "head": "test results",
+                "relation": "ObjectUse",
+                "similarity": 0.2548438608646393,
+                "tail": "determine an illness"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.25262700766324997,
+                "tail": "evaluate patient's symptoms"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX finds the candy",
+                "relation": "xWant",
+                "similarity": 0.772063672542572,
+                "tail": "unwrap the candy"
+            },
+            {
+                "head": "PersonX gets a lot of candy",
+                "relation": "HinderedBy",
+                "similarity": 0.7718078792095184,
+                "tail": "PersonX's doctor told him he can no longer eat candy."
+            },
+            {
+                "head": "PersonX gets a lot of candy",
+                "relation": "xNeed",
+                "similarity": 0.766891598701477,
+                "tail": "to grab the candy"
+            },
+            {
+                "head": "PersonX finds the candy",
+                "relation": "xWant",
+                "similarity": 0.7667590379714966,
+                "tail": "to check if the candy has expired"
+            },
+            {
+                "head": "PersonX finds the candy",
+                "relation": "xNeed",
+                "similarity": 0.7653195261955261,
+                "tail": "to have lost the candy"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX exchanges numbers",
+                "relation": "xNeed",
+                "similarity": 0.25191400200128555,
+                "tail": "exchanges a phone number"
+            },
+            {
+                "head": "PersonX evens added ___",
+                "relation": "xReact",
+                "similarity": 0.24978315085172653,
+                "tail": "accomplished"
+            },
+            {
+                "head": "PersonX evens added ___",
+                "relation": "xEffect",
+                "similarity": 0.24885768443346024,
+                "tail": "got credit for improvments"
+            },
+            {
+                "head": "list of participants",
+                "relation": "ObjectUse",
+                "similarity": 0.2462644726037979,
+                "tail": "tot up how much money will come in"
+            },
+            {
+                "head": "PersonX evens added ___",
+                "relation": "oEffect",
+                "similarity": 0.2449565827846527,
+                "tail": "none"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_18",
+        "question_commonsense": [
+            {
+                "head": "calorie calculator",
+                "relation": "ObjectUse",
+                "similarity": 0.6399782598018646,
+                "tail": "compare two foods"
+            },
+            {
+                "head": "bus schedule",
+                "relation": "ObjectUse",
+                "similarity": 0.6349956393241882,
+                "tail": "schedule around work"
+            },
+            {
+                "head": "exercise calculator",
+                "relation": "ObjectUse",
+                "similarity": 0.6289612054824829,
+                "tail": "find how many calories have been burned"
+            },
+            {
+                "head": "calorie calculator",
+                "relation": "ObjectUse",
+                "similarity": 0.6266785860061646,
+                "tail": "calculate calorie intake"
+            },
+            {
+                "head": "exercise calculator",
+                "relation": "ObjectUse",
+                "similarity": 0.6246820986270905,
+                "tail": "keep track of exercises"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX decides to make breakfast",
+                "relation": "xWant",
+                "similarity": 0.26899243891239166,
+                "tail": "eat breakfast"
+            },
+            {
+                "head": "PersonX decides to make breakfast",
+                "relation": "isBefore",
+                "similarity": 0.266630157828331,
+                "tail": "PersonX they get up to breakfast and begin the day with PersonX as thier leader"
+            },
+            {
+                "head": "work schedule",
+                "relation": "ObjectUse",
+                "similarity": 0.25669318437576294,
+                "tail": "know when you work"
+            },
+            {
+                "head": "PersonX decides to make breakfast",
+                "relation": "HinderedBy",
+                "similarity": 0.25312089920043945,
+                "tail": "They don't want the extra calories."
+            },
+            {
+                "head": "work schedule",
+                "relation": "ObjectUse",
+                "similarity": 0.2530912756919861,
+                "tail": "give out to employees"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_19",
+        "question_commonsense": [
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xEffect",
+                "similarity": 0.6807619333267212,
+                "tail": "too learns computer programing"
+            },
+            {
+                "head": "PersonX makes money online",
+                "relation": "xIntent",
+                "similarity": 0.6787394881248474,
+                "tail": "to use internet to make money"
+            },
+            {
+                "head": "listing on website",
+                "relation": "ObjectUse",
+                "similarity": 0.6762821972370148,
+                "tail": "spam someone's email"
+            },
+            {
+                "head": "PersonX makes money online",
+                "relation": "xNeed",
+                "similarity": 0.6746562719345093,
+                "tail": "to have internet"
+            },
+            {
+                "head": "PersonX makes money online",
+                "relation": "xNeed",
+                "similarity": 0.6742903590202332,
+                "tail": "to find jobs online"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX pays PersonY dollars",
+                "relation": "oEffect",
+                "similarity": 0.2634720504283905,
+                "tail": "pays bills"
+            },
+            {
+                "head": "dollar",
+                "relation": "ObjectUse",
+                "similarity": 0.2616172432899475,
+                "tail": "bus fare"
+            },
+            {
+                "head": "PersonX pays PersonY dollars",
+                "relation": "xEffect",
+                "similarity": 0.2601053789258003,
+                "tail": "has less money for spending"
+            },
+            {
+                "head": "PersonX pays PersonY dollars",
+                "relation": "xIntent",
+                "similarity": 0.25935305655002594,
+                "tail": "to pay his debt"
+            },
+            {
+                "head": "PersonX pays PersonY dollars",
+                "relation": "xEffect",
+                "similarity": 0.25719471275806427,
+                "tail": "Person x reaches for money."
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_20",
+        "question_commonsense": [
+            {
+                "head": "roulette wheel",
+                "relation": "AtLocation",
+                "similarity": 0.7189772129058838,
+                "tail": "casino"
+            },
+            {
+                "head": "roulette",
+                "relation": "AtLocation",
+                "similarity": 0.7017216980457306,
+                "tail": "casino"
+            },
+            {
+                "head": "poker table",
+                "relation": "AtLocation",
+                "similarity": 0.7015408873558044,
+                "tail": "casino"
+            },
+            {
+                "head": "game tables",
+                "relation": "ObjectUse",
+                "similarity": 0.6678402423858643,
+                "tail": "play poker on"
+            },
+            {
+                "head": "game tables",
+                "relation": "ObjectUse",
+                "similarity": 0.6678402423858643,
+                "tail": "play poker"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "dice game",
+                "relation": "ObjectUse",
+                "similarity": 0.2844749391078949,
+                "tail": "cheat with loaded dice"
+            },
+            {
+                "head": "token slot",
+                "relation": "ObjectUse",
+                "similarity": 0.2759900838136673,
+                "tail": "inserting tokens into"
+            },
+            {
+                "head": "token slot",
+                "relation": "ObjectUse",
+                "similarity": 0.2733273059129715,
+                "tail": "tokens"
+            },
+            {
+                "head": "PersonX learns how to play poker",
+                "relation": "oWant",
+                "similarity": 0.2710985690355301,
+                "tail": "to teach PersonX how to play poker"
+            },
+            {
+                "head": "PersonX learns how to play poker",
+                "relation": "xEffect",
+                "similarity": 0.26906032860279083,
+                "tail": "wins at poker"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_21",
+        "question_commonsense": [
+            {
+                "head": "PersonX has a math test",
+                "relation": "xEffect",
+                "similarity": 0.7457718253135681,
+                "tail": "to has a math test"
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "HinderedBy",
+                "similarity": 0.7436851561069489,
+                "tail": "Math tests were given out last month."
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "HinderedBy",
+                "similarity": 0.7433632016181946,
+                "tail": "The math test was already completed today."
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "isAfter",
+                "similarity": 0.743108481168747,
+                "tail": "PersonX studies math problems"
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "xNeed",
+                "similarity": 0.7423142492771149,
+                "tail": "enroll a math competition"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX classifies ___ into groups",
+                "relation": "xNeed",
+                "similarity": 0.2830127775669098,
+                "tail": "Gather data on the group"
+            },
+            {
+                "head": "PersonX groups ___ according",
+                "relation": "xAttr",
+                "similarity": 0.2679186686873436,
+                "tail": "methodically"
+            },
+            {
+                "head": "PersonX groups ___ according",
+                "relation": "xIntent",
+                "similarity": 0.2678336501121521,
+                "tail": "to organize people and things"
+            },
+            {
+                "head": "PersonX groups ___ according",
+                "relation": "xEffect",
+                "similarity": 0.2657943218946457,
+                "tail": "becomes more organized"
+            },
+            {
+                "head": "PersonX classifies ___ into groups",
+                "relation": "oReact",
+                "similarity": 0.2650063559412956,
+                "tail": "categorized"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.8110702335834503,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.8089992105960846,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.8070995509624481,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.8070542216300964,
+                "tail": "find a calculator"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.8034854531288147,
+                "tail": "to understand the equation."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "sizes",
+                "relation": "ObjectUse",
+                "similarity": 0.2681054621934891,
+                "tail": "mark your clothing size"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.25357525050640106,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.2476983591914177,
+                "tail": "to have a difference in opinion with everyone in the family"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xWant",
+                "similarity": 0.24758221954107285,
+                "tail": "to carry out his responsibilities"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xAttr",
+                "similarity": 0.24592461436986923,
+                "tail": "percise"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_23",
+        "question_commonsense": [
+            {
+                "head": "self-checkout machine",
+                "relation": "ObjectUse",
+                "similarity": 0.5996925532817841,
+                "tail": "practice being a cashier"
+            },
+            {
+                "head": "self-checkout machine",
+                "relation": "ObjectUse",
+                "similarity": 0.5868772268295288,
+                "tail": "get the items faster"
+            },
+            {
+                "head": "self-checkout machine",
+                "relation": "ObjectUse",
+                "similarity": 0.5827323198318481,
+                "tail": "make items fly across"
+            },
+            {
+                "head": "service counter",
+                "relation": "ObjectUse",
+                "similarity": 0.5778862535953522,
+                "tail": "satisfying customers"
+            },
+            {
+                "head": "self-checkout machine",
+                "relation": "ObjectUse",
+                "similarity": 0.5752682983875275,
+                "tail": "steal items you don't want to pay for"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "gradebook",
+                "relation": "ObjectUse",
+                "similarity": 0.25636132061481476,
+                "tail": "keep track of tests"
+            },
+            {
+                "head": "gradebook",
+                "relation": "ObjectUse",
+                "similarity": 0.2541665732860565,
+                "tail": "help grade"
+            },
+            {
+                "head": "school grades",
+                "relation": "ObjectUse",
+                "similarity": 0.25057322531938553,
+                "tail": "leverage the principal with"
+            },
+            {
+                "head": "gradebook",
+                "relation": "ObjectUse",
+                "similarity": 0.25008152425289154,
+                "tail": "Enter grades"
+            },
+            {
+                "head": "good grades",
+                "relation": "ObjectUse",
+                "similarity": 0.2441130131483078,
+                "tail": "get in a good college"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_24",
+        "question_commonsense": [
+            {
+                "head": "PersonX takes surveys",
+                "relation": "HinderedBy",
+                "similarity": 0.753665417432785,
+                "tail": "No one has posted any surveys."
+            },
+            {
+                "head": "PersonX takes surveys",
+                "relation": "xWant",
+                "similarity": 0.7414245903491974,
+                "tail": "to see where there are even more surveys"
+            },
+            {
+                "head": "PersonX takes surveys",
+                "relation": "oWant",
+                "similarity": 0.7400069236755371,
+                "tail": "to give PersonX more surveys"
+            },
+            {
+                "head": "PersonX takes surveys",
+                "relation": "xNeed",
+                "similarity": 0.7396523654460907,
+                "tail": "to find someone giving surveys"
+            },
+            {
+                "head": "PersonX gets PersonY's phone number",
+                "relation": "xEffect",
+                "similarity": 0.7376287877559662,
+                "tail": "loses phone number"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.27121666073799133,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.2650514543056488,
+                "tail": "record measurements"
+            },
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.2623734474182129,
+                "tail": "storing telphone numbers"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.26185302436351776,
+                "tail": "Person x makes inferences and/or calculations based upon results"
+            },
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.25836578011512756,
+                "tail": "keeping telephone numbers"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_25",
+        "question_commonsense": [
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.7075640559196472,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7021765112876892,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "math",
+                "relation": "HasProperty",
+                "similarity": 0.6989075541496277,
+                "tail": "difficult for students"
+            },
+            {
+                "head": "math",
+                "relation": "ObjectUse",
+                "similarity": 0.6987296044826508,
+                "tail": "fun"
+            },
+            {
+                "head": "math",
+                "relation": "HasProperty",
+                "similarity": 0.6987296044826508,
+                "tail": "fun"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX wins three games",
+                "relation": "xWant",
+                "similarity": 0.2776634246110916,
+                "tail": "To win a fourth game"
+            },
+            {
+                "head": "winning numbers",
+                "relation": "ObjectUse",
+                "similarity": 0.2709968686103821,
+                "tail": "remember as lucky numbers"
+            },
+            {
+                "head": "PersonX wins three games",
+                "relation": "xEffect",
+                "similarity": 0.27059823274612427,
+                "tail": "person x wins another game"
+            },
+            {
+                "head": "PersonX wins three games",
+                "relation": "HinderedBy",
+                "similarity": 0.266353040933609,
+                "tail": "There's a two turn limit on the games."
+            },
+            {
+                "head": "PersonX wins three games",
+                "relation": "xWant",
+                "similarity": 0.26511524617671967,
+                "tail": "To keep the winning streak going"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_26",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xIntent",
+                "similarity": 0.7630482614040375,
+                "tail": "to explain using figures"
+            },
+            {
+                "head": "PersonX shows schematically in figure",
+                "relation": "xIntent",
+                "similarity": 0.7542930543422699,
+                "tail": "figure out his design"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.7531664371490479,
+                "tail": "play selected tunes"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.7516378164291382,
+                "tail": "read the song"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xEffect",
+                "similarity": 0.751390278339386,
+                "tail": "explains the diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "xWant",
+                "similarity": 0.2741035670042038,
+                "tail": "to have college review newest test results"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.2629018574953079,
+                "tail": "to wait for test results"
+            },
+            {
+                "head": "PersonX has been deferred until test results are in",
+                "relation": "xEffect",
+                "similarity": 0.26151763647794724,
+                "tail": "wait for results"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "xNeed",
+                "similarity": 0.25999943912029266,
+                "tail": "to retake college admission test"
+            },
+            {
+                "head": "test scores",
+                "relation": "ObjectUse",
+                "similarity": 0.25698600709438324,
+                "tail": "get into college"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_27",
+        "question_commonsense": [
+            {
+                "head": "roulette wheel",
+                "relation": "AtLocation",
+                "similarity": 0.7189772129058838,
+                "tail": "casino"
+            },
+            {
+                "head": "roulette",
+                "relation": "AtLocation",
+                "similarity": 0.7017216980457306,
+                "tail": "casino"
+            },
+            {
+                "head": "poker table",
+                "relation": "AtLocation",
+                "similarity": 0.7015408873558044,
+                "tail": "casino"
+            },
+            {
+                "head": "game tables",
+                "relation": "ObjectUse",
+                "similarity": 0.6678402423858643,
+                "tail": "play poker on"
+            },
+            {
+                "head": "game tables",
+                "relation": "ObjectUse",
+                "similarity": 0.6678402423858643,
+                "tail": "play poker"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "dice game",
+                "relation": "ObjectUse",
+                "similarity": 0.2867630273103714,
+                "tail": "cheat with loaded dice"
+            },
+            {
+                "head": "token slot",
+                "relation": "ObjectUse",
+                "similarity": 0.28507499396800995,
+                "tail": "inserting tokens into"
+            },
+            {
+                "head": "token slot",
+                "relation": "ObjectUse",
+                "similarity": 0.2821621000766754,
+                "tail": "tokens"
+            },
+            {
+                "head": "token slot",
+                "relation": "ObjectUse",
+                "similarity": 0.2774592638015747,
+                "tail": "insert token"
+            },
+            {
+                "head": "token slot",
+                "relation": "ObjectUse",
+                "similarity": 0.27362097799777985,
+                "tail": "tokens instead of money"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.8165037035942078,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.8113996386528015,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.8077435195446014,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.8075869977474213,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.8010059595108032,
+                "tail": "scientific"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "xNeed",
+                "similarity": 0.27149002254009247,
+                "tail": "to figure how many cells there are"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.2663068324327469,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "xNeed",
+                "similarity": 0.26330290734767914,
+                "tail": "to count an item"
+            },
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "oWant",
+                "similarity": 0.2628602311015129,
+                "tail": "to help PersonX with the research"
+            },
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "xWant",
+                "similarity": 0.26246993988752365,
+                "tail": "to ask others to help with the research"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_29",
+        "question_commonsense": [
+            {
+                "head": "PersonX is a great baseball player",
+                "relation": "xWant",
+                "similarity": 0.6681259274482727,
+                "tail": "to play baseball in college as well"
+            },
+            {
+                "head": "PersonX is a great baseball player",
+                "relation": "xWant",
+                "similarity": 0.6661622524261475,
+                "tail": "become a pro baseball player"
+            },
+            {
+                "head": "PersonX is a great baseball player",
+                "relation": "xIntent",
+                "similarity": 0.6660306453704834,
+                "tail": "to be a skilled person at baseball"
+            },
+            {
+                "head": "PersonX is a great baseball player",
+                "relation": "xNeed",
+                "similarity": 0.6644688546657562,
+                "tail": "play baseball with friends"
+            },
+            {
+                "head": "PersonX is a great baseball player",
+                "relation": "xWant",
+                "similarity": 0.6630182862281799,
+                "tail": "join a baseball team"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX splits the difference",
+                "relation": "HinderedBy",
+                "similarity": 0.2542949840426445,
+                "tail": "PersonX isn't good at math."
+            },
+            {
+                "head": "winning numbers",
+                "relation": "ObjectUse",
+                "similarity": 0.24571963399648666,
+                "tail": "remember as lucky numbers"
+            },
+            {
+                "head": "PersonX splits the difference",
+                "relation": "xNeed",
+                "similarity": 0.2438032254576683,
+                "tail": "to have something to split"
+            },
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "xNeed",
+                "similarity": 0.24305713921785355,
+                "tail": "to figure how many cells there are"
+            },
+            {
+                "head": "PersonX splits the difference",
+                "relation": "xWant",
+                "similarity": 0.24207792431116104,
+                "tail": "to show fairness"
+            }
+        ]
+    },
+    {
+        "id": "validation_Marketing_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.852966845035553,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.8523319065570831,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.8488748371601105,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.8439390659332275,
+                "tail": "illustrative"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8433442115783691,
+                "tail": "to illustrate something"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.29085978865623474,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "graph",
+                "relation": "MadeUpOf",
+                "similarity": 0.27794353663921356,
+                "tail": "curve"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2765432596206665,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2763099819421768,
+                "tail": "clearly present data"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.2733281999826431,
+                "tail": "to have the thing in question"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Literature_1",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.8678921759128571,
+                "tail": "PersonX offers one example"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "oReact",
+                "similarity": 0.8621966242790222,
+                "tail": "more understanding of the topic"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8619490265846252,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "isFilledBy",
+                "similarity": 0.8613759279251099,
+                "tail": "character"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "HinderedBy",
+                "similarity": 0.8588640689849854,
+                "tail": "They can’t think of anything new."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX teaches children to read",
+                "relation": "xIntent",
+                "similarity": 0.2774876803159714,
+                "tail": "the children to learn an important life skill"
+            },
+            {
+                "head": "PersonX teaches children to read",
+                "relation": "xWant",
+                "similarity": 0.2757003754377365,
+                "tail": "for children to be literate"
+            },
+            {
+                "head": "PersonX teaches children to read",
+                "relation": "xWant",
+                "similarity": 0.27123434841632843,
+                "tail": "to make the children understand what they read"
+            },
+            {
+                "head": "PersonX teaches children to read",
+                "relation": "xWant",
+                "similarity": 0.26762355864048004,
+                "tail": "to test the children's reading speed"
+            },
+            {
+                "head": "babysitting course",
+                "relation": "ObjectUse",
+                "similarity": 0.2675924152135849,
+                "tail": "get to know the other nannies hoping for dates"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives the reader a ___",
+                "relation": "xEffect",
+                "similarity": 0.8961296677589417,
+                "tail": "explains to the reader how to use it"
+            },
+            {
+                "head": "PersonX gives the reader a ___",
+                "relation": "xWant",
+                "similarity": 0.8960176110267639,
+                "tail": "give more readers something"
+            },
+            {
+                "head": "PersonX gives the reader a ___",
+                "relation": "xIntent",
+                "similarity": 0.8959758877754211,
+                "tail": "to understand the reader."
+            },
+            {
+                "head": "PersonX gives the reader some ___",
+                "relation": "xEffect",
+                "similarity": 0.8949702084064484,
+                "tail": "might acquire even further expanded knowledge while researching/preparing to write their information"
+            },
+            {
+                "head": "PersonX gives the reader a ___",
+                "relation": "xNeed",
+                "similarity": 0.8934924900531769,
+                "tail": "to of read it to"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "beginner book",
+                "relation": "ObjectUse",
+                "similarity": 0.28319285809993744,
+                "tail": "teach a child to read"
+            },
+            {
+                "head": "question book",
+                "relation": "ObjectUse",
+                "similarity": 0.2814805209636688,
+                "tail": "cheat on an exam- with written answers in book"
+            },
+            {
+                "head": "PersonX is reading a book",
+                "relation": "xNeed",
+                "similarity": 0.2778918892145157,
+                "tail": "find a book"
+            },
+            {
+                "head": "PersonX is reading a book",
+                "relation": "xWant",
+                "similarity": 0.2762090861797333,
+                "tail": "to read the book to their child"
+            },
+            {
+                "head": "question book",
+                "relation": "ObjectUse",
+                "similarity": 0.2759764939546585,
+                "tail": "copy down answers"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives another example",
+                "relation": "oReact",
+                "similarity": 0.8850156664848328,
+                "tail": "more understanding of the topic"
+            },
+            {
+                "head": "PersonX deciphers a word 's ___ within context",
+                "relation": "xWant",
+                "similarity": 0.881840705871582,
+                "tail": "to get the opinion of others about the word meaning"
+            },
+            {
+                "head": "PersonX deciphers a word 's ___ within context",
+                "relation": "xNeed",
+                "similarity": 0.879005640745163,
+                "tail": "to know how to decipher word meanings"
+            },
+            {
+                "head": "PersonX deciphers a word 's ___ within context",
+                "relation": "xNeed",
+                "similarity": 0.8777845799922943,
+                "tail": "read the sentence"
+            },
+            {
+                "head": "PersonX deciphers a word 's ___ within context",
+                "relation": "xWant",
+                "similarity": 0.8776122629642487,
+                "tail": "to search further to see if there are other meanings for the word"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX looks in the mirror",
+                "relation": "HinderedBy",
+                "similarity": 0.2685987949371338,
+                "tail": "Person X can't find a mirror"
+            },
+            {
+                "head": "compact mirror",
+                "relation": "ObjectUse",
+                "similarity": 0.2591545581817627,
+                "tail": "look behind you"
+            },
+            {
+                "head": "handmirror",
+                "relation": "ObjectUse",
+                "similarity": 0.2579362690448761,
+                "tail": "take a quick look at oneself"
+            },
+            {
+                "head": "magnifying glass",
+                "relation": "ObjectUse",
+                "similarity": 0.2563398778438568,
+                "tail": "find clues"
+            },
+            {
+                "head": "hand mirror",
+                "relation": "ObjectUse",
+                "similarity": 0.2560105472803116,
+                "tail": "Apply makeup"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY picture",
+                "relation": "oWant",
+                "similarity": 0.8735637962818146,
+                "tail": "to thank PersonX"
+            },
+            {
+                "head": "PersonX gives PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.872142881155014,
+                "tail": "PersonY thanks PersonX"
+            },
+            {
+                "head": "PersonX lets PersonY know what you think",
+                "relation": "HinderedBy",
+                "similarity": 0.8690658807754517,
+                "tail": "PersonX does not know what you think."
+            },
+            {
+                "head": "PersonX gives PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8656066954135895,
+                "tail": "thanks personX"
+            },
+            {
+                "head": "PersonX lets PersonY know what you think",
+                "relation": "xAttr",
+                "similarity": 0.8649176359176636,
+                "tail": "expressive"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "pet carrier",
+                "relation": "ObjectUse",
+                "similarity": 0.26857107877731323,
+                "tail": "carry pet home"
+            },
+            {
+                "head": "PersonX has three children",
+                "relation": "HinderedBy",
+                "similarity": 0.26116327941417694,
+                "tail": "PersonX has five children"
+            },
+            {
+                "head": "pet carrier",
+                "relation": "ObjectUse",
+                "similarity": 0.2602558135986328,
+                "tail": "Carry puppy home in"
+            },
+            {
+                "head": "pet carrier",
+                "relation": "ObjectUse",
+                "similarity": 0.259732186794281,
+                "tail": "transport the dog home"
+            },
+            {
+                "head": "animal carrier",
+                "relation": "ObjectUse",
+                "similarity": 0.2589772194623947,
+                "tail": "stop the pet from running away"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX writes books",
+                "relation": "xWant",
+                "similarity": 0.8463188707828522,
+                "tail": "to have a movie made on one of their books"
+            },
+            {
+                "head": "PersonX writes another book",
+                "relation": "xWant",
+                "similarity": 0.8436865210533142,
+                "tail": "to be a respected author"
+            },
+            {
+                "head": "PersonX writes books",
+                "relation": "isBefore",
+                "similarity": 0.8436768352985382,
+                "tail": "PersonX sells books online"
+            },
+            {
+                "head": "PersonX writes another book",
+                "relation": "xNeed",
+                "similarity": 0.8431855738162994,
+                "tail": "to write the first book"
+            },
+            {
+                "head": "PersonX writes another book",
+                "relation": "xNeed",
+                "similarity": 0.8431855738162994,
+                "tail": "to write a first book"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX reads PersonY's favorite book",
+                "relation": "isAfter",
+                "similarity": 0.2648328095674515,
+                "tail": "PersonX asks PersonY for PersonY's favorite book"
+            },
+            {
+                "head": "PersonX reads PersonY's favorite book",
+                "relation": "xIntent",
+                "similarity": 0.263839527964592,
+                "tail": "to read a new book"
+            },
+            {
+                "head": "PersonX reads a new book",
+                "relation": "xIntent",
+                "similarity": 0.26352714002132416,
+                "tail": "to read a book by his favorite author."
+            },
+            {
+                "head": "PersonX reads PersonX's favorite book",
+                "relation": "HinderedBy",
+                "similarity": 0.26319900155067444,
+                "tail": "PersonX is too busy at work to read for pleasure"
+            },
+            {
+                "head": "PersonX reads PersonY's favorite book",
+                "relation": "xIntent",
+                "similarity": 0.2611398845911026,
+                "tail": "to read a book"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8350843489170074,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.8312297463417053,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "PersonX shows schematically in figure",
+                "relation": "oReact",
+                "similarity": 0.8297160267829895,
+                "tail": "knowledgable"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8289111852645874,
+                "tail": "to explain his project."
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xWant",
+                "similarity": 0.8287413120269775,
+                "tail": "to sell the artwork"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "typewriter key",
+                "relation": "ObjectUse",
+                "similarity": 0.2709084302186966,
+                "tail": "type letter symbol or number"
+            },
+            {
+                "head": "asterisk wildcard symbol",
+                "relation": "ObjectUse",
+                "similarity": 0.26986898481845856,
+                "tail": "specify strings of characters"
+            },
+            {
+                "head": "yardstick",
+                "relation": "ObjectUse",
+                "similarity": 0.26861175894737244,
+                "tail": "draw straight line"
+            },
+            {
+                "head": "typewriter key",
+                "relation": "ObjectUse",
+                "similarity": 0.26448558270931244,
+                "tail": "print symbol on paper"
+            },
+            {
+                "head": "yardstick",
+                "relation": "ObjectUse",
+                "similarity": 0.26138797402381897,
+                "tail": "draw straight lines"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_7",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.8859525620937347,
+                "tail": "PersonX offers one example"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "oReact",
+                "similarity": 0.8849462568759918,
+                "tail": "more understanding of the topic"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8841054737567902,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8828958570957184,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8807839453220367,
+                "tail": "to illustrate something"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX lives happily ever after",
+                "relation": "xNeed",
+                "similarity": 0.2983052432537079,
+                "tail": "to have happy things happen in their life"
+            },
+            {
+                "head": "PersonX lives happily ever after",
+                "relation": "xWant",
+                "similarity": 0.2870262563228607,
+                "tail": "live every day to the fullest"
+            },
+            {
+                "head": "PersonX lives happily ever after",
+                "relation": "xWant",
+                "similarity": 0.28406256437301636,
+                "tail": "make everyone around them happy"
+            },
+            {
+                "head": "PersonX lives happily ever",
+                "relation": "xNeed",
+                "similarity": 0.2808621972799301,
+                "tail": "to have a fairy tale wedding"
+            },
+            {
+                "head": "PersonX lives happily ever",
+                "relation": "xAttr",
+                "similarity": 0.27795276045799255,
+                "tail": "happy"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.859568864107132,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.8551968336105347,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8468191623687744,
+                "tail": "to explain his project."
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "oReact",
+                "similarity": 0.8457838892936707,
+                "tail": "more understanding of the topic"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "oReact",
+                "similarity": 0.8450030088424683,
+                "tail": "good they learnt something"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX develops PersonX's resources",
+                "relation": "xEffect",
+                "similarity": 0.2331758365035057,
+                "tail": "has resources available"
+            },
+            {
+                "head": "PersonX develops PersonX's resources",
+                "relation": "HinderedBy",
+                "similarity": 0.23197756707668304,
+                "tail": "PersonX's closest friend has been borrowing all of PersonX's extra funds so PersonX can't invest."
+            },
+            {
+                "head": "PersonX develops PersonX's resources",
+                "relation": "xWant",
+                "similarity": 0.23072215169668198,
+                "tail": "to develop more resources"
+            },
+            {
+                "head": "PersonX develops PersonX's resources",
+                "relation": "HinderedBy",
+                "similarity": 0.22703917324543,
+                "tail": "person y tells person x they can't learn to develop anything"
+            },
+            {
+                "head": "PersonX contributes to PersonY understanding",
+                "relation": "xWant",
+                "similarity": 0.22571373730897903,
+                "tail": "ask y questions to check understanding"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_9",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xIntent",
+                "similarity": 0.8985450267791748,
+                "tail": "to explain using figures"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xEffect",
+                "similarity": 0.8944567143917084,
+                "tail": "explains the diagram"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "oWant",
+                "similarity": 0.8922446370124817,
+                "tail": "learn"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8906287550926208,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xReact",
+                "similarity": 0.8902837038040161,
+                "tail": "helpful"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX supports PersonY's families",
+                "relation": "xIntent",
+                "similarity": 0.27622801065444946,
+                "tail": "to help the families of persony"
+            },
+            {
+                "head": "PersonX supports PersonX's families",
+                "relation": "xWant",
+                "similarity": 0.2698565423488617,
+                "tail": "to provide for their family"
+            },
+            {
+                "head": "PersonX supports PersonY's families",
+                "relation": "xAttr",
+                "similarity": 0.2685670852661133,
+                "tail": "altruistic"
+            },
+            {
+                "head": "PersonX supports PersonY's families",
+                "relation": "HinderedBy",
+                "similarity": 0.2672439515590668,
+                "tail": "PersonX does not have the money to support PersonY's families."
+            },
+            {
+                "head": "PersonX supports PersonY's families",
+                "relation": "xNeed",
+                "similarity": 0.26437176764011383,
+                "tail": "to meet the families"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_10",
+        "question_commonsense": [
+            {
+                "head": "PersonX becomes a writer",
+                "relation": "xNeed",
+                "similarity": 0.8576527833938599,
+                "tail": "something to write with."
+            },
+            {
+                "head": "PersonX becomes a writer",
+                "relation": "HinderedBy",
+                "similarity": 0.8542128503322601,
+                "tail": "PersonX is not very creative with writing anything."
+            },
+            {
+                "head": "PersonX becomes a writer",
+                "relation": "xIntent",
+                "similarity": 0.8515397012233734,
+                "tail": "to write"
+            },
+            {
+                "head": "PersonX becomes a writer",
+                "relation": "xEffect",
+                "similarity": 0.8508156538009644,
+                "tail": "writes a chapter"
+            },
+            {
+                "head": "PersonX becomes a writer",
+                "relation": "xNeed",
+                "similarity": 0.8503615260124207,
+                "tail": "to study writing"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX deciphers a word 's ___ within context",
+                "relation": "xNeed",
+                "similarity": 0.280775710940361,
+                "tail": "to know how to decipher word meanings"
+            },
+            {
+                "head": "PersonX deciphers a word 's ___ within context",
+                "relation": "xWant",
+                "similarity": 0.27645938098430634,
+                "tail": "to search further to see if there are other meanings for the word"
+            },
+            {
+                "head": "PersonX finds ___ in words",
+                "relation": "xEffect",
+                "similarity": 0.27573008835315704,
+                "tail": "He begins to write because he has found expression in words"
+            },
+            {
+                "head": "PersonX deciphers a word 's ___ within context",
+                "relation": "xWant",
+                "similarity": 0.27363453805446625,
+                "tail": "to get the opinion of others about the word meaning"
+            },
+            {
+                "head": "PersonX finds ___ in words",
+                "relation": "xIntent",
+                "similarity": 0.2672206163406372,
+                "tail": "it is required to find data for reasearch"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8878615200519562,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.8839855194091797,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "xNeed",
+                "similarity": 0.878606915473938,
+                "tail": "buy illustration"
+            },
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "xNeed",
+                "similarity": 0.8778446316719055,
+                "tail": "make an illustration"
+            },
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "isAfter",
+                "similarity": 0.8765711486339569,
+                "tail": "PersonX draws an illustration"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX finds a book",
+                "relation": "xEffect",
+                "similarity": 0.2631956487894058,
+                "tail": "looks up and down the pages of the book"
+            },
+            {
+                "head": "PersonX finds a book",
+                "relation": "xEffect",
+                "similarity": 0.2630988657474518,
+                "tail": "he straightens up and opens the book"
+            },
+            {
+                "head": "PersonX finds a book",
+                "relation": "HinderedBy",
+                "similarity": 0.26142820715904236,
+                "tail": "The kid was sitting on the book"
+            },
+            {
+                "head": "PersonX finds the book",
+                "relation": "xNeed",
+                "similarity": 0.2596433311700821,
+                "tail": "be on the hunt for a book"
+            },
+            {
+                "head": "PersonX finds the book",
+                "relation": "xNeed",
+                "similarity": 0.2580285966396332,
+                "tail": "find a certain book to read"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_12",
+        "question_commonsense": [
+            {
+                "head": "go see play",
+                "relation": "HasSubEvent",
+                "similarity": 0.884528785943985,
+                "tail": "go to theatre"
+            },
+            {
+                "head": "go see play",
+                "relation": "xNeed",
+                "similarity": 0.879873126745224,
+                "tail": "buy theater tickets"
+            },
+            {
+                "head": "go see play",
+                "relation": "xNeed",
+                "similarity": 0.876152753829956,
+                "tail": "buy ticket from theatre"
+            },
+            {
+                "head": "go see play",
+                "relation": "xNeed",
+                "similarity": 0.8754064738750458,
+                "tail": "see what plays on"
+            },
+            {
+                "head": "go see play",
+                "relation": "HasSubEvent",
+                "similarity": 0.8752541244029999,
+                "tail": "buy ticket"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "opera ticket",
+                "relation": "ObjectUse",
+                "similarity": 0.26043421030044556,
+                "tail": "admission to opera performance"
+            },
+            {
+                "head": "opera ticket",
+                "relation": "ObjectUse",
+                "similarity": 0.25862692296504974,
+                "tail": "admission to opera"
+            },
+            {
+                "head": "go to opera",
+                "relation": "HasSubEvent",
+                "similarity": 0.2582652121782303,
+                "tail": "purchase opera ticket"
+            },
+            {
+                "head": "opera singer",
+                "relation": "AtLocation",
+                "similarity": 0.25717446953058243,
+                "tail": "opera"
+            },
+            {
+                "head": "opera ticket",
+                "relation": "AtLocation",
+                "similarity": 0.25260544568300247,
+                "tail": "opera"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_13",
+        "question_commonsense": [
+            {
+                "head": "bookshelf",
+                "relation": "ObjectUse",
+                "similarity": 0.8104917705059052,
+                "tail": "use it as a storage shelf"
+            },
+            {
+                "head": "book shelf",
+                "relation": "ObjectUse",
+                "similarity": 0.8087080419063568,
+                "tail": "store books"
+            },
+            {
+                "head": "bookshelf",
+                "relation": "ObjectUse",
+                "similarity": 0.8051484823226929,
+                "tail": "displaying and storing reading material"
+            },
+            {
+                "head": "PersonX gives PersonY a book",
+                "relation": "oEffect",
+                "similarity": 0.8043921589851379,
+                "tail": "takes the book"
+            },
+            {
+                "head": "PersonX gives PersonY a book",
+                "relation": "oEffect",
+                "similarity": 0.803401380777359,
+                "tail": "reads the book"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "judge robe",
+                "relation": "ObjectUse",
+                "similarity": 0.30482131242752075,
+                "tail": "pretend to be a judge"
+            },
+            {
+                "head": "judge",
+                "relation": "xNeed",
+                "similarity": 0.301423043012619,
+                "tail": "become judge"
+            },
+            {
+                "head": "judge",
+                "relation": "HasSubEvent",
+                "similarity": 0.294408917427063,
+                "tail": "get judged yourself"
+            },
+            {
+                "head": "judge robe",
+                "relation": "ObjectUse",
+                "similarity": 0.2898702472448349,
+                "tail": "look like a judge"
+            },
+            {
+                "head": "judge",
+                "relation": "HasSubEvent",
+                "similarity": 0.28890006244182587,
+                "tail": "judgement might incorrect"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX applies the paper to the study",
+                "relation": "isAfter",
+                "similarity": 0.819120317697525,
+                "tail": "PersonX types up a paper"
+            },
+            {
+                "head": "PersonX applies ___ to the study",
+                "relation": "xEffect",
+                "similarity": 0.8160620331764221,
+                "tail": "PersonX receives an authorship in a scientific paper"
+            },
+            {
+                "head": "PersonX interprets the research paper in ways",
+                "relation": "isAfter",
+                "similarity": 0.8146069049835205,
+                "tail": "PersonX reads the research paper"
+            },
+            {
+                "head": "PersonX writes PersonX's paper",
+                "relation": "xNeed",
+                "similarity": 0.8131562769412994,
+                "tail": "read books"
+            },
+            {
+                "head": "PersonX interprets the research paper in ways",
+                "relation": "isBefore",
+                "similarity": 0.8118390738964081,
+                "tail": "PersonX writes their conclusions in their assignment"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX sprays paint",
+                "relation": "xWant",
+                "similarity": 0.27503693103790283,
+                "tail": "to vandalize sometihng"
+            },
+            {
+                "head": "graffitti",
+                "relation": "AtLocation",
+                "similarity": 0.2658460661768913,
+                "tail": "subway"
+            },
+            {
+                "head": "PersonX sprays paint",
+                "relation": "xNeed",
+                "similarity": 0.26526086777448654,
+                "tail": "Grab the paint can."
+            },
+            {
+                "head": "PersonX sprays by a skunk",
+                "relation": "xWant",
+                "similarity": 0.26470543444156647,
+                "tail": "to take a shower"
+            },
+            {
+                "head": "PersonX sprays by a skunk",
+                "relation": "xWant",
+                "similarity": 0.262764148414135,
+                "tail": "to take a bath"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX teaches PersonX's ___ to read",
+                "relation": "oEffect",
+                "similarity": 0.8041967153549194,
+                "tail": "now can look up information and understand the words"
+            },
+            {
+                "head": "PersonX reads the book aloud",
+                "relation": "isBefore",
+                "similarity": 0.8027535080909729,
+                "tail": "PersonX sees the children are enjoying the story"
+            },
+            {
+                "head": "PersonX teaches PersonX's ___ to read",
+                "relation": "oWant",
+                "similarity": 0.8003739416599274,
+                "tail": "to read to their own child"
+            },
+            {
+                "head": "PersonX develops PersonX's resources",
+                "relation": "xEffect",
+                "similarity": 0.7989383339881897,
+                "tail": "has resources to use"
+            },
+            {
+                "head": "PersonX teaches PersonX's ___ to read",
+                "relation": "xIntent",
+                "similarity": 0.7982401847839355,
+                "tail": "to see a child grow intelectually"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX enrols to teach at PersonY institution",
+                "relation": "isBefore",
+                "similarity": 0.26646359264850616,
+                "tail": "PersonX walks into a classroom at PersonY institution"
+            },
+            {
+                "head": "PersonX writes an essay for class",
+                "relation": "HinderedBy",
+                "similarity": 0.26249273121356964,
+                "tail": "PersonX is not in a writing class."
+            },
+            {
+                "head": "PersonX writes an essay for class",
+                "relation": "isBefore",
+                "similarity": 0.25577443838119507,
+                "tail": "PersonX is the best writer in class"
+            },
+            {
+                "head": "PersonX enrols to teach at PersonY institution",
+                "relation": "isAfter",
+                "similarity": 0.2470024675130844,
+                "tail": "PersonX applies for teaching job at PersonY institution"
+            },
+            {
+                "head": "PersonX divides the ___ into classes",
+                "relation": "xAttr",
+                "similarity": 0.24532156437635422,
+                "tail": "studious"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_16",
+        "question_commonsense": [
+            {
+                "head": "get onto web",
+                "relation": "xNeed",
+                "similarity": 0.7346055209636688,
+                "tail": "create website"
+            },
+            {
+                "head": "get onto web",
+                "relation": "HasSubEvent",
+                "similarity": 0.7327860593795776,
+                "tail": "will find much information"
+            },
+            {
+                "head": "get onto web",
+                "relation": "xNeed",
+                "similarity": 0.7291520535945892,
+                "tail": "establish connection to internet"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "oReact",
+                "similarity": 0.7281051576137543,
+                "tail": "more understanding of the topic"
+            },
+            {
+                "head": "get onto web",
+                "relation": "HasSubEvent",
+                "similarity": 0.7270777523517609,
+                "tail": "check e mail"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "babysitting course",
+                "relation": "ObjectUse",
+                "similarity": 0.2744836211204529,
+                "tail": "get to know the other nannies hoping for dates"
+            },
+            {
+                "head": "PersonX rears PersonY's children",
+                "relation": "xNeed",
+                "similarity": 0.2699974924325943,
+                "tail": "meet children"
+            },
+            {
+                "head": "PersonX works with children",
+                "relation": "xIntent",
+                "similarity": 0.26961536705493927,
+                "tail": "to be around kids"
+            },
+            {
+                "head": "babysitting course",
+                "relation": "ObjectUse",
+                "similarity": 0.26902468502521515,
+                "tail": "get certified to babysit"
+            },
+            {
+                "head": "PersonX rears PersonY's children",
+                "relation": "oWant",
+                "similarity": 0.2651113271713257,
+                "tail": "bond with children"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8153360784053802,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.8121935129165649,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "PersonX becomes aware",
+                "relation": "isAfter",
+                "similarity": 0.8052841424942017,
+                "tail": "PersonX researches PersonY's past"
+            },
+            {
+                "head": "PersonX becomes aware",
+                "relation": "xEffect",
+                "similarity": 0.8035922348499298,
+                "tail": "becomes informed"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xAttr",
+                "similarity": 0.8024881184101105,
+                "tail": "helpful"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX creeps into the kitchen",
+                "relation": "HinderedBy",
+                "similarity": 0.25276973098516464,
+                "tail": "There's a creaky floorboard in the kitchen."
+            },
+            {
+                "head": "PersonX creeps into the kitchen",
+                "relation": "HinderedBy",
+                "similarity": 0.2513618692755699,
+                "tail": "Their mother is in the kitchen."
+            },
+            {
+                "head": "PersonX creeps into the kitchen",
+                "relation": "HinderedBy",
+                "similarity": 0.24735049903392792,
+                "tail": "The kitchen is locked."
+            },
+            {
+                "head": "PersonX heads toward the door",
+                "relation": "xEffect",
+                "similarity": 0.24336149543523788,
+                "tail": "opens the door"
+            },
+            {
+                "head": "crumb",
+                "relation": "AtLocation",
+                "similarity": 0.24292965233325958,
+                "tail": "floor"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_18",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY source",
+                "relation": "oWant",
+                "similarity": 0.8886618912220001,
+                "tail": "Use the source"
+            },
+            {
+                "head": "PersonX provides PersonY source",
+                "relation": "xEffect",
+                "similarity": 0.8858811855316162,
+                "tail": "PersonX provides evidence"
+            },
+            {
+                "head": "PersonX provides PersonY source",
+                "relation": "HinderedBy",
+                "similarity": 0.885837972164154,
+                "tail": "PersonY's source is on deep background."
+            },
+            {
+                "head": "PersonX provides PersonY source",
+                "relation": "HinderedBy",
+                "similarity": 0.8841334879398346,
+                "tail": "person z doesn't want a source provided"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "oReact",
+                "similarity": 0.8839913010597229,
+                "tail": "more understanding of the topic"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX goes to the zoo with PersonX's family",
+                "relation": "xIntent",
+                "similarity": 0.28571875393390656,
+                "tail": "to see lots of animals"
+            },
+            {
+                "head": "zoo",
+                "relation": "ObjectUse",
+                "similarity": 0.280485600233078,
+                "tail": "keep wild animals"
+            },
+            {
+                "head": "PersonX goes to the zoo with PersonX's family",
+                "relation": "xWant",
+                "similarity": 0.277913436293602,
+                "tail": "to see animals"
+            },
+            {
+                "head": "PersonX goes to the zoo with PersonX's family",
+                "relation": "xNeed",
+                "similarity": 0.2757665663957596,
+                "tail": "to find times and cost of the zoo"
+            },
+            {
+                "head": "PersonX goes to the zoo with PersonX's family",
+                "relation": "xWant",
+                "similarity": 0.2734612673521042,
+                "tail": "to see all the animal"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_19",
+        "question_commonsense": [
+            {
+                "head": "PersonX indicates PersonY intention",
+                "relation": "HinderedBy",
+                "similarity": 0.8957611322402954,
+                "tail": "PersonX doesn't understand PersonY."
+            },
+            {
+                "head": "PersonX indicates PersonY intention",
+                "relation": "xNeed",
+                "similarity": 0.8923878967761993,
+                "tail": "to talk to PersonY."
+            },
+            {
+                "head": "PersonX becomes aware",
+                "relation": "xEffect",
+                "similarity": 0.8890682756900787,
+                "tail": "becomes informed"
+            },
+            {
+                "head": "PersonX becomes aware",
+                "relation": "isAfter",
+                "similarity": 0.8886045217514038,
+                "tail": "PersonX researches PersonY's past"
+            },
+            {
+                "head": "PersonX indicates PersonY intention",
+                "relation": "isAfter",
+                "similarity": 0.8879404664039612,
+                "tail": "PersonX interprets for PersonY"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "resting place",
+                "relation": "ObjectUse",
+                "similarity": 0.26466716825962067,
+                "tail": "rob the grave"
+            },
+            {
+                "head": "churchyard",
+                "relation": "ObjectUse",
+                "similarity": 0.26461948454380035,
+                "tail": "for graveyard"
+            },
+            {
+                "head": "graveyard",
+                "relation": "AtLocation",
+                "similarity": 0.2639928162097931,
+                "tail": "church yard"
+            },
+            {
+                "head": "churchyard",
+                "relation": "ObjectUse",
+                "similarity": 0.2628731429576874,
+                "tail": "headstones"
+            },
+            {
+                "head": "graveyard",
+                "relation": "AtLocation",
+                "similarity": 0.25930921733379364,
+                "tail": "cemetery"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX interprets the poem in ways",
+                "relation": "isBefore",
+                "similarity": 0.8671840727329254,
+                "tail": "PersonX writes their own poem"
+            },
+            {
+                "head": "PersonX interprets the poem in ways",
+                "relation": "isAfter",
+                "similarity": 0.8566266894340515,
+                "tail": "PersonX reads poems"
+            },
+            {
+                "head": "PersonX follows ___ closely",
+                "relation": "xEffect",
+                "similarity": 0.8508837223052979,
+                "tail": "becomes informed"
+            },
+            {
+                "head": "poetry",
+                "relation": "HasProperty",
+                "similarity": 0.8508770167827606,
+                "tail": "inspiring"
+            },
+            {
+                "head": "PersonX follows closely the ___",
+                "relation": "xEffect",
+                "similarity": 0.8493149876594543,
+                "tail": "gets bored"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX dreams of one",
+                "relation": "xEffect",
+                "similarity": 0.29011760652065277,
+                "tail": "have a dream on others"
+            },
+            {
+                "head": "PersonX pursues PersonX's dream",
+                "relation": "xReact",
+                "similarity": 0.284912645816803,
+                "tail": "thankful for sticking to his dreams"
+            },
+            {
+                "head": "PersonX pursues PersonX's dream",
+                "relation": "xNeed",
+                "similarity": 0.2797648161649704,
+                "tail": "to have a dream"
+            },
+            {
+                "head": "PersonX pursues PersonX's dream",
+                "relation": "xNeed",
+                "similarity": 0.2797648161649704,
+                "tail": "to have a dream"
+            },
+            {
+                "head": "PersonX dreams of one",
+                "relation": "xNeed",
+                "similarity": 0.2784338891506195,
+                "tail": "to see the thing he will dream about."
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_21",
+        "question_commonsense": [
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xWant",
+                "similarity": 0.8823553323745728,
+                "tail": "to sell the artwork"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8817702531814575,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.8812164962291718,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "xNeed",
+                "similarity": 0.8803220987319946,
+                "tail": "draw the illustration"
+            },
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "xIntent",
+                "similarity": 0.8778137564659119,
+                "tail": "to share their art"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "video editor",
+                "relation": "ObjectUse",
+                "similarity": 0.29250019788742065,
+                "tail": "create a picture slideshow"
+            },
+            {
+                "head": "video editor",
+                "relation": "ObjectUse",
+                "similarity": 0.28711889684200287,
+                "tail": "photoshop dogs into the images"
+            },
+            {
+                "head": "editing software",
+                "relation": "ObjectUse",
+                "similarity": 0.27377253770828247,
+                "tail": "make videos flow smoothly"
+            },
+            {
+                "head": "design software",
+                "relation": "HasSubEvent",
+                "similarity": 0.2727924585342407,
+                "tail": "assign project manager"
+            },
+            {
+                "head": "editing software",
+                "relation": "ObjectUse",
+                "similarity": 0.2674926668405533,
+                "tail": "fix typos"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8712509572505951,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xIntent",
+                "similarity": 0.87115478515625,
+                "tail": "to explain using figures"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xEffect",
+                "similarity": 0.870851069688797,
+                "tail": "explains the diagram"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.870723158121109,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xReact",
+                "similarity": 0.8699230551719666,
+                "tail": "helpful"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX discovers the philosopher 's ___",
+                "relation": "xWant",
+                "similarity": 0.2730789929628372,
+                "tail": "to use the philosopher's stone"
+            },
+            {
+                "head": "PersonX discovers the philosopher 's ___",
+                "relation": "isFilledBy",
+                "similarity": 0.2718392163515091,
+                "tail": "books"
+            },
+            {
+                "head": "PersonX acquires PersonY knowledge",
+                "relation": "HinderedBy",
+                "similarity": 0.26601792871952057,
+                "tail": "PersonY's knowledge is classified."
+            },
+            {
+                "head": "PersonX discovers the philosopher 's ___",
+                "relation": "xNeed",
+                "similarity": 0.2642006650567055,
+                "tail": "to look for the philosopher's stone"
+            },
+            {
+                "head": "PersonX discovers the philosopher 's ___",
+                "relation": "xAttr",
+                "similarity": 0.26331787556409836,
+                "tail": "educated"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_23",
+        "question_commonsense": [
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8856705725193024,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xIntent",
+                "similarity": 0.8839098513126373,
+                "tail": "to explain using figures"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xAttr",
+                "similarity": 0.8803644478321075,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xReact",
+                "similarity": 0.8801288902759552,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xEffect",
+                "similarity": 0.8796665072441101,
+                "tail": "explains the diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX decides to watch a movie",
+                "relation": "xEffect",
+                "similarity": 0.2621062844991684,
+                "tail": "finds movie"
+            },
+            {
+                "head": "PersonX decides to watch a movie",
+                "relation": "xNeed",
+                "similarity": 0.25842083990573883,
+                "tail": "to rent a movie"
+            },
+            {
+                "head": "PersonX decides to watch a movie",
+                "relation": "xNeed",
+                "similarity": 0.25564396381378174,
+                "tail": "to check what movie is playing"
+            },
+            {
+                "head": "PersonX decides to watch a movie",
+                "relation": "HinderedBy",
+                "similarity": 0.2548220008611679,
+                "tail": "PersonY chose a TV show instead of a movie."
+            },
+            {
+                "head": "PersonX decides to watch a movie",
+                "relation": "xWant",
+                "similarity": 0.254396416246891,
+                "tail": "to buy movie tickets"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_24",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives ___ to PersonX's parents",
+                "relation": "xNeed",
+                "similarity": 0.8137531578540802,
+                "tail": "to have something to give to their parents"
+            },
+            {
+                "head": "PersonX gives ___ to PersonY's parents",
+                "relation": "xNeed",
+                "similarity": 0.8084360063076019,
+                "tail": "find out what to give to person y parents"
+            },
+            {
+                "head": "PersonX gives ___ to PersonX's parents",
+                "relation": "xWant",
+                "similarity": 0.8071878552436829,
+                "tail": "to give more to their parents"
+            },
+            {
+                "head": "PersonX gives ___ to PersonX's parents",
+                "relation": "xWant",
+                "similarity": 0.8048947155475616,
+                "tail": "to find out what else their parents want"
+            },
+            {
+                "head": "PersonX gives ___ to PersonX's parents",
+                "relation": "xNeed",
+                "similarity": 0.8035335838794708,
+                "tail": "To find their parents"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX has a large family",
+                "relation": "xWant",
+                "similarity": 0.2737533003091812,
+                "tail": "to take a family photo"
+            },
+            {
+                "head": "PersonX has a large family",
+                "relation": "xWant",
+                "similarity": 0.27091367542743683,
+                "tail": "to be close with family members"
+            },
+            {
+                "head": "PersonX has a large family",
+                "relation": "xAttr",
+                "similarity": 0.2628839910030365,
+                "tail": "famililal"
+            },
+            {
+                "head": "large family",
+                "relation": "ObjectUse",
+                "similarity": 0.26249393075704575,
+                "tail": "invite to a reunion"
+            },
+            {
+                "head": "large family",
+                "relation": "ObjectUse",
+                "similarity": 0.2590033710002899,
+                "tail": "create more family"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_25",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses PersonY analogy",
+                "relation": "xWant",
+                "similarity": 0.8400733768939972,
+                "tail": "to explain the analogy"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8399835526943207,
+                "tail": "to sell the image"
+            },
+            {
+                "head": "PersonX uses PersonY analogy",
+                "relation": "xWant",
+                "similarity": 0.8389692008495331,
+                "tail": "to see if PersonY's analogy works"
+            },
+            {
+                "head": "PersonX uses PersonY analogy",
+                "relation": "HinderedBy",
+                "similarity": 0.8384525179862976,
+                "tail": "PersonX used a different analogy"
+            },
+            {
+                "head": "PersonX uses PersonY analogy",
+                "relation": "isBefore",
+                "similarity": 0.8365496397018433,
+                "tail": "PersonX asks PersonY for other analogies"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "angiosperm",
+                "relation": "MadeUpOf",
+                "similarity": 0.2974543869495392,
+                "tail": "flower"
+            },
+            {
+                "head": "flower",
+                "relation": "MadeUpOf",
+                "similarity": 0.29007938504219055,
+                "tail": "stamen"
+            },
+            {
+                "head": "flower",
+                "relation": "MadeUpOf",
+                "similarity": 0.28532378375530243,
+                "tail": "ovary"
+            },
+            {
+                "head": "flower",
+                "relation": "MadeUpOf",
+                "similarity": 0.2853101044893265,
+                "tail": "pistil"
+            },
+            {
+                "head": "PersonX holds a flower together",
+                "relation": "isBefore",
+                "similarity": 0.28107668459415436,
+                "tail": "PersonX puts the flower in a vase"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_26",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.8524661660194397,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.8491112291812897,
+                "tail": "buy image"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8480487167835236,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8476349711418152,
+                "tail": "to sell the image"
+            },
+            {
+                "head": "PersonX makes ___ in PersonY's image",
+                "relation": "xIntent",
+                "similarity": 0.8472881019115448,
+                "tail": "to make god in person y's image."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX receives the bible from god",
+                "relation": "isBefore",
+                "similarity": 0.26073572039604187,
+                "tail": "PersonX reads the bible all day"
+            },
+            {
+                "head": "prayer book",
+                "relation": "ObjectUse",
+                "similarity": 0.25868697464466095,
+                "tail": "read in church"
+            },
+            {
+                "head": "PersonX confesses PersonY ___ unto the lord",
+                "relation": "xIntent",
+                "similarity": 0.2568945661187172,
+                "tail": "transgressions unto the lord"
+            },
+            {
+                "head": "PersonX confesses PersonY ___ unto the lord",
+                "relation": "xEffect",
+                "similarity": 0.2504478171467781,
+                "tail": "PersonX is embraced by the church"
+            },
+            {
+                "head": "PersonX confesses PersonY ___ unto the lord",
+                "relation": "xWant",
+                "similarity": 0.2500608414411545,
+                "tail": "to bring y to Christ"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_27",
+        "question_commonsense": [
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8355735540390015,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.8334556818008423,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "isAfter",
+                "similarity": 0.8287184536457062,
+                "tail": "PersonX draws an illustration"
+            },
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "xNeed",
+                "similarity": 0.8272043466567993,
+                "tail": "make an illustration"
+            },
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "xNeed",
+                "similarity": 0.8254029750823975,
+                "tail": "draw the illustration"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "tail",
+                "relation": "ObjectUse",
+                "similarity": 0.2767105847597122,
+                "tail": "dress up as a snake"
+            },
+            {
+                "head": "PersonX slips on a banana peel",
+                "relation": "xNeed",
+                "similarity": 0.2708197832107544,
+                "tail": "to step down on banana peel"
+            },
+            {
+                "head": "PersonX slips on a banana peel",
+                "relation": "xWant",
+                "similarity": 0.2619082182645798,
+                "tail": "to throw banana peel away"
+            },
+            {
+                "head": "tail",
+                "relation": "ObjectUse",
+                "similarity": 0.26066941022872925,
+                "tail": "protecting animal from insects"
+            },
+            {
+                "head": "tail",
+                "relation": "MadeUpOf",
+                "similarity": 0.2577957585453987,
+                "tail": "vertical tail"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX develops PersonX's resources",
+                "relation": "xWant",
+                "similarity": 0.7807606160640717,
+                "tail": "to develop more resources"
+            },
+            {
+                "head": "PersonX develops PersonX's resources",
+                "relation": "xIntent",
+                "similarity": 0.7786636352539062,
+                "tail": "to increase the growth of the wealth by new ideas"
+            },
+            {
+                "head": "PersonX develops PersonX's resources",
+                "relation": "xEffect",
+                "similarity": 0.7770436108112335,
+                "tail": "has resources available"
+            },
+            {
+                "head": "PersonX develops PersonX's resources",
+                "relation": "oWant",
+                "similarity": 0.7736585140228271,
+                "tail": "to continue learning new things"
+            },
+            {
+                "head": "PersonX develops PersonX's resources",
+                "relation": "xEffect",
+                "similarity": 0.7732211649417877,
+                "tail": "has resources to use"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX teaches children to read",
+                "relation": "xWant",
+                "similarity": 0.2711951583623886,
+                "tail": "to test the children's reading speed"
+            },
+            {
+                "head": "PersonX teaches children to read",
+                "relation": "xWant",
+                "similarity": 0.2705682963132858,
+                "tail": "for children to be literate"
+            },
+            {
+                "head": "PersonX teaches children to read",
+                "relation": "xWant",
+                "similarity": 0.26866449415683746,
+                "tail": "to make the children understand what they read"
+            },
+            {
+                "head": "PersonX teaches children to read",
+                "relation": "xIntent",
+                "similarity": 0.2639061212539673,
+                "tail": "the children to learn an important life skill"
+            },
+            {
+                "head": "PersonX teaches children to read",
+                "relation": "HinderedBy",
+                "similarity": 0.2624403387308121,
+                "tail": "There aren't any children for PersonX to teach."
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_29",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xIntent",
+                "similarity": 0.8963099122047424,
+                "tail": "to explain using figures"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.8927472531795502,
+                "tail": "PersonX offers one example"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8926520347595215,
+                "tail": "to explain his project."
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "oReact",
+                "similarity": 0.8912706673145294,
+                "tail": "more understanding of the topic"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xIntent",
+                "similarity": 0.8911243081092834,
+                "tail": "to explain something"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.27818164229393005,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.26961587369441986,
+                "tail": "PersonY couldn't find a case study to prove the point to PersonX"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.26812875270843506,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "right triangle",
+                "relation": "MadeUpOf",
+                "similarity": 0.2679399624466896,
+                "tail": "one angle 90 degrees"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "oWant",
+                "similarity": 0.2672351524233818,
+                "tail": "find holes in the individual's argument"
+            }
+        ]
+    },
+    {
+        "id": "validation_Literature_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX examines critically the ___",
+                "relation": "xEffect",
+                "similarity": 0.8631018698215485,
+                "tail": "PersonX's eyes become strained"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xIntent",
+                "similarity": 0.8573548495769501,
+                "tail": "to be understood"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xReact",
+                "similarity": 0.8573548495769501,
+                "tail": "understood"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "oReact",
+                "similarity": 0.8572088181972504,
+                "tail": "more understanding of the topic"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xReact",
+                "similarity": 0.8564262390136719,
+                "tail": "good about himself"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "castle",
+                "relation": "AtLocation",
+                "similarity": 0.267526313662529,
+                "tail": "england"
+            },
+            {
+                "head": "castle",
+                "relation": "ObjectUse",
+                "similarity": 0.2671581655740738,
+                "tail": "king's home"
+            },
+            {
+                "head": "PersonX builds castles in the air",
+                "relation": "xEffect",
+                "similarity": 0.26540443301200867,
+                "tail": "thinks of new ways to improve castle"
+            },
+            {
+                "head": "knight in castle",
+                "relation": "AtLocation",
+                "similarity": 0.26334309577941895,
+                "tail": "midieval times"
+            },
+            {
+                "head": "castle",
+                "relation": "MadeUpOf",
+                "similarity": 0.26219789683818817,
+                "tail": "turret"
+            }
+        ]
+    }
+]

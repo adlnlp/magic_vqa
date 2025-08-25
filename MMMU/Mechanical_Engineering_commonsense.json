@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Mechanical_Engineering_1",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xEffect",
+                "similarity": 0.8842172622680664,
+                "tail": "explains the diagram"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xIntent",
+                "similarity": 0.8832510113716125,
+                "tail": "to explain using figures"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.88143390417099,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.880879282951355,
+                "tail": "to print a picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oWant",
+                "similarity": 0.8798211216926575,
+                "tail": "to accept the picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.27865369617938995,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.27676936984062195,
+                "tail": "add to the engine to make it go"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.27656666934490204,
+                "tail": "make jewelry"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.27340786159038544,
+                "tail": "fix a problem"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.27151787281036377,
+                "tail": "receives illustration"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.9196226298809052,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "xReact",
+                "similarity": 0.9184177815914154,
+                "tail": "like they know where PersonY is"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.9152494668960571,
+                "tail": "to print a picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.9142028987407684,
+                "tail": "to pick up a picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oWant",
+                "similarity": 0.9136482179164886,
+                "tail": "to accept the picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "benchrest",
+                "relation": "HasProperty",
+                "similarity": 0.2864920496940613,
+                "tail": "the'formula one of accuracy rifles"
+            },
+            {
+                "head": "PersonX points PersonY in the direction",
+                "relation": "oEffect",
+                "similarity": 0.279508039355278,
+                "tail": "Person Y looks in the direction"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.27355994284152985,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "gauges",
+                "relation": "ObjectUse",
+                "similarity": 0.27275025844573975,
+                "tail": "monitor the plane's controls"
+            },
+            {
+                "head": "PersonX points PersonY in the direction",
+                "relation": "xAttr",
+                "similarity": 0.27217675745487213,
+                "tail": "informative"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.8647966980934143,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.8590268194675446,
+                "tail": "to pick up a picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oWant",
+                "similarity": 0.8571904897689819,
+                "tail": "to accept the picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.8555481731891632,
+                "tail": "to print a picture"
+            },
+            {
+                "head": "test",
+                "relation": "ObjectUse",
+                "similarity": 0.8551260232925415,
+                "tail": "see if they like someone"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "floor plans",
+                "relation": "ObjectUse",
+                "similarity": 0.2860806733369827,
+                "tail": "plan a remodel"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2844244986772537,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2813699245452881,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2777468264102936,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "puzzle solver",
+                "relation": "CapableOf",
+                "similarity": 0.2761682718992233,
+                "tail": "piece together solution"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_4",
+        "question_commonsense": [
+            {
+                "head": "beam",
+                "relation": "ObjectUse",
+                "similarity": 0.7784046232700348,
+                "tail": "joining two structures horizontally"
+            },
+            {
+                "head": "PersonX learns programming",
+                "relation": "xEffect",
+                "similarity": 0.7754654288291931,
+                "tail": "learns functions"
+            },
+            {
+                "head": "beam",
+                "relation": "ObjectUse",
+                "similarity": 0.7709946632385254,
+                "tail": "structural support"
+            },
+            {
+                "head": "beam",
+                "relation": "ObjectUse",
+                "similarity": 0.7651870548725128,
+                "tail": "build structure"
+            },
+            {
+                "head": "beam",
+                "relation": "AtLocation",
+                "similarity": 0.7628592848777771,
+                "tail": "building to support"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.2897399514913559,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xEffect",
+                "similarity": 0.2674555331468582,
+                "tail": "Does the math"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.26222025603055954,
+                "tail": "receives illustration"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.25997138023376465,
+                "tail": "to be percise"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xAttr",
+                "similarity": 0.25974972546100616,
+                "tail": "illustrative"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.831412672996521,
+                "tail": "to keep the image"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8279879689216614,
+                "tail": "to make more images"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8267883360385895,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8260672688484192,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8260672688484192,
+                "tail": "to give the image to PersonY"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.28213702142238617,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.2787409722805023,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27858102321624756,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.278274804353714,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.27686990797519684,
+                "tail": "study the diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_6",
+        "question_commonsense": [
+            {
+                "head": "car",
+                "relation": "ObjectUse",
+                "similarity": 0.722346156835556,
+                "tail": "hit pedestrian"
+            },
+            {
+                "head": "car",
+                "relation": "ObjectUse",
+                "similarity": 0.7213411033153534,
+                "tail": "pass other car"
+            },
+            {
+                "head": "car",
+                "relation": "ObjectUse",
+                "similarity": 0.7211317420005798,
+                "tail": "pull car"
+            },
+            {
+                "head": "car",
+                "relation": "ObjectUse",
+                "similarity": 0.7182358801364899,
+                "tail": "passing another car"
+            },
+            {
+                "head": "car",
+                "relation": "ObjectUse",
+                "similarity": 0.7166090309619904,
+                "tail": "go fast"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "driving manual",
+                "relation": "ObjectUse",
+                "similarity": 0.2690173089504242,
+                "tail": "pass drivers test"
+            },
+            {
+                "head": "vehicle manual",
+                "relation": "ObjectUse",
+                "similarity": 0.26634541153907776,
+                "tail": "explain the intricacies of a vehicle"
+            },
+            {
+                "head": "vehicle manual",
+                "relation": "ObjectUse",
+                "similarity": 0.264411985874176,
+                "tail": "lend to fellow motorists"
+            },
+            {
+                "head": "driving manual",
+                "relation": "ObjectUse",
+                "similarity": 0.2643510550260544,
+                "tail": "know how to operate a vehicle"
+            },
+            {
+                "head": "vehicle manual",
+                "relation": "ObjectUse",
+                "similarity": 0.2618900015950203,
+                "tail": "fix broken car"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_7",
+        "question_commonsense": [
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xWant",
+                "similarity": 0.769704133272171,
+                "tail": "to apply for jobs in computer programming"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.7671958208084106,
+                "tail": "repair an automobile"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xEffect",
+                "similarity": 0.7661472260951996,
+                "tail": "too learns computer programing"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xNeed",
+                "similarity": 0.7648784518241882,
+                "tail": "to find a computer programming class"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xEffect",
+                "similarity": 0.7633163332939148,
+                "tail": "makes computer software"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.305367112159729,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "air pressure gauge",
+                "relation": "ObjectUse",
+                "similarity": 0.28954117000102997,
+                "tail": "measure tire pressure"
+            },
+            {
+                "head": "air pressure gauge",
+                "relation": "ObjectUse",
+                "similarity": 0.2879304587841034,
+                "tail": "test the air in a tire"
+            },
+            {
+                "head": "metal cutter",
+                "relation": "ObjectUse",
+                "similarity": 0.2873409688472748,
+                "tail": "clip the fence wire"
+            },
+            {
+                "head": "metal cutter",
+                "relation": "ObjectUse",
+                "similarity": 0.2857868820428848,
+                "tail": "cut metal pipe"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX answers this ___ in the negative",
+                "relation": "xEffect",
+                "similarity": 0.7853352129459381,
+                "tail": "is asked to explain his answer"
+            },
+            {
+                "head": "learn about science",
+                "relation": "HasSubEvent",
+                "similarity": 0.7850742638111115,
+                "tail": "understand physical laws"
+            },
+            {
+                "head": "learn about science",
+                "relation": "xNeed",
+                "similarity": 0.7827964425086975,
+                "tail": "take course in science"
+            },
+            {
+                "head": "science",
+                "relation": "MadeUpOf",
+                "similarity": 0.78212970495224,
+                "tail": "scientific theory"
+            },
+            {
+                "head": "learn about science",
+                "relation": "xNeed",
+                "similarity": 0.7799488604068756,
+                "tail": "read science book"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "earth in",
+                "relation": "AtLocation",
+                "similarity": 0.27984772622585297,
+                "tail": "map of solar system"
+            },
+            {
+                "head": "earth",
+                "relation": "AtLocation",
+                "similarity": 0.2752704471349716,
+                "tail": "solar system"
+            },
+            {
+                "head": "solar system",
+                "relation": "MadeUpOf",
+                "similarity": 0.27307140827178955,
+                "tail": "9 known planets"
+            },
+            {
+                "head": "solar system",
+                "relation": "HasProperty",
+                "similarity": 0.26956304907798767,
+                "tail": "planets"
+            },
+            {
+                "head": "solar system",
+                "relation": "MadeUpOf",
+                "similarity": 0.2691870778799057,
+                "tail": "nine planets"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_9",
+        "question_commonsense": [
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.818643182516098,
+                "tail": "check what is affecting the variables"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.8179831802845001,
+                "tail": "test if variable works"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.8177980482578278,
+                "tail": "test program for errors"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xNeed",
+                "similarity": 0.8092387318611145,
+                "tail": "to be programming"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.8076669275760651,
+                "tail": "to sell the program"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xNeed",
+                "similarity": 0.27961044013500214,
+                "tail": "to start doing a problem"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.2762431502342224,
+                "tail": "to test out her theory"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.2744072824716568,
+                "tail": "to learn a formula"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xWant",
+                "similarity": 0.2731342911720276,
+                "tail": "find the solution"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xWant",
+                "similarity": 0.2689041495323181,
+                "tail": "to put her solution into action"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_10",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7470254898071289,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "physicist",
+                "relation": "CapableOf",
+                "similarity": 0.73991659283638,
+                "tail": "understand quantum mechanics"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7327258288860321,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.730607807636261,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7291741669178009,
+                "tail": "answer another math problem"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.3131501227617264,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.31055954098701477,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.2931779772043228,
+                "tail": "record measurements"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xNeed",
+                "similarity": 0.29152022302150726,
+                "tail": "calculate the dimensions"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.2908113896846771,
+                "tail": "Person x utilizes measuring instrument"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7493156492710114,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "xEffect",
+                "similarity": 0.7480894923210144,
+                "tail": "to has a math test"
+            },
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.7437914609909058,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.7432428002357483,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "isAfter",
+                "similarity": 0.743137389421463,
+                "tail": "PersonX studies math problems"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.292145237326622,
+                "tail": "measure distance"
+            },
+            {
+                "head": "self adhesive label",
+                "relation": "AtLocation",
+                "similarity": 0.28524206578731537,
+                "tail": "self adhesive label package"
+            },
+            {
+                "head": "self adhesive label",
+                "relation": "AtLocation",
+                "similarity": 0.2830752581357956,
+                "tail": "self adhesive label box"
+            },
+            {
+                "head": "oven proof plate",
+                "relation": "ObjectUse",
+                "similarity": 0.28210295736789703,
+                "tail": "block wind from striking face"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xNeed",
+                "similarity": 0.27876316010951996,
+                "tail": "to take out a tape measurer"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_12",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "xNeed",
+                "similarity": 0.9134507179260254,
+                "tail": "make a copy of the picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9093725681304932,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.9090900719165802,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.908746063709259,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.9070688486099243,
+                "tail": "to pick up a picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29577353596687317,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29202672839164734,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2903904616832733,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2884751260280609,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.284226655960083,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_13",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "xNeed",
+                "similarity": 0.9134507179260254,
+                "tail": "make a copy of the picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9093725681304932,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.9090900719165802,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.908746063709259,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.9070688486099243,
+                "tail": "to pick up a picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27364717423915863,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2735586613416672,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.270493820309639,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.26918555796146393,
+                "tail": "to understand what PersonX is showing them"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.26670366525650024,
+                "tail": "procure a book with diagrams"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_14",
+        "question_commonsense": [
+            {
+                "head": "kinetic energy",
+                "relation": "AtLocation",
+                "similarity": 0.7345679700374603,
+                "tail": "moving object"
+            },
+            {
+                "head": "PersonX turns the scale",
+                "relation": "HinderedBy",
+                "similarity": 0.7269954085350037,
+                "tail": "PersonX doesn't know how to turn the scale."
+            },
+            {
+                "head": "measurement",
+                "relation": "ObjectUse",
+                "similarity": 0.7266901433467865,
+                "tail": "check your weight"
+            },
+            {
+                "head": "measurement",
+                "relation": "ObjectUse",
+                "similarity": 0.7202116549015045,
+                "tail": "reverse engineer a design"
+            },
+            {
+                "head": "PersonX turns the scale",
+                "relation": "HinderedBy",
+                "similarity": 0.7200122177600861,
+                "tail": "PersonX doesn't have the muscle strength."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "volume switch",
+                "relation": "ObjectUse",
+                "similarity": 0.2941665053367615,
+                "tail": "control the TV volume"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.28871455788612366,
+                "tail": "measure electricity use"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.28738176822662354,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "toggle switch",
+                "relation": "ObjectUse",
+                "similarity": 0.2868511378765106,
+                "tail": "stop the device"
+            },
+            {
+                "head": "volume switch",
+                "relation": "ObjectUse",
+                "similarity": 0.28317660093307495,
+                "tail": "Remove so the volume is always loud"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "xNeed",
+                "similarity": 0.9134507179260254,
+                "tail": "make a copy of the picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9093725681304932,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.9090900719165802,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.908746063709259,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.9070688486099243,
+                "tail": "to pick up a picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "puzzle solver",
+                "relation": "CapableOf",
+                "similarity": 0.28307032585144043,
+                "tail": "piece together solution"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2803075611591339,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2780860811471939,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27688679099082947,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.27592933177948,
+                "tail": "to understand what PersonX is showing them"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_16",
+        "question_commonsense": [
+            {
+                "head": "measuring tool",
+                "relation": "ObjectUse",
+                "similarity": 0.7515423595905304,
+                "tail": "determine amount"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.7361066937446594,
+                "tail": "add to the engine to make it go"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7350607812404633,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7320835292339325,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7309371829032898,
+                "tail": "Practices maths equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "cylinder",
+                "relation": "MadeUpOf",
+                "similarity": 0.3292010575532913,
+                "tail": "intake valve"
+            },
+            {
+                "head": "hypodermic syringe",
+                "relation": "MadeUpOf",
+                "similarity": 0.31066353619098663,
+                "tail": "hypodermic needle"
+            },
+            {
+                "head": "one type of catheter",
+                "relation": "ObjectUse",
+                "similarity": 0.3072174936532974,
+                "tail": "effect bladder drainage"
+            },
+            {
+                "head": "catheter",
+                "relation": "HasProperty",
+                "similarity": 0.3025362491607666,
+                "tail": "inserted into body channel"
+            },
+            {
+                "head": "electrical conductor",
+                "relation": "ObjectUse",
+                "similarity": 0.28673046827316284,
+                "tail": "short current source"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7879169881343842,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7872711420059204,
+                "tail": "illustrative"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xEffect",
+                "similarity": 0.7863403260707855,
+                "tail": "explains the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7831889390945435,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7830033302307129,
+                "tail": "study the diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2767024040222168,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.26859937608242035,
+                "tail": "receives illustration"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.2684922069311142,
+                "tail": "PersonY couldn't find a case study to prove the point to PersonX"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.26801038533449173,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.26676223427057266,
+                "tail": "a demonstration"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_18",
+        "question_commonsense": [
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.6974294781684875,
+                "tail": "vector space"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.6940745711326599,
+                "tail": "take apart the machine"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.6899952590465546,
+                "tail": "to fly an airplane"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.6891428828239441,
+                "tail": "make the machine work"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.6883940696716309,
+                "tail": "build a robot"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "gyrocompass",
+                "relation": "MadeUpOf",
+                "similarity": 0.2837919741868973,
+                "tail": "gyroscope"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2815636098384857,
+                "tail": "field magnet"
+            },
+            {
+                "head": "toggle switch",
+                "relation": "ObjectUse",
+                "similarity": 0.27669084072113037,
+                "tail": "turn off a machine"
+            },
+            {
+                "head": "magnetic tool",
+                "relation": "ObjectUse",
+                "similarity": 0.27613532543182373,
+                "tail": "extract a filling from someone"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.2719404622912407,
+                "tail": "take apart the machine"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_19",
+        "question_commonsense": [
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.6421725153923035,
+                "tail": "take apart the machine"
+            },
+            {
+                "head": "male genitalia",
+                "relation": "MadeUpOf",
+                "similarity": 0.641672670841217,
+                "tail": "penis"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.6394948959350586,
+                "tail": "make the machine work"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6388882994651794,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6379736959934235,
+                "tail": "PersonX failed math 101"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.26581718772649765,
+                "tail": "make the machine work"
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "xNeed",
+                "similarity": 0.2650435119867325,
+                "tail": "to learn about person y's position"
+            },
+            {
+                "head": "PersonX supports PersonX's position",
+                "relation": "xWant",
+                "similarity": 0.26468296349048615,
+                "tail": "to argue about their position"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.26227623224258423,
+                "tail": "take away so the machine doesn't work"
+            },
+            {
+                "head": "conveyer belt",
+                "relation": "ObjectUse",
+                "similarity": 0.2607404366135597,
+                "tail": "roll a ball on"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xWant",
+                "similarity": 0.8006981909275055,
+                "tail": "to apply for jobs in computer programming"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xEffect",
+                "similarity": 0.7997254133224487,
+                "tail": "too learns computer programing"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.7978015244007111,
+                "tail": "add to the engine to make it go"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xEffect",
+                "similarity": 0.7963843047618866,
+                "tail": "makes computer software"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.7959975898265839,
+                "tail": "make the machine work"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "volume switch",
+                "relation": "ObjectUse",
+                "similarity": 0.2754785716533661,
+                "tail": "Remove so the volume is always loud"
+            },
+            {
+                "head": "volume switch",
+                "relation": "ObjectUse",
+                "similarity": 0.27029040455818176,
+                "tail": "control the TV volume"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2668367326259613,
+                "tail": "field magnet"
+            },
+            {
+                "head": "toggle switch",
+                "relation": "ObjectUse",
+                "similarity": 0.2631428390741348,
+                "tail": "stop the device"
+            },
+            {
+                "head": "volume switch",
+                "relation": "ObjectUse",
+                "similarity": 0.26250774413347244,
+                "tail": "Make the noise stop"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_21",
+        "question_commonsense": [
+            {
+                "head": "launch platform",
+                "relation": "AtLocation",
+                "similarity": 0.7356408536434174,
+                "tail": "rocketry research facility"
+            },
+            {
+                "head": "launch platform",
+                "relation": "ObjectUse",
+                "similarity": 0.7310413122177124,
+                "tail": "shooting off rockets"
+            },
+            {
+                "head": "launch platform",
+                "relation": "ObjectUse",
+                "similarity": 0.7290254533290863,
+                "tail": "rocketry"
+            },
+            {
+                "head": "launch platform",
+                "relation": "ObjectUse",
+                "similarity": 0.7207461595535278,
+                "tail": "launching satellite"
+            },
+            {
+                "head": "rocket engineer",
+                "relation": "CapableOf",
+                "similarity": 0.7196611762046814,
+                "tail": "prepare rocket to launch"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.28514471650123596,
+                "tail": "measure distance"
+            },
+            {
+                "head": "extension pole",
+                "relation": "ObjectUse",
+                "similarity": 0.2611472010612488,
+                "tail": "reach ceiling with rollers"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xNeed",
+                "similarity": 0.25801554322242737,
+                "tail": "to take out a tape measurer"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xEffect",
+                "similarity": 0.2564118355512619,
+                "tail": "Does the math"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.25387874990701675,
+                "tail": "to illustrate point"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_22",
+        "question_commonsense": [
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.6812338531017303,
+                "tail": "repair an automobile"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.6782544255256653,
+                "tail": "build a robot"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.6755731105804443,
+                "tail": "build a robot"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.6734360456466675,
+                "tail": "take apart the machine"
+            },
+            {
+                "head": "magnetic tool",
+                "relation": "ObjectUse",
+                "similarity": 0.6646319627761841,
+                "tail": "pick up screws"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.28194572031497955,
+                "tail": "field magnet"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.27906689047813416,
+                "tail": "stator"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.274066761136055,
+                "tail": "rotor"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.270537868142128,
+                "tail": "fix a problem"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.27033113688230515,
+                "tail": "build a robot"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_23",
+        "question_commonsense": [
+            {
+                "head": "welder",
+                "relation": "AtLocation",
+                "similarity": 0.699878454208374,
+                "tail": "welding shop"
+            },
+            {
+                "head": "welder",
+                "relation": "ObjectUse",
+                "similarity": 0.6846350729465485,
+                "tail": "solder metal items."
+            },
+            {
+                "head": "welder",
+                "relation": "ObjectUse",
+                "similarity": 0.6688936352729797,
+                "tail": "build metal buildings"
+            },
+            {
+                "head": "steel",
+                "relation": "AtLocation",
+                "similarity": 0.6638321280479431,
+                "tail": "steel mill"
+            },
+            {
+                "head": "welder",
+                "relation": "ObjectUse",
+                "similarity": 0.6633860170841217,
+                "tail": "fasten metals"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.2746904492378235,
+                "tail": "measure distance"
+            },
+            {
+                "head": "fastener binder",
+                "relation": "ObjectUse",
+                "similarity": 0.27378325164318085,
+                "tail": "bind fasteners"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xNeed",
+                "similarity": 0.2625024691224098,
+                "tail": "to take out a tape measurer"
+            },
+            {
+                "head": "PersonX sweeps the board",
+                "relation": "xNeed",
+                "similarity": 0.255125917494297,
+                "tail": "to get a dustpan"
+            },
+            {
+                "head": "PersonX sweeps the board",
+                "relation": "HinderedBy",
+                "similarity": 0.2550939843058586,
+                "tail": "There is no board"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_24",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7637929618358612,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.7624739706516266,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7621927559375763,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX uses PersonY example",
+                "relation": "xWant",
+                "similarity": 0.7617288827896118,
+                "tail": "to explain PersonY's example"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7615737318992615,
+                "tail": "to understand the equation."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.29705052077770233,
+                "tail": "measure distance"
+            },
+            {
+                "head": "airfoil",
+                "relation": "MadeUpOf",
+                "similarity": 0.28448592126369476,
+                "tail": "trailing edge"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "isFilledBy",
+                "similarity": 0.2784736156463623,
+                "tail": "garment"
+            },
+            {
+                "head": "airfoil",
+                "relation": "MadeUpOf",
+                "similarity": 0.27844591438770294,
+                "tail": "leading edge"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xEffect",
+                "similarity": 0.2779662758111954,
+                "tail": "Does the math"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_25",
+        "question_commonsense": [
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.7178569734096527,
+                "tail": "linear algebra"
+            },
+            {
+                "head": "metal bar",
+                "relation": "ObjectUse",
+                "similarity": 0.7102913558483124,
+                "tail": "test magnets"
+            },
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.7091472148895264,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.7014735639095306,
+                "tail": "vector space"
+            },
+            {
+                "head": "sheet metal",
+                "relation": "ObjectUse",
+                "similarity": 0.7014362215995789,
+                "tail": "build car parts"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.2867547422647476,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.27947138249874115,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.27911344170570374,
+                "tail": "receives illustration"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.2786800265312195,
+                "tail": "a demonstration"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.2700905129313469,
+                "tail": "to illustrate point"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_26",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses PersonY method",
+                "relation": "xNeed",
+                "similarity": 0.9034807980060577,
+                "tail": "implement using it"
+            },
+            {
+                "head": "PersonX uses PersonY method",
+                "relation": "oWant",
+                "similarity": 0.8890422284603119,
+                "tail": "to develop another method"
+            },
+            {
+                "head": "PersonX uses PersonY method",
+                "relation": "xNeed",
+                "similarity": 0.8886340260505676,
+                "tail": "to learn PersonY's method"
+            },
+            {
+                "head": "PersonX uses PersonY method",
+                "relation": "xNeed",
+                "similarity": 0.8885431885719299,
+                "tail": "To gain knowledge about person Y’s method"
+            },
+            {
+                "head": "PersonX uses PersonY method",
+                "relation": "xNeed",
+                "similarity": 0.8859179615974426,
+                "tail": "find out person y method"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2862946540117264,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "HinderedBy",
+                "similarity": 0.27884943783283234,
+                "tail": "PersonX is bad at illustrations."
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.27444902062416077,
+                "tail": "receives illustration"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.2744128555059433,
+                "tail": "a demonstration"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xAttr",
+                "similarity": 0.2718820497393608,
+                "tail": "illustrative"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_27",
+        "question_commonsense": [
+            {
+                "head": "PersonX opens the gate",
+                "relation": "xWant",
+                "similarity": 0.7708309888839722,
+                "tail": "to close the gate"
+            },
+            {
+                "head": "PersonX opens the gate",
+                "relation": "xIntent",
+                "similarity": 0.7670929431915283,
+                "tail": "to get past the gate"
+            },
+            {
+                "head": "PersonX opens the gate",
+                "relation": "xEffect",
+                "similarity": 0.7667182683944702,
+                "tail": "must hold the gate for others"
+            },
+            {
+                "head": "PersonX opens the gate",
+                "relation": "oWant",
+                "similarity": 0.7610371112823486,
+                "tail": "to walk through the gate"
+            },
+            {
+                "head": "PersonX opens the gate",
+                "relation": "xNeed",
+                "similarity": 0.7592180073261261,
+                "tail": "go to the gate"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "airfoil",
+                "relation": "MadeUpOf",
+                "similarity": 0.29153987765312195,
+                "tail": "trailing edge"
+            },
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.2861477732658386,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "airfoil",
+                "relation": "MadeUpOf",
+                "similarity": 0.2832578048110008,
+                "tail": "leading edge"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2825469821691513,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.27613918483257294,
+                "tail": "receives illustration"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses PersonY system",
+                "relation": "oWant",
+                "similarity": 0.8550809621810913,
+                "tail": "to understand how PersonX uses the system"
+            },
+            {
+                "head": "PersonX uses PersonY system",
+                "relation": "oReact",
+                "similarity": 0.8481940031051636,
+                "tail": "used"
+            },
+            {
+                "head": "PersonX uses PersonY system",
+                "relation": "xIntent",
+                "similarity": 0.8473132252693176,
+                "tail": "the data on the system."
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xNeed",
+                "similarity": 0.8462116718292236,
+                "tail": "to start doing a problem"
+            },
+            {
+                "head": "PersonX uses PersonY system",
+                "relation": "xNeed",
+                "similarity": 0.8461162149906158,
+                "tail": "to understand PersonY's system"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.28012099862098694,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xNeed",
+                "similarity": 0.27744145691394806,
+                "tail": "to start doing a problem"
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xNeed",
+                "similarity": 0.2725486010313034,
+                "tail": "to do calculations"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xWant",
+                "similarity": 0.2705388814210892,
+                "tail": "to extract work from him"
+            },
+            {
+                "head": "PersonX solves the ___ by using",
+                "relation": "xIntent",
+                "similarity": 0.27006083726882935,
+                "tail": "math"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_29",
+        "question_commonsense": [
+            {
+                "head": "formula",
+                "relation": "MadeUpOf",
+                "similarity": 0.6732520461082458,
+                "tail": "subformula"
+            },
+            {
+                "head": "formula",
+                "relation": "MadeUpOf",
+                "similarity": 0.6687825620174408,
+                "tail": "chemical notation"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xNeed",
+                "similarity": 0.6653348803520203,
+                "tail": "to find a computer programming class"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xNeed",
+                "similarity": 0.6585641801357269,
+                "tail": "to read the computer programming textbook"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.6565207242965698,
+                "tail": "test program for errors"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "anemometer",
+                "relation": "ObjectUse",
+                "similarity": 0.2666514664888382,
+                "tail": "measuring wind speed"
+            },
+            {
+                "head": "apparatus",
+                "relation": "ObjectUse",
+                "similarity": 0.26558682322502136,
+                "tail": "conduct an experiment"
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "isAfter",
+                "similarity": 0.2605200782418251,
+                "tail": "PersonX reads about PersonY's position"
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "HinderedBy",
+                "similarity": 0.2599386125802994,
+                "tail": "PersonY will not share their position."
+            },
+            {
+                "head": "PersonX supports PersonX's position",
+                "relation": "xWant",
+                "similarity": 0.25984151661396027,
+                "tail": "to argue about their position"
+            }
+        ]
+    },
+    {
+        "id": "validation_Mechanical_Engineering_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "xNeed",
+                "similarity": 0.9134507179260254,
+                "tail": "make a copy of the picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9093725681304932,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.9090900719165802,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.908746063709259,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.9070688486099243,
+                "tail": "to pick up a picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2969440519809723,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.29629117250442505,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.28999650478363037,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28907059133052826,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.283001184463501,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    }
+]

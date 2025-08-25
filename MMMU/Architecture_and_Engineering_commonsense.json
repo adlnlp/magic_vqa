@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Architecture_and_Engineering_1",
+        "question_commonsense": [
+            {
+                "head": "large span of air",
+                "relation": "AtLocation",
+                "similarity": 0.6989331841468811,
+                "tail": "bridge"
+            },
+            {
+                "head": "PersonX supports PersonX's position",
+                "relation": "HinderedBy",
+                "similarity": 0.6976201236248016,
+                "tail": "Evidence has been offered that disputes the position."
+            },
+            {
+                "head": "PersonX supports PersonX's position",
+                "relation": "xEffect",
+                "similarity": 0.6845360100269318,
+                "tail": "sad"
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "isBefore",
+                "similarity": 0.6789613962173462,
+                "tail": "PersonX tells people about PersonY's position"
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "HinderedBy",
+                "similarity": 0.6773178577423096,
+                "tail": "PersonY is a nazi"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2918289005756378,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "HinderedBy",
+                "similarity": 0.2831977754831314,
+                "tail": "PersonY will not share their position."
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "HinderedBy",
+                "similarity": 0.28095874190330505,
+                "tail": "they changed their position"
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "xNeed",
+                "similarity": 0.28082700073719025,
+                "tail": "to learn about person y's position"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2789252996444702,
+                "tail": "to understand what PersonX is showing them"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX loves photography",
+                "relation": "xReact",
+                "similarity": 0.7643471956253052,
+                "tail": "like taking a photo"
+            },
+            {
+                "head": "PersonX loves photography",
+                "relation": "xReact",
+                "similarity": 0.7612606883049011,
+                "tail": "like buying a camera"
+            },
+            {
+                "head": "PersonX loves photography",
+                "relation": "oWant",
+                "similarity": 0.759893923997879,
+                "tail": "to look at their pictures"
+            },
+            {
+                "head": "PersonX loves photography",
+                "relation": "xNeed",
+                "similarity": 0.759893923997879,
+                "tail": "to look at pictures"
+            },
+            {
+                "head": "PersonX loves photography",
+                "relation": "isBefore",
+                "similarity": 0.7585398852825165,
+                "tail": "PersonX takes lots of photos of the landscape"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "light meter",
+                "relation": "ObjectUse",
+                "similarity": 0.3123890310525894,
+                "tail": "measure intensity of illumination"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.29549646377563477,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.29514093697071075,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.28949666023254395,
+                "tail": "record measurements"
+            },
+            {
+                "head": "optical equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.2888510674238205,
+                "tail": "give precise measurements"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_3",
+        "question_commonsense": [
+            {
+                "head": "measure tape",
+                "relation": "ObjectUse",
+                "similarity": 0.7361578345298767,
+                "tail": "make accurate lines"
+            },
+            {
+                "head": "tape",
+                "relation": "ObjectUse",
+                "similarity": 0.7185917794704437,
+                "tail": "determine the length"
+            },
+            {
+                "head": "measure tape",
+                "relation": "ObjectUse",
+                "similarity": 0.7162550687789917,
+                "tail": "hang from ceiling with plumb bob attached"
+            },
+            {
+                "head": "tape measurer",
+                "relation": "ObjectUse",
+                "similarity": 0.7151738107204437,
+                "tail": "take measurements"
+            },
+            {
+                "head": "tape measurer",
+                "relation": "ObjectUse",
+                "similarity": 0.7141013145446777,
+                "tail": "measure furniture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "temperature",
+                "relation": "HasProperty",
+                "similarity": 0.2861987501382828,
+                "tail": "measured in units of fahrenheit"
+            },
+            {
+                "head": "temperature",
+                "relation": "HasProperty",
+                "similarity": 0.266695573925972,
+                "tail": "measured in degrees"
+            },
+            {
+                "head": "temperature",
+                "relation": "HasProperty",
+                "similarity": 0.2512221559882164,
+                "tail": "expressed in degrees"
+            },
+            {
+                "head": "PersonX depends upon the temperature",
+                "relation": "HinderedBy",
+                "similarity": 0.2507317140698433,
+                "tail": "PersonX has a faulty thermometer."
+            },
+            {
+                "head": "PersonX cites PersonY example",
+                "relation": "HinderedBy",
+                "similarity": 0.2506258487701416,
+                "tail": "Person X is not knowledgeable so cannot cite an example."
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7597776055335999,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7592050135135651,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7515897750854492,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7473306655883789,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7327456474304199,
+                "tail": "procure a book with diagrams"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX supports PersonX's position",
+                "relation": "xWant",
+                "similarity": 0.2836030274629593,
+                "tail": "to argue about their position"
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "xNeed",
+                "similarity": 0.2813725173473358,
+                "tail": "to learn about person y's position"
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "HinderedBy",
+                "similarity": 0.2812531292438507,
+                "tail": "PersonY will not share their position."
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "isAfter",
+                "similarity": 0.279447078704834,
+                "tail": "PersonX reads about PersonY's position"
+            },
+            {
+                "head": "PersonX supports PersonX's position",
+                "relation": "HinderedBy",
+                "similarity": 0.2788030505180359,
+                "tail": "Evidence has been offered that disputes the position."
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_5",
+        "question_commonsense": [
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.7358718812465668,
+                "tail": "calculating angles"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.716005951166153,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7049754559993744,
+                "tail": "Person X does not understand the math problems."
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7044644951820374,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.7016207575798035,
+                "tail": "calculating area"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.2986229956150055,
+                "tail": "measure angles"
+            },
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.29801712930202484,
+                "tail": "calculating angles"
+            },
+            {
+                "head": "triangle",
+                "relation": "HasProperty",
+                "similarity": 0.2952864021062851,
+                "tail": "three vertices"
+            },
+            {
+                "head": "triangle",
+                "relation": "AtLocation",
+                "similarity": 0.2938946783542633,
+                "tail": "geometry"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.2938946783542633,
+                "tail": "do geometry"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX compares and contrast ___",
+                "relation": "xNeed",
+                "similarity": 0.7053312659263611,
+                "tail": "to know how to compare them"
+            },
+            {
+                "head": "PersonX tells ___ apart",
+                "relation": "xNeed",
+                "similarity": 0.7020817399024963,
+                "tail": "to know the difference"
+            },
+            {
+                "head": "PersonX tells PersonY apart",
+                "relation": "oWant",
+                "similarity": 0.7006340622901917,
+                "tail": "To help X understand"
+            },
+            {
+                "head": "PersonX compares and contrast ___",
+                "relation": "xWant",
+                "similarity": 0.6966631710529327,
+                "tail": "to understand it"
+            },
+            {
+                "head": "PersonX tells ___ apart",
+                "relation": "xNeed",
+                "similarity": 0.6944460868835449,
+                "tail": "to know what to look for"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "airfoil",
+                "relation": "MadeUpOf",
+                "similarity": 0.29130129516124725,
+                "tail": "trailing edge"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2895086407661438,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2883226126432419,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.2860419899225235,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2806939035654068,
+                "tail": "procure a book with diagrams"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_7",
+        "question_commonsense": [
+            {
+                "head": "weighing equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.6608586013317108,
+                "tail": "measure weight of an object"
+            },
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.6510308980941772,
+                "tail": "manage structured data"
+            },
+            {
+                "head": "PersonX mixes the ingredients",
+                "relation": "HinderedBy",
+                "similarity": 0.6403246819972992,
+                "tail": "The ingredients are missing something"
+            },
+            {
+                "head": "PersonX mixes the ingredients",
+                "relation": "xNeed",
+                "similarity": 0.6400474309921265,
+                "tail": "to see what ingredients they need"
+            },
+            {
+                "head": "PersonX mixes the ingredients",
+                "relation": "oWant",
+                "similarity": 0.6391288042068481,
+                "tail": "to help PersonX cook the ingredients"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.26431676000356674,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "gravity",
+                "relation": "ObjectUse",
+                "similarity": 0.26396404951810837,
+                "tail": "forcing objects towards ground"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xAttr",
+                "similarity": 0.2576093152165413,
+                "tail": "percise"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xAttr",
+                "similarity": 0.2565143406391144,
+                "tail": "precise"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xAttr",
+                "similarity": 0.2560889795422554,
+                "tail": "Exacting"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.8532237708568573,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.851352870464325,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "xEffect",
+                "similarity": 0.849085807800293,
+                "tail": "to has a math test"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.8479412794113159,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "HinderedBy",
+                "similarity": 0.8468291759490967,
+                "tail": "The math test was already completed today."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX uses ___ to estimate",
+                "relation": "xWant",
+                "similarity": 0.26450248062610626,
+                "tail": "to make more estimates"
+            },
+            {
+                "head": "PersonX is good at math",
+                "relation": "xNeed",
+                "similarity": 0.26289786398410797,
+                "tail": "to major in math"
+            },
+            {
+                "head": "PersonX is good at math",
+                "relation": "xNeed",
+                "similarity": 0.26055778563022614,
+                "tail": "to choose a career based on math"
+            },
+            {
+                "head": "PersonX uses ___ to estimate",
+                "relation": "isFilledBy",
+                "similarity": 0.2599281594157219,
+                "tail": "calculators"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.2594396397471428,
+                "tail": "to have the thing in question"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_9",
+        "question_commonsense": [
+            {
+                "head": "PersonX gets the train under way",
+                "relation": "isBefore",
+                "similarity": 0.7121871709823608,
+                "tail": "PersonX navigates to the next station"
+            },
+            {
+                "head": "PersonX uses ___ to estimate",
+                "relation": "xWant",
+                "similarity": 0.7109833359718323,
+                "tail": "to make more estimates"
+            },
+            {
+                "head": "PersonX helps the environment",
+                "relation": "oWant",
+                "similarity": 0.7100634872913361,
+                "tail": "to follow his example"
+            },
+            {
+                "head": "PersonX uses ___ to estimate",
+                "relation": "oWant",
+                "similarity": 0.7096671164035797,
+                "tail": "to read the data"
+            },
+            {
+                "head": "train track",
+                "relation": "AtLocation",
+                "similarity": 0.7093706130981445,
+                "tail": "train station"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.2674611806869507,
+                "tail": "to wait for test results"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "xEffect",
+                "similarity": 0.2655952125787735,
+                "tail": "PersonX stresses about the test results"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.26303979754447937,
+                "tail": "to review new test results"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.26111435145139694,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX has been deferred until test results are in",
+                "relation": "xEffect",
+                "similarity": 0.2565697804093361,
+                "tail": "wait for results"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_10",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.7560557126998901,
+                "tail": "to test out her theory"
+            },
+            {
+                "head": "PersonX solves the ___ by using",
+                "relation": "xIntent",
+                "similarity": 0.7546094954013824,
+                "tail": "math"
+            },
+            {
+                "head": "location",
+                "relation": "ObjectUse",
+                "similarity": 0.7460713386535645,
+                "tail": "plan a trip"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.7429043650627136,
+                "tail": "work on his algebra homework"
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xEffect",
+                "similarity": 0.7428228557109833,
+                "tail": "learned something"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.2779415547847748,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.26853135228157043,
+                "tail": "Person x makes inferences and/or calculations based upon results"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xNeed",
+                "similarity": 0.2637833505868912,
+                "tail": "calculate the dimensions"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.2626739740371704,
+                "tail": "record measurements"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.26212361454963684,
+                "tail": "to determine"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX takes PersonX's road test",
+                "relation": "xEffect",
+                "similarity": 0.6708126068115234,
+                "tail": "fails the test"
+            },
+            {
+                "head": "other test materials",
+                "relation": "ObjectUse",
+                "similarity": 0.6696897149085999,
+                "tail": "fill out a test"
+            },
+            {
+                "head": "PersonX uses in PersonX's construction",
+                "relation": "HinderedBy",
+                "similarity": 0.6656388342380524,
+                "tail": "PersonX sold that construction and the new owner won't sell it back."
+            },
+            {
+                "head": "PersonX uses in PersonX's construction",
+                "relation": "xWant",
+                "similarity": 0.663486123085022,
+                "tail": "to repair an item"
+            },
+            {
+                "head": "PersonX takes PersonX's road test",
+                "relation": "xWant",
+                "similarity": 0.6618464887142181,
+                "tail": "found out the result"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ accurately",
+                "relation": "xWant",
+                "similarity": 0.2718035578727722,
+                "tail": "to write down measurements"
+            },
+            {
+                "head": "PersonX measures ___ accurately",
+                "relation": "xWant",
+                "similarity": 0.26725752651691437,
+                "tail": "writes down the measurements"
+            },
+            {
+                "head": "PersonX measures accurately the ___",
+                "relation": "xWant",
+                "similarity": 0.26646095514297485,
+                "tail": "To know the measurements"
+            },
+            {
+                "head": "PersonX measures accurately the ___",
+                "relation": "xWant",
+                "similarity": 0.26496005058288574,
+                "tail": "compare it to measurements of similar objects"
+            },
+            {
+                "head": "PersonX measures accurately the ___",
+                "relation": "xEffect",
+                "similarity": 0.26381368935108185,
+                "tail": "writes down measurement"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_12",
+        "question_commonsense": [
+            {
+                "head": "satelite dish",
+                "relation": "ObjectUse",
+                "similarity": 0.7589116096496582,
+                "tail": "get cable tv with"
+            },
+            {
+                "head": "satelite dish",
+                "relation": "ObjectUse",
+                "similarity": 0.7559975683689117,
+                "tail": "get better signal"
+            },
+            {
+                "head": "network signal",
+                "relation": "ObjectUse",
+                "similarity": 0.7558704912662506,
+                "tail": "pull in internet signal"
+            },
+            {
+                "head": "satelite dish",
+                "relation": "ObjectUse",
+                "similarity": 0.7546289265155792,
+                "tail": "watch channels from far away"
+            },
+            {
+                "head": "satelite dish",
+                "relation": "ObjectUse",
+                "similarity": 0.753158837556839,
+                "tail": "use as a target"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.29259057343006134,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.2877763509750366,
+                "tail": "Person x makes inferences and/or calculations based upon results"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.284898579120636,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2847897857427597,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28476382791996,
+                "tail": "draw a diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_13",
+        "question_commonsense": [
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.7172492146492004,
+                "tail": "test program for errors"
+            },
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.715888649225235,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.7152791917324066,
+                "tail": "check what is affecting the variables"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xAttr",
+                "similarity": 0.7102319300174713,
+                "tail": "mathmatical"
+            },
+            {
+                "head": "PersonX does PersonX's math homework",
+                "relation": "xEffect",
+                "similarity": 0.7057022452354431,
+                "tail": "learn some math concepts"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28836920857429504,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28626495599746704,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.28377002477645874,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2818857580423355,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.27806805074214935,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7960606515407562,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7859056293964386,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX uses PersonY example",
+                "relation": "xWant",
+                "similarity": 0.7812429368495941,
+                "tail": "to explain PersonY's example"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7798246741294861,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.7797660529613495,
+                "tail": "to learn more mathematics"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "isAfter",
+                "similarity": 0.25936509668827057,
+                "tail": "PersonX reads about PersonY's position"
+            },
+            {
+                "head": "extension pole",
+                "relation": "ObjectUse",
+                "similarity": 0.25768958777189255,
+                "tail": "reach ceiling with rollers"
+            },
+            {
+                "head": "PersonX supports PersonX's position",
+                "relation": "xWant",
+                "similarity": 0.25583725422620773,
+                "tail": "to argue about their position"
+            },
+            {
+                "head": "PersonX supports PersonX's position",
+                "relation": "HinderedBy",
+                "similarity": 0.2525961622595787,
+                "tail": "Evidence has been offered that disputes the position."
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "xNeed",
+                "similarity": 0.2514689415693283,
+                "tail": "to learn about person y's position"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_15",
+        "question_commonsense": [
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.65548375248909,
+                "tail": "vector space"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6543382108211517,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6526147127151489,
+                "tail": "PersonX did not learn how to do this equation"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6508150696754456,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.648825615644455,
+                "tail": "linear algebra"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "protractor",
+                "relation": "ObjectUse",
+                "similarity": 0.3106548339128494,
+                "tail": "measure angles"
+            },
+            {
+                "head": "protractor",
+                "relation": "ObjectUse",
+                "similarity": 0.3101460337638855,
+                "tail": "determine an angle"
+            },
+            {
+                "head": "protractor",
+                "relation": "ObjectUse",
+                "similarity": 0.2860982269048691,
+                "tail": "use as a ruler"
+            },
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.28498412668704987,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2831720560789108,
+                "tail": "draw a diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_16",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xWant",
+                "similarity": 0.7645602822303772,
+                "tail": "make decisions based on the data analysis"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xWant",
+                "similarity": 0.7575231790542603,
+                "tail": "to synthesize data"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xNeed",
+                "similarity": 0.7567069232463837,
+                "tail": "get data analysis software"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xNeed",
+                "similarity": 0.7516098320484161,
+                "tail": "to access the data"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xNeed",
+                "similarity": 0.7478587925434113,
+                "tail": "to gather data"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xAttr",
+                "similarity": 0.2561364844441414,
+                "tail": "percise"
+            },
+            {
+                "head": "PersonX classifies ___ on the basis",
+                "relation": "xNeed",
+                "similarity": 0.25417498499155045,
+                "tail": "learn how to classify"
+            },
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "xIntent",
+                "similarity": 0.25278396159410477,
+                "tail": "to be the resposibility"
+            },
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "oWant",
+                "similarity": 0.2518659308552742,
+                "tail": "to help PersonX with the research"
+            },
+            {
+                "head": "PersonX classifies ___ on the basis",
+                "relation": "xAttr",
+                "similarity": 0.2514556124806404,
+                "tail": "analytical"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_17",
+        "question_commonsense": [
+            {
+                "head": "map",
+                "relation": "AtLocation",
+                "similarity": 0.6441338360309601,
+                "tail": "map website"
+            },
+            {
+                "head": "map",
+                "relation": "ObjectUse",
+                "similarity": 0.6370836496353149,
+                "tail": "lay out plan"
+            },
+            {
+                "head": "map",
+                "relation": "ObjectUse",
+                "similarity": 0.6364651918411255,
+                "tail": "show terrain"
+            },
+            {
+                "head": "map",
+                "relation": "ObjectUse",
+                "similarity": 0.6357279121875763,
+                "tail": "locating place"
+            },
+            {
+                "head": "ground plan",
+                "relation": "ObjectUse",
+                "similarity": 0.6339029371738434,
+                "tail": "learn about architecture for school"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "number card",
+                "relation": "ObjectUse",
+                "similarity": 0.2805422395467758,
+                "tail": "number the tables"
+            },
+            {
+                "head": "winning numbers",
+                "relation": "ObjectUse",
+                "similarity": 0.26943762600421906,
+                "tail": "remember as lucky numbers"
+            },
+            {
+                "head": "numbers book",
+                "relation": "ObjectUse",
+                "similarity": 0.2650924026966095,
+                "tail": "teach a child to count"
+            },
+            {
+                "head": "numbers book",
+                "relation": "ObjectUse",
+                "similarity": 0.26251907646656036,
+                "tail": "get the right number from"
+            },
+            {
+                "head": "telephone numbers",
+                "relation": "ObjectUse",
+                "similarity": 0.26233121007680893,
+                "tail": "to memorize for an MTurk hit on cognition"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_18",
+        "question_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.7751206755638123,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.7543095350265503,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xNeed",
+                "similarity": 0.7529026567935944,
+                "tail": "calculate the dimensions"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xEffect",
+                "similarity": 0.7491704225540161,
+                "tail": "Does the math"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.7477835416793823,
+                "tail": "measure other things"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "xEffect",
+                "similarity": 0.2560226544737816,
+                "tail": "PersonX stresses about the test results"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.25432244688272476,
+                "tail": "to wait for test results"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.24974802136421204,
+                "tail": "to review new test results"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xWant",
+                "similarity": 0.24720371514558792,
+                "tail": "to strengthen their argument"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xWant",
+                "similarity": 0.2471640482544899,
+                "tail": "to extract work from him"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_19",
+        "question_commonsense": [
+            {
+                "head": "PersonX supports PersonX's position",
+                "relation": "xEffect",
+                "similarity": 0.675126701593399,
+                "tail": "sad"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.6691992580890656,
+                "tail": "build a robot"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.6691527962684631,
+                "tail": "take apart the machine"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.6691144108772278,
+                "tail": "learn the trade"
+            },
+            {
+                "head": "launch platform",
+                "relation": "AtLocation",
+                "similarity": 0.6653386056423187,
+                "tail": "launch site"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2933439761400223,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2921000272035599,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2895928770303726,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2881883829832077,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.28658366203308105,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.7243931591510773,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7223839163780212,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.719639778137207,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7176238298416138,
+                "tail": "PersonX did not learn how to do this equation"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7138530611991882,
+                "tail": "Person X does not understand the math problems."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.29846152663230896,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.29720281064510345,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xNeed",
+                "similarity": 0.28546470403671265,
+                "tail": "calculate the dimensions"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.2806015759706497,
+                "tail": "record measurements"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.2761409431695938,
+                "tail": "Person x utilizes measuring instrument"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_21",
+        "question_commonsense": [
+            {
+                "head": "river bed",
+                "relation": "AtLocation",
+                "similarity": 0.6541980803012848,
+                "tail": "bridge"
+            },
+            {
+                "head": "circular route",
+                "relation": "ObjectUse",
+                "similarity": 0.6466746032238007,
+                "tail": "returning to start point"
+            },
+            {
+                "head": "main traffic artery",
+                "relation": "ObjectUse",
+                "similarity": 0.6436682045459747,
+                "tail": "high density traffic"
+            },
+            {
+                "head": "main traffic artery",
+                "relation": "AtLocation",
+                "similarity": 0.6410520672798157,
+                "tail": "route between cities"
+            },
+            {
+                "head": "main traffic artery",
+                "relation": "ObjectUse",
+                "similarity": 0.640401303768158,
+                "tail": "direction of traffic flow"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29979710280895233,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.29706333577632904,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.29203569889068604,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28927402198314667,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.287930428981781,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_22",
+        "question_commonsense": [
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.8246792852878571,
+                "tail": "calculating angles"
+            },
+            {
+                "head": "compass",
+                "relation": "ObjectUse",
+                "similarity": 0.8142606317996979,
+                "tail": "measure direction"
+            },
+            {
+                "head": "compass",
+                "relation": "ObjectUse",
+                "similarity": 0.8090856671333313,
+                "tail": "determine direction being traveled"
+            },
+            {
+                "head": "compass",
+                "relation": "ObjectUse",
+                "similarity": 0.8081169128417969,
+                "tail": "find the correct path on the trail"
+            },
+            {
+                "head": "compass",
+                "relation": "ObjectUse",
+                "similarity": 0.8079566061496735,
+                "tail": "navigation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.2788768857717514,
+                "tail": "organizing telephone numbers"
+            },
+            {
+                "head": "results paper",
+                "relation": "ObjectUse",
+                "similarity": 0.2749805301427841,
+                "tail": "find out your grades"
+            },
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.2740122824907303,
+                "tail": "keeping telephone numbers"
+            },
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.27218058705329895,
+                "tail": "storing telphone numbers"
+            },
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.267173632979393,
+                "tail": "learning person's phone number"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_23",
+        "question_commonsense": [
+            {
+                "head": "underground area",
+                "relation": "ObjectUse",
+                "similarity": 0.6969313323497772,
+                "tail": "contain heating units"
+            },
+            {
+                "head": "underground area",
+                "relation": "ObjectUse",
+                "similarity": 0.6909547448158264,
+                "tail": "have tunnel"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.6878239512443542,
+                "tail": "add to the engine to make it go"
+            },
+            {
+                "head": "underground area",
+                "relation": "AtLocation",
+                "similarity": 0.6836106479167938,
+                "tail": "subway system"
+            },
+            {
+                "head": "underground area",
+                "relation": "ObjectUse",
+                "similarity": 0.683139443397522,
+                "tail": "remove train from surface impediments"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.3083959221839905,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.30734099447727203,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.297806978225708,
+                "tail": "record measurements"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.29444314539432526,
+                "tail": "Person x makes inferences and/or calculations based upon results"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.28450122475624084,
+                "tail": "Person x utilizes measuring instrument"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_24",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.6760467290878296,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6751483678817749,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6734898388385773,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.6732562184333801,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.6699342131614685,
+                "tail": "scientific"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.28631922602653503,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2810239791870117,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27528291940689087,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.27128878235816956,
+                "tail": "clearly present data"
+            },
+            {
+                "head": "graph",
+                "relation": "MadeUpOf",
+                "similarity": 0.2709933668375015,
+                "tail": "curve"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_25",
+        "question_commonsense": [
+            {
+                "head": "menu",
+                "relation": "AtLocation",
+                "similarity": 0.6611600518226624,
+                "tail": "financial computer program"
+            },
+            {
+                "head": "menu",
+                "relation": "ObjectUse",
+                "similarity": 0.6572834551334381,
+                "tail": "interfacing with computer"
+            },
+            {
+                "head": "menu",
+                "relation": "AtLocation",
+                "similarity": 0.6562190651893616,
+                "tail": "table"
+            },
+            {
+                "head": "menu",
+                "relation": "ObjectUse",
+                "similarity": 0.6540056765079498,
+                "tail": "aid in making their selection"
+            },
+            {
+                "head": "proposal plan",
+                "relation": "ObjectUse",
+                "similarity": 0.6529400646686554,
+                "tail": "set up a contract"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "service plan",
+                "relation": "ObjectUse",
+                "similarity": 0.25942159444093704,
+                "tail": "compare prices"
+            },
+            {
+                "head": "service plan",
+                "relation": "ObjectUse",
+                "similarity": 0.2553664669394493,
+                "tail": "maintain a smart phone service"
+            },
+            {
+                "head": "service plan",
+                "relation": "ObjectUse",
+                "similarity": 0.2548868730664253,
+                "tail": "define benefits"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xWant",
+                "similarity": 0.25471285730600357,
+                "tail": "to reach a conclusion"
+            },
+            {
+                "head": "source of income",
+                "relation": "ObjectUse",
+                "similarity": 0.2535496950149536,
+                "tail": "pay for bills separate from their spouse"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_26",
+        "question_commonsense": [
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.5871982574462891,
+                "tail": "measure angles"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.5840672254562378,
+                "tail": "drawing angles with"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.5830418169498444,
+                "tail": "calculate position on plan"
+            },
+            {
+                "head": "triangle",
+                "relation": "AtLocation",
+                "similarity": 0.5724783837795258,
+                "tail": "math"
+            },
+            {
+                "head": "triangle",
+                "relation": "AtLocation",
+                "similarity": 0.5697853863239288,
+                "tail": "geometry"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "protractor",
+                "relation": "ObjectUse",
+                "similarity": 0.30986371636390686,
+                "tail": "determine an angle"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.3041619658470154,
+                "tail": "measure angles"
+            },
+            {
+                "head": "protractor",
+                "relation": "ObjectUse",
+                "similarity": 0.30290091037750244,
+                "tail": "measure angles"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.3000278174877167,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "triangle",
+                "relation": "AtLocation",
+                "similarity": 0.2996145188808441,
+                "tail": "trigonometry"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_27",
+        "question_commonsense": [
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.7305219769477844,
+                "tail": "vector space"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.7302803993225098,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.7262845933437347,
+                "tail": "linear algebra"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7199040651321411,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7121554315090179,
+                "tail": "The teacher has not taught PersonX how to solve the problem"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2966578006744385,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.292176753282547,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.28997184336185455,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.28808121383190155,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2876526862382889,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_28",
+        "question_commonsense": [
+            {
+                "head": "symbol",
+                "relation": "ObjectUse",
+                "similarity": 0.8990045487880707,
+                "tail": "representing idea or object"
+            },
+            {
+                "head": "logo",
+                "relation": "ObjectUse",
+                "similarity": 0.8738390803337097,
+                "tail": "market a brand"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8702136278152466,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.8692359030246735,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "isFilledBy",
+                "similarity": 0.8681513071060181,
+                "tail": "portrait"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "storekeeper",
+                "relation": "CapableOf",
+                "similarity": 0.262935109436512,
+                "tail": "open store"
+            },
+            {
+                "head": "bookend",
+                "relation": "ObjectUse",
+                "similarity": 0.2621558755636215,
+                "tail": "decorative display"
+            },
+            {
+                "head": "packaging materials",
+                "relation": "ObjectUse",
+                "similarity": 0.2615097016096115,
+                "tail": "create decorations for a display"
+            },
+            {
+                "head": "bookend",
+                "relation": "AtLocation",
+                "similarity": 0.26099807024002075,
+                "tail": "shelf"
+            },
+            {
+                "head": "bookend",
+                "relation": "AtLocation",
+                "similarity": 0.2602383494377136,
+                "tail": "bookshelf"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_29",
+        "question_commonsense": [
+            {
+                "head": "optical equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.774735152721405,
+                "tail": "give precise measurements"
+            },
+            {
+                "head": "optical equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.7590549290180206,
+                "tail": "test the vision"
+            },
+            {
+                "head": "PersonX conducts PersonY experiment",
+                "relation": "xWant",
+                "similarity": 0.7518909871578217,
+                "tail": "to teach PersonY science"
+            },
+            {
+                "head": "gas chromatograph",
+                "relation": "AtLocation",
+                "similarity": 0.7477757334709167,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "PersonX has a science test",
+                "relation": "oEffect",
+                "similarity": 0.7472586035728455,
+                "tail": "administers test"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.2795807421207428,
+                "tail": "measure temperature"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.2745496332645416,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.2737664133310318,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.2731446921825409,
+                "tail": "record measurements"
+            },
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.2639538496732712,
+                "tail": "measure degrees"
+            }
+        ]
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX sees if could make",
+                "relation": "xReact",
+                "similarity": 0.8318181037902832,
+                "tail": "good for trying something"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8290860652923584,
+                "tail": "to sell the image"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8286793529987335,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8286793529987335,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes ___ in PersonY's image",
+                "relation": "xEffect",
+                "similarity": 0.8274401426315308,
+                "tail": "sees it is good"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "oWant",
+                "similarity": 0.27581237256526947,
+                "tail": "find holes in the individual's argument"
+            },
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.2747514545917511,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "PersonX develops PersonY model",
+                "relation": "HinderedBy",
+                "similarity": 0.2689313590526581,
+                "tail": "PersonY won't share the model."
+            },
+            {
+                "head": "round object",
+                "relation": "ObjectUse",
+                "similarity": 0.26113447546958923,
+                "tail": "lift over head for exercise"
+            },
+            {
+                "head": "round object",
+                "relation": "ObjectUse",
+                "similarity": 0.2578875198960304,
+                "tail": "practice balance"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Public_Health_1",
+        "question_commonsense": [
+            {
+                "head": "blood pressure pump",
+                "relation": "ObjectUse",
+                "similarity": 0.6729875206947327,
+                "tail": "measure blood pressure"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.64898481965065,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "blood pressure pump",
+                "relation": "ObjectUse",
+                "similarity": 0.6360527276992798,
+                "tail": "check blood pressure"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6287698745727539,
+                "tail": "determine the nutritional content of a food"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6284326910972595,
+                "tail": "keep track of calories"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.2695603221654892,
+                "tail": "keeping telephone numbers"
+            },
+            {
+                "head": "PersonX forms PersonY estimate",
+                "relation": "xReact",
+                "similarity": 0.2643067240715027,
+                "tail": "completed the estimation"
+            },
+            {
+                "head": "PersonX forms PersonY estimate",
+                "relation": "xWant",
+                "similarity": 0.2621626853942871,
+                "tail": "to present the estimate"
+            },
+            {
+                "head": "PersonX forms PersonY estimate",
+                "relation": "xNeed",
+                "similarity": 0.2619423270225525,
+                "tail": "to carry out calculations"
+            },
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.2604132294654846,
+                "tail": "learning person's phone number"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_2",
+        "question_commonsense": [
+            {
+                "head": "chinese person",
+                "relation": "AtLocation",
+                "similarity": 0.7252227663993835,
+                "tail": "china"
+            },
+            {
+                "head": "chinese person",
+                "relation": "CapableOf",
+                "similarity": 0.7175047099590302,
+                "tail": "read chinese book"
+            },
+            {
+                "head": "china",
+                "relation": "MadeUpOf",
+                "similarity": 0.7075086534023285,
+                "tail": "guangzhou"
+            },
+            {
+                "head": "alcohol",
+                "relation": "HasProperty",
+                "similarity": 0.7062142491340637,
+                "tail": "effect of intoxicating"
+            },
+            {
+                "head": "china",
+                "relation": "MadeUpOf",
+                "similarity": 0.7038350999355316,
+                "tail": "anhui"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX controls PersonY's actions",
+                "relation": "oEffect",
+                "similarity": 0.24903538823127747,
+                "tail": "Y has no control"
+            },
+            {
+                "head": "PersonX controls PersonY's actions",
+                "relation": "oEffect",
+                "similarity": 0.24859150499105453,
+                "tail": "cant control their actions"
+            },
+            {
+                "head": "PersonX controls PersonY's actions",
+                "relation": "HinderedBy",
+                "similarity": 0.24712826311588287,
+                "tail": "Person X is not able to control anyone."
+            },
+            {
+                "head": "PersonX controls PersonY's actions",
+                "relation": "HinderedBy",
+                "similarity": 0.24687933921813965,
+                "tail": "PersonY is an adult so PersonX can not control PersonY action"
+            },
+            {
+                "head": "PersonX controls PersonY's actions",
+                "relation": "xAttr",
+                "similarity": 0.24625524878501892,
+                "tail": "controlling"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_3",
+        "question_commonsense": [
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.765096515417099,
+                "tail": "protect against disease"
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.7618104815483093,
+                "tail": "prevent disease"
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.7553980648517609,
+                "tail": "to be allowed into school"
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.7524943947792053,
+                "tail": "expose someone to virus"
+            },
+            {
+                "head": "antibiotic",
+                "relation": "ObjectUse",
+                "similarity": 0.7517760396003723,
+                "tail": "treating bacterial infection"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX determines a person 's ___",
+                "relation": "xEffect",
+                "similarity": 0.27290454506874084,
+                "tail": "examines other person."
+            },
+            {
+                "head": "PersonX determines a person 's ___",
+                "relation": "xIntent",
+                "similarity": 0.2714853286743164,
+                "tail": "figure out information about another person"
+            },
+            {
+                "head": "PersonX distributes in forms without figure",
+                "relation": "xNeed",
+                "similarity": 0.27050457894802094,
+                "tail": "to give forms to people"
+            },
+            {
+                "head": "PersonX distributes in forms without figure",
+                "relation": "xWant",
+                "similarity": 0.26836834847927094,
+                "tail": "to continue distributing forms"
+            },
+            {
+                "head": "PersonX distributes in forms without figure",
+                "relation": "xEffect",
+                "similarity": 0.26743096113204956,
+                "tail": "is told to redo forms"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX plays PersonY ___ in the pathogenesis",
+                "relation": "xWant",
+                "similarity": 0.8201471865177155,
+                "tail": "to find out what Pathogenesis is"
+            },
+            {
+                "head": "PersonX plays PersonY ___ in the pathogenesis",
+                "relation": "xNeed",
+                "similarity": 0.8048891127109528,
+                "tail": "to know the disease"
+            },
+            {
+                "head": "PersonX plays PersonY ___ in the pathogenesis",
+                "relation": "xNeed",
+                "similarity": 0.8029442429542542,
+                "tail": "to explain the disease"
+            },
+            {
+                "head": "PersonX cites PersonY example",
+                "relation": "HinderedBy",
+                "similarity": 0.8013814389705658,
+                "tail": "Person X is not knowledgeable so cannot cite an example."
+            },
+            {
+                "head": "cogitate",
+                "relation": "xNeed",
+                "similarity": 0.8010598123073578,
+                "tail": "perambulate"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "sperm",
+                "relation": "MadeUpOf",
+                "similarity": 0.28757838904857635,
+                "tail": "flagellum"
+            },
+            {
+                "head": "sperm",
+                "relation": "ObjectUse",
+                "similarity": 0.2849056273698807,
+                "tail": "seed embryo"
+            },
+            {
+                "head": "parasite",
+                "relation": "AtLocation",
+                "similarity": 0.2801208049058914,
+                "tail": "organism"
+            },
+            {
+                "head": "tapeworm",
+                "relation": "AtLocation",
+                "similarity": 0.27769993245601654,
+                "tail": "human intestines"
+            },
+            {
+                "head": "bacteria",
+                "relation": "HasProperty",
+                "similarity": 0.2731596827507019,
+                "tail": "microscopic"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_5",
+        "question_commonsense": [
+            {
+                "head": "list of medications",
+                "relation": "ObjectUse",
+                "similarity": 0.6834706962108612,
+                "tail": "check off medicines taken"
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.6796984970569611,
+                "tail": "protect against disease"
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.6774097084999084,
+                "tail": "prevent disease"
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.6738606095314026,
+                "tail": "avoid the flu"
+            },
+            {
+                "head": "list of medications",
+                "relation": "ObjectUse",
+                "similarity": 0.6711805462837219,
+                "tail": "get the prescription"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX determines the patient 's ___",
+                "relation": "xWant",
+                "similarity": 0.25665342062711716,
+                "tail": "to write a prescription for medicine"
+            },
+            {
+                "head": "PersonX determines the patient 's ___",
+                "relation": "xEffect",
+                "similarity": 0.2565523087978363,
+                "tail": "gains knowledge on patient"
+            },
+            {
+                "head": "PersonX supplements PersonY's income",
+                "relation": "oEffect",
+                "similarity": 0.2550152465701103,
+                "tail": "Benefits"
+            },
+            {
+                "head": "PersonX determines the patient 's ___",
+                "relation": "xEffect",
+                "similarity": 0.2529307082295418,
+                "tail": "gains information"
+            },
+            {
+                "head": "PersonX supplements PersonY's income",
+                "relation": "xEffect",
+                "similarity": 0.24858413636684418,
+                "tail": "Aids y in paying bills"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_6",
+        "question_commonsense": [
+            {
+                "head": "hospital",
+                "relation": "MadeUpOf",
+                "similarity": 0.6982758343219757,
+                "tail": "hospital room"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6812551021575928,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "patient room",
+                "relation": "ObjectUse",
+                "similarity": 0.6805468201637268,
+                "tail": "visit patient in"
+            },
+            {
+                "head": "hospital",
+                "relation": "ObjectUse",
+                "similarity": 0.6805359125137329,
+                "tail": "trauma patients"
+            },
+            {
+                "head": "hospital",
+                "relation": "ObjectUse",
+                "similarity": 0.6786854565143585,
+                "tail": "caring for patients"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "spreadsheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2696254104375839,
+                "tail": "calculate the amounts"
+            },
+            {
+                "head": "spreadsheet",
+                "relation": "ObjectUse",
+                "similarity": 0.26056550443172455,
+                "tail": "sort numbers"
+            },
+            {
+                "head": "spreadsheet program",
+                "relation": "ObjectUse",
+                "similarity": 0.2573634460568428,
+                "tail": "calculate gambling debt"
+            },
+            {
+                "head": "spreadsheet",
+                "relation": "ObjectUse",
+                "similarity": 0.25600291043519974,
+                "tail": "keep track of earnings"
+            },
+            {
+                "head": "spreadsheet software",
+                "relation": "ObjectUse",
+                "similarity": 0.25441012531518936,
+                "tail": "track a budget"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_7",
+        "question_commonsense": [
+            {
+                "head": "list of medications",
+                "relation": "ObjectUse",
+                "similarity": 0.7240437567234039,
+                "tail": "check off medicines taken"
+            },
+            {
+                "head": "list of medications",
+                "relation": "ObjectUse",
+                "similarity": 0.7120437622070312,
+                "tail": "check side effects"
+            },
+            {
+                "head": "poem",
+                "relation": "ObjectUse",
+                "similarity": 0.7017795443534851,
+                "tail": "communicating"
+            },
+            {
+                "head": "list of medications",
+                "relation": "ObjectUse",
+                "similarity": 0.700334221124649,
+                "tail": "get the prescription"
+            },
+            {
+                "head": "poem",
+                "relation": "ObjectUse",
+                "similarity": 0.6987388432025909,
+                "tail": "recite poem"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX classifies ___ into categories",
+                "relation": "xWant",
+                "similarity": 0.2858460992574692,
+                "tail": "sort objects by category"
+            },
+            {
+                "head": "PersonX classifies ___ into categories",
+                "relation": "xWant",
+                "similarity": 0.2850550711154938,
+                "tail": "to make categories clear"
+            },
+            {
+                "head": "list of medications",
+                "relation": "ObjectUse",
+                "similarity": 0.2833445370197296,
+                "tail": "check off medicines taken"
+            },
+            {
+                "head": "list of medications",
+                "relation": "ObjectUse",
+                "similarity": 0.2684617266058922,
+                "tail": "check side effects"
+            },
+            {
+                "head": "list of medications",
+                "relation": "ObjectUse",
+                "similarity": 0.2674281522631645,
+                "tail": "take inventory"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_8",
+        "question_commonsense": [
+            {
+                "head": "chinese person",
+                "relation": "AtLocation",
+                "similarity": 0.7373256981372833,
+                "tail": "china"
+            },
+            {
+                "head": "chinese person",
+                "relation": "CapableOf",
+                "similarity": 0.7338483333587646,
+                "tail": "read chinese book"
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.7313523292541504,
+                "tail": "protect against disease"
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.7295674085617065,
+                "tail": "prevent disease"
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.7191700339317322,
+                "tail": "avoid the flu"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "tetanus jab",
+                "relation": "ObjectUse",
+                "similarity": 0.26985932886600494,
+                "tail": "fulfill vaccine requirements for school admission"
+            },
+            {
+                "head": "tetanus jab",
+                "relation": "ObjectUse",
+                "similarity": 0.2637719064950943,
+                "tail": "inject vaccine"
+            },
+            {
+                "head": "PersonX is diagnosed with the flu",
+                "relation": "HinderedBy",
+                "similarity": 0.2634100019931793,
+                "tail": "Person X's doctor gave them the flu immunization shot."
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.2606109008193016,
+                "tail": "protect against disease"
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.25920164585113525,
+                "tail": "prevent disease"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_9",
+        "question_commonsense": [
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.6745433509349823,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.6733406484127045,
+                "tail": "write a medical journal"
+            },
+            {
+                "head": "medical insurance",
+                "relation": "ObjectUse",
+                "similarity": 0.67191943526268,
+                "tail": "pay for their hospital stay"
+            },
+            {
+                "head": "PersonX understands the patient 's ___",
+                "relation": "xWant",
+                "similarity": 0.6696589589118958,
+                "tail": "to let the patient know the best course of action"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.6685179471969604,
+                "tail": "get a referral to another doctor"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xEffect",
+                "similarity": 0.29632438719272614,
+                "tail": "is reading diagnosis reports of patients"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.2951081842184067,
+                "tail": "evaluate patient's symptoms"
+            },
+            {
+                "head": "PersonX assesses the patient 's ___",
+                "relation": "xNeed",
+                "similarity": 0.2870255410671234,
+                "tail": "to ask the patient questions"
+            },
+            {
+                "head": "PersonX assesses the patient 's ___",
+                "relation": "xEffect",
+                "similarity": 0.28377674520015717,
+                "tail": "talks to the patient"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.28275272250175476,
+                "tail": "examine patients"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_10",
+        "question_commonsense": [
+            {
+                "head": "PersonX quits smoking for good",
+                "relation": "xWant",
+                "similarity": 0.8244329988956451,
+                "tail": "to stop smoking"
+            },
+            {
+                "head": "PersonX is trying to quit smoking",
+                "relation": "xWant",
+                "similarity": 0.8212153315544128,
+                "tail": "to stay away from smokers"
+            },
+            {
+                "head": "PersonX quits smoking for good",
+                "relation": "isBefore",
+                "similarity": 0.8165704011917114,
+                "tail": "PersonX speaks to others about the evils of smoking"
+            },
+            {
+                "head": "PersonX is trying to quit smoking",
+                "relation": "HinderedBy",
+                "similarity": 0.8157621026039124,
+                "tail": "PersonX works around a lot of smokers."
+            },
+            {
+                "head": "PersonX is trying to quit smoking",
+                "relation": "xWant",
+                "similarity": 0.8128592371940613,
+                "tail": "to stop buying tobacco"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX has a heart condition",
+                "relation": "HinderedBy",
+                "similarity": 0.27598974108695984,
+                "tail": "PersonX was just born too healthy to have a heart condition."
+            },
+            {
+                "head": "PersonX has a heart condition",
+                "relation": "xNeed",
+                "similarity": 0.2636214941740036,
+                "tail": "Get diagnosed with the condition"
+            },
+            {
+                "head": "PersonX has a heart condition",
+                "relation": "xWant",
+                "similarity": 0.25675807893276215,
+                "tail": "Receive treatment and medication"
+            },
+            {
+                "head": "PersonX has a heart condition",
+                "relation": "isAfter",
+                "similarity": 0.25151773542165756,
+                "tail": "PersonX takes some medical tests"
+            },
+            {
+                "head": "PersonX has a heart condition",
+                "relation": "xReact",
+                "similarity": 0.25147368758916855,
+                "tail": "scared about their health"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX quits smoking for good",
+                "relation": "xWant",
+                "similarity": 0.7018378376960754,
+                "tail": "to stop smoking"
+            },
+            {
+                "head": "PersonX quits smoking for good",
+                "relation": "isAfter",
+                "similarity": 0.7017697095870972,
+                "tail": "PersonX discovers that PersonX has lung cancer"
+            },
+            {
+                "head": "PersonX is trying to quit smoking",
+                "relation": "xWant",
+                "similarity": 0.6933463215827942,
+                "tail": "to stay away from smokers"
+            },
+            {
+                "head": "PersonX is trying to quit smoking",
+                "relation": "xWant",
+                "similarity": 0.6856763660907745,
+                "tail": "to try vaping"
+            },
+            {
+                "head": "PersonX quits smoking for good",
+                "relation": "isBefore",
+                "similarity": 0.685635894536972,
+                "tail": "PersonX speaks to others about the evils of smoking"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xEffect",
+                "similarity": 0.2819877415895462,
+                "tail": "is reading diagnosis reports of patients"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.2809780687093735,
+                "tail": "evaluate patient's symptoms"
+            },
+            {
+                "head": "PersonX diagnoses with cancer",
+                "relation": "xEffect",
+                "similarity": 0.2763635516166687,
+                "tail": "to diagnoses with cancer"
+            },
+            {
+                "head": "PersonX causes ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.2756306827068329,
+                "tail": "to be near patients"
+            },
+            {
+                "head": "PersonX diagnoses with cancer",
+                "relation": "xNeed",
+                "similarity": 0.2737830877304077,
+                "tail": "to understand what cancer is"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_12",
+        "question_commonsense": [
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.7633475959300995,
+                "tail": "to review new test results"
+            },
+            {
+                "head": "PersonX has a science test",
+                "relation": "oEffect",
+                "similarity": 0.7601961195468903,
+                "tail": "Person grades test"
+            },
+            {
+                "head": "PersonX has a science test",
+                "relation": "HinderedBy",
+                "similarity": 0.7590302526950836,
+                "tail": "The test was cancelled."
+            },
+            {
+                "head": "PersonX has a science test",
+                "relation": "xReact",
+                "similarity": 0.7587219178676605,
+                "tail": "worried about the test"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.7587141990661621,
+                "tail": "to wait for test results"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xEffect",
+                "similarity": 0.2859671860933304,
+                "tail": "is reading diagnosis reports of patients"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.28510327637195587,
+                "tail": "evaluate patient's symptoms"
+            },
+            {
+                "head": "PersonX diagnoses with cancer",
+                "relation": "xEffect",
+                "similarity": 0.28043925762176514,
+                "tail": "to diagnoses with cancer"
+            },
+            {
+                "head": "PersonX causes ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.27916207909584045,
+                "tail": "to be near patients"
+            },
+            {
+                "head": "PersonX diagnoses with cancer",
+                "relation": "xNeed",
+                "similarity": 0.27419283986091614,
+                "tail": "to understand what cancer is"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_13",
+        "question_commonsense": [
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.7944280803203583,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "PersonX has food poisoning",
+                "relation": "xEffect",
+                "similarity": 0.7932133078575134,
+                "tail": "avoid unsuitable food"
+            },
+            {
+                "head": "PersonX has food poisoning",
+                "relation": "xNeed",
+                "similarity": 0.7926709055900574,
+                "tail": "eat contaminated food"
+            },
+            {
+                "head": "PersonX has food poisoning",
+                "relation": "xReact",
+                "similarity": 0.7827059626579285,
+                "tail": "sickened by bad food"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.7809892296791077,
+                "tail": "determine the nutritional content of a food"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.3032342791557312,
+                "tail": "determine the nutritional content of a food"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.3006019741296768,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.28575894236564636,
+                "tail": "show someone how to eat properly"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.274888277053833,
+                "tail": "see what you should be eating"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.2734750732779503,
+                "tail": "teach kids how to eat"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_14",
+        "question_commonsense": [
+            {
+                "head": "take test",
+                "relation": "xNeed",
+                "similarity": 0.8210791647434235,
+                "tail": "study for test"
+            },
+            {
+                "head": "PersonX takes PersonY's test",
+                "relation": "xAttr",
+                "similarity": 0.8163380920886993,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX takes a test",
+                "relation": "xReact",
+                "similarity": 0.814433366060257,
+                "tail": "satisfied"
+            },
+            {
+                "head": "PersonX takes a test",
+                "relation": "xReact",
+                "similarity": 0.8133414387702942,
+                "tail": "relieved"
+            },
+            {
+                "head": "final tabulations",
+                "relation": "ObjectUse",
+                "similarity": 0.8130712509155273,
+                "tail": "report on"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX assigns books to groups",
+                "relation": "isBefore",
+                "similarity": 0.26254910975694656,
+                "tail": "PersonX grades children"
+            },
+            {
+                "head": "PersonX groups ___ according",
+                "relation": "xEffect",
+                "similarity": 0.2616003230214119,
+                "tail": "becomes more organized"
+            },
+            {
+                "head": "PersonX groups ___ according",
+                "relation": "xAttr",
+                "similarity": 0.26108258217573166,
+                "tail": "methodically"
+            },
+            {
+                "head": "PersonX groups ___ according",
+                "relation": "xIntent",
+                "similarity": 0.2610098868608475,
+                "tail": "to organize people and things"
+            },
+            {
+                "head": "PersonX groups ___ according",
+                "relation": "xIntent",
+                "similarity": 0.2598598748445511,
+                "tail": "to be organised"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_15",
+        "question_commonsense": [
+            {
+                "head": "posted speed limit",
+                "relation": "ObjectUse",
+                "similarity": 0.7288540303707123,
+                "tail": "learn appropriate speed"
+            },
+            {
+                "head": "PersonX drives over the speed limit",
+                "relation": "xEffect",
+                "similarity": 0.7283262312412262,
+                "tail": "PersonX receives a speeding ticket"
+            },
+            {
+                "head": "PersonX drives over the speed limit",
+                "relation": "xEffect",
+                "similarity": 0.7271685302257538,
+                "tail": "gets a speeding ticket"
+            },
+            {
+                "head": "posted speed limit",
+                "relation": "ObjectUse",
+                "similarity": 0.7228429615497589,
+                "tail": "warn people of danger of speeding"
+            },
+            {
+                "head": "PersonX drives over the speed limit",
+                "relation": "HinderedBy",
+                "similarity": 0.7224719226360321,
+                "tail": "Person X's car will not go above 25 MPH."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX limits PersonY's ability",
+                "relation": "oEffect",
+                "similarity": 0.2943534106016159,
+                "tail": "surpasses the limits"
+            },
+            {
+                "head": "PersonX limits PersonY's ability",
+                "relation": "oWant",
+                "similarity": 0.2815783619880676,
+                "tail": "to regain his full ability"
+            },
+            {
+                "head": "PersonX limits PersonY's use",
+                "relation": "HinderedBy",
+                "similarity": 0.281499445438385,
+                "tail": "PersonX doesn't have the authority to limit it."
+            },
+            {
+                "head": "PersonX limits PersonY's use",
+                "relation": "xNeed",
+                "similarity": 0.27763283252716064,
+                "tail": "to shift the workload among others"
+            },
+            {
+                "head": "PersonX limits PersonY's use",
+                "relation": "xWant",
+                "similarity": 0.27245114743709564,
+                "tail": "to make sure PersonY follows the rule"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_16",
+        "question_commonsense": [
+            {
+                "head": "birth control pill",
+                "relation": "ObjectUse",
+                "similarity": 0.7752723693847656,
+                "tail": "preventing unwanted pregnancies"
+            },
+            {
+                "head": "birth control pill",
+                "relation": "ObjectUse",
+                "similarity": 0.7744459807872772,
+                "tail": "preventing conception"
+            },
+            {
+                "head": "birth control pill",
+                "relation": "ObjectUse",
+                "similarity": 0.773477166891098,
+                "tail": "contraception"
+            },
+            {
+                "head": "contraceptive",
+                "relation": "ObjectUse",
+                "similarity": 0.7693406343460083,
+                "tail": "prevent conception"
+            },
+            {
+                "head": "birth control pill",
+                "relation": "ObjectUse",
+                "similarity": 0.7691724002361298,
+                "tail": "prevent unwanted pregnancy"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xIntent",
+                "similarity": 0.27776141464710236,
+                "tail": "to set up groups."
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xNeed",
+                "similarity": 0.2705551087856293,
+                "tail": "decide what groups they should be in"
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xWant",
+                "similarity": 0.264935165643692,
+                "tail": "address each group"
+            },
+            {
+                "head": "PersonX divides the ___ into groups",
+                "relation": "xIntent",
+                "similarity": 0.2645731270313263,
+                "tail": "to manage small number of people"
+            },
+            {
+                "head": "PersonX assigns books to groups",
+                "relation": "isBefore",
+                "similarity": 0.2635074406862259,
+                "tail": "PersonX grades children"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX quits smoking for good",
+                "relation": "xWant",
+                "similarity": 0.851473331451416,
+                "tail": "to stop smoking"
+            },
+            {
+                "head": "PersonX is trying to quit smoking",
+                "relation": "xWant",
+                "similarity": 0.8474122583866119,
+                "tail": "to stay away from smokers"
+            },
+            {
+                "head": "PersonX quits smoking for good",
+                "relation": "isBefore",
+                "similarity": 0.8425327837467194,
+                "tail": "PersonX speaks to others about the evils of smoking"
+            },
+            {
+                "head": "PersonX is trying to quit smoking",
+                "relation": "xWant",
+                "similarity": 0.8381829559803009,
+                "tail": "to stop buying tobacco"
+            },
+            {
+                "head": "PersonX is trying to quit smoking",
+                "relation": "HinderedBy",
+                "similarity": 0.8377673625946045,
+                "tail": "PersonX works around a lot of smokers."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX determines the patient 's ___",
+                "relation": "xIntent",
+                "similarity": 0.2561514675617218,
+                "tail": "diagnose"
+            },
+            {
+                "head": "disease",
+                "relation": "ObjectUse",
+                "similarity": 0.25591596961021423,
+                "tail": "body's immune system to fight"
+            },
+            {
+                "head": "PersonX causes ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.25494835525751114,
+                "tail": "to be near patients"
+            },
+            {
+                "head": "PersonX determines the patient 's ___",
+                "relation": "oReact",
+                "similarity": 0.2541571781039238,
+                "tail": "diagnosed"
+            },
+            {
+                "head": "disease",
+                "relation": "ObjectUse",
+                "similarity": 0.2541388124227524,
+                "tail": "killing organisms"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_18",
+        "question_commonsense": [
+            {
+                "head": "PersonX is like PersonY",
+                "relation": "oReact",
+                "similarity": 0.8142989575862885,
+                "tail": "copied"
+            },
+            {
+                "head": "PersonX is just like PersonY",
+                "relation": "oReact",
+                "similarity": 0.8123170137405396,
+                "tail": "copied."
+            },
+            {
+                "head": "PersonX is just like PersonY",
+                "relation": "xAttr",
+                "similarity": 0.8110237419605255,
+                "tail": "GREAT"
+            },
+            {
+                "head": "PersonX is just like PersonY",
+                "relation": "xWant",
+                "similarity": 0.8107590973377228,
+                "tail": "to talk like Y"
+            },
+            {
+                "head": "PersonX is like PersonY",
+                "relation": "xAttr",
+                "similarity": 0.8103045523166656,
+                "tail": "bold"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.28270362317562103,
+                "tail": "evaluate patient's symptoms"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xEffect",
+                "similarity": 0.28198079764842987,
+                "tail": "is reading diagnosis reports of patients"
+            },
+            {
+                "head": "PersonX diagnoses with diabetes",
+                "relation": "xNeed",
+                "similarity": 0.2741669863462448,
+                "tail": "to assess a patient"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.26550035923719406,
+                "tail": "examine patients"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.2610762417316437,
+                "tail": "to exam a patient"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_19",
+        "question_commonsense": [
+            {
+                "head": "blood pressure pump",
+                "relation": "ObjectUse",
+                "similarity": 0.6294743716716766,
+                "tail": "measure blood pressure"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6052341163158417,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "blood pressure pump",
+                "relation": "ObjectUse",
+                "similarity": 0.5907460153102875,
+                "tail": "check blood pressure"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.5891188681125641,
+                "tail": "determine the nutritional content of a food"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.5882661640644073,
+                "tail": "PersonX failed math 101"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.2695603221654892,
+                "tail": "keeping telephone numbers"
+            },
+            {
+                "head": "PersonX forms PersonY estimate",
+                "relation": "xReact",
+                "similarity": 0.2643067240715027,
+                "tail": "completed the estimation"
+            },
+            {
+                "head": "PersonX forms PersonY estimate",
+                "relation": "xWant",
+                "similarity": 0.2621626853942871,
+                "tail": "to present the estimate"
+            },
+            {
+                "head": "PersonX forms PersonY estimate",
+                "relation": "xNeed",
+                "similarity": 0.2619423270225525,
+                "tail": "to carry out calculations"
+            },
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.2604132294654846,
+                "tail": "learning person's phone number"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX tries to quit smoking",
+                "relation": "isAfter",
+                "similarity": 0.8078287243843079,
+                "tail": "PersonX was worried about health concerns related to smoking"
+            },
+            {
+                "head": "PersonX tries to quit smoking",
+                "relation": "xIntent",
+                "similarity": 0.7988516092300415,
+                "tail": "to reduce the risk of cancer"
+            },
+            {
+                "head": "PersonX is trying to quit smoking",
+                "relation": "xWant",
+                "similarity": 0.7941188514232635,
+                "tail": "to stay away from smokers"
+            },
+            {
+                "head": "PersonX is trying to quit smoking",
+                "relation": "HinderedBy",
+                "similarity": 0.7890038192272186,
+                "tail": "PersonX works around a lot of smokers."
+            },
+            {
+                "head": "PersonX is trying to quit smoking",
+                "relation": "xWant",
+                "similarity": 0.7860710024833679,
+                "tail": "to try vaping"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX grants ___ in cases",
+                "relation": "oWant",
+                "similarity": 0.29772067070007324,
+                "tail": "to appeal the case"
+            },
+            {
+                "head": "PersonX grants ___ in cases",
+                "relation": "xWant",
+                "similarity": 0.2962702810764313,
+                "tail": "to move on to other cases"
+            },
+            {
+                "head": "PersonX grants ___ in cases",
+                "relation": "xNeed",
+                "similarity": 0.29213251173496246,
+                "tail": "to hear the cases"
+            },
+            {
+                "head": "PersonX grants ___ in cases",
+                "relation": "xNeed",
+                "similarity": 0.29058076441287994,
+                "tail": "to think about the cases"
+            },
+            {
+                "head": "PersonX grants ___ in cases",
+                "relation": "xNeed",
+                "similarity": 0.2834662199020386,
+                "tail": "to hear a case"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_21",
+        "question_commonsense": [
+            {
+                "head": "chinese person",
+                "relation": "AtLocation",
+                "similarity": 0.7373256981372833,
+                "tail": "china"
+            },
+            {
+                "head": "chinese person",
+                "relation": "CapableOf",
+                "similarity": 0.7338483333587646,
+                "tail": "read chinese book"
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.7313523292541504,
+                "tail": "protect against disease"
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.7295674085617065,
+                "tail": "prevent disease"
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.7191700339317322,
+                "tail": "avoid the flu"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "injection",
+                "relation": "ObjectUse",
+                "similarity": 0.27116549760103226,
+                "tail": "administer a vaccine"
+            },
+            {
+                "head": "PersonX is diagnosed with the flu",
+                "relation": "HinderedBy",
+                "similarity": 0.2582200840115547,
+                "tail": "Person X's doctor gave them the flu immunization shot."
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.25289925187826157,
+                "tail": "prevent an outbreak"
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.2525700032711029,
+                "tail": "prevent disease"
+            },
+            {
+                "head": "vaccines",
+                "relation": "ObjectUse",
+                "similarity": 0.2518704757094383,
+                "tail": "protect against disease"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_22",
+        "question_commonsense": [
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6607614159584045,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "population",
+                "relation": "AtLocation",
+                "similarity": 0.6527402400970459,
+                "tail": "inhabited city"
+            },
+            {
+                "head": "medical chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6429548263549805,
+                "tail": "see if they have medical conditions"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6417355537414551,
+                "tail": "keep track of calories"
+            },
+            {
+                "head": "population",
+                "relation": "AtLocation",
+                "similarity": 0.6414512395858765,
+                "tail": "city"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX has a heart condition",
+                "relation": "HinderedBy",
+                "similarity": 0.2735496312379837,
+                "tail": "PersonX was just born too healthy to have a heart condition."
+            },
+            {
+                "head": "PersonX has a heart condition",
+                "relation": "xNeed",
+                "similarity": 0.2605796307325363,
+                "tail": "Get diagnosed with the condition"
+            },
+            {
+                "head": "PersonX has a heart condition",
+                "relation": "HinderedBy",
+                "similarity": 0.2547699883580208,
+                "tail": "Modern medicine is just too good at keeping PersonX healthy."
+            },
+            {
+                "head": "PersonX has a heart condition",
+                "relation": "xReact",
+                "similarity": 0.2527502253651619,
+                "tail": "scared about their health"
+            },
+            {
+                "head": "PersonX causes ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.25129155069589615,
+                "tail": "to be near patients"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_23",
+        "question_commonsense": [
+            {
+                "head": "PersonX tests the student 's ___",
+                "relation": "xNeed",
+                "similarity": 0.7178247570991516,
+                "tail": "to tell all students they will have a test"
+            },
+            {
+                "head": "PersonX tests the student 's ___",
+                "relation": "xNeed",
+                "similarity": 0.715183824300766,
+                "tail": "to create a test"
+            },
+            {
+                "head": "PersonX tests the student 's ___",
+                "relation": "xNeed",
+                "similarity": 0.715183824300766,
+                "tail": "to create a test"
+            },
+            {
+                "head": "PersonX wants to test it out",
+                "relation": "xNeed",
+                "similarity": 0.7110998928546906,
+                "tail": "Think about how to test"
+            },
+            {
+                "head": "PersonX tests the student 's ___",
+                "relation": "oWant",
+                "similarity": 0.7090370059013367,
+                "tail": "to acknowledge the report of the test"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xEffect",
+                "similarity": 0.2586956173181534,
+                "tail": "is reading diagnosis reports of patients"
+            },
+            {
+                "head": "antihistamine",
+                "relation": "ObjectUse",
+                "similarity": 0.2570955753326416,
+                "tail": "show you have medical knowledge"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "oWant",
+                "similarity": 0.25524263828992844,
+                "tail": "to acknowledged their health"
+            },
+            {
+                "head": "antihistimine",
+                "relation": "ObjectUse",
+                "similarity": 0.2534743994474411,
+                "tail": "relieve symptoms"
+            },
+            {
+                "head": "antihistamine",
+                "relation": "AtLocation",
+                "similarity": 0.25203005224466324,
+                "tail": "medicine chest"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_24",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7375912964344025,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7321965396404266,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "population",
+                "relation": "AtLocation",
+                "similarity": 0.7298225462436676,
+                "tail": "inhabited city"
+            },
+            {
+                "head": "data",
+                "relation": "ObjectUse",
+                "similarity": 0.7293024361133575,
+                "tail": "access information"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7263442575931549,
+                "tail": "scientific"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graphs",
+                "relation": "ObjectUse",
+                "similarity": 0.2568332776427269,
+                "tail": "track current state of bankrupcies caused by medical bills"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xEffect",
+                "similarity": 0.25462885200977325,
+                "tail": "is reading diagnosis reports of patients"
+            },
+            {
+                "head": "PersonX publishes ___ in journals",
+                "relation": "oEffect",
+                "similarity": 0.25261451303958893,
+                "tail": "The journal publishes his work"
+            },
+            {
+                "head": "graphs",
+                "relation": "ObjectUse",
+                "similarity": 0.25102411955595016,
+                "tail": "display odds that Fox News will disseminate true news"
+            },
+            {
+                "head": "graphs",
+                "relation": "ObjectUse",
+                "similarity": 0.24818704277276993,
+                "tail": "present gains and losses"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_25",
+        "question_commonsense": [
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.7942411005496979,
+                "tail": "to review new test results"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.791674017906189,
+                "tail": "to wait for test results"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "xWant",
+                "similarity": 0.7905763685703278,
+                "tail": "to do well on test"
+            },
+            {
+                "head": "PersonX has been deferred until test results are in",
+                "relation": "xNeed",
+                "similarity": 0.7871748208999634,
+                "tail": "to of taken the test"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "xNeed",
+                "similarity": 0.7870405912399292,
+                "tail": "take the test"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX assigns books to groups",
+                "relation": "isBefore",
+                "similarity": 0.2899687737226486,
+                "tail": "PersonX grades children"
+            },
+            {
+                "head": "PersonX assigns ___ to groups",
+                "relation": "xWant",
+                "similarity": 0.27679069340229034,
+                "tail": "to exercise leadership"
+            },
+            {
+                "head": "PersonX groups ___ according",
+                "relation": "xAttr",
+                "similarity": 0.27508656680583954,
+                "tail": "methodically"
+            },
+            {
+                "head": "PersonX classifies ___ into groups",
+                "relation": "oReact",
+                "similarity": 0.27355215698480606,
+                "tail": "categorized"
+            },
+            {
+                "head": "PersonX assigns ___ to groups",
+                "relation": "xWant",
+                "similarity": 0.2732372581958771,
+                "tail": "to divide properly"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_26",
+        "question_commonsense": [
+            {
+                "head": "PersonX eats fruit",
+                "relation": "xNeed",
+                "similarity": 0.7145599126815796,
+                "tail": "fruit to eat"
+            },
+            {
+                "head": "chinese person",
+                "relation": "AtLocation",
+                "similarity": 0.7128550410270691,
+                "tail": "china"
+            },
+            {
+                "head": "chinese person",
+                "relation": "CapableOf",
+                "similarity": 0.6988875567913055,
+                "tail": "read chinese book"
+            },
+            {
+                "head": "PersonX eats fruit",
+                "relation": "xNeed",
+                "similarity": 0.6967034339904785,
+                "tail": "peel the fruit"
+            },
+            {
+                "head": "PersonX eats fruit",
+                "relation": "HinderedBy",
+                "similarity": 0.6956730484962463,
+                "tail": "There is no fruit in the kitchen"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX exposes the ___ to a number",
+                "relation": "xWant",
+                "similarity": 0.2866166681051254,
+                "tail": "Present relevant information pertaining to the number"
+            },
+            {
+                "head": "PersonX exposes the ___ to a number",
+                "relation": "oWant",
+                "similarity": 0.28312157094478607,
+                "tail": "Attempt to interpret the number they have been exposed to"
+            },
+            {
+                "head": "PersonX divides the ___ by the number",
+                "relation": "xNeed",
+                "similarity": 0.28142912685871124,
+                "tail": "to see the numbers"
+            },
+            {
+                "head": "PersonX exposes the ___ to a number",
+                "relation": "oWant",
+                "similarity": 0.278942734003067,
+                "tail": "know what the number is about"
+            },
+            {
+                "head": "PersonX divides the ___ by the number",
+                "relation": "xNeed",
+                "similarity": 0.2752803862094879,
+                "tail": "to know the number"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_27",
+        "question_commonsense": [
+            {
+                "head": "event",
+                "relation": "ObjectUse",
+                "similarity": 0.9151459038257599,
+                "tail": "attend on a date"
+            },
+            {
+                "head": "event",
+                "relation": "ObjectUse",
+                "similarity": 0.9084117412567139,
+                "tail": "win a contest"
+            },
+            {
+                "head": "event",
+                "relation": "ObjectUse",
+                "similarity": 0.9083333909511566,
+                "tail": "attend"
+            },
+            {
+                "head": "events",
+                "relation": "ObjectUse",
+                "similarity": 0.9058180749416351,
+                "tail": "make an announcement"
+            },
+            {
+                "head": "event",
+                "relation": "ObjectUse",
+                "similarity": 0.904760479927063,
+                "tail": "to make an announcement"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xEffect",
+                "similarity": 0.275606706738472,
+                "tail": "is reading diagnosis reports of patients"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.2670016437768936,
+                "tail": "evaluate patient's symptoms"
+            },
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.2640365883708,
+                "tail": "genetic diseases"
+            },
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.26322273910045624,
+                "tail": "genetic disorders"
+            },
+            {
+                "head": "PersonX improves ___ in patients",
+                "relation": "oEffect",
+                "similarity": 0.26209017634391785,
+                "tail": "Patients recover swiftly"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_28",
+        "question_commonsense": [
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6989232897758484,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6734942197799683,
+                "tail": "determine the nutritional content of a food"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6703852713108063,
+                "tail": "keep track of calories"
+            },
+            {
+                "head": "calorie calculator",
+                "relation": "ObjectUse",
+                "similarity": 0.6577786505222321,
+                "tail": "calculate calorie intake"
+            },
+            {
+                "head": "exercise calculator",
+                "relation": "ObjectUse",
+                "similarity": 0.6495777666568756,
+                "tail": "find how many calories have been burned"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ accurately",
+                "relation": "xWant",
+                "similarity": 0.2701643258333206,
+                "tail": "to write down measurements"
+            },
+            {
+                "head": "PersonX answers this ___ in the negative",
+                "relation": "xEffect",
+                "similarity": 0.26765888929367065,
+                "tail": "is asked to explain his answer"
+            },
+            {
+                "head": "PersonX measures accurately the ___",
+                "relation": "xEffect",
+                "similarity": 0.26543574035167694,
+                "tail": "writes down measurement"
+            },
+            {
+                "head": "PersonX views the graph in terms",
+                "relation": "isAfter",
+                "similarity": 0.26492369174957275,
+                "tail": "PersonX studies for a math test"
+            },
+            {
+                "head": "PersonX measures ___ accurately",
+                "relation": "xWant",
+                "similarity": 0.2647499293088913,
+                "tail": "writes down the measurements"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_29",
+        "question_commonsense": [
+            {
+                "head": "water",
+                "relation": "AtLocation",
+                "similarity": 0.7074621021747589,
+                "tail": "drink"
+            },
+            {
+                "head": "water",
+                "relation": "AtLocation",
+                "similarity": 0.7001482546329498,
+                "tail": "beer"
+            },
+            {
+                "head": "water",
+                "relation": "AtLocation",
+                "similarity": 0.6990646123886108,
+                "tail": "can"
+            },
+            {
+                "head": "water",
+                "relation": "AtLocation",
+                "similarity": 0.6947215497493744,
+                "tail": "milk"
+            },
+            {
+                "head": "water",
+                "relation": "AtLocation",
+                "similarity": 0.6917247474193573,
+                "tail": "ice"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xWant",
+                "similarity": 0.25099358707666397,
+                "tail": "to extract work from him"
+            },
+            {
+                "head": "PersonX controls PersonY's actions",
+                "relation": "HinderedBy",
+                "similarity": 0.2509782314300537,
+                "tail": "PersonY is an adult so PersonX can not control PersonY action"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xWant",
+                "similarity": 0.2506132125854492,
+                "tail": "to reach a conclusion"
+            },
+            {
+                "head": "PersonX controls PersonY's actions",
+                "relation": "oEffect",
+                "similarity": 0.24650785326957703,
+                "tail": "Y has no control"
+            },
+            {
+                "head": "PersonX controls PersonY's actions",
+                "relation": "oEffect",
+                "similarity": 0.245643749833107,
+                "tail": "cant control their actions"
+            }
+        ]
+    },
+    {
+        "id": "validation_Public_Health_30",
+        "question_commonsense": [
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.6745433509349823,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.6733406484127045,
+                "tail": "write a medical journal"
+            },
+            {
+                "head": "medical insurance",
+                "relation": "ObjectUse",
+                "similarity": 0.67191943526268,
+                "tail": "pay for their hospital stay"
+            },
+            {
+                "head": "PersonX understands the patient 's ___",
+                "relation": "xWant",
+                "similarity": 0.6696589589118958,
+                "tail": "to let the patient know the best course of action"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.6685179471969604,
+                "tail": "get a referral to another doctor"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xEffect",
+                "similarity": 0.29632438719272614,
+                "tail": "is reading diagnosis reports of patients"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.2951081842184067,
+                "tail": "evaluate patient's symptoms"
+            },
+            {
+                "head": "PersonX assesses the patient 's ___",
+                "relation": "xNeed",
+                "similarity": 0.2870255410671234,
+                "tail": "to ask the patient questions"
+            },
+            {
+                "head": "PersonX assesses the patient 's ___",
+                "relation": "xEffect",
+                "similarity": 0.28377674520015717,
+                "tail": "talks to the patient"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.28275272250175476,
+                "tail": "examine patients"
+            }
+        ]
+    }
+]

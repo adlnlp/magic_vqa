@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Manage_1",
+        "question_commonsense": [
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.736297994852066,
+                "tail": "test if variable works"
+            },
+            {
+                "head": "PersonX becomes like PersonY",
+                "relation": "xEffect",
+                "similarity": 0.7360505163669586,
+                "tail": "they do better"
+            },
+            {
+                "head": "PersonX distinguishes PersonY from others",
+                "relation": "oWant",
+                "similarity": 0.7340438961982727,
+                "tail": "to see how they have been"
+            },
+            {
+                "head": "subjective change in consciousness",
+                "relation": "Causes",
+                "similarity": 0.7329029142856598,
+                "tail": "thinking differently"
+            },
+            {
+                "head": "PersonX becomes like PersonY",
+                "relation": "oEffect",
+                "similarity": 0.7309359312057495,
+                "tail": "does better themself too"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "hearing aide",
+                "relation": "ObjectUse",
+                "similarity": 0.2713349461555481,
+                "tail": "enable hearing"
+            },
+            {
+                "head": "hearing aide",
+                "relation": "ObjectUse",
+                "similarity": 0.27089571952819824,
+                "tail": "increase hearing capability"
+            },
+            {
+                "head": "hearing aide",
+                "relation": "ObjectUse",
+                "similarity": 0.267729714512825,
+                "tail": "enhance hearing"
+            },
+            {
+                "head": "PersonX occupies PersonY's mind",
+                "relation": "xWant",
+                "similarity": 0.26363547146320343,
+                "tail": "to think about PersonY"
+            },
+            {
+                "head": "PersonX occupies PersonY's mind",
+                "relation": "HinderedBy",
+                "similarity": 0.26276448369026184,
+                "tail": "PersonY is thinking of someone else"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX develops PersonY model",
+                "relation": "HinderedBy",
+                "similarity": 0.780735194683075,
+                "tail": "PersonY won't share the model."
+            },
+            {
+                "head": "PersonX provides PersonY overview",
+                "relation": "oWant",
+                "similarity": 0.7778262794017792,
+                "tail": "to check the facts"
+            },
+            {
+                "head": "PersonX develops PersonY model",
+                "relation": "isBefore",
+                "similarity": 0.7772174179553986,
+                "tail": "PersonX finishes the model"
+            },
+            {
+                "head": "PersonX provides PersonY overview",
+                "relation": "xReact",
+                "similarity": 0.7771894931793213,
+                "tail": "informative"
+            },
+            {
+                "head": "PersonX develops PersonY model",
+                "relation": "xAttr",
+                "similarity": 0.7763520181179047,
+                "tail": "helpful"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "financial resource",
+                "relation": "ObjectUse",
+                "similarity": 0.29752710461616516,
+                "tail": "learn about finances"
+            },
+            {
+                "head": "financial resources",
+                "relation": "ObjectUse",
+                "similarity": 0.28693120181560516,
+                "tail": "increase their income"
+            },
+            {
+                "head": "financial resource",
+                "relation": "ObjectUse",
+                "similarity": 0.28305181860923767,
+                "tail": "inform someone about debt"
+            },
+            {
+                "head": "PersonX operates within the framework",
+                "relation": "xNeed",
+                "similarity": 0.2818725109100342,
+                "tail": "know the framework"
+            },
+            {
+                "head": "financial resource",
+                "relation": "ObjectUse",
+                "similarity": 0.27585984021425247,
+                "tail": "get a loan"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_3",
+        "question_commonsense": [
+            {
+                "head": "credit monitoring software",
+                "relation": "ObjectUse",
+                "similarity": 0.6653168499469757,
+                "tail": "increase the value of a computer before selling it"
+            },
+            {
+                "head": "PersonX shops at the store",
+                "relation": "xEffect",
+                "similarity": 0.6641349196434021,
+                "tail": "purchases some items"
+            },
+            {
+                "head": "credit monitoring software",
+                "relation": "ObjectUse",
+                "similarity": 0.6638205349445343,
+                "tail": "keep track of credit use"
+            },
+            {
+                "head": "shopping center",
+                "relation": "ObjectUse",
+                "similarity": 0.6586828529834747,
+                "tail": "purchase needed items"
+            },
+            {
+                "head": "PersonX shops at the store",
+                "relation": "xNeed",
+                "similarity": 0.6545874178409576,
+                "tail": "get ready to go to the store, get money, etc"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "membership dues",
+                "relation": "ObjectUse",
+                "similarity": 0.2741633951663971,
+                "tail": "pay to a museum membership"
+            },
+            {
+                "head": "payment plan",
+                "relation": "ObjectUse",
+                "similarity": 0.2663554251194,
+                "tail": "to pay in increments"
+            },
+            {
+                "head": "enrollment fee",
+                "relation": "ObjectUse",
+                "similarity": 0.26573288440704346,
+                "tail": "collect dues from members"
+            },
+            {
+                "head": "salary history",
+                "relation": "ObjectUse",
+                "similarity": 0.26552537083625793,
+                "tail": "show past salary"
+            },
+            {
+                "head": "membership dues",
+                "relation": "ObjectUse",
+                "similarity": 0.26116277277469635,
+                "tail": "receive tax deduction"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX moves to new york city",
+                "relation": "HinderedBy",
+                "similarity": 0.6313534379005432,
+                "tail": "There are no affordable apartments in New York City."
+            },
+            {
+                "head": "PersonX moves to new york city",
+                "relation": "isBefore",
+                "similarity": 0.620504766702652,
+                "tail": "PersonX visits times square"
+            },
+            {
+                "head": "PersonX moves to new york city",
+                "relation": "HinderedBy",
+                "similarity": 0.6067716777324677,
+                "tail": "New York City is too expensive for PersonX."
+            },
+            {
+                "head": "PersonX moves to new york city",
+                "relation": "xNeed",
+                "similarity": 0.6027660369873047,
+                "tail": "to search for properties available in New York"
+            },
+            {
+                "head": "PersonX moves to new york city",
+                "relation": "xNeed",
+                "similarity": 0.5889684557914734,
+                "tail": "to drive up to their new home in New York"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX ranges in age to years",
+                "relation": "isBefore",
+                "similarity": 0.28814536333084106,
+                "tail": "PersonX categorizes students by age"
+            },
+            {
+                "head": "PersonX ranges in age to years",
+                "relation": "xWant",
+                "similarity": 0.2757316082715988,
+                "tail": "To tell his age"
+            },
+            {
+                "head": "PersonX ranges in age to years",
+                "relation": "xWant",
+                "similarity": 0.2682691365480423,
+                "tail": "to know the age"
+            },
+            {
+                "head": "PersonX ranges in age to years",
+                "relation": "xWant",
+                "similarity": 0.26277825236320496,
+                "tail": "To tell birthdays"
+            },
+            {
+                "head": "PersonX dominates ___ for years",
+                "relation": "xWant",
+                "similarity": 0.2618505582213402,
+                "tail": "to retire"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX develops PersonY system",
+                "relation": "xEffect",
+                "similarity": 0.7894822359085083,
+                "tail": "to develops system"
+            },
+            {
+                "head": "subjective change in consciousness",
+                "relation": "Causes",
+                "similarity": 0.7841387987136841,
+                "tail": "thinking differently"
+            },
+            {
+                "head": "subjective change in consciousness",
+                "relation": "Causes",
+                "similarity": 0.7808380126953125,
+                "tail": "feeling different"
+            },
+            {
+                "head": "PersonX develops PersonY system",
+                "relation": "xWant",
+                "similarity": 0.7784749865531921,
+                "tail": "to implement the system"
+            },
+            {
+                "head": "PersonX designs PersonY system",
+                "relation": "oWant",
+                "similarity": 0.7763455808162689,
+                "tail": "to check the design"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.27716563642024994,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27145281434059143,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2695532292127609,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2689112275838852,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX reproduces this ___ thereof in PersonY form",
+                "relation": "xWant",
+                "similarity": 0.26684822142124176,
+                "tail": "acknowledge PersonY's involvement"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_6",
+        "question_commonsense": [
+            {
+                "head": "rabbit",
+                "relation": "ObjectUse",
+                "similarity": 0.6923863291740417,
+                "tail": "race in a contest with other rabbits"
+            },
+            {
+                "head": "PersonX sees a rabbit",
+                "relation": "HinderedBy",
+                "similarity": 0.6829554438591003,
+                "tail": "There are no rabbits around"
+            },
+            {
+                "head": "PersonX sees a rabbit",
+                "relation": "xWant",
+                "similarity": 0.6718690693378448,
+                "tail": "looks for another rabbit"
+            },
+            {
+                "head": "PersonX takes the rabbit to a veterinarian",
+                "relation": "isBefore",
+                "similarity": 0.6709286272525787,
+                "tail": "PersonX gives the rabbit a treat"
+            },
+            {
+                "head": "PersonX chases the rabbit",
+                "relation": "oWant",
+                "similarity": 0.6681341826915741,
+                "tail": "warn the other rabbits"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "insecticide",
+                "relation": "ObjectUse",
+                "similarity": 0.27159827947616577,
+                "tail": "get rid of ants"
+            },
+            {
+                "head": "insecticide",
+                "relation": "ObjectUse",
+                "similarity": 0.2697581797838211,
+                "tail": "kill all the hornets"
+            },
+            {
+                "head": "insecticide",
+                "relation": "ObjectUse",
+                "similarity": 0.2673068046569824,
+                "tail": "prevent an ant infestation"
+            },
+            {
+                "head": "cockroach",
+                "relation": "NotDesires",
+                "similarity": 0.26015591621398926,
+                "tail": "bug spray"
+            },
+            {
+                "head": "insecticide",
+                "relation": "ObjectUse",
+                "similarity": 0.2557736188173294,
+                "tail": "keep away pest"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_7",
+        "question_commonsense": [
+            {
+                "head": "PersonX develops PersonY model",
+                "relation": "HinderedBy",
+                "similarity": 0.8308968842029572,
+                "tail": "PersonY won't share the model."
+            },
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xWant",
+                "similarity": 0.8259203732013702,
+                "tail": "to set up the interface"
+            },
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xNeed",
+                "similarity": 0.8256141245365143,
+                "tail": "understand the interface"
+            },
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xAttr",
+                "similarity": 0.8182944059371948,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xAttr",
+                "similarity": 0.8182944059371948,
+                "tail": "helpful"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX develops PersonY system",
+                "relation": "xEffect",
+                "similarity": 0.27190864086151123,
+                "tail": "to develops system"
+            },
+            {
+                "head": "PersonX develops PersonY model",
+                "relation": "HinderedBy",
+                "similarity": 0.2609754800796509,
+                "tail": "PersonY won't share the model."
+            },
+            {
+                "head": "PersonX develops PersonY model",
+                "relation": "xNeed",
+                "similarity": 0.25444041192531586,
+                "tail": "create a framework"
+            },
+            {
+                "head": "PersonX develops PersonY system",
+                "relation": "xWant",
+                "similarity": 0.2540382221341133,
+                "tail": "to implement the system"
+            },
+            {
+                "head": "PersonX develops PersonY system",
+                "relation": "xEffect",
+                "similarity": 0.25339532643556595,
+                "tail": "to manage the system oriented"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_8",
+        "question_commonsense": [
+            {
+                "head": "diplomas",
+                "relation": "ObjectUse",
+                "similarity": 0.6628334224224091,
+                "tail": "had to students"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6592651009559631,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "math",
+                "relation": "HasProperty",
+                "similarity": 0.6587895750999451,
+                "tail": "difficult for students"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6577410399913788,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "diploma",
+                "relation": "ObjectUse",
+                "similarity": 0.6465280950069427,
+                "tail": "finish school"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX depends upon the degree",
+                "relation": "xNeed",
+                "similarity": 0.2756989449262619,
+                "tail": "graduates to get the degree"
+            },
+            {
+                "head": "PersonX depends upon the degree",
+                "relation": "HinderedBy",
+                "similarity": 0.27374064922332764,
+                "tail": "Their degree isn't good enough to get them the job"
+            },
+            {
+                "head": "bachelor's degree",
+                "relation": "ObjectUse",
+                "similarity": 0.27211758494377136,
+                "tail": "accrue student loans"
+            },
+            {
+                "head": "education degree",
+                "relation": "ObjectUse",
+                "similarity": 0.27205541729927063,
+                "tail": "access a higher salary"
+            },
+            {
+                "head": "education degree",
+                "relation": "ObjectUse",
+                "similarity": 0.27163921296596527,
+                "tail": "gain employment"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_9",
+        "question_commonsense": [
+            {
+                "head": "table display",
+                "relation": "ObjectUse",
+                "similarity": 0.7797353565692902,
+                "tail": "market items to customers"
+            },
+            {
+                "head": "table display",
+                "relation": "ObjectUse",
+                "similarity": 0.7709372043609619,
+                "tail": "sell items"
+            },
+            {
+                "head": "restaurant table",
+                "relation": "ObjectUse",
+                "similarity": 0.7687354683876038,
+                "tail": "dinner"
+            },
+            {
+                "head": "table",
+                "relation": "ObjectUse",
+                "similarity": 0.7671968638896942,
+                "tail": "dinner"
+            },
+            {
+                "head": "restaurant table",
+                "relation": "AtLocation",
+                "similarity": 0.7669349908828735,
+                "tail": "restaurant"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX rents and managing properties for a fee",
+                "relation": "xNeed",
+                "similarity": 0.25911759585142136,
+                "tail": "to research and view properties for sale"
+            },
+            {
+                "head": "PersonX rents and managing properties for a fee",
+                "relation": "xNeed",
+                "similarity": 0.2561611831188202,
+                "tail": "to meet with tenants and agree to rent out the property"
+            },
+            {
+                "head": "PersonX rents and managing properties for a fee",
+                "relation": "xWant",
+                "similarity": 0.25615061074495316,
+                "tail": "to pay any bills pertaining to the property"
+            },
+            {
+                "head": "PersonX rents and managing properties for a fee",
+                "relation": "xWant",
+                "similarity": 0.2559746354818344,
+                "tail": "to collect rent regularly"
+            },
+            {
+                "head": "PersonX rents and managing properties for a fee",
+                "relation": "xNeed",
+                "similarity": 0.2551516145467758,
+                "tail": "to buy properties"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_10",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xNeed",
+                "similarity": 0.744376927614212,
+                "tail": "understand the interface"
+            },
+            {
+                "head": "PersonX designs PersonY system",
+                "relation": "xNeed",
+                "similarity": 0.7339180111885071,
+                "tail": "to know how to design a system"
+            },
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xWant",
+                "similarity": 0.7320782840251923,
+                "tail": "to set up the interface"
+            },
+            {
+                "head": "PersonX designs PersonY system",
+                "relation": "xNeed",
+                "similarity": 0.7297844290733337,
+                "tail": "plan the design"
+            },
+            {
+                "head": "PersonX designs PersonY system",
+                "relation": "oWant",
+                "similarity": 0.7295819222927094,
+                "tail": "to check the design"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "surface",
+                "relation": "ObjectUse",
+                "similarity": 0.28101497888565063,
+                "tail": "interfacing with another surface"
+            },
+            {
+                "head": "anti-virus software",
+                "relation": "ObjectUse",
+                "similarity": 0.2807682901620865,
+                "tail": "protect the computer"
+            },
+            {
+                "head": "anti-virus software",
+                "relation": "ObjectUse",
+                "similarity": 0.2807682901620865,
+                "tail": "protect your computer"
+            },
+            {
+                "head": "PersonX surfs the web",
+                "relation": "HinderedBy",
+                "similarity": 0.2789626866579056,
+                "tail": "PersonX doesn't have a computer"
+            },
+            {
+                "head": "PersonX surfs the web",
+                "relation": "xNeed",
+                "similarity": 0.2767542600631714,
+                "tail": "login to internet service"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses PersonY approach",
+                "relation": "xNeed",
+                "similarity": 0.8076128661632538,
+                "tail": "to understand PersonY's approach"
+            },
+            {
+                "head": "PersonX uses PersonY method",
+                "relation": "oWant",
+                "similarity": 0.8020175993442535,
+                "tail": "to develop another method"
+            },
+            {
+                "head": "PersonX uses ___ as possible",
+                "relation": "xIntent",
+                "similarity": 0.7985202372074127,
+                "tail": "to follow rules"
+            },
+            {
+                "head": "PersonX uses PersonY approach",
+                "relation": "xReact",
+                "similarity": 0.7974647879600525,
+                "tail": "improved in personality and skills"
+            },
+            {
+                "head": "PersonX uses PersonY approach",
+                "relation": "oEffect",
+                "similarity": 0.7970160245895386,
+                "tail": "gets thanked"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "shareholder",
+                "relation": "ObjectUse",
+                "similarity": 0.2812098264694214,
+                "tail": "taking part ownership of corporation"
+            },
+            {
+                "head": "PersonX operates within the framework",
+                "relation": "xNeed",
+                "similarity": 0.27468425035476685,
+                "tail": "know the framework"
+            },
+            {
+                "head": "PersonX organizes and ___ collectively",
+                "relation": "xNeed",
+                "similarity": 0.27197520434856415,
+                "tail": "have the skill of organizing"
+            },
+            {
+                "head": "PersonX organizes and ___ collectively",
+                "relation": "xNeed",
+                "similarity": 0.27037636935710907,
+                "tail": "to have something to organize"
+            },
+            {
+                "head": "shareholder",
+                "relation": "AtLocation",
+                "similarity": 0.2677607387304306,
+                "tail": "public companies"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_12",
+        "question_commonsense": [
+            {
+                "head": "PersonX finds an email",
+                "relation": "HinderedBy",
+                "similarity": 0.716484397649765,
+                "tail": "PersonX's friend hacked into his email."
+            },
+            {
+                "head": "PersonX finds an email",
+                "relation": "oReact",
+                "similarity": 0.7156507670879364,
+                "tail": "glad they read the email."
+            },
+            {
+                "head": "PersonX emails PersonY back",
+                "relation": "isAfter",
+                "similarity": 0.712427407503128,
+                "tail": "PersonX recieves an email from PersonY"
+            },
+            {
+                "head": "PersonX emails PersonY back",
+                "relation": "xNeed",
+                "similarity": 0.7065949440002441,
+                "tail": "Gets an email"
+            },
+            {
+                "head": "PersonX emails PersonY back",
+                "relation": "oEffect",
+                "similarity": 0.7061145603656769,
+                "tail": "sends email"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "participation number",
+                "relation": "ObjectUse",
+                "similarity": 0.2532275393605232,
+                "tail": "know where you are in a race"
+            },
+            {
+                "head": "list of candidates",
+                "relation": "ObjectUse",
+                "similarity": 0.2482052892446518,
+                "tail": "select an applicant"
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xNeed",
+                "similarity": 0.24769116193056107,
+                "tail": "decide what groups they should be in"
+            },
+            {
+                "head": "PersonX divides the ___ by the number",
+                "relation": "xNeed",
+                "similarity": 0.24719883501529694,
+                "tail": "to see the numbers"
+            },
+            {
+                "head": "list of candidates",
+                "relation": "ObjectUse",
+                "similarity": 0.24632039666175842,
+                "tail": "compare atributes"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_13",
+        "question_commonsense": [
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.7444608509540558,
+                "tail": "manage structured data"
+            },
+            {
+                "head": "PersonX does n't have a lot of money",
+                "relation": "xWant",
+                "similarity": 0.7206276059150696,
+                "tail": "to get a new job to make money"
+            },
+            {
+                "head": "tax software",
+                "relation": "ObjectUse",
+                "similarity": 0.7185381650924683,
+                "tail": "calculate amount owed"
+            },
+            {
+                "head": "PersonX does n't have a lot of money",
+                "relation": "xEffect",
+                "similarity": 0.7178926169872284,
+                "tail": "is in need of money"
+            },
+            {
+                "head": "listing on website",
+                "relation": "ObjectUse",
+                "similarity": 0.7152518928050995,
+                "tail": "offer item"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX uses ___ to estimate",
+                "relation": "xWant",
+                "similarity": 0.2764723598957062,
+                "tail": "to make more estimates"
+            },
+            {
+                "head": "PersonX provides PersonY estimate",
+                "relation": "oEffect",
+                "similarity": 0.2724587023258209,
+                "tail": "thinks about other estimates they ave"
+            },
+            {
+                "head": "PersonX uses ___ to estimate",
+                "relation": "oWant",
+                "similarity": 0.2646259218454361,
+                "tail": "to dispute the data"
+            },
+            {
+                "head": "PersonX provides PersonY estimate",
+                "relation": "oEffect",
+                "similarity": 0.26452647149562836,
+                "tail": "considers the estimate"
+            },
+            {
+                "head": "PersonX provides PersonY estimate",
+                "relation": "HinderedBy",
+                "similarity": 0.2638525366783142,
+                "tail": "PersonX lacks the skills to provide the estimate."
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_14",
+        "question_commonsense": [
+            {
+                "head": "model",
+                "relation": "HasProperty",
+                "similarity": 0.6583491861820221,
+                "tail": "used by people to analyze relationships"
+            },
+            {
+                "head": "service plan",
+                "relation": "ObjectUse",
+                "similarity": 0.6580792963504791,
+                "tail": "explain information to customers"
+            },
+            {
+                "head": "service plan",
+                "relation": "ObjectUse",
+                "similarity": 0.6554497480392456,
+                "tail": "connect to the internet"
+            },
+            {
+                "head": "PersonX develops PersonY model",
+                "relation": "isAfter",
+                "similarity": 0.6553960144519806,
+                "tail": "PersonX learns how to make models"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.6547975540161133,
+                "tail": "build a robot"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX reinvents the wheel",
+                "relation": "xNeed",
+                "similarity": 0.28380727767944336,
+                "tail": "to have a wheel"
+            },
+            {
+                "head": "PersonX reinvents the wheel",
+                "relation": "HinderedBy",
+                "similarity": 0.269571878015995,
+                "tail": "There aren't any possible wheel reinventions left."
+            },
+            {
+                "head": "PersonX disciplines PersonY",
+                "relation": "oEffect",
+                "similarity": 0.2685662508010864,
+                "tail": "Person Y makes a change after being disciplined"
+            },
+            {
+                "head": "PersonX disciplines PersonY",
+                "relation": "oEffect",
+                "similarity": 0.2616984620690346,
+                "tail": "Person Y finds out why they were disciplined"
+            },
+            {
+                "head": "PersonX talks in circles",
+                "relation": "xWant",
+                "similarity": 0.26026836037635803,
+                "tail": "to hide the meaning"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7575938403606415,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7447479665279388,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7383967936038971,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX controls PersonY's information",
+                "relation": "isBefore",
+                "similarity": 0.7360421419143677,
+                "tail": "PersonX encrypts PersonY's information on the computer"
+            },
+            {
+                "head": "PersonX controls PersonY's information",
+                "relation": "xNeed",
+                "similarity": 0.7336890995502472,
+                "tail": "to acquire infomation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX forms PersonY organization",
+                "relation": "xNeed",
+                "similarity": 0.3033144026994705,
+                "tail": "to have some insight in forming an organization"
+            },
+            {
+                "head": "PersonX forms PersonY organization",
+                "relation": "xWant",
+                "similarity": 0.29568327963352203,
+                "tail": "to have full authority over the organization"
+            },
+            {
+                "head": "PersonX forms PersonY organization",
+                "relation": "xWant",
+                "similarity": 0.28918369114398956,
+                "tail": "grow the organization"
+            },
+            {
+                "head": "PersonX operates within the framework",
+                "relation": "xNeed",
+                "similarity": 0.2860383093357086,
+                "tail": "know the framework"
+            },
+            {
+                "head": "organizer",
+                "relation": "ObjectUse",
+                "similarity": 0.2808239310979843,
+                "tail": "manage papers"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_16",
+        "question_commonsense": [
+            {
+                "head": "PersonX emails PersonY back",
+                "relation": "isAfter",
+                "similarity": 0.6934365630149841,
+                "tail": "PersonX recieves an email from PersonY"
+            },
+            {
+                "head": "PersonX emails PersonY back",
+                "relation": "xNeed",
+                "similarity": 0.6873718798160553,
+                "tail": "Gets an email"
+            },
+            {
+                "head": "PersonX emails PersonY back",
+                "relation": "oEffect",
+                "similarity": 0.6870588660240173,
+                "tail": "sends email"
+            },
+            {
+                "head": "PersonX emails PersonY back",
+                "relation": "oWant",
+                "similarity": 0.6854744553565979,
+                "tail": "read the email"
+            },
+            {
+                "head": "welcome email",
+                "relation": "ObjectUse",
+                "similarity": 0.6849518418312073,
+                "tail": "exchange information"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX changes the oil",
+                "relation": "HinderedBy",
+                "similarity": 0.28616398572921753,
+                "tail": "The oil does not need changing"
+            },
+            {
+                "head": "PersonX changes the oil",
+                "relation": "xNeed",
+                "similarity": 0.2730970084667206,
+                "tail": "to buy oil"
+            },
+            {
+                "head": "PersonX changes the oil",
+                "relation": "xNeed",
+                "similarity": 0.2730970084667206,
+                "tail": "buy the oil"
+            },
+            {
+                "head": "PersonX changes PersonX's oil",
+                "relation": "xNeed",
+                "similarity": 0.2690487802028656,
+                "tail": "to buy new oil"
+            },
+            {
+                "head": "PersonX changes PersonX's oil",
+                "relation": "xNeed",
+                "similarity": 0.2690487802028656,
+                "tail": "to buy a new oil"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_17",
+        "question_commonsense": [
+            {
+                "head": "brokerage app",
+                "relation": "ObjectUse",
+                "similarity": 0.7678613364696503,
+                "tail": "avoid high brokerage firm fees"
+            },
+            {
+                "head": "brokerage app",
+                "relation": "ObjectUse",
+                "similarity": 0.7637714445590973,
+                "tail": "find information on a good stock broker"
+            },
+            {
+                "head": "brokerage app",
+                "relation": "ObjectUse",
+                "similarity": 0.7626934349536896,
+                "tail": "purchase stock options"
+            },
+            {
+                "head": "brokerage app",
+                "relation": "ObjectUse",
+                "similarity": 0.7603278756141663,
+                "tail": "learn about investing"
+            },
+            {
+                "head": "brokerage app",
+                "relation": "ObjectUse",
+                "similarity": 0.7504675984382629,
+                "tail": "find out new investments"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX increases PersonY's rate",
+                "relation": "xWant",
+                "similarity": 0.2970777601003647,
+                "tail": "review the rate increase"
+            },
+            {
+                "head": "PersonX increases PersonY's rate",
+                "relation": "oWant",
+                "similarity": 0.2848707586526871,
+                "tail": "adjust life around new rate"
+            },
+            {
+                "head": "PersonX increases PersonX's rate",
+                "relation": "xNeed",
+                "similarity": 0.2822195142507553,
+                "tail": "establish a rate"
+            },
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.28183236718177795,
+                "tail": "show you have a higher credit score"
+            },
+            {
+                "head": "PersonX increases PersonY's rate",
+                "relation": "xWant",
+                "similarity": 0.28079022467136383,
+                "tail": "to raise the rate some more"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_18",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7794746160507202,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.775582492351532,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.770027220249176,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7643894851207733,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7594922482967377,
+                "tail": "illustrative"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX bases upon the principle",
+                "relation": "xWant",
+                "similarity": 0.26209188997745514,
+                "tail": "recruit others to her way of thinking"
+            },
+            {
+                "head": "PersonX bases upon the principle",
+                "relation": "xNeed",
+                "similarity": 0.26083607971668243,
+                "tail": "to gain knowledge about a principle"
+            },
+            {
+                "head": "PersonX bases upon the principle",
+                "relation": "xAttr",
+                "similarity": 0.2604147866368294,
+                "tail": "principled"
+            },
+            {
+                "head": "PersonX bases upon the principle",
+                "relation": "xNeed",
+                "similarity": 0.2589494213461876,
+                "tail": "to learn about a principle"
+            },
+            {
+                "head": "PersonX bases upon the principle",
+                "relation": "xNeed",
+                "similarity": 0.2589494213461876,
+                "tail": "learn the principle"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_19",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7169727981090546,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7015001773834229,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6984525322914124,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6924513876438141,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.6859372854232788,
+                "tail": "PersonX makes diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX provides PersonY framework",
+                "relation": "isBefore",
+                "similarity": 0.2944127023220062,
+                "tail": "PersonY hires an architect, based on PersonX's framework"
+            },
+            {
+                "head": "PersonX operates within the framework",
+                "relation": "xNeed",
+                "similarity": 0.29337581992149353,
+                "tail": "know the framework"
+            },
+            {
+                "head": "PersonX provides PersonY framework",
+                "relation": "HinderedBy",
+                "similarity": 0.28542159497737885,
+                "tail": "PersonY has already hired someone else for the framework."
+            },
+            {
+                "head": "PersonX provides PersonY framework",
+                "relation": "HinderedBy",
+                "similarity": 0.27986590564250946,
+                "tail": "PERSON X HAS NO BUILDING MATERIAL"
+            },
+            {
+                "head": "PersonX provides PersonY framework",
+                "relation": "xNeed",
+                "similarity": 0.2784542739391327,
+                "tail": "to understand PersonY's unique needs"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_20",
+        "question_commonsense": [
+            {
+                "head": "deep sea fisherman",
+                "relation": "CapableOf",
+                "similarity": 0.6775437593460083,
+                "tail": "catch large tunafish"
+            },
+            {
+                "head": "surf net",
+                "relation": "HasSubEvent",
+                "similarity": 0.6697177588939667,
+                "tail": "connect to internet"
+            },
+            {
+                "head": "surf net",
+                "relation": "xNeed",
+                "similarity": 0.6697177588939667,
+                "tail": "connect to internet"
+            },
+            {
+                "head": "surf net",
+                "relation": "HasSubEvent",
+                "similarity": 0.6609631180763245,
+                "tail": "disconnect from internet"
+            },
+            {
+                "head": "fishing string",
+                "relation": "ObjectUse",
+                "similarity": 0.6599000096321106,
+                "tail": "thread through the pole"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "billing letter",
+                "relation": "ObjectUse",
+                "similarity": 0.27787116169929504,
+                "tail": "throw in the stack of billing letters."
+            },
+            {
+                "head": "wages",
+                "relation": "ObjectUse",
+                "similarity": 0.27294956147670746,
+                "tail": "bargain over while hiring"
+            },
+            {
+                "head": "PersonX substitutes ___ for labor",
+                "relation": "xIntent",
+                "similarity": 0.27137452363967896,
+                "tail": "to lessen the work burden"
+            },
+            {
+                "head": "PersonX substitutes ___ for labor",
+                "relation": "xIntent",
+                "similarity": 0.2657678574323654,
+                "tail": "to become a more efficient company"
+            },
+            {
+                "head": "labor",
+                "relation": "ObjectUse",
+                "similarity": 0.262283556163311,
+                "tail": "price itself out of market"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_21",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8497979044914246,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8482208847999573,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "xWant",
+                "similarity": 0.8445341885089874,
+                "tail": "be reimbursed"
+            },
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "xReact",
+                "similarity": 0.8441541194915771,
+                "tail": "like they know where PersonY is"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8411194682121277,
+                "tail": "PersonY grabs the picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.2803192585706711,
+                "tail": "show you have a higher credit score"
+            },
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.27544206380844116,
+                "tail": "manipulate foreign currency"
+            },
+            {
+                "head": "interest rate",
+                "relation": "ObjectUse",
+                "similarity": 0.27374763786792755,
+                "tail": "ruin an enemy's finances"
+            },
+            {
+                "head": "interest rate",
+                "relation": "ObjectUse",
+                "similarity": 0.272667720913887,
+                "tail": "lower to pay less"
+            },
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.271900899708271,
+                "tail": "earn a credit company money"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_22",
+        "question_commonsense": [
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.7572059035301208,
+                "tail": "manage structured data"
+            },
+            {
+                "head": "PersonX applies for many jobs",
+                "relation": "xEffect",
+                "similarity": 0.7508656084537506,
+                "tail": "to applies for many job"
+            },
+            {
+                "head": "PersonX applies to many jobs",
+                "relation": "xIntent",
+                "similarity": 0.7465838193893433,
+                "tail": "to get hired"
+            },
+            {
+                "head": "organizational psychologist",
+                "relation": "CapableOf",
+                "similarity": 0.7456079423427582,
+                "tail": "conduct job analysis"
+            },
+            {
+                "head": "human-resource documents",
+                "relation": "ObjectUse",
+                "similarity": 0.7418435215950012,
+                "tail": "complete performance reviews"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX effects PersonX's purpose",
+                "relation": "oWant",
+                "similarity": 0.2674354910850525,
+                "tail": "to regain control of his activities"
+            },
+            {
+                "head": "PersonX effects PersonX's purpose",
+                "relation": "xWant",
+                "similarity": 0.26366863399744034,
+                "tail": "to perform actions toward their new purpose."
+            },
+            {
+                "head": "PersonX effects PersonY's purpose",
+                "relation": "oEffect",
+                "similarity": 0.26329293847084045,
+                "tail": "changes how they do things"
+            },
+            {
+                "head": "PersonX effects PersonX's purpose",
+                "relation": "xNeed",
+                "similarity": 0.2615777403116226,
+                "tail": "to know what his purpose is"
+            },
+            {
+                "head": "PersonX effects PersonY's purpose",
+                "relation": "oWant",
+                "similarity": 0.2605077773332596,
+                "tail": "to live with a purpose"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_23",
+        "question_commonsense": [
+            {
+                "head": "PersonX rents and managing properties for a fee",
+                "relation": "xNeed",
+                "similarity": 0.8013898730278015,
+                "tail": "to research and view properties for sale"
+            },
+            {
+                "head": "PersonX wants to buy",
+                "relation": "xNeed",
+                "similarity": 0.7986404299736023,
+                "tail": "to compare prices"
+            },
+            {
+                "head": "PersonX rents and managing properties for a fee",
+                "relation": "xNeed",
+                "similarity": 0.7963085770606995,
+                "tail": "to buy properties"
+            },
+            {
+                "head": "PersonX rents and managing properties for a fee",
+                "relation": "xNeed",
+                "similarity": 0.7949701547622681,
+                "tail": "to advertise properties to rent"
+            },
+            {
+                "head": "PersonX rents and managing properties for a fee",
+                "relation": "isAfter",
+                "similarity": 0.7893661260604858,
+                "tail": "PersonX starts a property management company"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.2794613689184189,
+                "tail": "to wait for test results"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "xWant",
+                "similarity": 0.2776523232460022,
+                "tail": "to have college review newest test results"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "xEffect",
+                "similarity": 0.275397926568985,
+                "tail": "PersonX stresses about the test results"
+            },
+            {
+                "head": "requirement sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2733354717493057,
+                "tail": "see who is qualified"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "xNeed",
+                "similarity": 0.2732910290360451,
+                "tail": "to retake college admission test"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_24",
+        "question_commonsense": [
+            {
+                "head": "bookkeeping software",
+                "relation": "ObjectUse",
+                "similarity": 0.614307314157486,
+                "tail": "create contribution statements yearly for a non-profit group"
+            },
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.6115445196628571,
+                "tail": "manage structured data"
+            },
+            {
+                "head": "bookkeeping software",
+                "relation": "ObjectUse",
+                "similarity": 0.6055679023265839,
+                "tail": "organize business expenses"
+            },
+            {
+                "head": "PersonX views the graph in terms",
+                "relation": "isAfter",
+                "similarity": 0.5972124934196472,
+                "tail": "PersonX studies for a math test"
+            },
+            {
+                "head": "large investment portfolio",
+                "relation": "ObjectUse",
+                "similarity": 0.5930441617965698,
+                "tail": "steal someone's funds"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX yields PersonY income",
+                "relation": "xEffect",
+                "similarity": 0.27420036494731903,
+                "tail": "Person x gains more or less money, depending on circumstances"
+            },
+            {
+                "head": "PersonX yields PersonY income",
+                "relation": "xEffect",
+                "similarity": 0.26983925700187683,
+                "tail": "to yields income"
+            },
+            {
+                "head": "large investment portfolio",
+                "relation": "ObjectUse",
+                "similarity": 0.26745250821113586,
+                "tail": "save for retirement"
+            },
+            {
+                "head": "large investment portfolio",
+                "relation": "ObjectUse",
+                "similarity": 0.2659943103790283,
+                "tail": "futureproof money"
+            },
+            {
+                "head": "large investment portfolio",
+                "relation": "ObjectUse",
+                "similarity": 0.2610248476266861,
+                "tail": "expand personal wealth"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_25",
+        "question_commonsense": [
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6778728067874908,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.669195294380188,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6615087389945984,
+                "tail": "Person X does not understand the math problems."
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "xIntent",
+                "similarity": 0.6605165600776672,
+                "tail": "to know the numbers"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6581101715564728,
+                "tail": "PersonX did not learn how to do this equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "exercise calculator",
+                "relation": "ObjectUse",
+                "similarity": 0.26880647242069244,
+                "tail": "keep track of exercises"
+            },
+            {
+                "head": "PersonX assists the ___ in determining",
+                "relation": "xNeed",
+                "similarity": 0.26439883559942245,
+                "tail": "to determine the correct action"
+            },
+            {
+                "head": "exercise calculator",
+                "relation": "ObjectUse",
+                "similarity": 0.2629123032093048,
+                "tail": "lie about their workout"
+            },
+            {
+                "head": "PersonX assists the ___ in determining",
+                "relation": "xWant",
+                "similarity": 0.25859229266643524,
+                "tail": "to finish their task"
+            },
+            {
+                "head": "exam template",
+                "relation": "ObjectUse",
+                "similarity": 0.25810763239860535,
+                "tail": "make tests easier to grade"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_26",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes pizza for everyone",
+                "relation": "isBefore",
+                "similarity": 0.6974177956581116,
+                "tail": "PersonX cooks the pizza in the oven"
+            },
+            {
+                "head": "PersonX makes a pizza",
+                "relation": "xEffect",
+                "similarity": 0.6727150082588196,
+                "tail": "puts pizza in the oven"
+            },
+            {
+                "head": "electric oven",
+                "relation": "ObjectUse",
+                "similarity": 0.672490268945694,
+                "tail": "cook pizza"
+            },
+            {
+                "head": "PersonX places ___ in the oven",
+                "relation": "xWant",
+                "similarity": 0.6660774350166321,
+                "tail": "to take the pizza to the neighbors to share."
+            },
+            {
+                "head": "PersonX places ___ in the oven",
+                "relation": "xWant",
+                "similarity": 0.6517082750797272,
+                "tail": "to eat all the pizza themselves."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX costs ___ to fix",
+                "relation": "xEffect",
+                "similarity": 0.27127355337142944,
+                "tail": "to costs to fix"
+            },
+            {
+                "head": "PersonX reduces PersonX's risk",
+                "relation": "xNeed",
+                "similarity": 0.2622744143009186,
+                "tail": "to carefully understand the risk"
+            },
+            {
+                "head": "car insurance",
+                "relation": "ObjectUse",
+                "similarity": 0.2576429098844528,
+                "tail": "pay for damages"
+            },
+            {
+                "head": "car insurance",
+                "relation": "ObjectUse",
+                "similarity": 0.2576429098844528,
+                "tail": "pay for the damages"
+            },
+            {
+                "head": "withdrawal slip",
+                "relation": "ObjectUse",
+                "similarity": 0.25548136979341507,
+                "tail": "make a withdrawal"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_27",
+        "question_commonsense": [
+            {
+                "head": "rhetoric",
+                "relation": "ObjectUse",
+                "similarity": 0.7773711979389191,
+                "tail": "persuasion"
+            },
+            {
+                "head": "rhetoric",
+                "relation": "MadeUpOf",
+                "similarity": 0.7624271512031555,
+                "tail": "words"
+            },
+            {
+                "head": "philosophy",
+                "relation": "MadeUpOf",
+                "similarity": 0.7581956684589386,
+                "tail": "idea"
+            },
+            {
+                "head": "debate",
+                "relation": "HasProperty",
+                "similarity": 0.7580425441265106,
+                "tail": "useful in developing consensus"
+            },
+            {
+                "head": "do philosophy",
+                "relation": "HasSubEvent",
+                "similarity": 0.7556857466697693,
+                "tail": "learn"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "vase",
+                "relation": "AtLocation",
+                "similarity": 0.2810957580804825,
+                "tail": "cabinet"
+            },
+            {
+                "head": "vase",
+                "relation": "AtLocation",
+                "similarity": 0.2801305577158928,
+                "tail": "table"
+            },
+            {
+                "head": "urn",
+                "relation": "ObjectUse",
+                "similarity": 0.2765321210026741,
+                "tail": "put on a mantle"
+            },
+            {
+                "head": "vase",
+                "relation": "ObjectUse",
+                "similarity": 0.2763058617711067,
+                "tail": "place flowers in"
+            },
+            {
+                "head": "vase",
+                "relation": "ObjectUse",
+                "similarity": 0.2763058617711067,
+                "tail": "place the flowers"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX becomes like PersonY",
+                "relation": "xAttr",
+                "similarity": 0.8223416209220886,
+                "tail": "Inspired"
+            },
+            {
+                "head": "subjective change in consciousness",
+                "relation": "Causes",
+                "similarity": 0.8221707344055176,
+                "tail": "thinking differently"
+            },
+            {
+                "head": "PersonX becomes like PersonY",
+                "relation": "xWant",
+                "similarity": 0.8211737275123596,
+                "tail": "to continue acting like PersonY"
+            },
+            {
+                "head": "subjective change in consciousness",
+                "relation": "Causes",
+                "similarity": 0.8165869116783142,
+                "tail": "feeling different"
+            },
+            {
+                "head": "PersonX becomes aware",
+                "relation": "xEffect",
+                "similarity": 0.8154106438159943,
+                "tail": "realizes something"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX breaks the cycle",
+                "relation": "xNeed",
+                "similarity": 0.26755326986312866,
+                "tail": "to have cycle"
+            },
+            {
+                "head": "procedure manual",
+                "relation": "ObjectUse",
+                "similarity": 0.26457934081554413,
+                "tail": "to understand the operation"
+            },
+            {
+                "head": "procedure manual",
+                "relation": "ObjectUse",
+                "similarity": 0.262737512588501,
+                "tail": "study procedures"
+            },
+            {
+                "head": "scientific method",
+                "relation": "ObjectUse",
+                "similarity": 0.2558356299996376,
+                "tail": "learning about physical world"
+            },
+            {
+                "head": "PersonX breaks the cycle",
+                "relation": "isAfter",
+                "similarity": 0.25542832165956497,
+                "tail": "PersonX stops smoking"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_29",
+        "question_commonsense": [
+            {
+                "head": "PersonX finds an email",
+                "relation": "HinderedBy",
+                "similarity": 0.716484397649765,
+                "tail": "PersonX's friend hacked into his email."
+            },
+            {
+                "head": "PersonX finds an email",
+                "relation": "oReact",
+                "similarity": 0.7156507670879364,
+                "tail": "glad they read the email."
+            },
+            {
+                "head": "PersonX emails PersonY back",
+                "relation": "isAfter",
+                "similarity": 0.712427407503128,
+                "tail": "PersonX recieves an email from PersonY"
+            },
+            {
+                "head": "PersonX emails PersonY back",
+                "relation": "xNeed",
+                "similarity": 0.7065949440002441,
+                "tail": "Gets an email"
+            },
+            {
+                "head": "PersonX emails PersonY back",
+                "relation": "oEffect",
+                "similarity": 0.7061145603656769,
+                "tail": "sends email"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "participation number",
+                "relation": "ObjectUse",
+                "similarity": 0.2532275393605232,
+                "tail": "know where you are in a race"
+            },
+            {
+                "head": "list of candidates",
+                "relation": "ObjectUse",
+                "similarity": 0.2482052892446518,
+                "tail": "select an applicant"
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xNeed",
+                "similarity": 0.24769116193056107,
+                "tail": "decide what groups they should be in"
+            },
+            {
+                "head": "PersonX divides the ___ by the number",
+                "relation": "xNeed",
+                "similarity": 0.24719883501529694,
+                "tail": "to see the numbers"
+            },
+            {
+                "head": "list of candidates",
+                "relation": "ObjectUse",
+                "similarity": 0.24632039666175842,
+                "tail": "compare atributes"
+            }
+        ]
+    },
+    {
+        "id": "validation_Manage_30",
+        "question_commonsense": [
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.5821024179458618,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "PersonX views the graph in terms",
+                "relation": "isAfter",
+                "similarity": 0.5578451752662659,
+                "tail": "PersonX studies for a math test"
+            },
+            {
+                "head": "medical chart",
+                "relation": "ObjectUse",
+                "similarity": 0.5563311576843262,
+                "tail": "jot down medical procedures"
+            },
+            {
+                "head": "medical chart",
+                "relation": "ObjectUse",
+                "similarity": 0.5548163056373596,
+                "tail": "show anatomy for a drawing"
+            },
+            {
+                "head": "medical chart",
+                "relation": "ObjectUse",
+                "similarity": 0.5540987551212311,
+                "tail": "see if they have medical conditions"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX exercises PersonY influence",
+                "relation": "HinderedBy",
+                "similarity": 0.2779103070497513,
+                "tail": "They do not have the authority to exercise their influence."
+            },
+            {
+                "head": "PersonX exercises PersonY influence",
+                "relation": "HinderedBy",
+                "similarity": 0.2687397748231888,
+                "tail": "PersonX can't get in touch with anyone to exercise influence to."
+            },
+            {
+                "head": "PersonX exercises PersonY influence",
+                "relation": "HinderedBy",
+                "similarity": 0.26254110038280487,
+                "tail": "PersonY recently quit and is no longer around."
+            },
+            {
+                "head": "PersonX exercises ___ in matters",
+                "relation": "xWant",
+                "similarity": 0.2606979310512543,
+                "tail": "keep exercising care"
+            },
+            {
+                "head": "PersonX exercises ___ in matters",
+                "relation": "xNeed",
+                "similarity": 0.25953035056591034,
+                "tail": "plan on how to exercise care"
+            }
+        ]
+    }
+]

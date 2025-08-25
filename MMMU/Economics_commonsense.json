@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Economics_1",
+        "question_commonsense": [
+            {
+                "head": "direct deposit",
+                "relation": "ObjectUse",
+                "similarity": 0.7215225696563721,
+                "tail": "get your money quickly"
+            },
+            {
+                "head": "banking app",
+                "relation": "ObjectUse",
+                "similarity": 0.7192129492759705,
+                "tail": "transfer money"
+            },
+            {
+                "head": "direct deposit",
+                "relation": "ObjectUse",
+                "similarity": 0.7181762456893921,
+                "tail": "go into bank"
+            },
+            {
+                "head": "PersonX does n't have a lot of money",
+                "relation": "xEffect",
+                "similarity": 0.7168607115745544,
+                "tail": "thinks about getting money"
+            },
+            {
+                "head": "direct deposit",
+                "relation": "ObjectUse",
+                "similarity": 0.7147181630134583,
+                "tail": "get money faster"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX loses PersonY balance",
+                "relation": "oWant",
+                "similarity": 0.2938995957374573,
+                "tail": "To keep their balance"
+            },
+            {
+                "head": "banking details",
+                "relation": "ObjectUse",
+                "similarity": 0.2905605733394623,
+                "tail": "to give to employer for direct deposit"
+            },
+            {
+                "head": "banking details",
+                "relation": "ObjectUse",
+                "similarity": 0.2901858985424042,
+                "tail": "transfer money to a different bank account"
+            },
+            {
+                "head": "PersonX splits the money",
+                "relation": "xEffect",
+                "similarity": 0.288549542427063,
+                "tail": "allocates the money for different purposes"
+            },
+            {
+                "head": "initial deposit",
+                "relation": "ObjectUse",
+                "similarity": 0.28783075511455536,
+                "tail": "accrue interest"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_2",
+        "question_commonsense": [
+            {
+                "head": "gas money",
+                "relation": "ObjectUse",
+                "similarity": 0.8455383777618408,
+                "tail": "purchase gas"
+            },
+            {
+                "head": "gasoline",
+                "relation": "ObjectUse",
+                "similarity": 0.8251695036888123,
+                "tail": "fuel transport"
+            },
+            {
+                "head": "gas money",
+                "relation": "ObjectUse",
+                "similarity": 0.822937399148941,
+                "tail": "fill the tank"
+            },
+            {
+                "head": "gasoline",
+                "relation": "ObjectUse",
+                "similarity": 0.8212735950946808,
+                "tail": "fill up the tank"
+            },
+            {
+                "head": "gasoline",
+                "relation": "ObjectUse",
+                "similarity": 0.819666713476181,
+                "tail": "fuel vehicle"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "gasoline",
+                "relation": "ObjectUse",
+                "similarity": 0.27747131884098053,
+                "tail": "fuel transport"
+            },
+            {
+                "head": "gasoline",
+                "relation": "HasProperty",
+                "similarity": 0.27574631571769714,
+                "tail": "derived from crude oil"
+            },
+            {
+                "head": "gasoline",
+                "relation": "ObjectUse",
+                "similarity": 0.273392453789711,
+                "tail": "fill up the tank"
+            },
+            {
+                "head": "gasoline",
+                "relation": "ObjectUse",
+                "similarity": 0.26391833275556564,
+                "tail": "fueling engine"
+            },
+            {
+                "head": "gasoline",
+                "relation": "ObjectUse",
+                "similarity": 0.2632410228252411,
+                "tail": "fuel vehicle"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_3",
+        "question_commonsense": [
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.7215790748596191,
+                "tail": "economic theory"
+            },
+            {
+                "head": "tax information",
+                "relation": "ObjectUse",
+                "similarity": 0.7178874909877777,
+                "tail": "provide to accountant to do taxes"
+            },
+            {
+                "head": "PersonX exchanges insurance information",
+                "relation": "xNeed",
+                "similarity": 0.7109956443309784,
+                "tail": "to know the insurance information"
+            },
+            {
+                "head": "tax information",
+                "relation": "ObjectUse",
+                "similarity": 0.7089267671108246,
+                "tail": "make sure you're earning the right amount of money"
+            },
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.7078805863857269,
+                "tail": "rent seeking"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "results paper",
+                "relation": "ObjectUse",
+                "similarity": 0.28035101294517517,
+                "tail": "find out your grades"
+            },
+            {
+                "head": "gradebook",
+                "relation": "ObjectUse",
+                "similarity": 0.27950386703014374,
+                "tail": "help grade"
+            },
+            {
+                "head": "results paper",
+                "relation": "ObjectUse",
+                "similarity": 0.27428244054317474,
+                "tail": "confirm scores on a test"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.2705562263727188,
+                "tail": "to wait for test results"
+            },
+            {
+                "head": "gradebook",
+                "relation": "ObjectUse",
+                "similarity": 0.2693842202425003,
+                "tail": "Enter grades"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9304104149341583,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "xNeed",
+                "similarity": 0.9294456839561462,
+                "tail": "make a copy of the picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.928850919008255,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "isFilledBy",
+                "similarity": 0.9201679527759552,
+                "tail": "article"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9166039824485779,
+                "tail": "PersonY grabs the picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.28043200075626373,
+                "tail": "economic theory"
+            },
+            {
+                "head": "long term unemployed",
+                "relation": "ObjectUse",
+                "similarity": 0.2720120847225189,
+                "tail": "depression"
+            },
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.2714933156967163,
+                "tail": "rent seeking"
+            },
+            {
+                "head": "PersonX files for unemployment",
+                "relation": "xEffect",
+                "similarity": 0.2705421447753906,
+                "tail": "has income assessed"
+            },
+            {
+                "head": "unemployment",
+                "relation": "Causes",
+                "similarity": 0.26826661825180054,
+                "tail": "bankrupcy"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_5",
+        "question_commonsense": [
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.8402621746063232,
+                "tail": "economic theory"
+            },
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.8312073051929474,
+                "tail": "rent seeking"
+            },
+            {
+                "head": "PersonX raises ___ by taxation",
+                "relation": "oEffect",
+                "similarity": 0.8239662945270538,
+                "tail": "People turn in money to pay taxation."
+            },
+            {
+                "head": "PersonX raises ___ by taxation",
+                "relation": "xNeed",
+                "similarity": 0.8127642273902893,
+                "tail": "figure out how much they need to tax"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.8110319674015045,
+                "tail": "determine profit margin"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "interest rate",
+                "relation": "ObjectUse",
+                "similarity": 0.2704605162143707,
+                "tail": "crash the stock market"
+            },
+            {
+                "head": "interest rate",
+                "relation": "ObjectUse",
+                "similarity": 0.2617691606283188,
+                "tail": "lower to pay less"
+            },
+            {
+                "head": "PersonX puts the ___ on a basis",
+                "relation": "xAttr",
+                "similarity": 0.26135316491127014,
+                "tail": "pragmatic"
+            },
+            {
+                "head": "interest rate",
+                "relation": "ObjectUse",
+                "similarity": 0.26133518666028976,
+                "tail": "ruin an enemy's finances"
+            },
+            {
+                "head": "PersonX puts the ___ on a basis",
+                "relation": "xNeed",
+                "similarity": 0.2591206505894661,
+                "tail": "check all available options"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_6",
+        "question_commonsense": [
+            {
+                "head": "movie dvds",
+                "relation": "ObjectUse",
+                "similarity": 0.8329364061355591,
+                "tail": "let people borrow physical copies of movies"
+            },
+            {
+                "head": "movie dvds",
+                "relation": "ObjectUse",
+                "similarity": 0.8280258774757385,
+                "tail": "have a record of films"
+            },
+            {
+                "head": "PersonX uses ___ to determine PersonY's customer base",
+                "relation": "xIntent",
+                "similarity": 0.8254318237304688,
+                "tail": "to increase sales"
+            },
+            {
+                "head": "new dvds",
+                "relation": "ObjectUse",
+                "similarity": 0.8231790959835052,
+                "tail": "discover new movies"
+            },
+            {
+                "head": "dvds",
+                "relation": "ObjectUse",
+                "similarity": 0.8221078515052795,
+                "tail": "see older films"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.28569599986076355,
+                "tail": "economic theory"
+            },
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.2757812440395355,
+                "tail": "rent seeking"
+            },
+            {
+                "head": "income",
+                "relation": "ObjectUse",
+                "similarity": 0.275127112865448,
+                "tail": "rent office and pay for utilities"
+            },
+            {
+                "head": "verifiable income",
+                "relation": "ObjectUse",
+                "similarity": 0.274216428399086,
+                "tail": "do the taxes"
+            },
+            {
+                "head": "income",
+                "relation": "ObjectUse",
+                "similarity": 0.2735344469547272,
+                "tail": "pay for the stock, building, & electricity"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_7",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6988455355167389,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.6950518786907196,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.6941309571266174,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.6912766396999359,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6861426830291748,
+                "tail": "procure a book with diagrams"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.27260735630989075,
+                "tail": "economic theory"
+            },
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.26271477341651917,
+                "tail": "rent seeking"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.26236508786678314,
+                "tail": "clearly present data"
+            },
+            {
+                "head": "graphs",
+                "relation": "ObjectUse",
+                "similarity": 0.2605379521846771,
+                "tail": "present gains and losses"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.25820407271385193,
+                "tail": "determine profit margin"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_8",
+        "question_commonsense": [
+            {
+                "head": "china",
+                "relation": "HasProperty",
+                "similarity": 0.6723349094390869,
+                "tail": "largest population on earth"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6671428382396698,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.6645283401012421,
+                "tail": "economic theory"
+            },
+            {
+                "head": "socialism",
+                "relation": "MadeUpOf",
+                "similarity": 0.66208416223526,
+                "tail": "socialists"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6612076461315155,
+                "tail": "PersonX failed math 101"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX exports from PersonY state",
+                "relation": "xWant",
+                "similarity": 0.26838284730911255,
+                "tail": "to sell the exported goods"
+            },
+            {
+                "head": "monetary bills",
+                "relation": "ObjectUse",
+                "similarity": 0.2677440494298935,
+                "tail": "bribe officials"
+            },
+            {
+                "head": "PersonX supplements PersonY's income",
+                "relation": "xWant",
+                "similarity": 0.26568053662776947,
+                "tail": "to pay off debt"
+            },
+            {
+                "head": "PersonX exports from PersonY state",
+                "relation": "xNeed",
+                "similarity": 0.26188936829566956,
+                "tail": "to know all exporting laws"
+            },
+            {
+                "head": "PersonX exports from PersonY state",
+                "relation": "xEffect",
+                "similarity": 0.2607765793800354,
+                "tail": "pays tax"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_9",
+        "question_commonsense": [
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.8455240726470947,
+                "tail": "manipulate foreign currency"
+            },
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.843341052532196,
+                "tail": "earn a credit company money"
+            },
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.8431827425956726,
+                "tail": "make the most of the money"
+            },
+            {
+                "head": "monetary conditions",
+                "relation": "ObjectUse",
+                "similarity": 0.8430357575416565,
+                "tail": "plan investments"
+            },
+            {
+                "head": "share market investor",
+                "relation": "NotDesires",
+                "similarity": 0.8408199548721313,
+                "tail": "stock market crash"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.2744003236293793,
+                "tail": "economic theory"
+            },
+            {
+                "head": "interest rate",
+                "relation": "ObjectUse",
+                "similarity": 0.267420694231987,
+                "tail": "lower to pay less"
+            },
+            {
+                "head": "interest rate",
+                "relation": "ObjectUse",
+                "similarity": 0.2631429210305214,
+                "tail": "calculate how much one will earn"
+            },
+            {
+                "head": "PersonX files for unemployment",
+                "relation": "xEffect",
+                "similarity": 0.2626519501209259,
+                "tail": "has income assessed"
+            },
+            {
+                "head": "wage stubs",
+                "relation": "ObjectUse",
+                "similarity": 0.2621864825487137,
+                "tail": "show proof of employment"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_10",
+        "question_commonsense": [
+            {
+                "head": "PersonX orders pizza",
+                "relation": "xNeed",
+                "similarity": 0.8297024071216583,
+                "tail": "to find out the pizza place's hours"
+            },
+            {
+                "head": "pizza",
+                "relation": "ObjectUse",
+                "similarity": 0.8276848495006561,
+                "tail": "eat pizza"
+            },
+            {
+                "head": "PersonX orders a pizza",
+                "relation": "xWant",
+                "similarity": 0.8259375989437103,
+                "tail": "to get the pizza from the counter when it's ready."
+            },
+            {
+                "head": "PersonX orders a pizza",
+                "relation": "xWant",
+                "similarity": 0.8246231973171234,
+                "tail": "to eat the pizza."
+            },
+            {
+                "head": "PersonX orders a pizza",
+                "relation": "xNeed",
+                "similarity": 0.8241105377674103,
+                "tail": "to call the pizza store"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX divides the pizza into sections",
+                "relation": "isAfter",
+                "similarity": 0.27936118841171265,
+                "tail": "PersonX buys pizza for everyone"
+            },
+            {
+                "head": "PersonX orders pizza for dinner",
+                "relation": "xNeed",
+                "similarity": 0.2748623490333557,
+                "tail": "to call the pizza restaurant"
+            },
+            {
+                "head": "PersonX orders pizza for dinner",
+                "relation": "xNeed",
+                "similarity": 0.2725611925125122,
+                "tail": "to decide on toppings"
+            },
+            {
+                "head": "PersonX orders pizza for dinner",
+                "relation": "oWant",
+                "similarity": 0.26894599199295044,
+                "tail": "to eat pizza"
+            },
+            {
+                "head": "PersonX orders pizza for dinner",
+                "relation": "xNeed",
+                "similarity": 0.26749376952648163,
+                "tail": "to find a pizza place"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX sells PersonY's ___ in the market",
+                "relation": "oWant",
+                "similarity": 0.8732212483882904,
+                "tail": "to make as much money as possible"
+            },
+            {
+                "head": "PersonX puts ___ on the market",
+                "relation": "xIntent",
+                "similarity": 0.87264284491539,
+                "tail": "to sell it"
+            },
+            {
+                "head": "PersonX puts ___ on the market",
+                "relation": "xEffect",
+                "similarity": 0.8713710606098175,
+                "tail": "to go to market"
+            },
+            {
+                "head": "PersonX sells PersonX's ___ in the market",
+                "relation": "xIntent",
+                "similarity": 0.8713333010673523,
+                "tail": "to make money."
+            },
+            {
+                "head": "PersonX sells PersonX's ___ in the market",
+                "relation": "xIntent",
+                "similarity": 0.8710813224315643,
+                "tail": "to sell his product"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.28639817237854004,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2799791991710663,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.2788524478673935,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "PersonX sells PersonY's ___ in the market",
+                "relation": "xNeed",
+                "similarity": 0.27726100385189056,
+                "tail": "To take it to the market"
+            },
+            {
+                "head": "graph",
+                "relation": "MadeUpOf",
+                "similarity": 0.27395303547382355,
+                "tail": "curve"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_12",
+        "question_commonsense": [
+            {
+                "head": "china",
+                "relation": "HasProperty",
+                "similarity": 0.6522107124328613,
+                "tail": "largest population on earth"
+            },
+            {
+                "head": "chinese person",
+                "relation": "AtLocation",
+                "similarity": 0.6484301090240479,
+                "tail": "china"
+            },
+            {
+                "head": "chinese person",
+                "relation": "CapableOf",
+                "similarity": 0.6426189243793488,
+                "tail": "read chinese book"
+            },
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.6396714150905609,
+                "tail": "manage structured data"
+            },
+            {
+                "head": "socialism",
+                "relation": "MadeUpOf",
+                "similarity": 0.6361912786960602,
+                "tail": "socialists"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "expense account",
+                "relation": "ObjectUse",
+                "similarity": 0.28426170349121094,
+                "tail": "spend a company into bankruptcy"
+            },
+            {
+                "head": "PersonX pays PersonY's expenses",
+                "relation": "xEffect",
+                "similarity": 0.2836255878210068,
+                "tail": "to expenses in the bill"
+            },
+            {
+                "head": "PersonX pays PersonX's expenses",
+                "relation": "xNeed",
+                "similarity": 0.2784109562635422,
+                "tail": "find out the total of the expenses"
+            },
+            {
+                "head": "PersonX pays PersonY's expenses",
+                "relation": "HinderedBy",
+                "similarity": 0.273356631398201,
+                "tail": "PersonX does not have much money in their account."
+            },
+            {
+                "head": "monetary bills",
+                "relation": "ObjectUse",
+                "similarity": 0.2732892632484436,
+                "tail": "deposit in the bank"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_13",
+        "question_commonsense": [
+            {
+                "head": "PersonX learns japanese",
+                "relation": "xNeed",
+                "similarity": 0.6023384034633636,
+                "tail": "To take classes for japanese"
+            },
+            {
+                "head": "PersonX learns japanese",
+                "relation": "xWant",
+                "similarity": 0.599216639995575,
+                "tail": "to practise his japanese language with others"
+            },
+            {
+                "head": "PersonX learns japanese",
+                "relation": "xIntent",
+                "similarity": 0.5967620313167572,
+                "tail": "to know japanese"
+            },
+            {
+                "head": "PersonX learns japanese",
+                "relation": "xNeed",
+                "similarity": 0.5949505865573883,
+                "tail": "to decide to learn japanese"
+            },
+            {
+                "head": "PersonX learns japanese",
+                "relation": "xWant",
+                "similarity": 0.5913969278335571,
+                "tail": "to visit japan to test out their new japanese speakin skills"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX buys apples",
+                "relation": "oWant",
+                "similarity": 0.31280121207237244,
+                "tail": "to sell more apples"
+            },
+            {
+                "head": "PersonX buys apples",
+                "relation": "xNeed",
+                "similarity": 0.29571516811847687,
+                "tail": "to choose the most fresh apples"
+            },
+            {
+                "head": "PersonX buys apples",
+                "relation": "HinderedBy",
+                "similarity": 0.2955370843410492,
+                "tail": "PersonX's friend already bought all the apples."
+            },
+            {
+                "head": "PersonX buys apples",
+                "relation": "HinderedBy",
+                "similarity": 0.2940206080675125,
+                "tail": "they ran out of apples"
+            },
+            {
+                "head": "PersonX buys apples",
+                "relation": "xEffect",
+                "similarity": 0.29304075241088867,
+                "tail": "eats an apple"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX offer tickets to the game to students",
+                "relation": "isBefore",
+                "similarity": 0.7697561085224152,
+                "tail": "PersonX goes to the game with students"
+            },
+            {
+                "head": "PersonX offer tickets to the game to students",
+                "relation": "isAfter",
+                "similarity": 0.7670188248157501,
+                "tail": "PersonX wants to do something nice for students"
+            },
+            {
+                "head": "PersonX offer ___ to students",
+                "relation": "isFilledBy",
+                "similarity": 0.7634856402873993,
+                "tail": "tickets to the game"
+            },
+            {
+                "head": "PersonX provides ___ to students",
+                "relation": "oEffect",
+                "similarity": 0.7599529027938843,
+                "tail": "Students are prepared for their exams"
+            },
+            {
+                "head": "PersonX provides ___ for students",
+                "relation": "xEffect",
+                "similarity": 0.7550248503684998,
+                "tail": "tests students"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX pays ___ on demand",
+                "relation": "xWant",
+                "similarity": 0.27023009955883026,
+                "tail": "To fulfil the demand"
+            },
+            {
+                "head": "PersonX estimates accurately the ___",
+                "relation": "xWant",
+                "similarity": 0.26391810178756714,
+                "tail": "check their estimation"
+            },
+            {
+                "head": "PersonX uses ___ to estimate",
+                "relation": "oWant",
+                "similarity": 0.26306381821632385,
+                "tail": "to dispute the data"
+            },
+            {
+                "head": "PersonX pays ___ on demand",
+                "relation": "xWant",
+                "similarity": 0.26297663152217865,
+                "tail": "To comply with the demand"
+            },
+            {
+                "head": "enrollment fee",
+                "relation": "ObjectUse",
+                "similarity": 0.2607087567448616,
+                "tail": "collect dues from members"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.5518805384635925,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.548212468624115,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.5383300483226776,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX views the graph in terms",
+                "relation": "isBefore",
+                "similarity": 0.537432998418808,
+                "tail": "PersonX asks his friend for help"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.5373043119907379,
+                "tail": "PersonX puts away diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2698552906513214,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2685734033584595,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.262899249792099,
+                "tail": "clearly present data"
+            },
+            {
+                "head": "graphs",
+                "relation": "ObjectUse",
+                "similarity": 0.25857358425855637,
+                "tail": "display information"
+            },
+            {
+                "head": "graphs",
+                "relation": "ObjectUse",
+                "similarity": 0.25839096307754517,
+                "tail": "display odds that Fox News will disseminate true news"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_16",
+        "question_commonsense": [
+            {
+                "head": "play frisbee",
+                "relation": "xNeed",
+                "similarity": 0.7643880546092987,
+                "tail": "borrow dog's frisbee"
+            },
+            {
+                "head": "play frisbee",
+                "relation": "HasSubEvent",
+                "similarity": 0.7636509239673615,
+                "tail": "get frisbee"
+            },
+            {
+                "head": "play frisbee",
+                "relation": "HasSubEvent",
+                "similarity": 0.7631707787513733,
+                "tail": "pick up frisbee"
+            },
+            {
+                "head": "frisbee",
+                "relation": "ObjectUse",
+                "similarity": 0.7547805607318878,
+                "tail": "ultimate frisbee"
+            },
+            {
+                "head": "play frisbee",
+                "relation": "HasSubEvent",
+                "similarity": 0.7541981637477875,
+                "tail": "catching frisbee"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX pays ___ on demand",
+                "relation": "xWant",
+                "similarity": 0.27241022884845734,
+                "tail": "To fulfil the demand"
+            },
+            {
+                "head": "PersonX pays ___ on demand",
+                "relation": "xWant",
+                "similarity": 0.26220088452100754,
+                "tail": "To comply with the demand"
+            },
+            {
+                "head": "PersonX estimates accurately the ___",
+                "relation": "xWant",
+                "similarity": 0.2585086077451706,
+                "tail": "check their estimation"
+            },
+            {
+                "head": "PersonX pays ___ on demand",
+                "relation": "xIntent",
+                "similarity": 0.2522796764969826,
+                "tail": "to be known for extreme wealth"
+            },
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "xNeed",
+                "similarity": 0.2487759292125702,
+                "tail": "to figure how many cells there are"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_17",
+        "question_commonsense": [
+            {
+                "head": "banking details",
+                "relation": "ObjectUse",
+                "similarity": 0.6908818483352661,
+                "tail": "transfer money to a different bank account"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6855133175849915,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6851217746734619,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "xWant",
+                "similarity": 0.6833522617816925,
+                "tail": "understand interest rates"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "xIntent",
+                "similarity": 0.6772710084915161,
+                "tail": "to know the numbers"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "financial statements",
+                "relation": "ObjectUse",
+                "similarity": 0.2791365087032318,
+                "tail": "analyze spending habits"
+            },
+            {
+                "head": "PersonX estimates accurately the ___",
+                "relation": "xWant",
+                "similarity": 0.2718823403120041,
+                "tail": "check their estimation"
+            },
+            {
+                "head": "monetary bills",
+                "relation": "ObjectUse",
+                "similarity": 0.2681170403957367,
+                "tail": "bribe officials"
+            },
+            {
+                "head": "financial statements",
+                "relation": "ObjectUse",
+                "similarity": 0.26625972986221313,
+                "tail": "fulfill application requirements"
+            },
+            {
+                "head": "financial statements",
+                "relation": "ObjectUse",
+                "similarity": 0.2658744975924492,
+                "tail": "sell data"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_18",
+        "question_commonsense": [
+            {
+                "head": "goias",
+                "relation": "HasProperty",
+                "similarity": 0.5450377762317657,
+                "tail": "one of brazilian states"
+            },
+            {
+                "head": "maranhao",
+                "relation": "HasProperty",
+                "similarity": 0.544026106595993,
+                "tail": "one of brazilian states"
+            },
+            {
+                "head": "salve",
+                "relation": "HasProperty",
+                "similarity": 0.49125441908836365,
+                "tail": "owned by another person"
+            },
+            {
+                "head": "PersonX puts it there",
+                "relation": "xReact",
+                "similarity": 0.49090196192264557,
+                "tail": "ok"
+            },
+            {
+                "head": "PersonX puts PersonY in",
+                "relation": "oWant",
+                "similarity": 0.4898667484521866,
+                "tail": "be sad"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.245781771838665,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "PersonX acts in PersonY capacity",
+                "relation": "HinderedBy",
+                "similarity": 0.24517766386270523,
+                "tail": "PersonX isn't qualified to act on PersonY's behalf."
+            },
+            {
+                "head": "PersonX acts in PersonY capacity",
+                "relation": "xEffect",
+                "similarity": 0.2441406548023224,
+                "tail": "listens to questions"
+            },
+            {
+                "head": "PersonX acts in PersonY capacity",
+                "relation": "xWant",
+                "similarity": 0.2440972551703453,
+                "tail": "inform PersonY of their activities"
+            },
+            {
+                "head": "PersonX acts in PersonY capacity",
+                "relation": "xAttr",
+                "similarity": 0.24268215149641037,
+                "tail": "emphatic"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_19",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.8164300620555878,
+                "tail": "to test out her theory"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.8144887387752533,
+                "tail": "puzzle"
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xReact",
+                "similarity": 0.810507744550705,
+                "tail": "good about himself"
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xAttr",
+                "similarity": 0.8079786896705627,
+                "tail": "clever"
+            },
+            {
+                "head": "PersonX solves the ___ by using",
+                "relation": "xAttr",
+                "similarity": 0.8077236711978912,
+                "tail": "smart"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX returns to PersonX's position",
+                "relation": "isBefore",
+                "similarity": 0.2683948576450348,
+                "tail": "PersonX notices a lot of changes in just three months"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.2672727480530739,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX returns to PersonX's position",
+                "relation": "xAttr",
+                "similarity": 0.26590947806835175,
+                "tail": "cautious"
+            },
+            {
+                "head": "PersonX returns to PersonX's position",
+                "relation": "xAttr",
+                "similarity": 0.2650197669863701,
+                "tail": "deliberate"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xAttr",
+                "similarity": 0.2646215036511421,
+                "tail": "exasting"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_20",
+        "question_commonsense": [
+            {
+                "head": "bagel",
+                "relation": "ObjectUse",
+                "similarity": 0.723311573266983,
+                "tail": "buy at bakery"
+            },
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.7141813933849335,
+                "tail": "economic theory"
+            },
+            {
+                "head": "PersonX has a bagel every day",
+                "relation": "isBefore",
+                "similarity": 0.7127951681613922,
+                "tail": "PersonX puts cream cheese on the bagel"
+            },
+            {
+                "head": "bagel",
+                "relation": "HasProperty",
+                "similarity": 0.707009881734848,
+                "tail": "made in bakery"
+            },
+            {
+                "head": "bagel",
+                "relation": "AtLocation",
+                "similarity": 0.7047052383422852,
+                "tail": "bakery"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX purchases ___ at a price",
+                "relation": "xNeed",
+                "similarity": 0.28357987105846405,
+                "tail": "to compare prices"
+            },
+            {
+                "head": "PersonX purchases ___ at a price",
+                "relation": "xWant",
+                "similarity": 0.2747383564710617,
+                "tail": "to sell them at a higher price"
+            },
+            {
+                "head": "prices",
+                "relation": "ObjectUse",
+                "similarity": 0.27329446375370026,
+                "tail": "compare items for purchase"
+            },
+            {
+                "head": "PersonX purchases ___ at a price",
+                "relation": "xWant",
+                "similarity": 0.26789020001888275,
+                "tail": "use the purchase"
+            },
+            {
+                "head": "prices",
+                "relation": "ObjectUse",
+                "similarity": 0.2658170908689499,
+                "tail": "ask store to match price"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_21",
+        "question_commonsense": [
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.7879630923271179,
+                "tail": "economic theory"
+            },
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.7806748449802399,
+                "tail": "rent seeking"
+            },
+            {
+                "head": "PersonX applies to jobs",
+                "relation": "xNeed",
+                "similarity": 0.7770839631557465,
+                "tail": "to determine which jobs are suitable"
+            },
+            {
+                "head": "PersonX applies for jobs",
+                "relation": "xWant",
+                "similarity": 0.7671497464179993,
+                "tail": "to gain financial security"
+            },
+            {
+                "head": "PersonX applies to jobs",
+                "relation": "xWant",
+                "similarity": 0.7669645249843597,
+                "tail": "to find a job"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX uses ___ to estimate",
+                "relation": "xWant",
+                "similarity": 0.2656051963567734,
+                "tail": "to make more estimates"
+            },
+            {
+                "head": "list of advertisers",
+                "relation": "ObjectUse",
+                "similarity": 0.2612743526697159,
+                "tail": "call and find a teacher"
+            },
+            {
+                "head": "PersonX uses ___ to estimate",
+                "relation": "oWant",
+                "similarity": 0.25890296697616577,
+                "tail": "to dispute the data"
+            },
+            {
+                "head": "advertisements",
+                "relation": "ObjectUse",
+                "similarity": 0.25793881714344025,
+                "tail": "advertise products on sale"
+            },
+            {
+                "head": "list of sizes",
+                "relation": "ObjectUse",
+                "similarity": 0.2560143321752548,
+                "tail": "buy the right clothes"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_22",
+        "question_commonsense": [
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.8208557665348053,
+                "tail": "manipulate foreign currency"
+            },
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.8067055940628052,
+                "tail": "earn a credit company money"
+            },
+            {
+                "head": "foreign currency",
+                "relation": "ObjectUse",
+                "similarity": 0.8054021000862122,
+                "tail": "exchange for US currency"
+            },
+            {
+                "head": "foreign currency",
+                "relation": "ObjectUse",
+                "similarity": 0.8033568263053894,
+                "tail": "exchange for money"
+            },
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.802866131067276,
+                "tail": "make the most of the money"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX purchases ___ at prices",
+                "relation": "oWant",
+                "similarity": 0.2839525043964386,
+                "tail": "to perform a similar transaction with another person"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2771490663290024,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.27149567008018494,
+                "tail": "to understand what PersonX is showing them"
+            },
+            {
+                "head": "PersonX purchases ___ at prices",
+                "relation": "xNeed",
+                "similarity": 0.2666056156158447,
+                "tail": "to have a brokerage account"
+            },
+            {
+                "head": "PersonX purchases ___ at prices",
+                "relation": "xWant",
+                "similarity": 0.2656162977218628,
+                "tail": "to load the purchases in the car"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_23",
+        "question_commonsense": [
+            {
+                "head": "PersonX does n't have a lot of money",
+                "relation": "xEffect",
+                "similarity": 0.726533830165863,
+                "tail": "thinks about getting money"
+            },
+            {
+                "head": "PersonX does n't have a lot of money",
+                "relation": "xEffect",
+                "similarity": 0.7261953353881836,
+                "tail": "is in need of money"
+            },
+            {
+                "head": "PersonX does n't have a lot of money",
+                "relation": "xWant",
+                "similarity": 0.7261215448379517,
+                "tail": "to borrow money from another person"
+            },
+            {
+                "head": "banking app",
+                "relation": "ObjectUse",
+                "similarity": 0.7257464230060577,
+                "tail": "withdraw money"
+            },
+            {
+                "head": "PersonX does n't have a lot of money",
+                "relation": "xWant",
+                "similarity": 0.7195714712142944,
+                "tail": "to get a new job to make money"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX loses PersonY balance",
+                "relation": "oWant",
+                "similarity": 0.2938995957374573,
+                "tail": "To keep their balance"
+            },
+            {
+                "head": "banking details",
+                "relation": "ObjectUse",
+                "similarity": 0.2905605733394623,
+                "tail": "to give to employer for direct deposit"
+            },
+            {
+                "head": "banking details",
+                "relation": "ObjectUse",
+                "similarity": 0.2901858985424042,
+                "tail": "transfer money to a different bank account"
+            },
+            {
+                "head": "PersonX splits the money",
+                "relation": "xEffect",
+                "similarity": 0.288549542427063,
+                "tail": "allocates the money for different purposes"
+            },
+            {
+                "head": "initial deposit",
+                "relation": "ObjectUse",
+                "similarity": 0.28783075511455536,
+                "tail": "accrue interest"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_24",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.8017879724502563,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7937145829200745,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.7893744111061096,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7850152850151062,
+                "tail": "try to understand the solution"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.7849314510822296,
+                "tail": "find a calculator"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.2597582936286926,
+                "tail": "to wait for test results"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "xEffect",
+                "similarity": 0.25943200290203094,
+                "tail": "PersonX stresses about the test results"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xAttr",
+                "similarity": 0.25622494518756866,
+                "tail": "percise"
+            },
+            {
+                "head": "PersonX has been deferred until test results are in",
+                "relation": "xEffect",
+                "similarity": 0.25609705597162247,
+                "tail": "wait for results"
+            },
+            {
+                "head": "PersonX has been deferred until test results are in",
+                "relation": "xEffect",
+                "similarity": 0.2551317811012268,
+                "tail": "check results"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_25",
+        "question_commonsense": [
+            {
+                "head": "PersonX offer tickets to the game to students",
+                "relation": "isBefore",
+                "similarity": 0.7697561085224152,
+                "tail": "PersonX goes to the game with students"
+            },
+            {
+                "head": "PersonX offer tickets to the game to students",
+                "relation": "isAfter",
+                "similarity": 0.7670188248157501,
+                "tail": "PersonX wants to do something nice for students"
+            },
+            {
+                "head": "PersonX offer ___ to students",
+                "relation": "isFilledBy",
+                "similarity": 0.7634856402873993,
+                "tail": "tickets to the game"
+            },
+            {
+                "head": "PersonX provides ___ to students",
+                "relation": "oEffect",
+                "similarity": 0.7599529027938843,
+                "tail": "Students are prepared for their exams"
+            },
+            {
+                "head": "PersonX provides ___ for students",
+                "relation": "xEffect",
+                "similarity": 0.7550248503684998,
+                "tail": "tests students"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX pays ___ on demand",
+                "relation": "xWant",
+                "similarity": 0.27023009955883026,
+                "tail": "To fulfil the demand"
+            },
+            {
+                "head": "PersonX estimates accurately the ___",
+                "relation": "xWant",
+                "similarity": 0.26391810178756714,
+                "tail": "check their estimation"
+            },
+            {
+                "head": "PersonX uses ___ to estimate",
+                "relation": "oWant",
+                "similarity": 0.26306381821632385,
+                "tail": "to dispute the data"
+            },
+            {
+                "head": "PersonX pays ___ on demand",
+                "relation": "xWant",
+                "similarity": 0.26297663152217865,
+                "tail": "To comply with the demand"
+            },
+            {
+                "head": "enrollment fee",
+                "relation": "ObjectUse",
+                "similarity": 0.2607087567448616,
+                "tail": "collect dues from members"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_26",
+        "question_commonsense": [
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.8280918002128601,
+                "tail": "analyze and explain"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.8272200524806976,
+                "tail": "illustrative"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.8219445645809174,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.8210584223270416,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.8206682205200195,
+                "tail": "summarize pages of boring numbers"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX yields PersonY income",
+                "relation": "xEffect",
+                "similarity": 0.3008468747138977,
+                "tail": "Person x gains more or less money, depending on circumstances"
+            },
+            {
+                "head": "PersonX yields PersonY income",
+                "relation": "xEffect",
+                "similarity": 0.29186293482780457,
+                "tail": "to yields income"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2832357883453369,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "income",
+                "relation": "ObjectUse",
+                "similarity": 0.2815914750099182,
+                "tail": "pay for the stock, building, & electricity"
+            },
+            {
+                "head": "PersonX yields PersonY income",
+                "relation": "xEffect",
+                "similarity": 0.27727289497852325,
+                "tail": "to income of the money"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_27",
+        "question_commonsense": [
+            {
+                "head": "PersonX learns japanese",
+                "relation": "xNeed",
+                "similarity": 0.6270047426223755,
+                "tail": "To take classes for japanese"
+            },
+            {
+                "head": "PersonX learns japanese",
+                "relation": "xWant",
+                "similarity": 0.6230714619159698,
+                "tail": "to practise his japanese language with others"
+            },
+            {
+                "head": "PersonX learns japanese",
+                "relation": "xNeed",
+                "similarity": 0.6203545928001404,
+                "tail": "to decide to learn japanese"
+            },
+            {
+                "head": "PersonX learns japanese",
+                "relation": "xIntent",
+                "similarity": 0.61960369348526,
+                "tail": "to know japanese"
+            },
+            {
+                "head": "PersonX learns japanese",
+                "relation": "xWant",
+                "similarity": 0.6147230267524719,
+                "tail": "to visit japan to test out their new japanese speakin skills"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX buys apples",
+                "relation": "oWant",
+                "similarity": 0.31280121207237244,
+                "tail": "to sell more apples"
+            },
+            {
+                "head": "PersonX buys apples",
+                "relation": "xNeed",
+                "similarity": 0.29571516811847687,
+                "tail": "to choose the most fresh apples"
+            },
+            {
+                "head": "PersonX buys apples",
+                "relation": "HinderedBy",
+                "similarity": 0.2955370843410492,
+                "tail": "PersonX's friend already bought all the apples."
+            },
+            {
+                "head": "PersonX buys apples",
+                "relation": "HinderedBy",
+                "similarity": 0.2940206080675125,
+                "tail": "they ran out of apples"
+            },
+            {
+                "head": "PersonX buys apples",
+                "relation": "xEffect",
+                "similarity": 0.29304075241088867,
+                "tail": "eats an apple"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX seems to work",
+                "relation": "xWant",
+                "similarity": 0.8552959561347961,
+                "tail": "get employed"
+            },
+            {
+                "head": "PersonX seems to work",
+                "relation": "xNeed",
+                "similarity": 0.8548636734485626,
+                "tail": "to go to work"
+            },
+            {
+                "head": "PersonX seems to work",
+                "relation": "xWant",
+                "similarity": 0.8540944159030914,
+                "tail": "Work"
+            },
+            {
+                "head": "PersonX seems to work",
+                "relation": "xNeed",
+                "similarity": 0.853721410036087,
+                "tail": "to apply for job"
+            },
+            {
+                "head": "PersonX seems to work",
+                "relation": "xIntent",
+                "similarity": 0.8535177111625671,
+                "tail": "to pay for living expenses."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "income",
+                "relation": "ObjectUse",
+                "similarity": 0.3026048094034195,
+                "tail": "pay for the stock, building, & electricity"
+            },
+            {
+                "head": "PersonX yields PersonY income",
+                "relation": "xEffect",
+                "similarity": 0.3015049695968628,
+                "tail": "to yields income"
+            },
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.30123817920684814,
+                "tail": "economic theory"
+            },
+            {
+                "head": "PersonX yields PersonY income",
+                "relation": "xEffect",
+                "similarity": 0.2973795384168625,
+                "tail": "Person x gains more or less money, depending on circumstances"
+            },
+            {
+                "head": "PersonX yields PersonY income",
+                "relation": "xEffect",
+                "similarity": 0.2954801917076111,
+                "tail": "to income of the money"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_29",
+        "question_commonsense": [
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6892628371715546,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.673678070306778,
+                "tail": "determine the nutritional content of a food"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6614303886890411,
+                "tail": "keep track of calories"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6484919786453247,
+                "tail": "teach kids how to eat"
+            },
+            {
+                "head": "bowl of fruit",
+                "relation": "AtLocation",
+                "similarity": 0.6409107744693756,
+                "tail": "table"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "amazon payments",
+                "relation": "ObjectUse",
+                "similarity": 0.2622378468513489,
+                "tail": "get money from mturk"
+            },
+            {
+                "head": "PersonX supplements PersonY's income",
+                "relation": "xWant",
+                "similarity": 0.2609793469309807,
+                "tail": "to increase savings"
+            },
+            {
+                "head": "PersonX supplements PersonY's income",
+                "relation": "HinderedBy",
+                "similarity": 0.26086999475955963,
+                "tail": "PersonX has a large student loan to pay off."
+            },
+            {
+                "head": "PersonX supplements PersonY's income",
+                "relation": "xWant",
+                "similarity": 0.25901394337415695,
+                "tail": "to pay off debt"
+            },
+            {
+                "head": "source of income",
+                "relation": "ObjectUse",
+                "similarity": 0.2578633353114128,
+                "tail": "pay for bills separate from their spouse"
+            }
+        ]
+    },
+    {
+        "id": "validation_Economics_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY a drink",
+                "relation": "xWant",
+                "similarity": 0.6151329576969147,
+                "tail": "to give PersonY another drink"
+            },
+            {
+                "head": "PersonX drinks another ___",
+                "relation": "xNeed",
+                "similarity": 0.6150726079940796,
+                "tail": "to buy another drink"
+            },
+            {
+                "head": "PersonX drinks another ___",
+                "relation": "xWant",
+                "similarity": 0.6149714291095734,
+                "tail": "to have another drink"
+            },
+            {
+                "head": "PersonX drinks another ___",
+                "relation": "xWant",
+                "similarity": 0.6125642359256744,
+                "tail": "to take another drink"
+            },
+            {
+                "head": "PersonX gives PersonY a drink",
+                "relation": "xIntent",
+                "similarity": 0.610755443572998,
+                "tail": "to quench the person's thirst."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX drinks every bottle",
+                "relation": "isBefore",
+                "similarity": 0.29004159569740295,
+                "tail": "PersonX buys more bottles"
+            },
+            {
+                "head": "bottle openr",
+                "relation": "ObjectUse",
+                "similarity": 0.2885609418153763,
+                "tail": "use with bottles"
+            },
+            {
+                "head": "bottle openr",
+                "relation": "ObjectUse",
+                "similarity": 0.28434938192367554,
+                "tail": "open a beer bottle"
+            },
+            {
+                "head": "bottles",
+                "relation": "ObjectUse",
+                "similarity": 0.2787450700998306,
+                "tail": "hold their beverages"
+            },
+            {
+                "head": "bottles",
+                "relation": "ObjectUse",
+                "similarity": 0.2724454998970032,
+                "tail": "pour stuff out of"
+            }
+        ]
+    }
+]

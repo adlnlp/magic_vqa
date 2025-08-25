@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Computer_Science_1",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xWant",
+                "similarity": 0.8609746098518372,
+                "tail": "make decisions based on the data analysis"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.8598380088806152,
+                "tail": "test if variable works"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.858221709728241,
+                "tail": "check what is affecting the variables"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xAttr",
+                "similarity": 0.8522060513496399,
+                "tail": "instructive"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xNeed",
+                "similarity": 0.8510756194591522,
+                "tail": "to be programming"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29865700006484985,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.296218141913414,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2943364232778549,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.28969287872314453,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2860969007015228,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.8625926077365875,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8603886067867279,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8603148460388184,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX applies PersonX's ___ unto PersonY",
+                "relation": "xAttr",
+                "similarity": 0.8588865995407104,
+                "tail": "wise"
+            },
+            {
+                "head": "PersonX applies PersonX's ___ unto PersonY",
+                "relation": "oEffect",
+                "similarity": 0.8579062223434448,
+                "tail": "cool"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX forms PersonY organization",
+                "relation": "xNeed",
+                "similarity": 0.2847297787666321,
+                "tail": "to have some insight in forming an organization"
+            },
+            {
+                "head": "network",
+                "relation": "ObjectUse",
+                "similarity": 0.28113265335559845,
+                "tail": "connect with people"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28059500455856323,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX forms PersonY organization",
+                "relation": "xWant",
+                "similarity": 0.27932360768318176,
+                "tail": "to have full authority over the organization"
+            },
+            {
+                "head": "family tree",
+                "relation": "ObjectUse",
+                "similarity": 0.27810944616794586,
+                "tail": "branch out over many generations"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_3",
+        "question_commonsense": [
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.8108361065387726,
+                "tail": "manage structured data"
+            },
+            {
+                "head": "PersonX uses PersonX's ___ to secure",
+                "relation": "xWant",
+                "similarity": 0.7671045362949371,
+                "tail": "to secure other things"
+            },
+            {
+                "head": "PersonX uses PersonX's ___ to secure",
+                "relation": "xAttr",
+                "similarity": 0.7561904191970825,
+                "tail": "powerful"
+            },
+            {
+                "head": "PersonX uses PersonY's ___ to secure",
+                "relation": "xIntent",
+                "similarity": 0.7561904191970825,
+                "tail": "to be powerful"
+            },
+            {
+                "head": "PersonX uses PersonY array",
+                "relation": "oWant",
+                "similarity": 0.7543816566467285,
+                "tail": "to make sure nothing goes wrong"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.2888156920671463,
+                "tail": "manage structured data"
+            },
+            {
+                "head": "PersonX works within the framework",
+                "relation": "xWant",
+                "similarity": 0.27669118344783783,
+                "tail": "to check if he crossed the framework"
+            },
+            {
+                "head": "communication method",
+                "relation": "ObjectUse",
+                "similarity": 0.2692420482635498,
+                "tail": "email the client"
+            },
+            {
+                "head": "PersonX works within the framework",
+                "relation": "HinderedBy",
+                "similarity": 0.26882730424404144,
+                "tail": "The framework is too constricting for PersonX."
+            },
+            {
+                "head": "PersonX works within the framework",
+                "relation": "HinderedBy",
+                "similarity": 0.2684902548789978,
+                "tail": "PersonX doesn't understand the framework."
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX takes another example",
+                "relation": "xNeed",
+                "similarity": 0.8773998618125916,
+                "tail": "A first example"
+            },
+            {
+                "head": "PersonX takes another look",
+                "relation": "xEffect",
+                "similarity": 0.8735968470573425,
+                "tail": "gets confused"
+            },
+            {
+                "head": "PersonX takes another look",
+                "relation": "xIntent",
+                "similarity": 0.8735906183719635,
+                "tail": "to be sure"
+            },
+            {
+                "head": "PersonX takes another look",
+                "relation": "xIntent",
+                "similarity": 0.8735906183719635,
+                "tail": "to be sure"
+            },
+            {
+                "head": "PersonX takes another look",
+                "relation": "HinderedBy",
+                "similarity": 0.8718363642692566,
+                "tail": "PersonX can't find the document"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2949846088886261,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29494985938072205,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.294949010014534,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2898542582988739,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.28652578592300415,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xWant",
+                "similarity": 0.8948940634727478,
+                "tail": "to synthesize data"
+            },
+            {
+                "head": "PersonX uses PersonY example",
+                "relation": "xWant",
+                "similarity": 0.8929011821746826,
+                "tail": "to explain PersonY's example"
+            },
+            {
+                "head": "PersonX uses PersonY example",
+                "relation": "xNeed",
+                "similarity": 0.886839747428894,
+                "tail": "to have seen Y's example"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xWant",
+                "similarity": 0.8860929608345032,
+                "tail": "make decisions based on the data analysis"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xEffect",
+                "similarity": 0.886091947555542,
+                "tail": "They stress over the data"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29781264066696167,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2974822074174881,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.29352159798145294,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2925867885351181,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.29141031205654144,
+                "tail": "manage structured data"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes an a on PersonX's test",
+                "relation": "xWant",
+                "similarity": 0.8401905298233032,
+                "tail": "write the test"
+            },
+            {
+                "head": "algorithm",
+                "relation": "ObjectUse",
+                "similarity": 0.8383254408836365,
+                "tail": "solving problem"
+            },
+            {
+                "head": "algorithm",
+                "relation": "ObjectUse",
+                "similarity": 0.8344655334949493,
+                "tail": "software"
+            },
+            {
+                "head": "PersonX makes an a on PersonX's test",
+                "relation": "xNeed",
+                "similarity": 0.8338963091373444,
+                "tail": "to show up for the test"
+            },
+            {
+                "head": "PersonX makes ___ on PersonX's test",
+                "relation": "xNeed",
+                "similarity": 0.8329985439777374,
+                "tail": "practice for the test"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "training guide",
+                "relation": "ObjectUse",
+                "similarity": 0.2563363313674927,
+                "tail": "teach a class"
+            },
+            {
+                "head": "training guide",
+                "relation": "ObjectUse",
+                "similarity": 0.2556639090180397,
+                "tail": "learn how to exercise correctly"
+            },
+            {
+                "head": "training classes",
+                "relation": "ObjectUse",
+                "similarity": 0.2528338134288788,
+                "tail": "learn how to sell houses"
+            },
+            {
+                "head": "training manual",
+                "relation": "ObjectUse",
+                "similarity": 0.24907057732343674,
+                "tail": "show an example of"
+            },
+            {
+                "head": "training manual",
+                "relation": "ObjectUse",
+                "similarity": 0.24871833622455597,
+                "tail": "learn a new skill"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_7",
+        "question_commonsense": [
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.6823654472827911,
+                "tail": "test program for errors"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.6754524111747742,
+                "tail": "check what is affecting the variables"
+            },
+            {
+                "head": "PersonX learns programming",
+                "relation": "xEffect",
+                "similarity": 0.6753263473510742,
+                "tail": "learns functions"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xAttr",
+                "similarity": 0.6689254939556122,
+                "tail": "mathmatical"
+            },
+            {
+                "head": "PersonX uses PersonY array",
+                "relation": "HinderedBy",
+                "similarity": 0.6675490736961365,
+                "tail": "PersonY isn't willing to share their array."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "number card",
+                "relation": "ObjectUse",
+                "similarity": 0.30422426760196686,
+                "tail": "number the tables"
+            },
+            {
+                "head": "PersonX waits tables",
+                "relation": "xWant",
+                "similarity": 0.2887471169233322,
+                "tail": "to count their tips"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.27742527425289154,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.2723626345396042,
+                "tail": "to be in the jury"
+            },
+            {
+                "head": "PersonX waits tables",
+                "relation": "xEffect",
+                "similarity": 0.27199113368988037,
+                "tail": "sweats"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX goes with the flow",
+                "relation": "oReact",
+                "similarity": 0.838049978017807,
+                "tail": "good"
+            },
+            {
+                "head": "PersonX goes with the flow",
+                "relation": "xReact",
+                "similarity": 0.837041050195694,
+                "tail": "cool"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8358532786369324,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8334365785121918,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8334365785121918,
+                "tail": "to give the image to PersonY"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29498061537742615,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29344722628593445,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2908895015716553,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.2907954007387161,
+                "tail": "check what is affecting the variables"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2887139171361923,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_9",
+        "question_commonsense": [
+            {
+                "head": "public router",
+                "relation": "ObjectUse",
+                "similarity": 0.7001996040344238,
+                "tail": "connect their device to the internet"
+            },
+            {
+                "head": "PersonX sets up computer systems",
+                "relation": "xIntent",
+                "similarity": 0.698267936706543,
+                "tail": "set up system"
+            },
+            {
+                "head": "PersonX sets up computer systems",
+                "relation": "oWant",
+                "similarity": 0.6900306046009064,
+                "tail": "to work on the computer systems"
+            },
+            {
+                "head": "computer network",
+                "relation": "MadeUpOf",
+                "similarity": 0.6801010966300964,
+                "tail": "server"
+            },
+            {
+                "head": "PersonX sets up computer systems",
+                "relation": "xEffect",
+                "similarity": 0.6798632442951202,
+                "tail": "inputs data"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "router",
+                "relation": "ObjectUse",
+                "similarity": 0.30108362436294556,
+                "tail": "connect their computer to the internet"
+            },
+            {
+                "head": "router",
+                "relation": "ObjectUse",
+                "similarity": 0.2996241897344589,
+                "tail": "have internet connections"
+            },
+            {
+                "head": "router",
+                "relation": "ObjectUse",
+                "similarity": 0.2988915890455246,
+                "tail": "connect with the web"
+            },
+            {
+                "head": "internet router",
+                "relation": "ObjectUse",
+                "similarity": 0.29803386330604553,
+                "tail": "connect to the internet"
+            },
+            {
+                "head": "wireless router",
+                "relation": "ObjectUse",
+                "similarity": 0.29592007398605347,
+                "tail": "share internet connection among devices"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_10",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7809520065784454,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX is good at math",
+                "relation": "xNeed",
+                "similarity": 0.780826598405838,
+                "tail": "to like math"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.777942419052124,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX is good at math",
+                "relation": "xNeed",
+                "similarity": 0.7757300734519958,
+                "tail": "to major in math"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7750385105609894,
+                "tail": "PersonX puts away diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "number card",
+                "relation": "ObjectUse",
+                "similarity": 0.3077494949102402,
+                "tail": "number the tables"
+            },
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.29259157180786133,
+                "tail": "organizing telephone numbers"
+            },
+            {
+                "head": "PersonX determines the number and ___",
+                "relation": "xNeed",
+                "similarity": 0.28780966997146606,
+                "tail": "enter the numbers"
+            },
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.28460919857025146,
+                "tail": "storing telphone numbers"
+            },
+            {
+                "head": "PersonX determines the number and ___",
+                "relation": "xWant",
+                "similarity": 0.2838834524154663,
+                "tail": "use the number for another task"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_11",
+        "question_commonsense": [
+            {
+                "head": "trees",
+                "relation": "ObjectUse",
+                "similarity": 0.7317366898059845,
+                "tail": "teach kids about different kinds of trees and leaves"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.7268748879432678,
+                "tail": "branch in several directions"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.723625659942627,
+                "tail": "grow new branches"
+            },
+            {
+                "head": "family tree",
+                "relation": "ObjectUse",
+                "similarity": 0.7229417860507965,
+                "tail": "branch out over many generations"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.7218970358371735,
+                "tail": "branch out"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "network",
+                "relation": "ObjectUse",
+                "similarity": 0.2845733165740967,
+                "tail": "connect with people"
+            },
+            {
+                "head": "graph",
+                "relation": "MadeUpOf",
+                "similarity": 0.28292909264564514,
+                "tail": "set of vertices and set of edges"
+            },
+            {
+                "head": "network",
+                "relation": "ObjectUse",
+                "similarity": 0.2805076986551285,
+                "tail": "connect to the internet"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.27395980060100555,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2736049145460129,
+                "tail": "draw a diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_12",
+        "question_commonsense": [
+            {
+                "head": "PersonX sees the forest for the trees",
+                "relation": "xWant",
+                "similarity": 0.7110230922698975,
+                "tail": "to explore the forest"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7076350748538971,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7040793001651764,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7036605477333069,
+                "tail": "scientific"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7031657099723816,
+                "tail": "PersonX makes diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28546857833862305,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2849481999874115,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2809443473815918,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2773668169975281,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2770535498857498,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_13",
+        "question_commonsense": [
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7419403791427612,
+                "tail": "PersonX did not learn how to do this equation"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.7410061657428741,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.7405574917793274,
+                "tail": "linear algebra"
+            },
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.7395638227462769,
+                "tail": "vector space"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7388725876808167,
+                "tail": "PersonX failed math 101"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.28875069320201874,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2872559130191803,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "graph",
+                "relation": "MadeUpOf",
+                "similarity": 0.2850130647420883,
+                "tail": "set of vertices and set of edges"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.28000760078430176,
+                "tail": "clearly present data"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.277927502989769,
+                "tail": "to have the thing in question"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX learns programming",
+                "relation": "xEffect",
+                "similarity": 0.7840018570423126,
+                "tail": "learns functions"
+            },
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.7794190645217896,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX has a math test on friday",
+                "relation": "HinderedBy",
+                "similarity": 0.771860808134079,
+                "tail": "an assembly has been scheduled during the math period"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7716840207576752,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7699022889137268,
+                "tail": "procure a book with diagrams"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.2810011953115463,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xNeed",
+                "similarity": 0.28093212842941284,
+                "tail": "to start doing a problem"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "isFilledBy",
+                "similarity": 0.27592432498931885,
+                "tail": "foundation"
+            },
+            {
+                "head": "PersonX solves the ___ by using",
+                "relation": "xNeed",
+                "similarity": 0.27462755143642426,
+                "tail": "to have a plan"
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xNeed",
+                "similarity": 0.27348750829696655,
+                "tail": "to do calculations"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX establishes PersonY relationship",
+                "relation": "xWant",
+                "similarity": 0.932085782289505,
+                "tail": "talk more about relationship"
+            },
+            {
+                "head": "PersonX establishes PersonY relationship",
+                "relation": "oWant",
+                "similarity": 0.9306925535202026,
+                "tail": "to further the relationship"
+            },
+            {
+                "head": "PersonX establishes PersonY relationship",
+                "relation": "xWant",
+                "similarity": 0.9306925535202026,
+                "tail": "to further the relationship"
+            },
+            {
+                "head": "PersonX establishes PersonY relationship",
+                "relation": "oEffect",
+                "similarity": 0.9275417625904083,
+                "tail": "becomes involved in a relationship"
+            },
+            {
+                "head": "PersonX establishes PersonY relationship",
+                "relation": "HinderedBy",
+                "similarity": 0.9242653846740723,
+                "tail": "PersonY already has a relationship"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX works within the framework",
+                "relation": "HinderedBy",
+                "similarity": 0.29735511541366577,
+                "tail": "The framework isn't inclusive of Person X."
+            },
+            {
+                "head": "PersonX works within the framework",
+                "relation": "HinderedBy",
+                "similarity": 0.29661038517951965,
+                "tail": "Person X doesn't understand the framework."
+            },
+            {
+                "head": "PersonX works within the framework",
+                "relation": "HinderedBy",
+                "similarity": 0.293305903673172,
+                "tail": "PersonX doesn't have the tools to work within the framework."
+            },
+            {
+                "head": "PersonX works within the framework",
+                "relation": "HinderedBy",
+                "similarity": 0.29329240322113037,
+                "tail": "The framework is too constricting for PersonX."
+            },
+            {
+                "head": "PersonX works within the framework",
+                "relation": "HinderedBy",
+                "similarity": 0.28980354964733124,
+                "tail": "PersonX doesn't understand the framework."
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_16",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8952463865280151,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8934256434440613,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8856841325759888,
+                "tail": "PersonY grabs the picture"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8850705623626709,
+                "tail": "to explain his project."
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8848287165164948,
+                "tail": "to illustrate something"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2882152497768402,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2822251170873642,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2817572355270386,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "asterisk wildcard symbol",
+                "relation": "ObjectUse",
+                "similarity": 0.2812277227640152,
+                "tail": "specify strings of characters"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2810140550136566,
+                "tail": "study the diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "oEffect",
+                "similarity": 0.8983126282691956,
+                "tail": "PersonY sees the structure"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "oEffect",
+                "similarity": 0.8951871395111084,
+                "tail": "design the y's structure"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "xNeed",
+                "similarity": 0.8947507441043854,
+                "tail": "to look for a place to build the structure"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "xEffect",
+                "similarity": 0.8937360048294067,
+                "tail": "PersonX shows the structure to PersonY"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "xWant",
+                "similarity": 0.8880966603755951,
+                "tail": "to make sure the structure is steady and strong"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29859764873981476,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.29740670323371887,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29329268634319305,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.2924395054578781,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2874666303396225,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_18",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7172544896602631,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7140884101390839,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7082481682300568,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7026905119419098,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX views the graph in terms",
+                "relation": "isAfter",
+                "similarity": 0.6999202370643616,
+                "tail": "PersonX studies for a math test"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.28897804021835327,
+                "tail": "check what is affecting the variables"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xEffect",
+                "similarity": 0.2884983718395233,
+                "tail": "PersonX puzzles over the equation"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2877374291419983,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2875472903251648,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.2853749245405197,
+                "tail": "test if variable works"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_19",
+        "question_commonsense": [
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.7959238588809967,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "xEffect",
+                "similarity": 0.785436749458313,
+                "tail": "to has a math test"
+            },
+            {
+                "head": "graph",
+                "relation": "MadeUpOf",
+                "similarity": 0.7834131121635437,
+                "tail": "set of vertices and set of edges"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7807636260986328,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.7802218496799469,
+                "tail": "follow trends over time"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29194459319114685,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2876123934984207,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2864598482847214,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX defrays ___ in connection",
+                "relation": "xEffect",
+                "similarity": 0.2843557149171829,
+                "tail": "PersonX defrays show in connection"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.283176526427269,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_20",
+        "question_commonsense": [
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.8745029270648956,
+                "tail": "manage structured data"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xWant",
+                "similarity": 0.8700498342514038,
+                "tail": "make decisions based on the data analysis"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.8658040165901184,
+                "tail": "test program for errors"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.8632137775421143,
+                "tail": "test if variable works"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xNeed",
+                "similarity": 0.8627949059009552,
+                "tail": "get data analysis software"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.29361294209957123,
+                "tail": "manage structured data"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28039389848709106,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX forms PersonY organization",
+                "relation": "xNeed",
+                "similarity": 0.2735256254673004,
+                "tail": "to have some insight in forming an organization"
+            },
+            {
+                "head": "PersonX forms PersonY organization",
+                "relation": "xWant",
+                "similarity": 0.27010683715343475,
+                "tail": "to have full authority over the organization"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.26941195130348206,
+                "tail": "draw a diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_21",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.8711425364017487,
+                "tail": "to test out her theory"
+            },
+            {
+                "head": "PersonX solves the ___ by using",
+                "relation": "xEffect",
+                "similarity": 0.8650475442409515,
+                "tail": "uses logic"
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xReact",
+                "similarity": 0.8644970059394836,
+                "tail": "good about himself"
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xEffect",
+                "similarity": 0.8628517985343933,
+                "tail": "learned something"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.8614170551300049,
+                "tail": "to think about the problem"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.2689972370862961,
+                "tail": "work on his algebra homework"
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xNeed",
+                "similarity": 0.26765553653240204,
+                "tail": "to start doing a problem"
+            },
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xNeed",
+                "similarity": 0.2647780478000641,
+                "tail": "to do calculations"
+            },
+            {
+                "head": "PersonX solves the ___ by using",
+                "relation": "xIntent",
+                "similarity": 0.26352409273386,
+                "tail": "math"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xWant",
+                "similarity": 0.2627614736557007,
+                "tail": "find the solution"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX writes PersonY answer",
+                "relation": "xNeed",
+                "similarity": 0.8198248147964478,
+                "tail": "to see PersonY's test"
+            },
+            {
+                "head": "PersonX answers PersonY question",
+                "relation": "oWant",
+                "similarity": 0.8149698674678802,
+                "tail": "answer the question"
+            },
+            {
+                "head": "PersonX writes PersonY answer",
+                "relation": "HinderedBy",
+                "similarity": 0.8142305016517639,
+                "tail": "PersonX does not know where to write the answer."
+            },
+            {
+                "head": "PersonX answers PersonY question",
+                "relation": "oWant",
+                "similarity": 0.8070058524608612,
+                "tail": "ask a question also"
+            },
+            {
+                "head": "PersonX writes PersonY answer",
+                "relation": "xNeed",
+                "similarity": 0.8060965836048126,
+                "tail": "to be asked the question"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2928640991449356,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.29242515563964844,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2924194484949112,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX defrays ___ in connection",
+                "relation": "xEffect",
+                "similarity": 0.29043515026569366,
+                "tail": "PersonX defrays show in connection"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2845306694507599,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_23",
+        "question_commonsense": [
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.7719817459583282,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xAttr",
+                "similarity": 0.7665298879146576,
+                "tail": "precise"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xWant",
+                "similarity": 0.7661388516426086,
+                "tail": "to give the man all the facts so they understand"
+            },
+            {
+                "head": "PersonX solves the ___ by using",
+                "relation": "xEffect",
+                "similarity": 0.7629204988479614,
+                "tail": "uses reason"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "oWant",
+                "similarity": 0.760918378829956,
+                "tail": "to help him"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "internet router",
+                "relation": "ObjectUse",
+                "similarity": 0.32367226481437683,
+                "tail": "connect to the internet"
+            },
+            {
+                "head": "internet service",
+                "relation": "ObjectUse",
+                "similarity": 0.3185843825340271,
+                "tail": "access the internet"
+            },
+            {
+                "head": "internet router",
+                "relation": "ObjectUse",
+                "similarity": 0.3132236748933792,
+                "tail": "allow access to the internet"
+            },
+            {
+                "head": "internet service contract",
+                "relation": "ObjectUse",
+                "similarity": 0.3091714084148407,
+                "tail": "gain access to the internet"
+            },
+            {
+                "head": "internet modem",
+                "relation": "ObjectUse",
+                "similarity": 0.30839870870113373,
+                "tail": "provide internet access to the computer"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_24",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.8634667098522186,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.8607470691204071,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.8556112051010132,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "oEffect",
+                "similarity": 0.8506852686405182,
+                "tail": "understand the schematics"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.8502854704856873,
+                "tail": "illustrative"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28653644025325775,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.28496192395687103,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2810218632221222,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27859655022621155,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2785494923591614,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_25",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY example",
+                "relation": "xWant",
+                "similarity": 0.8343255817890167,
+                "tail": "to explain PersonY's example"
+            },
+            {
+                "head": "PersonX gives PersonY example",
+                "relation": "xWant",
+                "similarity": 0.8343255817890167,
+                "tail": "to explain the example to PersonY"
+            },
+            {
+                "head": "PersonX gives PersonY example",
+                "relation": "xNeed",
+                "similarity": 0.833227127790451,
+                "tail": "to understand the example"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.8284556865692139,
+                "tail": "PersonX offers one example"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "oReact",
+                "similarity": 0.8249611854553223,
+                "tail": "more understanding of the topic"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "MadeUpOf",
+                "similarity": 0.2784188687801361,
+                "tail": "set of vertices and set of edges"
+            },
+            {
+                "head": "PersonX dots the is and cross the ts",
+                "relation": "xEffect",
+                "similarity": 0.27527445554733276,
+                "tail": "to dots the is and cross the ts"
+            },
+            {
+                "head": "dot",
+                "relation": "AtLocation",
+                "similarity": 0.26872050762176514,
+                "tail": "end of line"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.26281728595495224,
+                "tail": "clearly present data"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.26197561621665955,
+                "tail": "summarize pages of boring numbers"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_26",
+        "question_commonsense": [
+            {
+                "head": "internet service",
+                "relation": "ObjectUse",
+                "similarity": 0.7940927445888519,
+                "tail": "access the internet"
+            },
+            {
+                "head": "internet service contract",
+                "relation": "ObjectUse",
+                "similarity": 0.7882233560085297,
+                "tail": "gain access to the internet"
+            },
+            {
+                "head": "listing on website",
+                "relation": "ObjectUse",
+                "similarity": 0.7872501015663147,
+                "tail": "spam someone's email"
+            },
+            {
+                "head": "internet connection",
+                "relation": "ObjectUse",
+                "similarity": 0.7856763601303101,
+                "tail": "get to the website"
+            },
+            {
+                "head": "PersonX makes money online",
+                "relation": "xIntent",
+                "similarity": 0.7854971587657928,
+                "tail": "to use internet to make money"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "router",
+                "relation": "ObjectUse",
+                "similarity": 0.2923940271139145,
+                "tail": "connect with the web"
+            },
+            {
+                "head": "router",
+                "relation": "ObjectUse",
+                "similarity": 0.2923263758420944,
+                "tail": "have internet connections"
+            },
+            {
+                "head": "network",
+                "relation": "ObjectUse",
+                "similarity": 0.29213131964206696,
+                "tail": "connect to the internet"
+            },
+            {
+                "head": "internet router",
+                "relation": "ObjectUse",
+                "similarity": 0.2898665815591812,
+                "tail": "connect to the internet"
+            },
+            {
+                "head": "router",
+                "relation": "ObjectUse",
+                "similarity": 0.28966860473155975,
+                "tail": "connect to internet"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_27",
+        "question_commonsense": [
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.7287006676197052,
+                "tail": "vector space"
+            },
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.7284452617168427,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.726574033498764,
+                "tail": "linear algebra"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.7210337221622467,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.718789130449295,
+                "tail": "to have the thing in question"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2564338371157646,
+                "tail": "to understand what PersonX is showing them"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.25361036509275436,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.25052668154239655,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.250205360352993,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xAttr",
+                "similarity": 0.25009456276893616,
+                "tail": "percise"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_28",
+        "question_commonsense": [
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.7195786833763123,
+                "tail": "linear algebra"
+            },
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.7060232162475586,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.7058303952217102,
+                "tail": "vector space"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6991293132305145,
+                "tail": "PersonX did not learn how to do this equation"
+            },
+            {
+                "head": "equations",
+                "relation": "ObjectUse",
+                "similarity": 0.6961444318294525,
+                "tail": "calculate percentages"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.2852301001548767,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "oWant",
+                "similarity": 0.2788962870836258,
+                "tail": "find holes in the individual's argument"
+            },
+            {
+                "head": "PersonX points PersonY in the direction",
+                "relation": "oEffect",
+                "similarity": 0.2740837186574936,
+                "tail": "Person Y walks in the direction"
+            },
+            {
+                "head": "PersonX points PersonY in the direction",
+                "relation": "oEffect",
+                "similarity": 0.2704177349805832,
+                "tail": "finds location"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.2702510952949524,
+                "tail": "receives illustration"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_29",
+        "question_commonsense": [
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.8502569496631622,
+                "tail": "test if variable works"
+            },
+            {
+                "head": "PersonX uses PersonY example",
+                "relation": "xWant",
+                "similarity": 0.8485469818115234,
+                "tail": "to explain PersonY's example"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xNeed",
+                "similarity": 0.8459249436855316,
+                "tail": "to be programming"
+            },
+            {
+                "head": "PersonX uses PersonY example",
+                "relation": "xNeed",
+                "similarity": 0.8445695638656616,
+                "tail": "to understand PersonY's example"
+            },
+            {
+                "head": "PersonX uses as PersonY example",
+                "relation": "oWant",
+                "similarity": 0.8445695638656616,
+                "tail": "to understand the example"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX defrays ___ in connection",
+                "relation": "xEffect",
+                "similarity": 0.2956164479255676,
+                "tail": "PersonX defrays show in connection"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29365743696689606,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28986719250679016,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2872508764266968,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2831534892320633,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Computer_Science_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7717067301273346,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7686395347118378,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7668348550796509,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7607260346412659,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.7606585323810577,
+                "tail": "check what is affecting the variables"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX uses PersonY example",
+                "relation": "xEffect",
+                "similarity": 0.27803483605384827,
+                "tail": "Gleans information from example"
+            },
+            {
+                "head": "PersonX uses as PersonY example",
+                "relation": "xNeed",
+                "similarity": 0.2767944484949112,
+                "tail": "to get permission to use PersonY's example"
+            },
+            {
+                "head": "PersonX deciphers a word 's ___ within context",
+                "relation": "xWant",
+                "similarity": 0.27629363536834717,
+                "tail": "reads it aloud to see how it sounds"
+            },
+            {
+                "head": "PersonX uses PersonY example",
+                "relation": "xNeed",
+                "similarity": 0.2729158103466034,
+                "tail": "to understand PersonY's example"
+            },
+            {
+                "head": "PersonX uses as PersonY example",
+                "relation": "oWant",
+                "similarity": 0.2729158103466034,
+                "tail": "to understand the example"
+            }
+        ]
+    }
+]

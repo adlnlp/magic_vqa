@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Pharmacy_1",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7151113450527191,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.7118486762046814,
+                "tail": "to read the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7096446752548218,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7060279250144958,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.7000705301761627,
+                "tail": "to learn more mathematics"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.2981250733137131,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.2926662117242813,
+                "tail": "to read the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.2897583693265915,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.2855515629053116,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.2835388034582138,
+                "tail": "PersonY forgot to bring the equation to class"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX has a math test",
+                "relation": "HinderedBy",
+                "similarity": 0.6225270628929138,
+                "tail": "Math tests were given out last month."
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "xEffect",
+                "similarity": 0.6216138601303101,
+                "tail": "to has a math test"
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "HinderedBy",
+                "similarity": 0.6198480725288391,
+                "tail": "The math test was already completed today."
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "HinderedBy",
+                "similarity": 0.6125164031982422,
+                "tail": "A math test isn't on the agenda"
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "isAfter",
+                "similarity": 0.6121852397918701,
+                "tail": "PersonX studies math problems"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "exercise calculator",
+                "relation": "ObjectUse",
+                "similarity": 0.26807384192943573,
+                "tail": "document calories burned"
+            },
+            {
+                "head": "participation number",
+                "relation": "ObjectUse",
+                "similarity": 0.26541656255722046,
+                "tail": "keep track of the participants"
+            },
+            {
+                "head": "exercise calculator",
+                "relation": "ObjectUse",
+                "similarity": 0.26220935583114624,
+                "tail": "keep track of exercises"
+            },
+            {
+                "head": "exercise calculator",
+                "relation": "ObjectUse",
+                "similarity": 0.2576005458831787,
+                "tail": "lie about their workout"
+            },
+            {
+                "head": "exercise calculator",
+                "relation": "ObjectUse",
+                "similarity": 0.2548893168568611,
+                "tail": "find how many calories have been burned"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_3",
+        "question_commonsense": [
+            {
+                "head": "antihistamine",
+                "relation": "ObjectUse",
+                "similarity": 0.815077930688858,
+                "tail": "control allergic reactions"
+            },
+            {
+                "head": "antibiotics",
+                "relation": "ObjectUse",
+                "similarity": 0.803391307592392,
+                "tail": "combine with other medicines to see what happens"
+            },
+            {
+                "head": "antihistamine",
+                "relation": "ObjectUse",
+                "similarity": 0.7998655140399933,
+                "tail": "help with allergies"
+            },
+            {
+                "head": "asprin",
+                "relation": "ObjectUse",
+                "similarity": 0.7982180118560791,
+                "tail": "sell as a fake drug"
+            },
+            {
+                "head": "aspirin",
+                "relation": "ObjectUse",
+                "similarity": 0.7913573384284973,
+                "tail": "help with the pain"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "antiacids",
+                "relation": "ObjectUse",
+                "similarity": 0.2637336701154709,
+                "tail": "control acid reflux"
+            },
+            {
+                "head": "antiacids",
+                "relation": "ObjectUse",
+                "similarity": 0.26199619472026825,
+                "tail": "neutralize stomach acid"
+            },
+            {
+                "head": "membrane",
+                "relation": "ObjectUse",
+                "similarity": 0.2597610056400299,
+                "tail": "surround delicate body organs"
+            },
+            {
+                "head": "phosphorus",
+                "relation": "HasProperty",
+                "similarity": 0.2536012604832649,
+                "tail": "soluble in carbon disulphide"
+            },
+            {
+                "head": "streptokinase",
+                "relation": "AtLocation",
+                "similarity": 0.250198096036911,
+                "tail": "medicine chest"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_4",
+        "question_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.5908843278884888,
+                "tail": "different atoms"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.583507776260376,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.5830537974834442,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.5772135853767395,
+                "tail": "determine the nutritional content of a food"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.5765285491943359,
+                "tail": "PersonX had a math problem"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "data sheets",
+                "relation": "ObjectUse",
+                "similarity": 0.27390608191490173,
+                "tail": "analyze data"
+            },
+            {
+                "head": "filter papers",
+                "relation": "ObjectUse",
+                "similarity": 0.2712424099445343,
+                "tail": "strain liquid through"
+            },
+            {
+                "head": "erlenmayer flask",
+                "relation": "AtLocation",
+                "similarity": 0.2702995464205742,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.26933257281780243,
+                "tail": "scientific"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2692285478115082,
+                "tail": "study the diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_5",
+        "question_commonsense": [
+            {
+                "head": "hydrogen",
+                "relation": "MadeUpOf",
+                "similarity": 0.7674263417720795,
+                "tail": "1 proton and 1 electron"
+            },
+            {
+                "head": "hydrogen",
+                "relation": "AtLocation",
+                "similarity": 0.7538453936576843,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "hydrogen",
+                "relation": "MadeUpOf",
+                "similarity": 0.750059962272644,
+                "tail": "subatomic particles"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.7491318881511688,
+                "tail": "different atoms"
+            },
+            {
+                "head": "hydrogen gas",
+                "relation": "AtLocation",
+                "similarity": 0.7391861379146576,
+                "tail": "space"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "asterisk wildcard symbol",
+                "relation": "ObjectUse",
+                "similarity": 0.273686483502388,
+                "tail": "specify strings of characters"
+            },
+            {
+                "head": "ejection button",
+                "relation": "ObjectUse",
+                "similarity": 0.25997039675712585,
+                "tail": "program a key"
+            },
+            {
+                "head": "PersonX deciphers a word 's ___ within context",
+                "relation": "xWant",
+                "similarity": 0.25633085519075394,
+                "tail": "reads it aloud to see how it sounds"
+            },
+            {
+                "head": "PersonX transforms inputs into outputs",
+                "relation": "isBefore",
+                "similarity": 0.2540689930319786,
+                "tail": "PersonX calls the client to let them know they are done"
+            },
+            {
+                "head": "PersonX commits to PersonY's charge",
+                "relation": "xAttr",
+                "similarity": 0.2536419555544853,
+                "tail": "helpful"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX raises PersonY question",
+                "relation": "xWant",
+                "similarity": 0.937806636095047,
+                "tail": "to challenge the answer"
+            },
+            {
+                "head": "PersonX raises PersonY question",
+                "relation": "oReact",
+                "similarity": 0.9354577660560608,
+                "tail": "better because they did not have to raise the question themselves"
+            },
+            {
+                "head": "PersonX raises PersonY question",
+                "relation": "oWant",
+                "similarity": 0.9347909092903137,
+                "tail": "to answer the question"
+            },
+            {
+                "head": "question",
+                "relation": "ObjectUse",
+                "similarity": 0.9344820082187653,
+                "tail": "find the answer to"
+            },
+            {
+                "head": "PersonX raises PersonY question",
+                "relation": "xWant",
+                "similarity": 0.9318803250789642,
+                "tail": "to question the outcome"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "tuning fork",
+                "relation": "ObjectUse",
+                "similarity": 0.2606288194656372,
+                "tail": "get the right pitch for an instrument."
+            },
+            {
+                "head": "tuning fork",
+                "relation": "ObjectUse",
+                "similarity": 0.2573384717106819,
+                "tail": "tighten the piano strings"
+            },
+            {
+                "head": "tuning fork",
+                "relation": "ObjectUse",
+                "similarity": 0.25662941485643387,
+                "tail": "improve orchestra's sound"
+            },
+            {
+                "head": "one type of catheter",
+                "relation": "ObjectUse",
+                "similarity": 0.25563616305589676,
+                "tail": "effect bladder drainage"
+            },
+            {
+                "head": "knitting needle",
+                "relation": "ObjectUse",
+                "similarity": 0.25483454018831253,
+                "tail": "knit one purl two"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_7",
+        "question_commonsense": [
+            {
+                "head": "graphs",
+                "relation": "ObjectUse",
+                "similarity": 0.7944824695587158,
+                "tail": "keep track of progress"
+            },
+            {
+                "head": "graphs",
+                "relation": "ObjectUse",
+                "similarity": 0.7942367196083069,
+                "tail": "present gains and losses"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7928357124328613,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.790233850479126,
+                "tail": "notice the way the stuff is trending down"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.7901588082313538,
+                "tail": "summarize pages of boring numbers"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27941659092903137,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27469663321971893,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.27334509789943695,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2733323872089386,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2721593976020813,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.8494757413864136,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.8455676734447479,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.8448100686073303,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.8429661691188812,
+                "tail": "illustrative"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.8392898738384247,
+                "tail": "scientific"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xIntent",
+                "similarity": 0.2749379128217697,
+                "tail": "to explain using figures"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2742466926574707,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2733559161424637,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xEffect",
+                "similarity": 0.2730882912874222,
+                "tail": "explains the diagram"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xAttr",
+                "similarity": 0.2724326252937317,
+                "tail": "analytical"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_9",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.8587862849235535,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.8586083352565765,
+                "tail": "PersonX offers one example"
+            },
+            {
+                "head": "PersonX compares and contrast ___",
+                "relation": "xIntent",
+                "similarity": 0.8572788834571838,
+                "tail": "to find out what the best choice is"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oWant",
+                "similarity": 0.8539123237133026,
+                "tail": "to accept the picture"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xReact",
+                "similarity": 0.8525944948196411,
+                "tail": "good about himself"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "chemistry set",
+                "relation": "ObjectUse",
+                "similarity": 0.2880164086818695,
+                "tail": "conduct experiments"
+            },
+            {
+                "head": "beakers",
+                "relation": "ObjectUse",
+                "similarity": 0.28020934760570526,
+                "tail": "perform experiments"
+            },
+            {
+                "head": "gumballs",
+                "relation": "AtLocation",
+                "similarity": 0.2771717309951782,
+                "tail": "gumball dispenser"
+            },
+            {
+                "head": "sugar packets",
+                "relation": "ObjectUse",
+                "similarity": 0.27579258382320404,
+                "tail": "contain measured amounts of sugar"
+            },
+            {
+                "head": "coin sorter",
+                "relation": "ObjectUse",
+                "similarity": 0.2690984606742859,
+                "tail": "separate different kinds of coins"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_10",
+        "question_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.6441154479980469,
+                "tail": "different atoms"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.6404494941234589,
+                "tail": "combining atoms in regular pattern"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.6388746798038483,
+                "tail": "containing atoms"
+            },
+            {
+                "head": "hemoglobin",
+                "relation": "AtLocation",
+                "similarity": 0.6275592148303986,
+                "tail": "blood"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.6259013712406158,
+                "tail": "forming larger objects"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.281692698597908,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.27671000361442566,
+                "tail": "compounds"
+            },
+            {
+                "head": "phosphorus",
+                "relation": "HasProperty",
+                "similarity": 0.27250465750694275,
+                "tail": "soluble in carbon disulphide"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.2695361375808716,
+                "tail": "different atoms"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.26843155920505524,
+                "tail": "combining atoms in regular pattern"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7235862016677856,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7193367183208466,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7183839678764343,
+                "tail": "scientific"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7150386571884155,
+                "tail": "illustrative"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7128963470458984,
+                "tail": "PersonX puts away diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX waves at PersonY",
+                "relation": "oWant",
+                "similarity": 0.28916677832603455,
+                "tail": "waves back"
+            },
+            {
+                "head": "PersonX waves at PersonY",
+                "relation": "xEffect",
+                "similarity": 0.28259170055389404,
+                "tail": "gets a wave back"
+            },
+            {
+                "head": "PersonX waves at PersonY",
+                "relation": "oWant",
+                "similarity": 0.28080980479717255,
+                "tail": "to wave back at PersonX"
+            },
+            {
+                "head": "PersonX waves to PersonY",
+                "relation": "oWant",
+                "similarity": 0.28080980479717255,
+                "tail": "to wave back"
+            },
+            {
+                "head": "PersonX waves to PersonY",
+                "relation": "oWant",
+                "similarity": 0.27643272280693054,
+                "tail": "to wave back at personx"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_12",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7644712626934052,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.7592907547950745,
+                "tail": "to read the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7591134309768677,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7567583620548248,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7567169964313507,
+                "tail": "to understand the equation."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "cathode ray tube",
+                "relation": "MadeUpOf",
+                "similarity": 0.31057819724082947,
+                "tail": "electron gun"
+            },
+            {
+                "head": "erlenmayer flask",
+                "relation": "AtLocation",
+                "similarity": 0.2937662750482559,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "bunsen burner",
+                "relation": "ObjectUse",
+                "similarity": 0.29179640114307404,
+                "tail": "use in the labratory"
+            },
+            {
+                "head": "bunsen burner",
+                "relation": "ObjectUse",
+                "similarity": 0.2910103052854538,
+                "tail": "heat sample solutions"
+            },
+            {
+                "head": "laboratory tools",
+                "relation": "ObjectUse",
+                "similarity": 0.29024365544319153,
+                "tail": "teach chemistry class"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_13",
+        "question_commonsense": [
+            {
+                "head": "protein",
+                "relation": "MadeUpOf",
+                "similarity": 0.6716885268688202,
+                "tail": "amino acid"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.6668376326560974,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6557073593139648,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.6458091139793396,
+                "tail": "different atoms"
+            },
+            {
+                "head": "protein",
+                "relation": "MadeUpOf",
+                "similarity": 0.6454834342002869,
+                "tail": "aminoacids"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "streptokinase",
+                "relation": "ObjectUse",
+                "similarity": 0.2603614032268524,
+                "tail": "break up blood clots"
+            },
+            {
+                "head": "epinefrin",
+                "relation": "ObjectUse",
+                "similarity": 0.2546149045228958,
+                "tail": "fix a heart arrythmia"
+            },
+            {
+                "head": "PersonX inhibits ___ in vitro",
+                "relation": "xEffect",
+                "similarity": 0.2540268525481224,
+                "tail": "wins the scientist award"
+            },
+            {
+                "head": "membrane",
+                "relation": "ObjectUse",
+                "similarity": 0.25361020863056183,
+                "tail": "surround delicate body organs"
+            },
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.2525273337960243,
+                "tail": "genetic diseases"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_14",
+        "question_commonsense": [
+            {
+                "head": "bacteria",
+                "relation": "HasProperty",
+                "similarity": 0.8074167966842651,
+                "tail": "microscopic"
+            },
+            {
+                "head": "test",
+                "relation": "ObjectUse",
+                "similarity": 0.7924749255180359,
+                "tail": "see if they like someone"
+            },
+            {
+                "head": "test",
+                "relation": "HasProperty",
+                "similarity": 0.7900708019733429,
+                "tail": "taken"
+            },
+            {
+                "head": "test",
+                "relation": "ObjectUse",
+                "similarity": 0.7900431156158447,
+                "tail": "do well on"
+            },
+            {
+                "head": "PersonX looks like someone",
+                "relation": "xWant",
+                "similarity": 0.7896693646907806,
+                "tail": "to keep looking like them"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "sperm",
+                "relation": "MadeUpOf",
+                "similarity": 0.2720612436532974,
+                "tail": "flagellum"
+            },
+            {
+                "head": "tapeworm",
+                "relation": "AtLocation",
+                "similarity": 0.2650700658559799,
+                "tail": "human intestines"
+            },
+            {
+                "head": "bacteria",
+                "relation": "HasProperty",
+                "similarity": 0.2543894648551941,
+                "tail": "microscopic"
+            },
+            {
+                "head": "bacteria",
+                "relation": "AtLocation",
+                "similarity": 0.25206153094768524,
+                "tail": "petri dish"
+            },
+            {
+                "head": "sperm",
+                "relation": "ObjectUse",
+                "similarity": 0.25138697028160095,
+                "tail": "transmit genetic material"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_15",
+        "question_commonsense": [
+            {
+                "head": "hydrogen",
+                "relation": "MadeUpOf",
+                "similarity": 0.7866622805595398,
+                "tail": "1 proton and 1 electron"
+            },
+            {
+                "head": "hydrogen",
+                "relation": "MadeUpOf",
+                "similarity": 0.7851026356220245,
+                "tail": "subatomic particles"
+            },
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.7821640074253082,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7808712720870972,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX answers the ___ correctly",
+                "relation": "xWant",
+                "similarity": 0.7704545259475708,
+                "tail": "to find out their score on the test"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "pipette",
+                "relation": "ObjectUse",
+                "similarity": 0.2992687374353409,
+                "tail": "measure volume of liquids"
+            },
+            {
+                "head": "measuring cup",
+                "relation": "ObjectUse",
+                "similarity": 0.2881467342376709,
+                "tail": "get the right amount of ingredient out of the container"
+            },
+            {
+                "head": "iv bag",
+                "relation": "ObjectUse",
+                "similarity": 0.28624294698238373,
+                "tail": "replace fluids"
+            },
+            {
+                "head": "cylinder",
+                "relation": "MadeUpOf",
+                "similarity": 0.28574472665786743,
+                "tail": "intake valve"
+            },
+            {
+                "head": "measuring jug",
+                "relation": "ObjectUse",
+                "similarity": 0.2848491817712784,
+                "tail": "measure large amounts"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_16",
+        "question_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.7551238536834717,
+                "tail": "measure distance"
+            },
+            {
+                "head": "test tube",
+                "relation": "AtLocation",
+                "similarity": 0.7535054683685303,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xEffect",
+                "similarity": 0.7498827874660492,
+                "tail": "Does the math"
+            },
+            {
+                "head": "height measurer",
+                "relation": "ObjectUse",
+                "similarity": 0.7471794784069061,
+                "tail": "determine height"
+            },
+            {
+                "head": "height measurer",
+                "relation": "ObjectUse",
+                "similarity": 0.7470835745334625,
+                "tail": "find out your height"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.2833026498556137,
+                "tail": "determining air temperature"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.2809496968984604,
+                "tail": "measure distance"
+            },
+            {
+                "head": "protractor",
+                "relation": "ObjectUse",
+                "similarity": 0.28032301366329193,
+                "tail": "measure angles"
+            },
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.2799186557531357,
+                "tail": "measure temperature"
+            },
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.2799186557531357,
+                "tail": "measure their temperature"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "oEffect",
+                "similarity": 0.9226067066192627,
+                "tail": "PersonY sees the structure"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "xWant",
+                "similarity": 0.9183369874954224,
+                "tail": "to make sure the structure is steady and strong"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "xNeed",
+                "similarity": 0.9181516468524933,
+                "tail": "to look for a place to build the structure"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "xEffect",
+                "similarity": 0.91710165143013,
+                "tail": "PersonX shows the structure to PersonY"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "oEffect",
+                "similarity": 0.9127342402935028,
+                "tail": "design the y's structure"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.28752923011779785,
+                "tail": "compounds"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.27703139185905457,
+                "tail": "different atoms"
+            },
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.2734321355819702,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "protoype",
+                "relation": "ObjectUse",
+                "similarity": 0.2722884565591812,
+                "tail": "use as an example"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.2664095014333725,
+                "tail": "combining atoms in regular pattern"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_18",
+        "question_commonsense": [
+            {
+                "head": "PersonX takes medication",
+                "relation": "xEffect",
+                "similarity": 0.7825173139572144,
+                "tail": "to takes medication"
+            },
+            {
+                "head": "PersonX takes medication",
+                "relation": "xEffect",
+                "similarity": 0.7778632044792175,
+                "tail": "medicine takes effect"
+            },
+            {
+                "head": "antihistamine",
+                "relation": "ObjectUse",
+                "similarity": 0.7755735218524933,
+                "tail": "control allergic reactions"
+            },
+            {
+                "head": "PersonX takes medication",
+                "relation": "HinderedBy",
+                "similarity": 0.7744256258010864,
+                "tail": "PersonX is allergic to the medication."
+            },
+            {
+                "head": "PersonX takes medication",
+                "relation": "xIntent",
+                "similarity": 0.7717595100402832,
+                "tail": "to treat a disease"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "auriscope",
+                "relation": "ObjectUse",
+                "similarity": 0.2741359695792198,
+                "tail": "use in a demonstration during a sales pitch"
+            },
+            {
+                "head": "PersonX aces the test",
+                "relation": "HinderedBy",
+                "similarity": 0.26803024858236313,
+                "tail": "The test was given unexpectedly."
+            },
+            {
+                "head": "auriscope",
+                "relation": "ObjectUse",
+                "similarity": 0.2675498127937317,
+                "tail": "look at tympanic membrane"
+            },
+            {
+                "head": "auriscope",
+                "relation": "ObjectUse",
+                "similarity": 0.2673545628786087,
+                "tail": "teach about ears"
+            },
+            {
+                "head": "auriscope",
+                "relation": "ObjectUse",
+                "similarity": 0.2673349678516388,
+                "tail": "view an object"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_19",
+        "question_commonsense": [
+            {
+                "head": "PersonX answers this ___ in the negative",
+                "relation": "xEffect",
+                "similarity": 0.7658805549144745,
+                "tail": "is asked to explain his answer"
+            },
+            {
+                "head": "PersonX answers this ___ in the negative",
+                "relation": "oReact",
+                "similarity": 0.7652182281017303,
+                "tail": "shocked to get a negative answer"
+            },
+            {
+                "head": "PersonX sees PersonY's reaction",
+                "relation": "xReact",
+                "similarity": 0.7599475979804993,
+                "tail": "expect reaction"
+            },
+            {
+                "head": "PersonX sees PersonY's reaction",
+                "relation": "xWant",
+                "similarity": 0.7596132457256317,
+                "tail": "to follow up with PersonY"
+            },
+            {
+                "head": "PersonX answers this ___ in the negative",
+                "relation": "xAttr",
+                "similarity": 0.7564050257205963,
+                "tail": "rude"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.2772286385297775,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.26754312217235565,
+                "tail": "different atoms"
+            },
+            {
+                "head": "epinefrin",
+                "relation": "ObjectUse",
+                "similarity": 0.2620196044445038,
+                "tail": "stop a reaction"
+            },
+            {
+                "head": "antiacids",
+                "relation": "ObjectUse",
+                "similarity": 0.25967442244291306,
+                "tail": "neutralize stomach acid"
+            },
+            {
+                "head": "tetrahydrogestrinone",
+                "relation": "HasProperty",
+                "similarity": 0.2593994140625,
+                "tail": "abbreviated to'thg"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7057511210441589,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.7049146294593811,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "hydrogen",
+                "relation": "MadeUpOf",
+                "similarity": 0.695625513792038,
+                "tail": "1 proton and 1 electron"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.6915508508682251,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.6908664703369141,
+                "tail": "different atoms"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.27563703060150146,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "alumina",
+                "relation": "AtLocation",
+                "similarity": 0.27409040927886963,
+                "tail": "bauxite"
+            },
+            {
+                "head": "uranium",
+                "relation": "ObjectUse",
+                "similarity": 0.27014775574207306,
+                "tail": "nuclear power"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.26737476885318756,
+                "tail": "determine the nutritional content of a food"
+            },
+            {
+                "head": "selenium",
+                "relation": "HasProperty",
+                "similarity": 0.2638247013092041,
+                "tail": "toxic in high doses"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_21",
+        "question_commonsense": [
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "oEffect",
+                "similarity": 0.8843443095684052,
+                "tail": "PersonY sees the structure"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "xWant",
+                "similarity": 0.8838486671447754,
+                "tail": "to make sure the structure is steady and strong"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "xEffect",
+                "similarity": 0.878513365983963,
+                "tail": "PersonX shows the structure to PersonY"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "xNeed",
+                "similarity": 0.8779526352882385,
+                "tail": "to look for a place to build the structure"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "xWant",
+                "similarity": 0.872360348701477,
+                "tail": "to share it with them"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "phosphorus",
+                "relation": "HasProperty",
+                "similarity": 0.29240602254867554,
+                "tail": "soluble in carbon disulphide"
+            },
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.2892158329486847,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "ammonia",
+                "relation": "MadeUpOf",
+                "similarity": 0.2705589532852173,
+                "tail": "nitrogen and hydrogen"
+            },
+            {
+                "head": "phenol",
+                "relation": "HasProperty",
+                "similarity": 0.2662689611315727,
+                "tail": "toxic"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.26320241391658783,
+                "tail": "different atoms"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7528075277805328,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7464532554149628,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7403679192066193,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.740104615688324,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.738978385925293,
+                "tail": "to read the equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.2660716474056244,
+                "tail": "to wait for test results"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.26305459439754486,
+                "tail": "to review new test results"
+            },
+            {
+                "head": "PersonX splits the difference",
+                "relation": "xWant",
+                "similarity": 0.258516326546669,
+                "tail": "to show fairness"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "xEffect",
+                "similarity": 0.25849851965904236,
+                "tail": "PersonX stresses about the test results"
+            },
+            {
+                "head": "PersonX splits the difference",
+                "relation": "isBefore",
+                "similarity": 0.2543395981192589,
+                "tail": "PersonX pays their part of the bill"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_23",
+        "question_commonsense": [
+            {
+                "head": "science",
+                "relation": "MadeUpOf",
+                "similarity": 0.8039669096469879,
+                "tail": "organic chemistry"
+            },
+            {
+                "head": "science",
+                "relation": "ObjectUse",
+                "similarity": 0.7936947643756866,
+                "tail": "chemistry"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7908353209495544,
+                "tail": "try to understand the solution"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7852203845977783,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7821913063526154,
+                "tail": "show the result of the equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.25920047610998154,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "tetrahydrogestrinone",
+                "relation": "HasProperty",
+                "similarity": 0.2528497502207756,
+                "tail": "abbreviated to'thg"
+            },
+            {
+                "head": "copulate",
+                "relation": "HasSubEvent",
+                "similarity": 0.24985487759113312,
+                "tail": "lubricate"
+            },
+            {
+                "head": "copulate",
+                "relation": "xNeed",
+                "similarity": 0.24313971400260925,
+                "tail": "relative department"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.23779620975255966,
+                "tail": "different atoms"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_24",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses PersonY method",
+                "relation": "xNeed",
+                "similarity": 0.8473760783672333,
+                "tail": "implement using it"
+            },
+            {
+                "head": "PersonX uses PersonY method",
+                "relation": "xNeed",
+                "similarity": 0.8459632396697998,
+                "tail": "To gain knowledge about person Y’s method"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.8437941670417786,
+                "tail": "learn the trade"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.843574047088623,
+                "tail": "make the machine work"
+            },
+            {
+                "head": "PersonX uses PersonY method",
+                "relation": "xNeed",
+                "similarity": 0.841292679309845,
+                "tail": "find out person y method"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.29402483999729156,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "epinefrin",
+                "relation": "ObjectUse",
+                "similarity": 0.2807944118976593,
+                "tail": "fix a heart arrythmia"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.2784596085548401,
+                "tail": "compounds"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.2755798324942589,
+                "tail": "different atoms"
+            },
+            {
+                "head": "epinefrin",
+                "relation": "ObjectUse",
+                "similarity": 0.27252359688282013,
+                "tail": "alleviate allergic reactions"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_25",
+        "question_commonsense": [
+            {
+                "head": "exam template",
+                "relation": "ObjectUse",
+                "similarity": 0.6896293759346008,
+                "tail": "make tests easier to grade"
+            },
+            {
+                "head": "exam template",
+                "relation": "ObjectUse",
+                "similarity": 0.685522198677063,
+                "tail": "study for the exam"
+            },
+            {
+                "head": "exam template",
+                "relation": "ObjectUse",
+                "similarity": 0.6852769255638123,
+                "tail": "cheat, and get sample answers"
+            },
+            {
+                "head": "exam",
+                "relation": "ObjectUse",
+                "similarity": 0.6825562417507172,
+                "tail": "diagnose a patient"
+            },
+            {
+                "head": "PersonX answers this ___ in the negative",
+                "relation": "xEffect",
+                "similarity": 0.6822324395179749,
+                "tail": "is asked to explain his answer"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX answers this ___ in the negative",
+                "relation": "oReact",
+                "similarity": 0.26287485659122467,
+                "tail": "shocked to get a negative answer"
+            },
+            {
+                "head": "PersonX answers this ___ in the negative",
+                "relation": "xEffect",
+                "similarity": 0.2565734460949898,
+                "tail": "is asked to explain his answer"
+            },
+            {
+                "head": "PersonX cites PersonY example",
+                "relation": "isBefore",
+                "similarity": 0.2538051903247833,
+                "tail": "PersonX answers questions from the class about the example"
+            },
+            {
+                "head": "PersonX answers this ___ in the negative",
+                "relation": "xEffect",
+                "similarity": 0.24887962639331818,
+                "tail": "gets criticized"
+            },
+            {
+                "head": "PersonX cites PersonY example",
+                "relation": "xEffect",
+                "similarity": 0.24741974472999573,
+                "tail": "gets goodgrade"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_26",
+        "question_commonsense": [
+            {
+                "head": "protein",
+                "relation": "MadeUpOf",
+                "similarity": 0.6332226097583771,
+                "tail": "amino acid"
+            },
+            {
+                "head": "dna",
+                "relation": "HasProperty",
+                "similarity": 0.61506786942482,
+                "tail": "short for deoxyribonucleic acid"
+            },
+            {
+                "head": "dna",
+                "relation": "MadeUpOf",
+                "similarity": 0.6121883690357208,
+                "tail": "nucleotide"
+            },
+            {
+                "head": "dna",
+                "relation": "ObjectUse",
+                "similarity": 0.6071672439575195,
+                "tail": "make proteins"
+            },
+            {
+                "head": "protein",
+                "relation": "MadeUpOf",
+                "similarity": 0.6067138612270355,
+                "tail": "aminoacids"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "streptokinase",
+                "relation": "ObjectUse",
+                "similarity": 0.2603614032268524,
+                "tail": "break up blood clots"
+            },
+            {
+                "head": "epinefrin",
+                "relation": "ObjectUse",
+                "similarity": 0.2546149045228958,
+                "tail": "fix a heart arrythmia"
+            },
+            {
+                "head": "PersonX inhibits ___ in vitro",
+                "relation": "xEffect",
+                "similarity": 0.2540268525481224,
+                "tail": "wins the scientist award"
+            },
+            {
+                "head": "membrane",
+                "relation": "ObjectUse",
+                "similarity": 0.25361020863056183,
+                "tail": "surround delicate body organs"
+            },
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.2525273337960243,
+                "tail": "genetic diseases"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_27",
+        "question_commonsense": [
+            {
+                "head": "formula",
+                "relation": "MadeUpOf",
+                "similarity": 0.6224668920040131,
+                "tail": "chemical notation"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.6198815107345581,
+                "tail": "different atoms"
+            },
+            {
+                "head": "formula",
+                "relation": "MadeUpOf",
+                "similarity": 0.6115590631961823,
+                "tail": "subformula"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.5948855876922607,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "xNeed",
+                "similarity": 0.5944665968418121,
+                "tail": "a caclulator"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX bases on PersonY analysis",
+                "relation": "xNeed",
+                "similarity": 0.2755185514688492,
+                "tail": "to understand person y's analysis"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.27320054173469543,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX bases on PersonY analysis",
+                "relation": "xNeed",
+                "similarity": 0.2704613655805588,
+                "tail": "To research Y's information"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.26824140548706055,
+                "tail": "different atoms"
+            },
+            {
+                "head": "PersonX bases on PersonY analysis",
+                "relation": "xNeed",
+                "similarity": 0.26696933805942535,
+                "tail": "to read person y's analysis"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_28",
+        "question_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.7710285484790802,
+                "tail": "different atoms"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.7370100021362305,
+                "tail": "combining atoms in regular pattern"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.7267000079154968,
+                "tail": "containing atoms"
+            },
+            {
+                "head": "molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.7110708951950073,
+                "tail": "atoms"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.6997675001621246,
+                "tail": "compounds"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.282273530960083,
+                "tail": "different atoms"
+            },
+            {
+                "head": "one molecule of water",
+                "relation": "MadeUpOf",
+                "similarity": 0.2819773256778717,
+                "tail": "three atoms"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.2814619094133377,
+                "tail": "containing atoms"
+            },
+            {
+                "head": "molecule",
+                "relation": "AtLocation",
+                "similarity": 0.2813912183046341,
+                "tail": "atom"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.2786749005317688,
+                "tail": "combining atoms in regular pattern"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_29",
+        "question_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.8091126382350922,
+                "tail": "different atoms"
+            },
+            {
+                "head": "chemist",
+                "relation": "CapableOf",
+                "similarity": 0.8010276854038239,
+                "tail": "understand chemistry"
+            },
+            {
+                "head": "chemist",
+                "relation": "AtLocation",
+                "similarity": 0.7812119424343109,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.7794690728187561,
+                "tail": "compounds"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.7783170938491821,
+                "tail": "containing atoms"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.2935788333415985,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "phosphorus",
+                "relation": "HasProperty",
+                "similarity": 0.2851543575525284,
+                "tail": "soluble in carbon disulphide"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.2822788804769516,
+                "tail": "different atoms"
+            },
+            {
+                "head": "one molecule of water",
+                "relation": "MadeUpOf",
+                "similarity": 0.2807656228542328,
+                "tail": "three atoms"
+            },
+            {
+                "head": "chlorine",
+                "relation": "ObjectUse",
+                "similarity": 0.28018514811992645,
+                "tail": "liquid or gas"
+            }
+        ]
+    },
+    {
+        "id": "validation_Pharmacy_30",
+        "question_commonsense": [
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.7887149453163147,
+                "tail": "determine the nutritional content of a food"
+            },
+            {
+                "head": "calorie calculator",
+                "relation": "ObjectUse",
+                "similarity": 0.787662923336029,
+                "tail": "calculate calorie intake"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.7787757217884064,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "calorie calculator",
+                "relation": "ObjectUse",
+                "similarity": 0.7720984220504761,
+                "tail": "see the ingredients in foods"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.7664269506931305,
+                "tail": "keep track of calories"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.29869139194488525,
+                "tail": "determine the nutritional content of a food"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.2947090119123459,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.2769179344177246,
+                "tail": "keep track of calories"
+            },
+            {
+                "head": "protein powder",
+                "relation": "ObjectUse",
+                "similarity": 0.276727631688118,
+                "tail": "increase protein intake"
+            },
+            {
+                "head": "protein shapes",
+                "relation": "ObjectUse",
+                "similarity": 0.2766541391611099,
+                "tail": "study to be a nutritionist"
+            }
+        ]
+    }
+]

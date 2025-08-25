@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Chemistry_1",
+        "question_commonsense": [
+            {
+                "head": "PersonX plays PersonY ___ in the pathogenesis",
+                "relation": "xWant",
+                "similarity": 0.7746246457099915,
+                "tail": "to find out what Pathogenesis is"
+            },
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.7628232538700104,
+                "tail": "genetic diseases"
+            },
+            {
+                "head": "PersonX plays PersonY ___ in the pathogenesis",
+                "relation": "xNeed",
+                "similarity": 0.7605976760387421,
+                "tail": "to explain the disease"
+            },
+            {
+                "head": "PersonX plays PersonY ___ in the pathogenesis",
+                "relation": "xReact",
+                "similarity": 0.7563927173614502,
+                "tail": "good about themselves"
+            },
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.7563575208187103,
+                "tail": "genetic disorders"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.2880694270133972,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "phosphorus",
+                "relation": "HasProperty",
+                "similarity": 0.2810123413801193,
+                "tail": "soluble in carbon disulphide"
+            },
+            {
+                "head": "antiacids",
+                "relation": "ObjectUse",
+                "similarity": 0.27477309107780457,
+                "tail": "neutralize stomach acid"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.27274641394615173,
+                "tail": "to read the equation"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.2711421996355057,
+                "tail": "different atoms"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_2",
+        "question_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.7639119625091553,
+                "tail": "different atoms"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.7404550313949585,
+                "tail": "combining atoms in regular pattern"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.7332902252674103,
+                "tail": "containing atoms"
+            },
+            {
+                "head": "molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.72126105427742,
+                "tail": "atoms"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7121691405773163,
+                "tail": "Practices maths equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "tuning fork",
+                "relation": "ObjectUse",
+                "similarity": 0.26991356909275055,
+                "tail": "get the right pitch for an instrument."
+            },
+            {
+                "head": "tuning fork",
+                "relation": "ObjectUse",
+                "similarity": 0.26750558614730835,
+                "tail": "improve orchestra's sound"
+            },
+            {
+                "head": "tuning fork",
+                "relation": "ObjectUse",
+                "similarity": 0.26549676060676575,
+                "tail": "tighten the piano strings"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2637920528650284,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2635037750005722,
+                "tail": "procure a book with diagrams"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX induces PersonY response",
+                "relation": "oWant",
+                "similarity": 0.8623079657554626,
+                "tail": "to see what is thought of their answer"
+            },
+            {
+                "head": "PersonX induces PersonY response",
+                "relation": "xWant",
+                "similarity": 0.8574655950069427,
+                "tail": "understand the situation"
+            },
+            {
+                "head": "PersonX induces PersonY response",
+                "relation": "xEffect",
+                "similarity": 0.8569200336933136,
+                "tail": "PersonX gets a response"
+            },
+            {
+                "head": "PersonX induces PersonY response",
+                "relation": "xNeed",
+                "similarity": 0.8551432490348816,
+                "tail": "to think of a question"
+            },
+            {
+                "head": "PersonX answers this ___ in the negative",
+                "relation": "xEffect",
+                "similarity": 0.8536226451396942,
+                "tail": "is asked to explain his answer"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "ammonia",
+                "relation": "MadeUpOf",
+                "similarity": 0.3058261126279831,
+                "tail": "nitrogen and hydrogen"
+            },
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.3041233569383621,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "nitrogen",
+                "relation": "AtLocation",
+                "similarity": 0.2806885093450546,
+                "tail": "air"
+            },
+            {
+                "head": "alumina",
+                "relation": "AtLocation",
+                "similarity": 0.2801513820886612,
+                "tail": "bauxite"
+            },
+            {
+                "head": "nitrogen molecule",
+                "relation": "AtLocation",
+                "similarity": 0.276582807302475,
+                "tail": "air"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX gets a c",
+                "relation": "xWant",
+                "similarity": 0.8248732686042786,
+                "tail": "understand the subject"
+            },
+            {
+                "head": "test",
+                "relation": "ObjectUse",
+                "similarity": 0.8238314092159271,
+                "tail": "do well on"
+            },
+            {
+                "head": "test",
+                "relation": "ObjectUse",
+                "similarity": 0.8216523230075836,
+                "tail": "fix the answer"
+            },
+            {
+                "head": "PersonX gets a c",
+                "relation": "HinderedBy",
+                "similarity": 0.8216284513473511,
+                "tail": "PersonX checked random answers."
+            },
+            {
+                "head": "take test",
+                "relation": "xNeed",
+                "similarity": 0.8200110197067261,
+                "tail": "study for test"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.30480265617370605,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.29828448593616486,
+                "tail": "compounds"
+            },
+            {
+                "head": "molecule",
+                "relation": "AtLocation",
+                "similarity": 0.2874015122652054,
+                "tail": "atom"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.287219762802124,
+                "tail": "different atoms"
+            },
+            {
+                "head": "chlorine",
+                "relation": "ObjectUse",
+                "similarity": 0.28679731488227844,
+                "tail": "liquid or gas"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.8231394290924072,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.8215563893318176,
+                "tail": "different atoms"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.8166089653968811,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.8102236688137054,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.8048544526100159,
+                "tail": "PersonX puts away diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "hydrogen",
+                "relation": "MadeUpOf",
+                "similarity": 0.3000952899456024,
+                "tail": "1 proton and 1 electron"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.293782040476799,
+                "tail": "different atoms"
+            },
+            {
+                "head": "formula",
+                "relation": "MadeUpOf",
+                "similarity": 0.2929392606019974,
+                "tail": "chemical notation"
+            },
+            {
+                "head": "phosphorus",
+                "relation": "HasProperty",
+                "similarity": 0.2889733463525772,
+                "tail": "soluble in carbon disulphide"
+            },
+            {
+                "head": "formula",
+                "relation": "MadeUpOf",
+                "similarity": 0.28698140382766724,
+                "tail": "subformula"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.81904336810112,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.8174314200878143,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.8171801865100861,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.8154202997684479,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.8145100176334381,
+                "tail": "to read the equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.30333012342453003,
+                "tail": "determining air temperature"
+            },
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.29838378727436066,
+                "tail": "measure temperature"
+            },
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.29838378727436066,
+                "tail": "measure their temperature"
+            },
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.2970614433288574,
+                "tail": "measuring temperature"
+            },
+            {
+                "head": "temperature",
+                "relation": "HasProperty",
+                "similarity": 0.2922806292772293,
+                "tail": "measured in units of fahrenheit"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_7",
+        "question_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.8209799528121948,
+                "tail": "different atoms"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.8128357529640198,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.8123483955860138,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.8089923858642578,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.8071213066577911,
+                "tail": "Practices maths equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.3057537078857422,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "bromine",
+                "relation": "AtLocation",
+                "similarity": 0.30067016184329987,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "alumina",
+                "relation": "AtLocation",
+                "similarity": 0.29390135407447815,
+                "tail": "bauxite"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.29252760112285614,
+                "tail": "different atoms"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.29193340241909027,
+                "tail": "compounds"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_8",
+        "question_commonsense": [
+            {
+                "head": "antiacids",
+                "relation": "ObjectUse",
+                "similarity": 0.8064900934696198,
+                "tail": "neutralize stomach acid"
+            },
+            {
+                "head": "PersonX makes PersonX's choice",
+                "relation": "xNeed",
+                "similarity": 0.806253969669342,
+                "tail": "to think about a choice"
+            },
+            {
+                "head": "PersonX makes PersonY choice",
+                "relation": "xIntent",
+                "similarity": 0.8038130402565002,
+                "tail": "the choice was best one"
+            },
+            {
+                "head": "PersonX makes PersonY choice",
+                "relation": "xNeed",
+                "similarity": 0.8023497760295868,
+                "tail": "to know their choices"
+            },
+            {
+                "head": "list of medications",
+                "relation": "ObjectUse",
+                "similarity": 0.8020615875720978,
+                "tail": "check side effects"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.30402879416942596,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "phosphorus",
+                "relation": "HasProperty",
+                "similarity": 0.30034339427948,
+                "tail": "soluble in carbon disulphide"
+            },
+            {
+                "head": "bottle of chemicals",
+                "relation": "ObjectUse",
+                "similarity": 0.29119637608528137,
+                "tail": "cause a reaction"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.2904664874076843,
+                "tail": "different atoms"
+            },
+            {
+                "head": "chlorine",
+                "relation": "ObjectUse",
+                "similarity": 0.28936633467674255,
+                "tail": "liquid or gas"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_9",
+        "question_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.7196902334690094,
+                "tail": "different atoms"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7026313245296478,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.6987212896347046,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "bromine",
+                "relation": "AtLocation",
+                "similarity": 0.6976552605628967,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.6970712244510651,
+                "tail": "combining atoms in regular pattern"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.27605772018432617,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "formula",
+                "relation": "MadeUpOf",
+                "similarity": 0.2739107608795166,
+                "tail": "chemical notation"
+            },
+            {
+                "head": "phosphorus",
+                "relation": "HasProperty",
+                "similarity": 0.2706742584705353,
+                "tail": "soluble in carbon disulphide"
+            },
+            {
+                "head": "formula",
+                "relation": "MadeUpOf",
+                "similarity": 0.2692692130804062,
+                "tail": "subformula"
+            },
+            {
+                "head": "bromine",
+                "relation": "AtLocation",
+                "similarity": 0.2590133398771286,
+                "tail": "chemistry lab"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_10",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.693375289440155,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.6875141561031342,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.6828460693359375,
+                "tail": "to read the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.6817691922187805,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "equations",
+                "relation": "ObjectUse",
+                "similarity": 0.6716939508914948,
+                "tail": "calculate percentages"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "apparatus",
+                "relation": "ObjectUse",
+                "similarity": 0.28651365637779236,
+                "tail": "conduct an experiment"
+            },
+            {
+                "head": "apparatus",
+                "relation": "ObjectUse",
+                "similarity": 0.27802178263664246,
+                "tail": "measure results"
+            },
+            {
+                "head": "PersonX supports PersonX's position",
+                "relation": "xWant",
+                "similarity": 0.27613840997219086,
+                "tail": "to argue about their position"
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "isAfter",
+                "similarity": 0.2725682631134987,
+                "tail": "PersonX reads about PersonY's position"
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "xNeed",
+                "similarity": 0.26996201276779175,
+                "tail": "to learn about person y's position"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.664481908082962,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6623867750167847,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6583192944526672,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6572541892528534,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.6535250842571259,
+                "tail": "scientific"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.2756073623895645,
+                "tail": "PersonX doesn't understand PersonY's point."
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.2741190940141678,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.26845159381628036,
+                "tail": "PersonY couldn't find a case study to prove the point to PersonX"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2672065198421478,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xNeed",
+                "similarity": 0.2655499801039696,
+                "tail": "to understand person Y"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_12",
+        "question_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.8092130720615387,
+                "tail": "different atoms"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7897712290287018,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7891464233398438,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7865071594715118,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7857774496078491,
+                "tail": "PersonY forgot to bring the equation to class"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "hydrogen",
+                "relation": "MadeUpOf",
+                "similarity": 0.30402083694934845,
+                "tail": "1 proton and 1 electron"
+            },
+            {
+                "head": "formula",
+                "relation": "MadeUpOf",
+                "similarity": 0.29235273599624634,
+                "tail": "chemical notation"
+            },
+            {
+                "head": "formula",
+                "relation": "MadeUpOf",
+                "similarity": 0.2882221192121506,
+                "tail": "subformula"
+            },
+            {
+                "head": "hydrogen",
+                "relation": "MadeUpOf",
+                "similarity": 0.2845407873392105,
+                "tail": "subatomic particles"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.28340546786785126,
+                "tail": "different atoms"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_13",
+        "question_commonsense": [
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.6761461198329926,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.6750344038009644,
+                "tail": "different atoms"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.6750109493732452,
+                "tail": "try to understand the solution"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.6745002567768097,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "hydrogen peroxide",
+                "relation": "HasProperty",
+                "similarity": 0.6729028522968292,
+                "tail": "sold as water solution"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX sets ___ on soil",
+                "relation": "xIntent",
+                "similarity": 0.29289810359477997,
+                "tail": "gauge the soil"
+            },
+            {
+                "head": "cylinder",
+                "relation": "MadeUpOf",
+                "similarity": 0.28601017594337463,
+                "tail": "intake valve"
+            },
+            {
+                "head": "PersonX sets ___ on soil",
+                "relation": "xReact",
+                "similarity": 0.2762155681848526,
+                "tail": "more knowledgeable about the soil"
+            },
+            {
+                "head": "PersonX sets ___ on soil",
+                "relation": "xWant",
+                "similarity": 0.2756795287132263,
+                "tail": "to walk on the soil"
+            },
+            {
+                "head": "alumina",
+                "relation": "AtLocation",
+                "similarity": 0.27556778490543365,
+                "tail": "bauxite"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "xIntent",
+                "similarity": 0.8083296120166779,
+                "tail": "to learn medicine."
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "isBefore",
+                "similarity": 0.7949934303760529,
+                "tail": "PersonX gets accepted to medical school"
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "isBefore",
+                "similarity": 0.7949934303760529,
+                "tail": "PersonX gets accepted to medical school"
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "isAfter",
+                "similarity": 0.7904578447341919,
+                "tail": "PersonX is going to be a doctor"
+            },
+            {
+                "head": "PersonX gets PersonX's medicine",
+                "relation": "xNeed",
+                "similarity": 0.7897994816303253,
+                "tail": "to see a doctor"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.28563374280929565,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.28127336502075195,
+                "tail": "compounds"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.2750106453895569,
+                "tail": "combining atoms in regular pattern"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.2730146050453186,
+                "tail": "containing atoms"
+            },
+            {
+                "head": "molecule",
+                "relation": "AtLocation",
+                "similarity": 0.2722717225551605,
+                "tail": "atom"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.6428340375423431,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6263767778873444,
+                "tail": "PersonX did not learn how to do this equation"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6218984127044678,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6213549375534058,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "tetrahydrogestrinone",
+                "relation": "HasProperty",
+                "similarity": 0.6198618113994598,
+                "tail": "abbreviated to'thg"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "antiacids",
+                "relation": "ObjectUse",
+                "similarity": 0.29170283675193787,
+                "tail": "neutralize stomach acid"
+            },
+            {
+                "head": "antiacids",
+                "relation": "ObjectUse",
+                "similarity": 0.2906264066696167,
+                "tail": "control acid reflux"
+            },
+            {
+                "head": "antiacids",
+                "relation": "ObjectUse",
+                "similarity": 0.2723696827888489,
+                "tail": "relieve duodenal ulcers"
+            },
+            {
+                "head": "antacids",
+                "relation": "ObjectUse",
+                "similarity": 0.2720153033733368,
+                "tail": "keep acid down in your stomach"
+            },
+            {
+                "head": "folic acid",
+                "relation": "ObjectUse",
+                "similarity": 0.2717246860265732,
+                "tail": "add to nutrition"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_16",
+        "question_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.8149976432323456,
+                "tail": "different atoms"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.7994192242622375,
+                "tail": "combining atoms in regular pattern"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.798379510641098,
+                "tail": "containing atoms"
+            },
+            {
+                "head": "molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.7853491306304932,
+                "tail": "atoms"
+            },
+            {
+                "head": "learn about science",
+                "relation": "HasSubEvent",
+                "similarity": 0.7708061039447784,
+                "tail": "understand physical laws"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "asterisk wildcard symbol",
+                "relation": "ObjectUse",
+                "similarity": 0.286423459649086,
+                "tail": "specify strings of characters"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27917465567588806,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "router",
+                "relation": "AtLocation",
+                "similarity": 0.2788075655698776,
+                "tail": "network"
+            },
+            {
+                "head": "router",
+                "relation": "ObjectUse",
+                "similarity": 0.27593350410461426,
+                "tail": "connect with the web"
+            },
+            {
+                "head": "router",
+                "relation": "ObjectUse",
+                "similarity": 0.27435989677906036,
+                "tail": "have internet connections"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX reduces the chemical to levels",
+                "relation": "isAfter",
+                "similarity": 0.7813204824924469,
+                "tail": "PersonX mixes hydrogen and oxygen"
+            },
+            {
+                "head": "PersonX uses PersonY method",
+                "relation": "xNeed",
+                "similarity": 0.7801876962184906,
+                "tail": "To gain knowledge about person Y’s method"
+            },
+            {
+                "head": "PersonX uses PersonY method",
+                "relation": "xNeed",
+                "similarity": 0.7778150737285614,
+                "tail": "implement using it"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.7767395973205566,
+                "tail": "different atoms"
+            },
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.7746411263942719,
+                "tail": "nitric acid and cotton"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "hydrogen",
+                "relation": "MadeUpOf",
+                "similarity": 0.3023083359003067,
+                "tail": "1 proton and 1 electron"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.3007543087005615,
+                "tail": "different atoms"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.2913757264614105,
+                "tail": "compounds"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.2913627475500107,
+                "tail": "combining atoms in regular pattern"
+            },
+            {
+                "head": "one molecule of water",
+                "relation": "MadeUpOf",
+                "similarity": 0.2887384295463562,
+                "tail": "three atoms"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_18",
+        "question_commonsense": [
+            {
+                "head": "PersonX conducts PersonY experiment",
+                "relation": "HinderedBy",
+                "similarity": 0.7546349167823792,
+                "tail": "Person Y has already completed the experiment."
+            },
+            {
+                "head": "PersonX tests the student 's ___",
+                "relation": "xNeed",
+                "similarity": 0.751740425825119,
+                "tail": "to tell all students they will have a test"
+            },
+            {
+                "head": "PersonX conducts PersonY experiment",
+                "relation": "xNeed",
+                "similarity": 0.7486515939235687,
+                "tail": "to study the science"
+            },
+            {
+                "head": "PersonX conducts PersonY experiment",
+                "relation": "HinderedBy",
+                "similarity": 0.7481102049350739,
+                "tail": "They don't know the experiment they did."
+            },
+            {
+                "head": "PersonX conducts PersonY experiment",
+                "relation": "HinderedBy",
+                "similarity": 0.7474776208400726,
+                "tail": "Person X does not understand how the experiment works."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.28326207399368286,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.2777576744556427,
+                "tail": "Person x makes inferences and/or calculations based upon results"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xNeed",
+                "similarity": 0.27769477665424347,
+                "tail": "calculate the dimensions"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.27474017441272736,
+                "tail": "record measurements"
+            },
+            {
+                "head": "carbon dioxide",
+                "relation": "ObjectUse",
+                "similarity": 0.26862117648124695,
+                "tail": "cauterize"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_19",
+        "question_commonsense": [
+            {
+                "head": "bromine",
+                "relation": "AtLocation",
+                "similarity": 0.7518469989299774,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.7487248480319977,
+                "tail": "different atoms"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7453345060348511,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.7407435178756714,
+                "tail": "forming larger objects"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7402003705501556,
+                "tail": "Practices maths equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.3026741147041321,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "phosphorus",
+                "relation": "HasProperty",
+                "similarity": 0.29948416352272034,
+                "tail": "soluble in carbon disulphide"
+            },
+            {
+                "head": "chlorine",
+                "relation": "ObjectUse",
+                "similarity": 0.28902117908000946,
+                "tail": "liquid or gas"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.2880384474992752,
+                "tail": "different atoms"
+            },
+            {
+                "head": "bottle of chemicals",
+                "relation": "ObjectUse",
+                "similarity": 0.2858199179172516,
+                "tail": "cause a reaction"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_20",
+        "question_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.8138507008552551,
+                "tail": "different atoms"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.8008167743682861,
+                "tail": "combining atoms in regular pattern"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.7988358438014984,
+                "tail": "containing atoms"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7946573495864868,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.7892943620681763,
+                "tail": "to learn more mathematics"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.2845625877380371,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.2842657268047333,
+                "tail": "compounds"
+            },
+            {
+                "head": "molecule",
+                "relation": "AtLocation",
+                "similarity": 0.27914750576019287,
+                "tail": "atom"
+            },
+            {
+                "head": "tetrahydrogestrinone",
+                "relation": "HasProperty",
+                "similarity": 0.2773044556379318,
+                "tail": "abbreviated to'thg"
+            },
+            {
+                "head": "terbinafine",
+                "relation": "ObjectUse",
+                "similarity": 0.27618344128131866,
+                "tail": "treat fungal infections"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_21",
+        "question_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.6765816509723663,
+                "tail": "different atoms"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.6606444716453552,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.6505560874938965,
+                "tail": "combining atoms in regular pattern"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.6496186554431915,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.6461799442768097,
+                "tail": "study the diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "phosphorus",
+                "relation": "HasProperty",
+                "similarity": 0.3016452044248581,
+                "tail": "soluble in carbon disulphide"
+            },
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.3009982109069824,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.2860783189535141,
+                "tail": "different atoms"
+            },
+            {
+                "head": "chlorine",
+                "relation": "ObjectUse",
+                "similarity": 0.2795047163963318,
+                "tail": "liquid or gas"
+            },
+            {
+                "head": "tetrahydrogestrinone",
+                "relation": "HasProperty",
+                "similarity": 0.2752581089735031,
+                "tail": "abbreviated to'thg"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.702737033367157,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7011135220527649,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.6908334493637085,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6886348128318787,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.6826567351818085,
+                "tail": "PersonX puts away diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.3055711090564728,
+                "tail": "determining air temperature"
+            },
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.301107794046402,
+                "tail": "measure temperature"
+            },
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.301107794046402,
+                "tail": "measure their temperature"
+            },
+            {
+                "head": "temperature",
+                "relation": "HasProperty",
+                "similarity": 0.2999454140663147,
+                "tail": "measured in units of fahrenheit"
+            },
+            {
+                "head": "thermometor",
+                "relation": "ObjectUse",
+                "similarity": 0.2969801127910614,
+                "tail": "verify the temperature"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_23",
+        "question_commonsense": [
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xNeed",
+                "similarity": 0.6573900282382965,
+                "tail": "to find a computer programming class"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xEffect",
+                "similarity": 0.6514183878898621,
+                "tail": "makes computer software"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xNeed",
+                "similarity": 0.6513088643550873,
+                "tail": "to read the computer programming textbook"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "xAttr",
+                "similarity": 0.6512548327445984,
+                "tail": "intelligent"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xEffect",
+                "similarity": 0.6500790119171143,
+                "tail": "too learns computer programing"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.27475734055042267,
+                "tail": "measure distance"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.26543767750263214,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2629796117544174,
+                "tail": "clearly present data"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xAttr",
+                "similarity": 0.26173141598701477,
+                "tail": "scientific"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xAttr",
+                "similarity": 0.26173141598701477,
+                "tail": "scientific"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_24",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7035247087478638,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.6902870535850525,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.6898202300071716,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.6850422918796539,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.6792987585067749,
+                "tail": "to read the equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.24596267193555832,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.243781179189682,
+                "tail": "to wait for test results"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xWant",
+                "similarity": 0.24352126568555832,
+                "tail": "to extract work from him"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "xEffect",
+                "similarity": 0.242454893887043,
+                "tail": "PersonX stresses about the test results"
+            },
+            {
+                "head": "PersonX has been deferred until test results are in",
+                "relation": "xEffect",
+                "similarity": 0.24120929092168808,
+                "tail": "check results"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_25",
+        "question_commonsense": [
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6605198681354523,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.6595642566680908,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX answers this ___ in the negative",
+                "relation": "xEffect",
+                "similarity": 0.6534171104431152,
+                "tail": "is asked to explain his answer"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6502133309841156,
+                "tail": "PersonX did not learn how to do this equation"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6482393145561218,
+                "tail": "PersonX failed math 101"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "xEffect",
+                "similarity": 0.26341037452220917,
+                "tail": "PersonX stresses about the test results"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "xWant",
+                "similarity": 0.2608810067176819,
+                "tail": "to have college review newest test results"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.260352298617363,
+                "tail": "to wait for test results"
+            },
+            {
+                "head": "PersonX is deferred until test results are in",
+                "relation": "oWant",
+                "similarity": 0.25298838317394257,
+                "tail": "to review new test results"
+            },
+            {
+                "head": "PersonX has been deferred until test results are in",
+                "relation": "xEffect",
+                "similarity": 0.2521708756685257,
+                "tail": "wait for results"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_26",
+        "question_commonsense": [
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.8389379978179932,
+                "tail": "check what is affecting the variables"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xAttr",
+                "similarity": 0.8346765041351318,
+                "tail": "precise"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xIntent",
+                "similarity": 0.8345867693424225,
+                "tail": "to be specific"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xAttr",
+                "similarity": 0.8340199887752533,
+                "tail": "instructive"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.8332305550575256,
+                "tail": "test if variable works"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "phosphorus",
+                "relation": "HasProperty",
+                "similarity": 0.28010909259319305,
+                "tail": "soluble in carbon disulphide"
+            },
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.2758047878742218,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.2661553770303726,
+                "tail": "different atoms"
+            },
+            {
+                "head": "bromine",
+                "relation": "AtLocation",
+                "similarity": 0.2590154558420181,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "phenol",
+                "relation": "HasProperty",
+                "similarity": 0.25799155980348587,
+                "tail": "toxic"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_27",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7692538499832153,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7658676505088806,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "learn about science",
+                "relation": "HasSubEvent",
+                "similarity": 0.7642212808132172,
+                "tail": "understand physical laws"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7638134956359863,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.7635641098022461,
+                "tail": "to read the equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.2669150233268738,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.2585338056087494,
+                "tail": "record measurements"
+            },
+            {
+                "head": "iodine",
+                "relation": "ObjectUse",
+                "similarity": 0.2567807137966156,
+                "tail": "help with weight loss"
+            },
+            {
+                "head": "iodine",
+                "relation": "ObjectUse",
+                "similarity": 0.25569139420986176,
+                "tail": "make a volcano solution"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.255635030567646,
+                "tail": "Person x makes inferences and/or calculations based upon results"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY experiment",
+                "relation": "oWant",
+                "similarity": 0.8480802476406097,
+                "tail": "to formulate a hypothesis"
+            },
+            {
+                "head": "PersonX makes PersonY experiment",
+                "relation": "HinderedBy",
+                "similarity": 0.8454086482524872,
+                "tail": "PersonY refuses to experiment."
+            },
+            {
+                "head": "PersonX makes PersonY experiment",
+                "relation": "oWant",
+                "similarity": 0.8402856290340424,
+                "tail": "to create an experiment"
+            },
+            {
+                "head": "PersonX conducts PersonY experiment",
+                "relation": "xAttr",
+                "similarity": 0.8397075235843658,
+                "tail": "precise"
+            },
+            {
+                "head": "PersonX makes PersonY experiment",
+                "relation": "xAttr",
+                "similarity": 0.8386340737342834,
+                "tail": "useful"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.30520808696746826,
+                "tail": "compounds"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.3018070459365845,
+                "tail": "different atoms"
+            },
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.29722465574741364,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.2937544286251068,
+                "tail": "combining atoms in regular pattern"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.29019227623939514,
+                "tail": "containing atoms"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_29",
+        "question_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.8277987837791443,
+                "tail": "different atoms"
+            },
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.8154079914093018,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.8153963088989258,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.8106283843517303,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.8098443746566772,
+                "tail": "to learn more mathematics"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.2986800819635391,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "tetrahydrogestrinone",
+                "relation": "HasProperty",
+                "similarity": 0.28672710061073303,
+                "tail": "abbreviated to'thg"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.28535474836826324,
+                "tail": "compounds"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.2832423895597458,
+                "tail": "different atoms"
+            },
+            {
+                "head": "nitrogen molecule",
+                "relation": "AtLocation",
+                "similarity": 0.28124499320983887,
+                "tail": "air"
+            }
+        ]
+    },
+    {
+        "id": "validation_Chemistry_30",
+        "question_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.7522799968719482,
+                "tail": "different atoms"
+            },
+            {
+                "head": "formula",
+                "relation": "MadeUpOf",
+                "similarity": 0.7482889592647552,
+                "tail": "chemical notation"
+            },
+            {
+                "head": "chemist",
+                "relation": "CapableOf",
+                "similarity": 0.7382756471633911,
+                "tail": "understand chemistry"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7346022725105286,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "periodic table chart",
+                "relation": "ObjectUse",
+                "similarity": 0.7237488031387329,
+                "tail": "study the elements"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.29714079201221466,
+                "tail": "to read the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.29406237602233887,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.28960755467414856,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.28864409029483795,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "formula",
+                "relation": "MadeUpOf",
+                "similarity": 0.2865504324436188,
+                "tail": "subformula"
+            }
+        ]
+    }
+]

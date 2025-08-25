@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Music_1",
+        "question_commonsense": [
+            {
+                "head": "song notes",
+                "relation": "ObjectUse",
+                "similarity": 0.8458481132984161,
+                "tail": "read notes"
+            },
+            {
+                "head": "PersonX writes PersonY a note",
+                "relation": "oEffect",
+                "similarity": 0.8394457399845123,
+                "tail": "responds to the note"
+            },
+            {
+                "head": "song notes",
+                "relation": "ObjectUse",
+                "similarity": 0.8391723930835724,
+                "tail": "learn how to play a song"
+            },
+            {
+                "head": "song notes",
+                "relation": "ObjectUse",
+                "similarity": 0.8376992046833038,
+                "tail": "instruct to how to sing"
+            },
+            {
+                "head": "PersonX notes every ___",
+                "relation": "xWant",
+                "similarity": 0.8365241885185242,
+                "tail": "write these details down"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "typewriter key",
+                "relation": "ObjectUse",
+                "similarity": 0.2686268538236618,
+                "tail": "type letter symbol or number"
+            },
+            {
+                "head": "tuning fork",
+                "relation": "ObjectUse",
+                "similarity": 0.2650991827249527,
+                "tail": "get the right pitch for an instrument."
+            },
+            {
+                "head": "musical notation software",
+                "relation": "ObjectUse",
+                "similarity": 0.26400359719991684,
+                "tail": "reverse engineer and open source"
+            },
+            {
+                "head": "typewriter key",
+                "relation": "ObjectUse",
+                "similarity": 0.2598861902952194,
+                "tail": "indicating specific letter"
+            },
+            {
+                "head": "tuning fork",
+                "relation": "ObjectUse",
+                "similarity": 0.25898804515600204,
+                "tail": "tighten the piano strings"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX tells the truth",
+                "relation": "xReact",
+                "similarity": 0.9368225932121277,
+                "tail": "truthful"
+            },
+            {
+                "head": "PersonX tells PersonY the truth",
+                "relation": "oEffect",
+                "similarity": 0.9333449602127075,
+                "tail": "knows the truth"
+            },
+            {
+                "head": "PersonX tells PersonY the truth",
+                "relation": "xAttr",
+                "similarity": 0.9279403686523438,
+                "tail": "honest"
+            },
+            {
+                "head": "PersonX tells PersonY the truth",
+                "relation": "xAttr",
+                "similarity": 0.9279403686523438,
+                "tail": "honest"
+            },
+            {
+                "head": "PersonX tells PersonY the truth",
+                "relation": "xAttr",
+                "similarity": 0.9279403686523438,
+                "tail": "honest"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.29342566430568695,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "song notes",
+                "relation": "ObjectUse",
+                "similarity": 0.28841763734817505,
+                "tail": "instruct to how to sing"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.287861168384552,
+                "tail": "see the notes to play"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.2848888039588928,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.28114548325538635,
+                "tail": "write the sound down on"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xWant",
+                "similarity": 0.8777423799037933,
+                "tail": "to set up the interface"
+            },
+            {
+                "head": "PersonX indicates PersonY intention",
+                "relation": "xAttr",
+                "similarity": 0.8734287917613983,
+                "tail": "Analytical"
+            },
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xNeed",
+                "similarity": 0.8724144995212555,
+                "tail": "understand the interface"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.8712606430053711,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX indicates PersonY intention",
+                "relation": "xWant",
+                "similarity": 0.8698889911174774,
+                "tail": "to help PersonY explain."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.30031339824199677,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.2963571846485138,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.29103928804397583,
+                "tail": "see the notes to play"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2902267575263977,
+                "tail": "write the sound down on"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.2856527268886566,
+                "tail": "orchestra"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_4",
+        "question_commonsense": [
+            {
+                "head": "music scores",
+                "relation": "ObjectUse",
+                "similarity": 0.8348662853240967,
+                "tail": "compose a song"
+            },
+            {
+                "head": "more music scores",
+                "relation": "ObjectUse",
+                "similarity": 0.8342121243476868,
+                "tail": "plagiarize someone else's music scores"
+            },
+            {
+                "head": "PersonX plays classical music",
+                "relation": "xAttr",
+                "similarity": 0.8341720998287201,
+                "tail": "musically inclined"
+            },
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.8278619050979614,
+                "tail": "compose a song"
+            },
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.8278124034404755,
+                "tail": "Learn the song"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.29215623438358307,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2919238656759262,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "soprano",
+                "relation": "CapableOf",
+                "similarity": 0.2891639173030853,
+                "tail": "add high notes"
+            },
+            {
+                "head": "soprano",
+                "relation": "AtLocation",
+                "similarity": 0.2873106747865677,
+                "tail": "vocal quartet"
+            },
+            {
+                "head": "soprano",
+                "relation": "CapableOf",
+                "similarity": 0.2856893837451935,
+                "tail": "hitting high notes"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX tells the truth",
+                "relation": "xReact",
+                "similarity": 0.9368225932121277,
+                "tail": "truthful"
+            },
+            {
+                "head": "PersonX tells PersonY the truth",
+                "relation": "oEffect",
+                "similarity": 0.9333449602127075,
+                "tail": "knows the truth"
+            },
+            {
+                "head": "PersonX tells PersonY the truth",
+                "relation": "xAttr",
+                "similarity": 0.9279403686523438,
+                "tail": "honest"
+            },
+            {
+                "head": "PersonX tells PersonY the truth",
+                "relation": "xAttr",
+                "similarity": 0.9279403686523438,
+                "tail": "honest"
+            },
+            {
+                "head": "PersonX tells PersonY the truth",
+                "relation": "xAttr",
+                "similarity": 0.9279403686523438,
+                "tail": "honest"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "dictaphone",
+                "relation": "ObjectUse",
+                "similarity": 0.2590307146310806,
+                "tail": "transcribe files"
+            },
+            {
+                "head": "word document",
+                "relation": "ObjectUse",
+                "similarity": 0.257317453622818,
+                "tail": "store electronic resume"
+            },
+            {
+                "head": "metranome",
+                "relation": "ObjectUse",
+                "similarity": 0.2560027688741684,
+                "tail": "coordinate to a meditative breathing rate"
+            },
+            {
+                "head": "electronic file",
+                "relation": "ObjectUse",
+                "similarity": 0.2556402385234833,
+                "tail": "send by email to blackmail soneone with"
+            },
+            {
+                "head": "metranome",
+                "relation": "ObjectUse",
+                "similarity": 0.2555271163582802,
+                "tail": "help learn the piano"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY example",
+                "relation": "xWant",
+                "similarity": 0.8102213144302368,
+                "tail": "to explain PersonY's example"
+            },
+            {
+                "head": "PersonX gives PersonY example",
+                "relation": "xWant",
+                "similarity": 0.8102213144302368,
+                "tail": "to explain the example to PersonY"
+            },
+            {
+                "head": "PersonX gives PersonY example",
+                "relation": "xNeed",
+                "similarity": 0.8027835488319397,
+                "tail": "to understand the example"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.8019108474254608,
+                "tail": "PersonX offers one example"
+            },
+            {
+                "head": "PersonX gives PersonY example",
+                "relation": "oEffect",
+                "similarity": 0.7996296882629395,
+                "tail": "Gives an answer"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.294006884098053,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "sheet music paper",
+                "relation": "ObjectUse",
+                "similarity": 0.28697922825813293,
+                "tail": "compose the music"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.283987358212471,
+                "tail": "see the notes to play"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.28352437913417816,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.28214965760707855,
+                "tail": "read the song"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_7",
+        "question_commonsense": [
+            {
+                "head": "chord chart",
+                "relation": "ObjectUse",
+                "similarity": 0.8181896805763245,
+                "tail": "look up guitar chords"
+            },
+            {
+                "head": "patch chord",
+                "relation": "ObjectUse",
+                "similarity": 0.8034887313842773,
+                "tail": "play music"
+            },
+            {
+                "head": "patch chord",
+                "relation": "ObjectUse",
+                "similarity": 0.8006199300289154,
+                "tail": "allow a guitar to sound loud"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.7999137341976166,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.7991124391555786,
+                "tail": "Learn the song"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.3047533482313156,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2936502546072006,
+                "tail": "see the notes to play"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2910045385360718,
+                "tail": "write the sound down on"
+            },
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.28570693731307983,
+                "tail": "Learn the song"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2856026440858841,
+                "tail": "read the song"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.9007131457328796,
+                "tail": "PersonX offers one example"
+            },
+            {
+                "head": "PersonX gives PersonY example",
+                "relation": "xWant",
+                "similarity": 0.895160049200058,
+                "tail": "to explain PersonY's example"
+            },
+            {
+                "head": "PersonX gives PersonY example",
+                "relation": "xWant",
+                "similarity": 0.895160049200058,
+                "tail": "to explain the example to PersonY"
+            },
+            {
+                "head": "PersonX gives PersonY example",
+                "relation": "xNeed",
+                "similarity": 0.8929082751274109,
+                "tail": "to understand the example"
+            },
+            {
+                "head": "PersonX gives PersonY example",
+                "relation": "oEffect",
+                "similarity": 0.887979656457901,
+                "tail": "Gives an answer"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.29153674840927124,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "more music scores",
+                "relation": "ObjectUse",
+                "similarity": 0.2896444648504257,
+                "tail": "plagiarize someone else's music scores"
+            },
+            {
+                "head": "more music scores",
+                "relation": "ObjectUse",
+                "similarity": 0.27809178829193115,
+                "tail": "keep track of learning music"
+            },
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.2777424156665802,
+                "tail": "Learn the song"
+            },
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.2775982916355133,
+                "tail": "compose a song"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_9",
+        "question_commonsense": [
+            {
+                "head": "chord chart",
+                "relation": "ObjectUse",
+                "similarity": 0.7967348396778107,
+                "tail": "look up guitar chords"
+            },
+            {
+                "head": "patch chord",
+                "relation": "ObjectUse",
+                "similarity": 0.773566335439682,
+                "tail": "allow a guitar to sound loud"
+            },
+            {
+                "head": "musical notation software",
+                "relation": "ObjectUse",
+                "similarity": 0.7724444270133972,
+                "tail": "write music"
+            },
+            {
+                "head": "musical notation software",
+                "relation": "ObjectUse",
+                "similarity": 0.7706985771656036,
+                "tail": "make music easier to learn"
+            },
+            {
+                "head": "patch chord",
+                "relation": "ObjectUse",
+                "similarity": 0.7678582668304443,
+                "tail": "play music"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.29667896032333374,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.28316493332386017,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2814462184906006,
+                "tail": "write the sound down on"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2804606407880783,
+                "tail": "see the notes to play"
+            },
+            {
+                "head": "patch chord",
+                "relation": "ObjectUse",
+                "similarity": 0.280132994055748,
+                "tail": "use for a band"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_10",
+        "question_commonsense": [
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.7840211093425751,
+                "tail": "Learn the song"
+            },
+            {
+                "head": "PersonX has a math test on friday",
+                "relation": "xEffect",
+                "similarity": 0.7790490984916687,
+                "tail": "writes the test"
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "xEffect",
+                "similarity": 0.7787691950798035,
+                "tail": "to has a math test"
+            },
+            {
+                "head": "PersonX has a math test on friday",
+                "relation": "HinderedBy",
+                "similarity": 0.7758350670337677,
+                "tail": "The teacher decided not to do the test until next Monday."
+            },
+            {
+                "head": "PersonX has a math test",
+                "relation": "xEffect",
+                "similarity": 0.7747078537940979,
+                "tail": "to write the test"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2960343211889267,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.28635260462760925,
+                "tail": "write the sound down on"
+            },
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.2833680510520935,
+                "tail": "Learn the song"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2831333428621292,
+                "tail": "see the notes to play"
+            },
+            {
+                "head": "instrument triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.28154291212558746,
+                "tail": "percussion"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_11",
+        "question_commonsense": [
+            {
+                "head": "ornaments",
+                "relation": "ObjectUse",
+                "similarity": 0.800456315279007,
+                "tail": "decorate it with"
+            },
+            {
+                "head": "PersonX considers the ___ in detail",
+                "relation": "xAttr",
+                "similarity": 0.7996720671653748,
+                "tail": "detailed"
+            },
+            {
+                "head": "PersonX considers this ___ in detail",
+                "relation": "xNeed",
+                "similarity": 0.795661211013794,
+                "tail": "to think"
+            },
+            {
+                "head": "PersonX considers the ___ in detail",
+                "relation": "xReact",
+                "similarity": 0.7929653227329254,
+                "tail": "good"
+            },
+            {
+                "head": "PersonX considers this ___ in detail",
+                "relation": "xEffect",
+                "similarity": 0.7928470373153687,
+                "tail": "to detail the prize"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.2944145202636719,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.29169853031635284,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.2866222411394119,
+                "tail": "orchestra"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.2866222411394119,
+                "tail": "the orchestra"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2861265689134598,
+                "tail": "see the notes to play"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_12",
+        "question_commonsense": [
+            {
+                "head": "PersonX takes ___ to a bar",
+                "relation": "xNeed",
+                "similarity": 0.8470946550369263,
+                "tail": "to find bar"
+            },
+            {
+                "head": "PersonX takes PersonY to a bar",
+                "relation": "xNeed",
+                "similarity": 0.8442186415195465,
+                "tail": "to find a bar."
+            },
+            {
+                "head": "PersonX takes PersonY to a bar",
+                "relation": "xEffect",
+                "similarity": 0.8421725630760193,
+                "tail": "to takes to a bar"
+            },
+            {
+                "head": "PersonX takes PersonY to a bar",
+                "relation": "xEffect",
+                "similarity": 0.8415473997592926,
+                "tail": "to bar always"
+            },
+            {
+                "head": "PersonX takes PersonY to a bar",
+                "relation": "xNeed",
+                "similarity": 0.8333096504211426,
+                "tail": "to find a way to get to a bar."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.28475528955459595,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "sheet music",
+                "relation": "ObjectUse",
+                "similarity": 0.2835315763950348,
+                "tail": "play the right notes"
+            },
+            {
+                "head": "sheet music paper",
+                "relation": "ObjectUse",
+                "similarity": 0.2827378362417221,
+                "tail": "compose the music"
+            },
+            {
+                "head": "music sheets",
+                "relation": "ObjectUse",
+                "similarity": 0.27920494973659515,
+                "tail": "help the band know when to play"
+            },
+            {
+                "head": "sheet music",
+                "relation": "ObjectUse",
+                "similarity": 0.27735164761543274,
+                "tail": "memorize for the performance"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_13",
+        "question_commonsense": [
+            {
+                "head": "musical notation software",
+                "relation": "ObjectUse",
+                "similarity": 0.8132369518280029,
+                "tail": "write music"
+            },
+            {
+                "head": "musical notation software",
+                "relation": "ObjectUse",
+                "similarity": 0.8026994466781616,
+                "tail": "make music easier to learn"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xAttr",
+                "similarity": 0.7974443435668945,
+                "tail": "mathmatical"
+            },
+            {
+                "head": "musical notation software",
+                "relation": "ObjectUse",
+                "similarity": 0.7970892786979675,
+                "tail": "create a new language"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xNeed",
+                "similarity": 0.7970079779624939,
+                "tail": "to be programming"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.30160772800445557,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "sheet music paper",
+                "relation": "ObjectUse",
+                "similarity": 0.29092952609062195,
+                "tail": "compose the music"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2839427590370178,
+                "tail": "see the notes to play"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2828059792518616,
+                "tail": "write the sound down on"
+            },
+            {
+                "head": "music sheets",
+                "relation": "ObjectUse",
+                "similarity": 0.2827891409397125,
+                "tail": "help the band know when to play"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xNeed",
+                "similarity": 0.8311994075775146,
+                "tail": "understand the interface"
+            },
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xAttr",
+                "similarity": 0.829048752784729,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xAttr",
+                "similarity": 0.829048752784729,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xAttr",
+                "similarity": 0.829048752784729,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX uses ___ to determine",
+                "relation": "xAttr",
+                "similarity": 0.8289627432823181,
+                "tail": "analytical"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.30869974195957184,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "more music scores",
+                "relation": "ObjectUse",
+                "similarity": 0.3068852573633194,
+                "tail": "plagiarize someone else's music scores"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.29601143300533295,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "more music scores",
+                "relation": "ObjectUse",
+                "similarity": 0.294101357460022,
+                "tail": "keep track of learning music"
+            },
+            {
+                "head": "music scores",
+                "relation": "ObjectUse",
+                "similarity": 0.29339325428009033,
+                "tail": "compose a song"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_15",
+        "question_commonsense": [
+            {
+                "head": "note",
+                "relation": "ObjectUse",
+                "similarity": 0.8549278974533081,
+                "tail": "send message"
+            },
+            {
+                "head": "note",
+                "relation": "ObjectUse",
+                "similarity": 0.8536368310451508,
+                "tail": "look at"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oWant",
+                "similarity": 0.8520309627056122,
+                "tail": "to accept the picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.8513126373291016,
+                "tail": "to pick up a picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.8507422804832458,
+                "tail": "to print a picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2968145161867142,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.2956724613904953,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.28990665078163147,
+                "tail": "orchestra"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.28990665078163147,
+                "tail": "the orchestra"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.28750573098659515,
+                "tail": "write the sound down on"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_16",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xIntent",
+                "similarity": 0.837682694196701,
+                "tail": "to explain using figures"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.8343227505683899,
+                "tail": "tests"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xNeed",
+                "similarity": 0.834082841873169,
+                "tail": "to understand the situation"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xReact",
+                "similarity": 0.8336041271686554,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "oEffect",
+                "similarity": 0.8325149714946747,
+                "tail": "understand the schematics"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.27623312175273895,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.268610879778862,
+                "tail": "Person x makes inferences and/or calculations based upon results"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.2686084359884262,
+                "tail": "to be percise"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.2678225636482239,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "isFilledBy",
+                "similarity": 0.2666223496198654,
+                "tail": "garment"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_17",
+        "question_commonsense": [
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.8353900611400604,
+                "tail": "Learn the song"
+            },
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.8297121822834015,
+                "tail": "compose a song"
+            },
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.8272764980792999,
+                "tail": "teach a child to play music"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.8254990875720978,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "musical notation software",
+                "relation": "ObjectUse",
+                "similarity": 0.8254682123661041,
+                "tail": "write music"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.3006906658411026,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.2916366010904312,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.28896698355674744,
+                "tail": "see the notes to play"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2888226807117462,
+                "tail": "write the sound down on"
+            },
+            {
+                "head": "patch chord",
+                "relation": "ObjectUse",
+                "similarity": 0.2863283306360245,
+                "tail": "use for a band"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_18",
+        "question_commonsense": [
+            {
+                "head": "question",
+                "relation": "ObjectUse",
+                "similarity": 0.8611060976982117,
+                "tail": "find the answer to"
+            },
+            {
+                "head": "PersonX lets PersonY know what you think",
+                "relation": "HinderedBy",
+                "similarity": 0.8601373434066772,
+                "tail": "PersonX does not know what you think."
+            },
+            {
+                "head": "PersonX lets PersonY know what you think",
+                "relation": "xWant",
+                "similarity": 0.859628826379776,
+                "tail": "to be understood"
+            },
+            {
+                "head": "PersonX answers the ___ first",
+                "relation": "xReact",
+                "similarity": 0.8559079170227051,
+                "tail": "good"
+            },
+            {
+                "head": "PersonX lets PersonY know what you think",
+                "relation": "xAttr",
+                "similarity": 0.855214923620224,
+                "tail": "expressive"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.28442054986953735,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "patch chord",
+                "relation": "ObjectUse",
+                "similarity": 0.2743595391511917,
+                "tail": "use for a band"
+            },
+            {
+                "head": "baritone",
+                "relation": "ObjectUse",
+                "similarity": 0.27435703575611115,
+                "tail": "saxing"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.27279549837112427,
+                "tail": "measure distance"
+            },
+            {
+                "head": "baritone",
+                "relation": "ObjectUse",
+                "similarity": 0.2725985199213028,
+                "tail": "smooth jazz"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_19",
+        "question_commonsense": [
+            {
+                "head": "PersonX answers the ___ correctly",
+                "relation": "xWant",
+                "similarity": 0.8175910115242004,
+                "tail": "to find out their score on the test"
+            },
+            {
+                "head": "musical notation software",
+                "relation": "ObjectUse",
+                "similarity": 0.8144619762897491,
+                "tail": "write music"
+            },
+            {
+                "head": "PersonX answers the ___ correctly",
+                "relation": "xReact",
+                "similarity": 0.8108186721801758,
+                "tail": "right"
+            },
+            {
+                "head": "PersonX answers ___ correctly",
+                "relation": "xWant",
+                "similarity": 0.8099935948848724,
+                "tail": "win the contest"
+            },
+            {
+                "head": "PersonX answers ___ correctly",
+                "relation": "xEffect",
+                "similarity": 0.8091287314891815,
+                "tail": "gets praised"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2913624048233032,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.28618617355823517,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2786215543746948,
+                "tail": "see the notes to play"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.2772577702999115,
+                "tail": "orchestra"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.2772577702999115,
+                "tail": "the orchestra"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_20",
+        "question_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.8138837814331055,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.8129900991916656,
+                "tail": "read the song"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xIntent",
+                "similarity": 0.8114870190620422,
+                "tail": "to explain using figures"
+            },
+            {
+                "head": "PersonX comprehends every ___",
+                "relation": "xEffect",
+                "similarity": 0.8079721331596375,
+                "tail": "understands"
+            },
+            {
+                "head": "PersonX makes music",
+                "relation": "oWant",
+                "similarity": 0.807684063911438,
+                "tail": "to find out who PersonX is"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "soprano",
+                "relation": "AtLocation",
+                "similarity": 0.2884676605463028,
+                "tail": "vocal quartet"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.28810904920101166,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "sheet music",
+                "relation": "ObjectUse",
+                "similarity": 0.28789670765399933,
+                "tail": "play the right notes"
+            },
+            {
+                "head": "soprano",
+                "relation": "CapableOf",
+                "similarity": 0.28760814666748047,
+                "tail": "add high notes"
+            },
+            {
+                "head": "soprano",
+                "relation": "CapableOf",
+                "similarity": 0.2829945981502533,
+                "tail": "hitting high notes"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_21",
+        "question_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.8062927722930908,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "musical instrument",
+                "relation": "ObjectUse",
+                "similarity": 0.8010760843753815,
+                "tail": "interpreting piece of music"
+            },
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.8008903861045837,
+                "tail": "Learn the song"
+            },
+            {
+                "head": "brass instrument",
+                "relation": "ObjectUse",
+                "similarity": 0.7985638380050659,
+                "tail": "making music"
+            },
+            {
+                "head": "brass instrument",
+                "relation": "AtLocation",
+                "similarity": 0.7978952825069427,
+                "tail": "jazz band"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "song sheets",
+                "relation": "ObjectUse",
+                "similarity": 0.2964463531970978,
+                "tail": "help practice music pieces"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2912943661212921,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "sheet music paper",
+                "relation": "ObjectUse",
+                "similarity": 0.2889193892478943,
+                "tail": "compose the music"
+            },
+            {
+                "head": "sheet music",
+                "relation": "ObjectUse",
+                "similarity": 0.2871650606393814,
+                "tail": "movie scores"
+            },
+            {
+                "head": "sheet music",
+                "relation": "ObjectUse",
+                "similarity": 0.28691937029361725,
+                "tail": "play the right notes"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX answers the ___ correctly",
+                "relation": "xWant",
+                "similarity": 0.8252553939819336,
+                "tail": "to find out their score on the test"
+            },
+            {
+                "head": "PersonX answers ___ correctly",
+                "relation": "xWant",
+                "similarity": 0.8230882287025452,
+                "tail": "win the contest"
+            },
+            {
+                "head": "PersonX answers the ___ correctly",
+                "relation": "xReact",
+                "similarity": 0.8221376240253448,
+                "tail": "right"
+            },
+            {
+                "head": "PersonX answers the ___ correctly",
+                "relation": "xAttr",
+                "similarity": 0.8195491135120392,
+                "tail": "wise"
+            },
+            {
+                "head": "PersonX answers ___ correctly",
+                "relation": "xIntent",
+                "similarity": 0.8189931511878967,
+                "tail": "do well on test"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "bass clarinet",
+                "relation": "ObjectUse",
+                "similarity": 0.294613778591156,
+                "tail": "play low woodwind notes"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.29122114181518555,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.28168995678424835,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "bass clarinet",
+                "relation": "ObjectUse",
+                "similarity": 0.28045862913131714,
+                "tail": "low notes"
+            },
+            {
+                "head": "bass clarinet",
+                "relation": "ObjectUse",
+                "similarity": 0.27246230840682983,
+                "tail": "play in jazz band"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_23",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9345895648002625,
+                "tail": "to keep the image"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9332962334156036,
+                "tail": "to make more images"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.9296123087406158,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.929495245218277,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.929495245218277,
+                "tail": "to give the image to PersonY"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2975432127714157,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "sheet music paper",
+                "relation": "ObjectUse",
+                "similarity": 0.28891533613204956,
+                "tail": "compose the music"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.287700891494751,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.28715163469314575,
+                "tail": "Learn the song"
+            },
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.2866193354129791,
+                "tail": "teach a child to play music"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_24",
+        "question_commonsense": [
+            {
+                "head": "answer key",
+                "relation": "ObjectUse",
+                "similarity": 0.8048133552074432,
+                "tail": "see correct answers"
+            },
+            {
+                "head": "answer key",
+                "relation": "ObjectUse",
+                "similarity": 0.7976380586624146,
+                "tail": "correct a test"
+            },
+            {
+                "head": "answer key",
+                "relation": "ObjectUse",
+                "similarity": 0.7937176823616028,
+                "tail": "grade the quiz"
+            },
+            {
+                "head": "answer key",
+                "relation": "ObjectUse",
+                "similarity": 0.792848527431488,
+                "tail": "check to make sure you were correct"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xReact",
+                "similarity": 0.7920202612876892,
+                "tail": "helpful"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.30294211208820343,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.29008838534355164,
+                "tail": "see the notes to play"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2878403514623642,
+                "tail": "write the sound down on"
+            },
+            {
+                "head": "instrument triangle",
+                "relation": "AtLocation",
+                "similarity": 0.28241482377052307,
+                "tail": "orchestra"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.28159986436367035,
+                "tail": "read the song"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_25",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xWant",
+                "similarity": 0.8602864742279053,
+                "tail": "to set up the interface"
+            },
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xNeed",
+                "similarity": 0.8479061126708984,
+                "tail": "understand the interface"
+            },
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xAttr",
+                "similarity": 0.8431076407432556,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xAttr",
+                "similarity": 0.8431076407432556,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX provides PersonY interface",
+                "relation": "xAttr",
+                "similarity": 0.8431076407432556,
+                "tail": "helpful"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "second violin",
+                "relation": "ObjectUse",
+                "similarity": 0.3002544939517975,
+                "tail": "accompanying first violin"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2947917580604553,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "second violin",
+                "relation": "ObjectUse",
+                "similarity": 0.289833128452301,
+                "tail": "accompany first violin"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.2878648191690445,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "sheet music paper",
+                "relation": "ObjectUse",
+                "similarity": 0.2873268276453018,
+                "tail": "compose the music"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_26",
+        "question_commonsense": [
+            {
+                "head": "PersonX plays classical music",
+                "relation": "xAttr",
+                "similarity": 0.8825421631336212,
+                "tail": "musically inclined"
+            },
+            {
+                "head": "PersonX plays classical music",
+                "relation": "xEffect",
+                "similarity": 0.8808939456939697,
+                "tail": "PersonX becomes better at their instrument"
+            },
+            {
+                "head": "PersonX makes music",
+                "relation": "xNeed",
+                "similarity": 0.8749829530715942,
+                "tail": "to compose"
+            },
+            {
+                "head": "PersonX makes music",
+                "relation": "oWant",
+                "similarity": 0.8743141293525696,
+                "tail": "to find out who PersonX is"
+            },
+            {
+                "head": "PersonX makes music",
+                "relation": "HinderedBy",
+                "similarity": 0.8720822930335999,
+                "tail": "PersonX can't read music"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.293816402554512,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.2899760752916336,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2852132171392441,
+                "tail": "write the sound down on"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2828931659460068,
+                "tail": "see the notes to play"
+            },
+            {
+                "head": "patch chord",
+                "relation": "ObjectUse",
+                "similarity": 0.28119951486587524,
+                "tail": "use for a band"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_27",
+        "question_commonsense": [
+            {
+                "head": "musical notation software",
+                "relation": "ObjectUse",
+                "similarity": 0.8280560076236725,
+                "tail": "write music"
+            },
+            {
+                "head": "musical notation software",
+                "relation": "ObjectUse",
+                "similarity": 0.8261764347553253,
+                "tail": "make music easier to learn"
+            },
+            {
+                "head": "PersonX makes music",
+                "relation": "HinderedBy",
+                "similarity": 0.8254284858703613,
+                "tail": "PersonX can't read music"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.8223157525062561,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.8213484287261963,
+                "tail": "Practices maths equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2891422510147095,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "sheet music paper",
+                "relation": "ObjectUse",
+                "similarity": 0.28048381209373474,
+                "tail": "compose the music"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2795601487159729,
+                "tail": "see the notes to play"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.27918852865695953,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "music sheets",
+                "relation": "ObjectUse",
+                "similarity": 0.2786453068256378,
+                "tail": "help the band know when to play"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xIntent",
+                "similarity": 0.833150327205658,
+                "tail": "to explain using figures"
+            },
+            {
+                "head": "PersonX makes PersonY inference",
+                "relation": "xWant",
+                "similarity": 0.8305235803127289,
+                "tail": "to help PersonX"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xAttr",
+                "similarity": 0.8302274644374847,
+                "tail": "analytical"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xReact",
+                "similarity": 0.8291206955909729,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xEffect",
+                "similarity": 0.8285833299160004,
+                "tail": "explains the diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "sheet music",
+                "relation": "ObjectUse",
+                "similarity": 0.2832697480916977,
+                "tail": "play the right notes"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.28258563578128815,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "soprano",
+                "relation": "CapableOf",
+                "similarity": 0.27682048082351685,
+                "tail": "add high notes"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2762865722179413,
+                "tail": "see the notes to play"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.27500303089618683,
+                "tail": "write the sound down on"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_29",
+        "question_commonsense": [
+            {
+                "head": "picture",
+                "relation": "ObjectUse",
+                "similarity": 0.9209831953048706,
+                "tail": "post on their account"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.9201945662498474,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9198548793792725,
+                "tail": "to keep the image"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.919512152671814,
+                "tail": "to make more images"
+            },
+            {
+                "head": "picture",
+                "relation": "ObjectUse",
+                "similarity": 0.9181516468524933,
+                "tail": "remember them by"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2927291840314865,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "sheet music paper",
+                "relation": "ObjectUse",
+                "similarity": 0.28902675211429596,
+                "tail": "compose the music"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.28089307248592377,
+                "tail": "read the song"
+            },
+            {
+                "head": "musical sheets",
+                "relation": "ObjectUse",
+                "similarity": 0.2791711091995239,
+                "tail": "learn the notes needed"
+            },
+            {
+                "head": "music sheets",
+                "relation": "ObjectUse",
+                "similarity": 0.2790316343307495,
+                "tail": "help the band know when to play"
+            }
+        ]
+    },
+    {
+        "id": "validation_Music_30",
+        "question_commonsense": [
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.8366567492485046,
+                "tail": "Learn the song"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.8349128663539886,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.8319146931171417,
+                "tail": "read the song"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.8297893404960632,
+                "tail": "write the sound down on"
+            },
+            {
+                "head": "have music notes",
+                "relation": "ObjectUse",
+                "similarity": 0.8281991183757782,
+                "tail": "compose a song"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.2810180187225342,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "patch chord",
+                "relation": "ObjectUse",
+                "similarity": 0.27873118221759796,
+                "tail": "use for a band"
+            },
+            {
+                "head": "patch chord",
+                "relation": "ObjectUse",
+                "similarity": 0.27841268479824066,
+                "tail": "facilitate noise"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.2783486545085907,
+                "tail": "orchestra"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.2783486545085907,
+                "tail": "the orchestra"
+            }
+        ]
+    }
+]

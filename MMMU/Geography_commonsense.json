@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Geography_1",
+        "question_commonsense": [
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.7280023992061615,
+                "tail": "add to the engine to make it go"
+            },
+            {
+                "head": "diagram",
+                "relation": "ObjectUse",
+                "similarity": 0.7278328537940979,
+                "tail": "use to learn for a test"
+            },
+            {
+                "head": "tuning device",
+                "relation": "ObjectUse",
+                "similarity": 0.7269684970378876,
+                "tail": "change pitch of instrument"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.725924164056778,
+                "tail": "fix a problem"
+            },
+            {
+                "head": "PersonX returns to PersonX's position",
+                "relation": "xNeed",
+                "similarity": 0.7247791290283203,
+                "tail": "to get up"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.307739794254303,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.29842372238636017,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.2860187888145447,
+                "tail": "Person x utilizes measuring instrument"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xNeed",
+                "similarity": 0.28565311431884766,
+                "tail": "calculate the dimensions"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.2854516953229904,
+                "tail": "record measurements"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_2",
+        "question_commonsense": [
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.7745326161384583,
+                "tail": "calculating angles"
+            },
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.7656896114349365,
+                "tail": "calculating circumference"
+            },
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.7577421367168427,
+                "tail": "calculating length"
+            },
+            {
+                "head": "circular route",
+                "relation": "ObjectUse",
+                "similarity": 0.7529298365116119,
+                "tail": "go in circles"
+            },
+            {
+                "head": "circular route",
+                "relation": "ObjectUse",
+                "similarity": 0.7515678703784943,
+                "tail": "traveling in circle"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.28256307542324066,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX forms PersonY estimate",
+                "relation": "xWant",
+                "similarity": 0.2780529111623764,
+                "tail": "to present the estimate"
+            },
+            {
+                "head": "floor plans",
+                "relation": "ObjectUse",
+                "similarity": 0.27583861351013184,
+                "tail": "plan a remodel"
+            },
+            {
+                "head": "ground plan",
+                "relation": "ObjectUse",
+                "similarity": 0.27346308529376984,
+                "tail": "start to build a house"
+            },
+            {
+                "head": "PersonX forms PersonY estimate",
+                "relation": "xReact",
+                "similarity": 0.2725311517715454,
+                "tail": "completed the estimation"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses PersonY example",
+                "relation": "xNeed",
+                "similarity": 0.8494902551174164,
+                "tail": "to understand PersonY's example"
+            },
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.8494814932346344,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX draws PersonY inference",
+                "relation": "oWant",
+                "similarity": 0.8484291136264801,
+                "tail": "to be understood"
+            },
+            {
+                "head": "PersonX draws PersonY inference",
+                "relation": "oWant",
+                "similarity": 0.8484291136264801,
+                "tail": "to be understood"
+            },
+            {
+                "head": "PersonX draws PersonY inference",
+                "relation": "HinderedBy",
+                "similarity": 0.8480096757411957,
+                "tail": "PersonX doesn't understand the situation."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "instrument triangle",
+                "relation": "AtLocation",
+                "similarity": 0.28755883872509,
+                "tail": "geometry box"
+            },
+            {
+                "head": "right triangle",
+                "relation": "MadeUpOf",
+                "similarity": 0.27274705469608307,
+                "tail": "one angle 90 degrees"
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "xNeed",
+                "similarity": 0.2711728811264038,
+                "tail": "to learn about person y's position"
+            },
+            {
+                "head": "PersonX supports PersonX's position",
+                "relation": "xWant",
+                "similarity": 0.2695133835077286,
+                "tail": "to argue about their position"
+            },
+            {
+                "head": "instrument triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.26758044213056564,
+                "tail": "sounding alarm"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.9190347194671631,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.9142041802406311,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9139106273651123,
+                "tail": "to sell the image"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oEffect",
+                "similarity": 0.9100189805030823,
+                "tail": "looks better"
+            },
+            {
+                "head": "PersonX makes ___ in PersonY's image",
+                "relation": "xEffect",
+                "similarity": 0.9085928797721863,
+                "tail": "sees it is good"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "map",
+                "relation": "AtLocation",
+                "similarity": 0.2913144379854202,
+                "tail": "map website"
+            },
+            {
+                "head": "PersonX follows in detail the map",
+                "relation": "isBefore",
+                "similarity": 0.2839194983243942,
+                "tail": "PersonX finds the correct route"
+            },
+            {
+                "head": "map",
+                "relation": "ObjectUse",
+                "similarity": 0.2788657546043396,
+                "tail": "lay out plan"
+            },
+            {
+                "head": "map",
+                "relation": "ObjectUse",
+                "similarity": 0.27819906175136566,
+                "tail": "estimate distances"
+            },
+            {
+                "head": "underground map",
+                "relation": "ObjectUse",
+                "similarity": 0.2772441804409027,
+                "tail": "navigate tunnels"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8617956936359406,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "isFilledBy",
+                "similarity": 0.8589802980422974,
+                "tail": "drawing"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xAttr",
+                "similarity": 0.8583780825138092,
+                "tail": "understanding"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.8583418130874634,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "picture",
+                "relation": "ObjectUse",
+                "similarity": 0.8557084500789642,
+                "tail": "remember them by"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.27833637595176697,
+                "tail": "stator"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2758689224720001,
+                "tail": "field magnet"
+            },
+            {
+                "head": "thermostat",
+                "relation": "MadeUpOf",
+                "similarity": 0.27197471261024475,
+                "tail": "bimetallic strip"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.2712329551577568,
+                "tail": "add to the engine to make it go"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.27049003541469574,
+                "tail": "fix a problem"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.6645957231521606,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6631630957126617,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.6592990458011627,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6547550857067108,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.6546375453472137,
+                "tail": "scientific"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "mortorboard",
+                "relation": "ObjectUse",
+                "similarity": 0.2661284878849983,
+                "tail": "cover a window"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "oWant",
+                "similarity": 0.2660301774740219,
+                "tail": "find holes in the individual's argument"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.2645122855901718,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.26368340849876404,
+                "tail": "add to the engine to make it go"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.26256272196769714,
+                "tail": "fix a problem"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_7",
+        "question_commonsense": [
+            {
+                "head": "world",
+                "relation": "AtLocation",
+                "similarity": 0.8755084872245789,
+                "tail": "countries"
+            },
+            {
+                "head": "world",
+                "relation": "HasProperty",
+                "similarity": 0.8662029206752777,
+                "tail": "made up of countries"
+            },
+            {
+                "head": "world",
+                "relation": "HasProperty",
+                "similarity": 0.8623862266540527,
+                "tail": "divided in many countries"
+            },
+            {
+                "head": "maps",
+                "relation": "ObjectUse",
+                "similarity": 0.8605406284332275,
+                "tail": "find landmarks within a specific region"
+            },
+            {
+                "head": "map app",
+                "relation": "ObjectUse",
+                "similarity": 0.85691237449646,
+                "tail": "locate a specific place"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "landmass",
+                "relation": "ObjectUse",
+                "similarity": 0.2616592198610306,
+                "tail": "creating islands and or continents"
+            },
+            {
+                "head": "landmass",
+                "relation": "ObjectUse",
+                "similarity": 0.25933021306991577,
+                "tail": "establishing civilizations"
+            },
+            {
+                "head": "PersonX does this work around the world",
+                "relation": "HinderedBy",
+                "similarity": 0.25837013125419617,
+                "tail": "PersonX has no market demand in other countries for his work."
+            },
+            {
+                "head": "landmass",
+                "relation": "ObjectUse",
+                "similarity": 0.25420116633176804,
+                "tail": "building cities"
+            },
+            {
+                "head": "landmass",
+                "relation": "ObjectUse",
+                "similarity": 0.2527167797088623,
+                "tail": "build cities"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_8",
+        "question_commonsense": [
+            {
+                "head": "map",
+                "relation": "AtLocation",
+                "similarity": 0.5804629921913147,
+                "tail": "map website"
+            },
+            {
+                "head": "map",
+                "relation": "ObjectUse",
+                "similarity": 0.5783776044845581,
+                "tail": "estimate distances"
+            },
+            {
+                "head": "water displacement",
+                "relation": "AtLocation",
+                "similarity": 0.5776969492435455,
+                "tail": "boat"
+            },
+            {
+                "head": "map",
+                "relation": "AtLocation",
+                "similarity": 0.5737065672874451,
+                "tail": "library"
+            },
+            {
+                "head": "map",
+                "relation": "ObjectUse",
+                "similarity": 0.569118082523346,
+                "tail": "show terrain"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.2774099260568619,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX forms PersonY estimate",
+                "relation": "xWant",
+                "similarity": 0.2686678469181061,
+                "tail": "to present the estimate"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "isFilledBy",
+                "similarity": 0.2680436298251152,
+                "tail": "garment"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.2673664689064026,
+                "tail": "to be percise"
+            },
+            {
+                "head": "ground plan",
+                "relation": "ObjectUse",
+                "similarity": 0.2659907117486,
+                "tail": "learn about architecture for school"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_9",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.8108995258808136,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.8104833364486694,
+                "tail": "illustrative"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.8099896013736725,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.8081223368644714,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "population",
+                "relation": "AtLocation",
+                "similarity": 0.8079829514026642,
+                "tail": "area with people inhabiting"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2688383311033249,
+                "tail": "clearly present data"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2655586153268814,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "density",
+                "relation": "HasProperty",
+                "similarity": 0.26483240723609924,
+                "tail": "mass per unit volume"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2644170671701431,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "xNeed",
+                "similarity": 0.2628442198038101,
+                "tail": "to figure how many cells there are"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_10",
+        "question_commonsense": [
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.6978504657745361,
+                "tail": "linear algebra"
+            },
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.6894746422767639,
+                "tail": "vector space"
+            },
+            {
+                "head": "circular route",
+                "relation": "ObjectUse",
+                "similarity": 0.6893467307090759,
+                "tail": "go in circles"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6781677901744843,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "circular route",
+                "relation": "ObjectUse",
+                "similarity": 0.6764614284038544,
+                "tail": "traveling in circle"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.2961049824953079,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27979493141174316,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.27931074798107147,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2779146581888199,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.27603043615818024,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.8431580662727356,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.8427820205688477,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.8423846662044525,
+                "tail": "illustrative"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.8415016531944275,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.8413898050785065,
+                "tail": "draw a diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX climbs mountains",
+                "relation": "xNeed",
+                "similarity": 0.26681070029735565,
+                "tail": "Determine which mountains to climb"
+            },
+            {
+                "head": "PersonX climbs mountains",
+                "relation": "xEffect",
+                "similarity": 0.26257628202438354,
+                "tail": "PersonX reaches the summit"
+            },
+            {
+                "head": "PersonX climbs the mountain",
+                "relation": "xIntent",
+                "similarity": 0.25713205337524414,
+                "tail": "to accomplish climbing a mountain"
+            },
+            {
+                "head": "PersonX climbs a mountain",
+                "relation": "xIntent",
+                "similarity": 0.2566327378153801,
+                "tail": "to reach the top of the mountain"
+            },
+            {
+                "head": "PersonX climbs mountains",
+                "relation": "xIntent",
+                "similarity": 0.2563531920313835,
+                "tail": "to reach the summit"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_12",
+        "question_commonsense": [
+            {
+                "head": "mauna loa",
+                "relation": "AtLocation",
+                "similarity": 0.622135192155838,
+                "tail": "hawaii"
+            },
+            {
+                "head": "PersonX takes ___ to hawaii",
+                "relation": "isFilledBy",
+                "similarity": 0.6193681061267853,
+                "tail": "vacations"
+            },
+            {
+                "head": "new guinea",
+                "relation": "AtLocation",
+                "similarity": 0.6155917346477509,
+                "tail": "melanesia"
+            },
+            {
+                "head": "PersonX takes ___ to hawaii",
+                "relation": "xWant",
+                "similarity": 0.6141064465045929,
+                "tail": "to see the lava"
+            },
+            {
+                "head": "pacific ocean",
+                "relation": "HasProperty",
+                "similarity": 0.6136607229709625,
+                "tail": "salt"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "lake vostok",
+                "relation": "MadeUpOf",
+                "similarity": 0.24723828583955765,
+                "tail": "two distinct basins"
+            },
+            {
+                "head": "gis system",
+                "relation": "ObjectUse",
+                "similarity": 0.24528513848781586,
+                "tail": "mark an itinerary"
+            },
+            {
+                "head": "gis system",
+                "relation": "ObjectUse",
+                "similarity": 0.23704377561807632,
+                "tail": "discover new places to visit"
+            },
+            {
+                "head": "gis system",
+                "relation": "ObjectUse",
+                "similarity": 0.23633352667093277,
+                "tail": "store information"
+            },
+            {
+                "head": "gis system",
+                "relation": "ObjectUse",
+                "similarity": 0.2328818365931511,
+                "tail": "find a route"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_13",
+        "question_commonsense": [
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.7468871474266052,
+                "tail": "manage structured data"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xNeed",
+                "similarity": 0.733403205871582,
+                "tail": "get data analysis software"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xWant",
+                "similarity": 0.7309730052947998,
+                "tail": "make decisions based on the data analysis"
+            },
+            {
+                "head": "PersonX uses in PersonX's construction",
+                "relation": "HinderedBy",
+                "similarity": 0.7303712368011475,
+                "tail": "PersonX sold that construction and the new owner won't sell it back."
+            },
+            {
+                "head": "programmable logic controller",
+                "relation": "ObjectUse",
+                "similarity": 0.728386789560318,
+                "tail": "control processes in factory"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.29268133640289307,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xEffect",
+                "similarity": 0.27372054755687714,
+                "tail": "Does the math"
+            },
+            {
+                "head": "trigonometry textbook",
+                "relation": "ObjectUse",
+                "similarity": 0.2721327245235443,
+                "tail": "solve math problems"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xNeed",
+                "similarity": 0.2715022712945938,
+                "tail": "to take out a tape measurer"
+            },
+            {
+                "head": "PersonX supports PersonX's position",
+                "relation": "xWant",
+                "similarity": 0.26700860261917114,
+                "tail": "to argue about their position"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses in PersonX's construction",
+                "relation": "HinderedBy",
+                "similarity": 0.6344667375087738,
+                "tail": "PersonX sold that construction and the new owner won't sell it back."
+            },
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.6312871873378754,
+                "tail": "manage structured data"
+            },
+            {
+                "head": "PersonX builds PersonX's own computer",
+                "relation": "xNeed",
+                "similarity": 0.6271449029445648,
+                "tail": "to order parts online"
+            },
+            {
+                "head": "PersonX uses in PersonX's construction",
+                "relation": "xNeed",
+                "similarity": 0.6258954405784607,
+                "tail": "create a piece of construction"
+            },
+            {
+                "head": "PersonX uses in PersonX's construction",
+                "relation": "xNeed",
+                "similarity": 0.6229435801506042,
+                "tail": "find a need to use it"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "patent",
+                "relation": "MadeUpOf",
+                "similarity": 0.28480102121829987,
+                "tail": "patent reference"
+            },
+            {
+                "head": "patent",
+                "relation": "MadeUpOf",
+                "similarity": 0.2847852259874344,
+                "tail": "patent number"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27930568158626556,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "fastener binder",
+                "relation": "ObjectUse",
+                "similarity": 0.2781088799238205,
+                "tail": "bind fasteners"
+            },
+            {
+                "head": "patent",
+                "relation": "MadeUpOf",
+                "similarity": 0.27587340772151947,
+                "tail": "inventor's name"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX rocks back and forth",
+                "relation": "xWant",
+                "similarity": 0.8495008945465088,
+                "tail": "to think deeply"
+            },
+            {
+                "head": "rocks",
+                "relation": "ObjectUse",
+                "similarity": 0.8486748039722443,
+                "tail": "create a tool out of"
+            },
+            {
+                "head": "PersonX rocks back and forth",
+                "relation": "xEffect",
+                "similarity": 0.8479497730731964,
+                "tail": "moves body back and forth."
+            },
+            {
+                "head": "rocks",
+                "relation": "ObjectUse",
+                "similarity": 0.8469147682189941,
+                "tail": "strike together"
+            },
+            {
+                "head": "PersonX rocks back and forth",
+                "relation": "xAttr",
+                "similarity": 0.8464094698429108,
+                "tail": "strong"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX distinguishes ___ from animals",
+                "relation": "xWant",
+                "similarity": 0.2661549001932144,
+                "tail": "to teach biology"
+            },
+            {
+                "head": "PersonX distinguishes ___ from animals",
+                "relation": "oWant",
+                "similarity": 0.26272523403167725,
+                "tail": "to learn biology"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xEffect",
+                "similarity": 0.2573011964559555,
+                "tail": "explains the diagram"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "oEffect",
+                "similarity": 0.25630874931812286,
+                "tail": "understand the schematics"
+            },
+            {
+                "head": "PersonX distinguishes ___ from animals",
+                "relation": "xEffect",
+                "similarity": 0.2562025934457779,
+                "tail": "makes good classification"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_16",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9176384508609772,
+                "tail": "to make more images"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xIntent",
+                "similarity": 0.9153065979480743,
+                "tail": "to try out photoshop"
+            },
+            {
+                "head": "PersonX takes another look",
+                "relation": "xEffect",
+                "similarity": 0.9130260348320007,
+                "tail": "gets confused"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.9128965139389038,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX takes another look",
+                "relation": "xIntent",
+                "similarity": 0.9127312004566193,
+                "tail": "to be sure"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "siberia",
+                "relation": "HasProperty",
+                "similarity": 0.28058888018131256,
+                "tail": "east of ural mountains"
+            },
+            {
+                "head": "northwest passage",
+                "relation": "AtLocation",
+                "similarity": 0.26176629960536957,
+                "tail": "arctic"
+            },
+            {
+                "head": "PersonX begins to snow",
+                "relation": "xNeed",
+                "similarity": 0.2610241323709488,
+                "tail": "to live in a cold climate"
+            },
+            {
+                "head": "PersonX travels to canada",
+                "relation": "xIntent",
+                "similarity": 0.2570185288786888,
+                "tail": "to explore canada"
+            },
+            {
+                "head": "PersonX travels to canada",
+                "relation": "xIntent",
+                "similarity": 0.2555461972951889,
+                "tail": "to visit canada"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses in PersonX's construction",
+                "relation": "xNeed",
+                "similarity": 0.7827094793319702,
+                "tail": "create a piece of construction"
+            },
+            {
+                "head": "PersonX uses in PersonX's construction",
+                "relation": "xNeed",
+                "similarity": 0.7747295498847961,
+                "tail": "find a need to use it"
+            },
+            {
+                "head": "PersonX uses in PersonX's construction",
+                "relation": "xAttr",
+                "similarity": 0.7718610167503357,
+                "tail": "efficient"
+            },
+            {
+                "head": "PersonX uses in PersonX's construction",
+                "relation": "HinderedBy",
+                "similarity": 0.7713807225227356,
+                "tail": "PersonX doesn't know how."
+            },
+            {
+                "head": "PersonX uses in PersonX's construction",
+                "relation": "xWant",
+                "similarity": 0.771182656288147,
+                "tail": "find more uses"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "height measurer",
+                "relation": "ObjectUse",
+                "similarity": 0.2878574728965759,
+                "tail": "measure how tall the ceiling is"
+            },
+            {
+                "head": "apparatus",
+                "relation": "ObjectUse",
+                "similarity": 0.28027839958667755,
+                "tail": "measure results"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.2789321690797806,
+                "tail": "measure distance"
+            },
+            {
+                "head": "height measurer",
+                "relation": "ObjectUse",
+                "similarity": 0.2780233919620514,
+                "tail": "determine height"
+            },
+            {
+                "head": "ground plan",
+                "relation": "ObjectUse",
+                "similarity": 0.27123959362506866,
+                "tail": "learn about architecture for school"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_18",
+        "question_commonsense": [
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.853460818529129,
+                "tail": "measure temperature"
+            },
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.853460818529129,
+                "tail": "measure their temperature"
+            },
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.8507029414176941,
+                "tail": "check temperature"
+            },
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.8507029414176941,
+                "tail": "check his temperature"
+            },
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.8507029414176941,
+                "tail": "check the temperature with"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.2882264703512192,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.28620000183582306,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.28593161702156067,
+                "tail": "measure temperature"
+            },
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.28593161702156067,
+                "tail": "measure their temperature"
+            },
+            {
+                "head": "thermometer",
+                "relation": "ObjectUse",
+                "similarity": 0.28328369557857513,
+                "tail": "measuring temperature"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_19",
+        "question_commonsense": [
+            {
+                "head": "other test materials",
+                "relation": "ObjectUse",
+                "similarity": 0.7742190957069397,
+                "tail": "fill out a test"
+            },
+            {
+                "head": "PersonX reduces the chemical to levels",
+                "relation": "isAfter",
+                "similarity": 0.7738300561904907,
+                "tail": "PersonX mixes hydrogen and oxygen"
+            },
+            {
+                "head": "PersonX has a test tomorrow",
+                "relation": "xWant",
+                "similarity": 0.7716542184352875,
+                "tail": "give test"
+            },
+            {
+                "head": "PersonX makes PersonY assessment",
+                "relation": "xNeed",
+                "similarity": 0.7677697241306305,
+                "tail": "to evaluate PersonY's test results"
+            },
+            {
+                "head": "PersonX has a test tomorrow",
+                "relation": "xNeed",
+                "similarity": 0.7669475376605988,
+                "tail": "start studing"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "patent",
+                "relation": "MadeUpOf",
+                "similarity": 0.2832004278898239,
+                "tail": "patent number"
+            },
+            {
+                "head": "patent",
+                "relation": "MadeUpOf",
+                "similarity": 0.28171171247959137,
+                "tail": "patent reference"
+            },
+            {
+                "head": "floor plans",
+                "relation": "ObjectUse",
+                "similarity": 0.2745196670293808,
+                "tail": "plan a remodel"
+            },
+            {
+                "head": "ventilation system",
+                "relation": "ObjectUse",
+                "similarity": 0.2740829885005951,
+                "tail": "ventilating buildings"
+            },
+            {
+                "head": "fastener binder",
+                "relation": "ObjectUse",
+                "similarity": 0.27282099425792694,
+                "tail": "bind fasteners"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX reduces the chemical to levels",
+                "relation": "isBefore",
+                "similarity": 0.8226584196090698,
+                "tail": "PersonX creates water from them"
+            },
+            {
+                "head": "question",
+                "relation": "ObjectUse",
+                "similarity": 0.8220361173152924,
+                "tail": "find the answer to"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8194138705730438,
+                "tail": "funny"
+            },
+            {
+                "head": "test",
+                "relation": "ObjectUse",
+                "similarity": 0.8192833364009857,
+                "tail": "fix the answer"
+            },
+            {
+                "head": "PersonX reduces the chemical to levels",
+                "relation": "isAfter",
+                "similarity": 0.8186882436275482,
+                "tail": "PersonX mixes hydrogen and oxygen"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "airfoil",
+                "relation": "MadeUpOf",
+                "similarity": 0.2813493460416794,
+                "tail": "trailing edge"
+            },
+            {
+                "head": "trigonometry textbook",
+                "relation": "ObjectUse",
+                "similarity": 0.2761521339416504,
+                "tail": "solve math problems"
+            },
+            {
+                "head": "right triangle",
+                "relation": "MadeUpOf",
+                "similarity": 0.2709076404571533,
+                "tail": "one angle 90 degrees"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.270886667072773,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "airfoil",
+                "relation": "MadeUpOf",
+                "similarity": 0.26947808265686035,
+                "tail": "leading edge"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_21",
+        "question_commonsense": [
+            {
+                "head": "PersonX sees yellow",
+                "relation": "xEffect",
+                "similarity": 0.8254542946815491,
+                "tail": "Use the yellow to paint"
+            },
+            {
+                "head": "PersonX sees yellow",
+                "relation": "HinderedBy",
+                "similarity": 0.8226028084754944,
+                "tail": "Someone painted over the yellow color."
+            },
+            {
+                "head": "PersonX sees yellow",
+                "relation": "xEffect",
+                "similarity": 0.8148488998413086,
+                "tail": "likes yellow"
+            },
+            {
+                "head": "PersonX sees yellow",
+                "relation": "HinderedBy",
+                "similarity": 0.8105648458003998,
+                "tail": "PersonX is color blind."
+            },
+            {
+                "head": "PersonX sees yellow",
+                "relation": "xNeed",
+                "similarity": 0.8095753788948059,
+                "tail": "to look at it"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX supplements PersonY's income",
+                "relation": "HinderedBy",
+                "similarity": 0.24625936150550842,
+                "tail": "Personx is jobless and has no extra income"
+            },
+            {
+                "head": "PersonX supplements PersonY's income",
+                "relation": "xWant",
+                "similarity": 0.24415363371372223,
+                "tail": "to pay off debt"
+            },
+            {
+                "head": "PersonX publishes ___ in journals",
+                "relation": "oEffect",
+                "similarity": 0.24340179562568665,
+                "tail": "The journal publishes his work"
+            },
+            {
+                "head": "PersonX publishes ___ in journals",
+                "relation": "isFilledBy",
+                "similarity": 0.2412114292383194,
+                "tail": "articles"
+            },
+            {
+                "head": "PersonX publishes ___ in journals",
+                "relation": "xWant",
+                "similarity": 0.2389063611626625,
+                "tail": "TO PUBLISH THE WRITINGS"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.7897104620933533,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.787456214427948,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.7845896184444427,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "PersonX uses PersonY array",
+                "relation": "oEffect",
+                "similarity": 0.7792346775531769,
+                "tail": "none"
+            },
+            {
+                "head": "PersonX uses PersonY array",
+                "relation": "oReact",
+                "similarity": 0.7792346775531769,
+                "tail": "none"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2739890068769455,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "trigonometry textbook",
+                "relation": "ObjectUse",
+                "similarity": 0.26881352812051773,
+                "tail": "solve math problems"
+            },
+            {
+                "head": "another math textbook",
+                "relation": "ObjectUse",
+                "similarity": 0.26772451400756836,
+                "tail": "put under a table to level it"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.26648345589637756,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "another math textbook",
+                "relation": "ObjectUse",
+                "similarity": 0.2659718319773674,
+                "tail": "learn concepts"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_23",
+        "question_commonsense": [
+            {
+                "head": "science",
+                "relation": "MadeUpOf",
+                "similarity": 0.7349266707897186,
+                "tail": "scientific theory"
+            },
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.7301965355873108,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "science",
+                "relation": "MadeUpOf",
+                "similarity": 0.7294813096523285,
+                "tail": "organic chemistry"
+            },
+            {
+                "head": "PersonX performs PersonX's functions",
+                "relation": "xWant",
+                "similarity": 0.7272267639636993,
+                "tail": "to take notes on the functions"
+            },
+            {
+                "head": "science",
+                "relation": "ObjectUse",
+                "similarity": 0.7196325957775116,
+                "tail": "chemistry"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.292329803109169,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29176120460033417,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2900913655757904,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.28376343846321106,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.2776518315076828,
+                "tail": "to illustrate point"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_24",
+        "question_commonsense": [
+            {
+                "head": "other test materials",
+                "relation": "ObjectUse",
+                "similarity": 0.725082516670227,
+                "tail": "fill out a test"
+            },
+            {
+                "head": "PersonX wants to test it out",
+                "relation": "xNeed",
+                "similarity": 0.7197742164134979,
+                "tail": "Think about how to test"
+            },
+            {
+                "head": "test materials",
+                "relation": "ObjectUse",
+                "similarity": 0.7149431705474854,
+                "tail": "get feedback"
+            },
+            {
+                "head": "other test materials",
+                "relation": "ObjectUse",
+                "similarity": 0.7129082083702087,
+                "tail": "make an answer key"
+            },
+            {
+                "head": "PersonX makes ___ on PersonX's test",
+                "relation": "xNeed",
+                "similarity": 0.7119695842266083,
+                "tail": "refuse to practice for the test"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2789159566164017,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.277821883559227,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.2769927382469177,
+                "tail": "a demonstration"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.2752036154270172,
+                "tail": "add to the engine to make it go"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.2747015133500099,
+                "tail": "fix a problem"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_25",
+        "question_commonsense": [
+            {
+                "head": "building materials",
+                "relation": "ObjectUse",
+                "similarity": 0.7442788183689117,
+                "tail": "fix the wall"
+            },
+            {
+                "head": "PersonX goes to the wall",
+                "relation": "xEffect",
+                "similarity": 0.7297853529453278,
+                "tail": "applies paint"
+            },
+            {
+                "head": "PersonX goes to the wall",
+                "relation": "xIntent",
+                "similarity": 0.7283511757850647,
+                "tail": "to see wall"
+            },
+            {
+                "head": "PersonX goes to the wall",
+                "relation": "xNeed",
+                "similarity": 0.726778119802475,
+                "tail": "to start moving towards the wall"
+            },
+            {
+                "head": "PersonX goes to the wall",
+                "relation": "xNeed",
+                "similarity": 0.7248736023902893,
+                "tail": "find the wall"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "fastener binder",
+                "relation": "ObjectUse",
+                "similarity": 0.28334803879261017,
+                "tail": "bind fasteners"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.2758699357509613,
+                "tail": "add to the engine to make it go"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.270273819565773,
+                "tail": "fix a problem"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.2683478146791458,
+                "tail": "build a robot"
+            },
+            {
+                "head": "toggle switch",
+                "relation": "ObjectUse",
+                "similarity": 0.26690448820590973,
+                "tail": "stop the device"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_26",
+        "question_commonsense": [
+            {
+                "head": "rock",
+                "relation": "AtLocation",
+                "similarity": 0.7922532260417938,
+                "tail": "geologists home"
+            },
+            {
+                "head": "rock",
+                "relation": "AtLocation",
+                "similarity": 0.7821548879146576,
+                "tail": "rock garden"
+            },
+            {
+                "head": "rock",
+                "relation": "AtLocation",
+                "similarity": 0.7813675403594971,
+                "tail": "minerals"
+            },
+            {
+                "head": "rock",
+                "relation": "AtLocation",
+                "similarity": 0.7805980145931244,
+                "tail": "water"
+            },
+            {
+                "head": "rock",
+                "relation": "ObjectUse",
+                "similarity": 0.7793042659759521,
+                "tail": "building things"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "floor plans",
+                "relation": "ObjectUse",
+                "similarity": 0.28738729655742645,
+                "tail": "plan a remodel"
+            },
+            {
+                "head": "floor plans",
+                "relation": "ObjectUse",
+                "similarity": 0.2816319018602371,
+                "tail": "plan out your dream house"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2809056490659714,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27931660413742065,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "ventilation system",
+                "relation": "ObjectUse",
+                "similarity": 0.27577848732471466,
+                "tail": "ventilating buildings"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_27",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.7765716314315796,
+                "tail": "to sell the image"
+            },
+            {
+                "head": "science",
+                "relation": "MadeUpOf",
+                "similarity": 0.7748996317386627,
+                "tail": "scientific theory"
+            },
+            {
+                "head": "science",
+                "relation": "ObjectUse",
+                "similarity": 0.7721108496189117,
+                "tail": "learn more about nature"
+            },
+            {
+                "head": "science",
+                "relation": "ObjectUse",
+                "similarity": 0.7715385854244232,
+                "tail": "understand life"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.7708570063114166,
+                "tail": "funny"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.29942935705184937,
+                "tail": "calculating angles"
+            },
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.2820584625005722,
+                "tail": "calculating volume"
+            },
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.28080765902996063,
+                "tail": "calculating area"
+            },
+            {
+                "head": "trigonometry textbook",
+                "relation": "ObjectUse",
+                "similarity": 0.2806768864393234,
+                "tail": "solve math problems"
+            },
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.27929075062274933,
+                "tail": "calculating length"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.8260586261749268,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes ___ in PersonY's image",
+                "relation": "xIntent",
+                "similarity": 0.8224958181381226,
+                "tail": "to make god in person y's image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8213035464286804,
+                "tail": "to sell the image"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8211624026298523,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8199746906757355,
+                "tail": "to give the image to PersonY"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX sets ___ on soil",
+                "relation": "xWant",
+                "similarity": 0.28893226385116577,
+                "tail": "to look at the dirt to see if it could grow crops"
+            },
+            {
+                "head": "planting soil",
+                "relation": "ObjectUse",
+                "similarity": 0.2783072292804718,
+                "tail": "fertilize plants"
+            },
+            {
+                "head": "PersonX sets ___ on soil",
+                "relation": "xReact",
+                "similarity": 0.2774185687303543,
+                "tail": "more knowledgeable about the soil"
+            },
+            {
+                "head": "PersonX sets ___ on soil",
+                "relation": "xIntent",
+                "similarity": 0.26866288483142853,
+                "tail": "gauge the soil"
+            },
+            {
+                "head": "PersonX sets ___ on soil",
+                "relation": "xWant",
+                "similarity": 0.2647702246904373,
+                "tail": "to walk on the soil"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_29",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.8774449527263641,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.873470664024353,
+                "tail": "to make more images"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8730115592479706,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8723912835121155,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8723912835121155,
+                "tail": "to give the image to PersonY"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.2842441350221634,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "metals finder",
+                "relation": "ObjectUse",
+                "similarity": 0.26068947464227676,
+                "tail": "distinguish where the gold is"
+            },
+            {
+                "head": "metals finder",
+                "relation": "ObjectUse",
+                "similarity": 0.2596437409520149,
+                "tail": "determine where people lost jewelry"
+            },
+            {
+                "head": "mineral spirits",
+                "relation": "ObjectUse",
+                "similarity": 0.25902191549539566,
+                "tail": "as a lubricant"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.2565773203969002,
+                "tail": "record measurements"
+            }
+        ]
+    },
+    {
+        "id": "validation_Geography_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7279177308082581,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.7277638018131256,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX makes PersonY analysis",
+                "relation": "HinderedBy",
+                "similarity": 0.7227986454963684,
+                "tail": "PersonX is not clever and so does not understand PersonY's situation"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7226460874080658,
+                "tail": "PersonX did not learn how to do this equation"
+            },
+            {
+                "head": "PersonX makes PersonY analysis",
+                "relation": "HinderedBy",
+                "similarity": 0.7197888493537903,
+                "tail": "PersonX doesn’t have the information that they need."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "heart monitor",
+                "relation": "ObjectUse",
+                "similarity": 0.28005988895893097,
+                "tail": "check for a heartbeat"
+            },
+            {
+                "head": "PersonX has a heart condition",
+                "relation": "HinderedBy",
+                "similarity": 0.2750091552734375,
+                "tail": "PersonX was just born too healthy to have a heart condition."
+            },
+            {
+                "head": "heart monitor",
+                "relation": "ObjectUse",
+                "similarity": 0.26616454124450684,
+                "tail": "perform the procedure"
+            },
+            {
+                "head": "PersonX has a heart condition",
+                "relation": "xEffect",
+                "similarity": 0.26268427073955536,
+                "tail": "personX has a heart attack"
+            },
+            {
+                "head": "PersonX gnaws PersonY's vitals",
+                "relation": "oEffect",
+                "similarity": 0.2622375339269638,
+                "tail": "admitted to hospital"
+            }
+        ]
+    }
+]

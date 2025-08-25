@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Energy_and_Power_1",
+        "question_commonsense": [
+            {
+                "head": "computer chip",
+                "relation": "MadeUpOf",
+                "similarity": 0.7114531099796295,
+                "tail": "silicon"
+            },
+            {
+                "head": "microprocessor",
+                "relation": "AtLocation",
+                "similarity": 0.6759754419326782,
+                "tail": "computer"
+            },
+            {
+                "head": "solar cell",
+                "relation": "ObjectUse",
+                "similarity": 0.6635385751724243,
+                "tail": "converting light into electricity"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "xAttr",
+                "similarity": 0.6614560484886169,
+                "tail": "intelligent"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.6601543724536896,
+                "tail": "different atoms"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.26647256314754486,
+                "tail": "receives illustration"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "oWant",
+                "similarity": 0.2662540674209595,
+                "tail": "find holes in the individual's argument"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.26417896151542664,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.2603462338447571,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.25950124114751816,
+                "tail": "a demonstration"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX blows PersonX's engine",
+                "relation": "xWant",
+                "similarity": 0.7439286410808563,
+                "tail": "To replace engine"
+            },
+            {
+                "head": "internal combustion engine",
+                "relation": "MadeUpOf",
+                "similarity": 0.7428950071334839,
+                "tail": "lubricating system"
+            },
+            {
+                "head": "PersonX blows PersonX's engine",
+                "relation": "xWant",
+                "similarity": 0.7399866878986359,
+                "tail": "to replace the engine"
+            },
+            {
+                "head": "PersonX uses PersonY array",
+                "relation": "HinderedBy",
+                "similarity": 0.7346806228160858,
+                "tail": "PersonY isn't willing to share their array."
+            },
+            {
+                "head": "PersonX uses PersonY array",
+                "relation": "oWant",
+                "similarity": 0.7335949540138245,
+                "tail": "to make sure nothing goes wrong"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "heat source",
+                "relation": "ObjectUse",
+                "similarity": 0.29840973019599915,
+                "tail": "providing heat to environment"
+            },
+            {
+                "head": "thermostat",
+                "relation": "ObjectUse",
+                "similarity": 0.28659509122371674,
+                "tail": "lower heat"
+            },
+            {
+                "head": "thermostat",
+                "relation": "ObjectUse",
+                "similarity": 0.2827197462320328,
+                "tail": "turn on heat"
+            },
+            {
+                "head": "thermostat",
+                "relation": "ObjectUse",
+                "similarity": 0.2827197462320328,
+                "tail": "turn up the heat"
+            },
+            {
+                "head": "thermostat",
+                "relation": "ObjectUse",
+                "similarity": 0.2827197462320328,
+                "tail": "turn down the heat"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_3",
+        "question_commonsense": [
+            {
+                "head": "water displacement",
+                "relation": "AtLocation",
+                "similarity": 0.6993052363395691,
+                "tail": "boat"
+            },
+            {
+                "head": "PersonX fills PersonX's pipe",
+                "relation": "xWant",
+                "similarity": 0.6988922655582428,
+                "tail": "overfill the pipes"
+            },
+            {
+                "head": "launch platform",
+                "relation": "AtLocation",
+                "similarity": 0.6977273225784302,
+                "tail": "launch site"
+            },
+            {
+                "head": "sea",
+                "relation": "MadeUpOf",
+                "similarity": 0.6972118318080902,
+                "tail": "water"
+            },
+            {
+                "head": "sea",
+                "relation": "AtLocation",
+                "similarity": 0.6955448985099792,
+                "tail": "ocean"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "catheter",
+                "relation": "HasProperty",
+                "similarity": 0.29870833456516266,
+                "tail": "inserted into body channel"
+            },
+            {
+                "head": "one type of catheter",
+                "relation": "ObjectUse",
+                "similarity": 0.2933860719203949,
+                "tail": "effect bladder drainage"
+            },
+            {
+                "head": "fiber optic cable",
+                "relation": "MadeUpOf",
+                "similarity": 0.29225920140743256,
+                "tail": "optical fiber"
+            },
+            {
+                "head": "electrical conductor",
+                "relation": "ObjectUse",
+                "similarity": 0.28696317970752716,
+                "tail": "short current source"
+            },
+            {
+                "head": "PersonX fills PersonX's pipe",
+                "relation": "xWant",
+                "similarity": 0.284991130232811,
+                "tail": "overfill the pipes"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_4",
+        "question_commonsense": [
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.7299196720123291,
+                "tail": "manage structured data"
+            },
+            {
+                "head": "electronic equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.72797030210495,
+                "tail": "measure voltage"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xNeed",
+                "similarity": 0.722544401884079,
+                "tail": "get data analysis software"
+            },
+            {
+                "head": "gas chromatograph",
+                "relation": "AtLocation",
+                "similarity": 0.7195615470409393,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "lab equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.7167379558086395,
+                "tail": "experiment with"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "cylinder",
+                "relation": "MadeUpOf",
+                "similarity": 0.29739339649677277,
+                "tail": "intake valve"
+            },
+            {
+                "head": "bell on counter",
+                "relation": "ObjectUse",
+                "similarity": 0.2929159700870514,
+                "tail": "ring for assistance"
+            },
+            {
+                "head": "nut and bolt",
+                "relation": "MadeUpOf",
+                "similarity": 0.28877249360084534,
+                "tail": "bolt"
+            },
+            {
+                "head": "funnel",
+                "relation": "MadeUpOf",
+                "similarity": 0.2872808426618576,
+                "tail": "bell"
+            },
+            {
+                "head": "funnel",
+                "relation": "ObjectUse",
+                "similarity": 0.2838934063911438,
+                "tail": "pour liquids without spilling"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_5",
+        "question_commonsense": [
+            {
+                "head": "spherical object",
+                "relation": "ObjectUse",
+                "similarity": 0.7491706013679504,
+                "tail": "paint like a globe"
+            },
+            {
+                "head": "spherical object",
+                "relation": "ObjectUse",
+                "similarity": 0.7430061399936676,
+                "tail": "use as a light fixture"
+            },
+            {
+                "head": "spherical object",
+                "relation": "ObjectUse",
+                "similarity": 0.7382543981075287,
+                "tail": "create a center piece with"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.733288437128067,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "spherical object",
+                "relation": "ObjectUse",
+                "similarity": 0.731257438659668,
+                "tail": "roll around"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.29253827035427094,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "spedometer",
+                "relation": "ObjectUse",
+                "similarity": 0.2870623916387558,
+                "tail": "determine speed"
+            },
+            {
+                "head": "tachometer",
+                "relation": "ObjectUse",
+                "similarity": 0.28395457565784454,
+                "tail": "assess the RPM"
+            },
+            {
+                "head": "hygrometer",
+                "relation": "ObjectUse",
+                "similarity": 0.2823210656642914,
+                "tail": "determining relative humidity"
+            },
+            {
+                "head": "protractor",
+                "relation": "ObjectUse",
+                "similarity": 0.2794622778892517,
+                "tail": "determine an angle"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.9192672967910767,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.9168898463249207,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.9113574624061584,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.9078308343887329,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.9073411226272583,
+                "tail": "illustrative"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.3016725033521652,
+                "tail": "stator"
+            },
+            {
+                "head": "cylinder",
+                "relation": "MadeUpOf",
+                "similarity": 0.2995931804180145,
+                "tail": "intake valve"
+            },
+            {
+                "head": "internal combustion engine",
+                "relation": "MadeUpOf",
+                "similarity": 0.2948220670223236,
+                "tail": "lubricating system"
+            },
+            {
+                "head": "spark plug",
+                "relation": "ObjectUse",
+                "similarity": 0.2879716008901596,
+                "tail": "get the engine to turn over"
+            },
+            {
+                "head": "spark plug",
+                "relation": "ObjectUse",
+                "similarity": 0.28774064779281616,
+                "tail": "electrocute"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_7",
+        "question_commonsense": [
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xWant",
+                "similarity": 0.7198140323162079,
+                "tail": "to apply for jobs in computer programming"
+            },
+            {
+                "head": "air compressor",
+                "relation": "ObjectUse",
+                "similarity": 0.715774267911911,
+                "tail": "store air for later"
+            },
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.7140803933143616,
+                "tail": "manage structured data"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xNeed",
+                "similarity": 0.7131515145301819,
+                "tail": "to find a computer programming class"
+            },
+            {
+                "head": "air compressor",
+                "relation": "ObjectUse",
+                "similarity": 0.7116020023822784,
+                "tail": "power an air tool"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "internal combustion engine",
+                "relation": "MadeUpOf",
+                "similarity": 0.28900499641895294,
+                "tail": "lubricating system"
+            },
+            {
+                "head": "ventilation system",
+                "relation": "ObjectUse",
+                "similarity": 0.27938705682754517,
+                "tail": "ventilating buildings"
+            },
+            {
+                "head": "compressor",
+                "relation": "MadeUpOf",
+                "similarity": 0.274772509932518,
+                "tail": "cylinder"
+            },
+            {
+                "head": "compressor",
+                "relation": "ObjectUse",
+                "similarity": 0.273979052901268,
+                "tail": "learn to work on engines"
+            },
+            {
+                "head": "air compressor",
+                "relation": "ObjectUse",
+                "similarity": 0.2698597386479378,
+                "tail": "power an air tool"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7737809121608734,
+                "tail": "scientific"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.7706763744354248,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7678910493850708,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.766060084104538,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "spedometer",
+                "relation": "ObjectUse",
+                "similarity": 0.761369526386261,
+                "tail": "determine speed"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.3184257298707962,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.3033593147993088,
+                "tail": "measure distance"
+            },
+            {
+                "head": "height measurer",
+                "relation": "ObjectUse",
+                "similarity": 0.29958775639533997,
+                "tail": "measure how tall the ceiling is"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.29917721450328827,
+                "tail": "record measurements"
+            },
+            {
+                "head": "height measurer",
+                "relation": "ObjectUse",
+                "similarity": 0.29562343657016754,
+                "tail": "measure curtains"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_9",
+        "question_commonsense": [
+            {
+                "head": "PersonX fills PersonX's pipe",
+                "relation": "xWant",
+                "similarity": 0.7027726471424103,
+                "tail": "overfill the pipes"
+            },
+            {
+                "head": "air pressure gauge",
+                "relation": "ObjectUse",
+                "similarity": 0.7008106410503387,
+                "tail": "measure tire pressure"
+            },
+            {
+                "head": "PersonX fills PersonY's pipe",
+                "relation": "xWant",
+                "similarity": 0.6993810832500458,
+                "tail": "to empty out the pipe"
+            },
+            {
+                "head": "air pressure gauge",
+                "relation": "ObjectUse",
+                "similarity": 0.6984486281871796,
+                "tail": "see how much pressure is in an object"
+            },
+            {
+                "head": "PersonX fills PersonX's pipe",
+                "relation": "xNeed",
+                "similarity": 0.6974927186965942,
+                "tail": "get a pipe"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX supports PersonX's position",
+                "relation": "HinderedBy",
+                "similarity": 0.28309012949466705,
+                "tail": "Evidence has been offered that disputes the position."
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "isAfter",
+                "similarity": 0.2798430025577545,
+                "tail": "PersonX reads about PersonY's position"
+            },
+            {
+                "head": "PersonX supports PersonX's position",
+                "relation": "xWant",
+                "similarity": 0.2749936431646347,
+                "tail": "to argue about their position"
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "HinderedBy",
+                "similarity": 0.2747931256890297,
+                "tail": "PersonY will not share their position."
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "xNeed",
+                "similarity": 0.27393293380737305,
+                "tail": "to learn about person y's position"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_10",
+        "question_commonsense": [
+            {
+                "head": "diagram",
+                "relation": "AtLocation",
+                "similarity": 0.5934522449970245,
+                "tail": "demonstration"
+            },
+            {
+                "head": "laboratory tools",
+                "relation": "ObjectUse",
+                "similarity": 0.5868632793426514,
+                "tail": "teach chemistry class"
+            },
+            {
+                "head": "ground plan",
+                "relation": "ObjectUse",
+                "similarity": 0.5829334259033203,
+                "tail": "start to build a house"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.5813204050064087,
+                "tail": "take apart the machine"
+            },
+            {
+                "head": "ground plan",
+                "relation": "ObjectUse",
+                "similarity": 0.5792593210935593,
+                "tail": "learn about architecture for school"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "electrical conductor",
+                "relation": "ObjectUse",
+                "similarity": 0.2909739464521408,
+                "tail": "short current source"
+            },
+            {
+                "head": "electric heater",
+                "relation": "MadeUpOf",
+                "similarity": 0.2900680899620056,
+                "tail": "heating element"
+            },
+            {
+                "head": "geiger counter",
+                "relation": "MadeUpOf",
+                "similarity": 0.28417131304740906,
+                "tail": "geiger tube"
+            },
+            {
+                "head": "heat source",
+                "relation": "ObjectUse",
+                "similarity": 0.2775215357542038,
+                "tail": "providing heat to environment"
+            },
+            {
+                "head": "heat source",
+                "relation": "AtLocation",
+                "similarity": 0.27405448257923126,
+                "tail": "basement such as furnace"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_11",
+        "question_commonsense": [
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.7724488973617554,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7660821974277496,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xEffect",
+                "similarity": 0.7627812325954437,
+                "tail": "PersonX forms a hypothesis"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7593512237071991,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.7589167356491089,
+                "tail": "to learn more mathematics"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2792956084012985,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.2736717760562897,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.27095337957143784,
+                "tail": "PersonY couldn't find a case study to prove the point to PersonX"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xNeed",
+                "similarity": 0.2700301706790924,
+                "tail": "to understand person Y"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "oWant",
+                "similarity": 0.26888053864240646,
+                "tail": "find holes in the individual's argument"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_12",
+        "question_commonsense": [
+            {
+                "head": "hose attachment",
+                "relation": "ObjectUse",
+                "similarity": 0.7186412215232849,
+                "tail": "limit water use"
+            },
+            {
+                "head": "large container",
+                "relation": "ObjectUse",
+                "similarity": 0.7120567858219147,
+                "tail": "standardized shipping by train"
+            },
+            {
+                "head": "large container",
+                "relation": "ObjectUse",
+                "similarity": 0.708870530128479,
+                "tail": "containerized shipping"
+            },
+            {
+                "head": "apparatus",
+                "relation": "ObjectUse",
+                "similarity": 0.7046287655830383,
+                "tail": "conduct an experiment"
+            },
+            {
+                "head": "large container",
+                "relation": "ObjectUse",
+                "similarity": 0.7045080363750458,
+                "tail": "standardized shipping by plane"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX ensures PersonY supply",
+                "relation": "oEffect",
+                "similarity": 0.28260190784931183,
+                "tail": "Maintains supply, as needed"
+            },
+            {
+                "head": "PersonX ensures PersonY supply",
+                "relation": "HinderedBy",
+                "similarity": 0.2804791182279587,
+                "tail": "PersonX does not have supply to give."
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.2780129462480545,
+                "tail": "check what is affecting the variables"
+            },
+            {
+                "head": "PersonX ensures PersonY supply",
+                "relation": "xNeed",
+                "similarity": 0.277044340968132,
+                "tail": "to keep an inventory on the supply"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.2744072526693344,
+                "tail": "test if variable works"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_13",
+        "question_commonsense": [
+            {
+                "head": "refrigerator freezer",
+                "relation": "ObjectUse",
+                "similarity": 0.749029278755188,
+                "tail": "keeping foods cold and frozen"
+            },
+            {
+                "head": "refrigerator",
+                "relation": "ObjectUse",
+                "similarity": 0.7475238144397736,
+                "tail": "refrigerating"
+            },
+            {
+                "head": "refrigerator freezer",
+                "relation": "ObjectUse",
+                "similarity": 0.7309513688087463,
+                "tail": "keep foods frozen"
+            },
+            {
+                "head": "refrigerator freezer",
+                "relation": "ObjectUse",
+                "similarity": 0.7287996709346771,
+                "tail": "store food for long periods"
+            },
+            {
+                "head": "refrigerator freezer",
+                "relation": "ObjectUse",
+                "similarity": 0.7282271385192871,
+                "tail": "keep things cold"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "internal combustion engine",
+                "relation": "MadeUpOf",
+                "similarity": 0.28965646028518677,
+                "tail": "lubricating system"
+            },
+            {
+                "head": "compressor",
+                "relation": "MadeUpOf",
+                "similarity": 0.28748947381973267,
+                "tail": "cylinder"
+            },
+            {
+                "head": "ventilation system",
+                "relation": "ObjectUse",
+                "similarity": 0.2855721563100815,
+                "tail": "ventilating buildings"
+            },
+            {
+                "head": "how water heater",
+                "relation": "ObjectUse",
+                "similarity": 0.2813888341188431,
+                "tail": "heat the water up"
+            },
+            {
+                "head": "water heater",
+                "relation": "ObjectUse",
+                "similarity": 0.2813888341188431,
+                "tail": "heat the water"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_14",
+        "question_commonsense": [
+            {
+                "head": "learn about science",
+                "relation": "HasSubEvent",
+                "similarity": 0.7691483199596405,
+                "tail": "understand physical laws"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7573561370372772,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "learn about science",
+                "relation": "xNeed",
+                "similarity": 0.7565714716911316,
+                "tail": "take course in science"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7561366856098175,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7551647424697876,
+                "tail": "to understand the equation."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.29507631063461304,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28994767367839813,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.28698965907096863,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.28336097300052643,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2829691767692566,
+                "tail": "procure a book with diagrams"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX fills PersonX's pipe",
+                "relation": "xWant",
+                "similarity": 0.7513971626758575,
+                "tail": "overfill the pipes"
+            },
+            {
+                "head": "PersonX fills PersonY's pipe",
+                "relation": "xWant",
+                "similarity": 0.7381838262081146,
+                "tail": "to fill more pipes"
+            },
+            {
+                "head": "PersonX fills PersonY's pipe",
+                "relation": "oWant",
+                "similarity": 0.7227228581905365,
+                "tail": "to fill personXs pipe"
+            },
+            {
+                "head": "PersonX fills PersonX's pipe",
+                "relation": "xNeed",
+                "similarity": 0.7224962711334229,
+                "tail": "get a pipe"
+            },
+            {
+                "head": "PersonX fills PersonX's pipe",
+                "relation": "xWant",
+                "similarity": 0.7211426496505737,
+                "tail": "pipes demaged"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "patent",
+                "relation": "MadeUpOf",
+                "similarity": 0.2823922783136368,
+                "tail": "patent reference"
+            },
+            {
+                "head": "patent",
+                "relation": "MadeUpOf",
+                "similarity": 0.28016752004623413,
+                "tail": "patent number"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.27575306594371796,
+                "tail": "field magnet"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2727832496166229,
+                "tail": "stator"
+            },
+            {
+                "head": "patent",
+                "relation": "MadeUpOf",
+                "similarity": 0.2668379694223404,
+                "tail": "inventor's name"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_16",
+        "question_commonsense": [
+            {
+                "head": "air conditioner repair person",
+                "relation": "CapableOf",
+                "similarity": 0.7312333881855011,
+                "tail": "service air conditioner"
+            },
+            {
+                "head": "PersonX fixes the air conditioner",
+                "relation": "xWant",
+                "similarity": 0.7225217521190643,
+                "tail": "to check if the air conditioner works perfectly"
+            },
+            {
+                "head": "air compressor",
+                "relation": "ObjectUse",
+                "similarity": 0.7219732999801636,
+                "tail": "power an air tool"
+            },
+            {
+                "head": "PersonX fixes the air conditioner",
+                "relation": "HinderedBy",
+                "similarity": 0.7180511355400085,
+                "tail": "The air conditioner is broken beyond repair"
+            },
+            {
+                "head": "PersonX fixes the air conditioner",
+                "relation": "xNeed",
+                "similarity": 0.7168742120265961,
+                "tail": "a broken air conditioner"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "internal combustion engine",
+                "relation": "MadeUpOf",
+                "similarity": 0.2841999977827072,
+                "tail": "lubricating system"
+            },
+            {
+                "head": "ventilation system",
+                "relation": "ObjectUse",
+                "similarity": 0.27691297233104706,
+                "tail": "ventilating buildings"
+            },
+            {
+                "head": "compressor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2756040543317795,
+                "tail": "cylinder"
+            },
+            {
+                "head": "internal combustion engine",
+                "relation": "MadeUpOf",
+                "similarity": 0.2740374356508255,
+                "tail": "supercharger"
+            },
+            {
+                "head": "solar cell",
+                "relation": "ObjectUse",
+                "similarity": 0.2740352302789688,
+                "tail": "converting light into electricity"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX fills PersonX's pipe",
+                "relation": "xWant",
+                "similarity": 0.6335357427597046,
+                "tail": "overfill the pipes"
+            },
+            {
+                "head": "PersonX fills PersonY's pipe",
+                "relation": "HinderedBy",
+                "similarity": 0.611036092042923,
+                "tail": "Person Y dropped the pipe on the ground and it broke."
+            },
+            {
+                "head": "PersonX fills PersonY's pipe",
+                "relation": "xWant",
+                "similarity": 0.610714465379715,
+                "tail": "to fill more pipes"
+            },
+            {
+                "head": "water displacement",
+                "relation": "AtLocation",
+                "similarity": 0.6102005541324615,
+                "tail": "boat"
+            },
+            {
+                "head": "PersonX fills PersonX's pipe",
+                "relation": "xNeed",
+                "similarity": 0.6067364811897278,
+                "tail": "get a pipe"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.27405430376529694,
+                "tail": "receives illustration"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2717093974351883,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.26869620382785797,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "oWant",
+                "similarity": 0.26472505182027817,
+                "tail": "find holes in the individual's argument"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.2647058516740799,
+                "tail": "PersonY couldn't find a case study to prove the point to PersonX"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_18",
+        "question_commonsense": [
+            {
+                "head": "refrigerated area",
+                "relation": "ObjectUse",
+                "similarity": 0.7556575834751129,
+                "tail": "keep food cold"
+            },
+            {
+                "head": "refrigerated area",
+                "relation": "ObjectUse",
+                "similarity": 0.7539078593254089,
+                "tail": "keep the body cold"
+            },
+            {
+                "head": "refrigerated area",
+                "relation": "ObjectUse",
+                "similarity": 0.7524593770503998,
+                "tail": "cool down in on a sweltering day"
+            },
+            {
+                "head": "refrigerated area",
+                "relation": "ObjectUse",
+                "similarity": 0.7512037456035614,
+                "tail": "contain cold drinks"
+            },
+            {
+                "head": "refrigerator freezer",
+                "relation": "AtLocation",
+                "similarity": 0.7475371658802032,
+                "tail": "apartment"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "ventilation system",
+                "relation": "ObjectUse",
+                "similarity": 0.2881825566291809,
+                "tail": "ventilating buildings"
+            },
+            {
+                "head": "internal combustion engine",
+                "relation": "MadeUpOf",
+                "similarity": 0.2806367427110672,
+                "tail": "lubricating system"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2793583869934082,
+                "tail": "measure electricity use"
+            },
+            {
+                "head": "how water heater",
+                "relation": "ObjectUse",
+                "similarity": 0.2783723622560501,
+                "tail": "heat the water up"
+            },
+            {
+                "head": "water heater",
+                "relation": "ObjectUse",
+                "similarity": 0.2783723622560501,
+                "tail": "heat the water"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_19",
+        "question_commonsense": [
+            {
+                "head": "aircraft",
+                "relation": "MadeUpOf",
+                "similarity": 0.7515715956687927,
+                "tail": "aircraft engine"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.7336112260818481,
+                "tail": "add to the engine to make it go"
+            },
+            {
+                "head": "aircraft",
+                "relation": "MadeUpOf",
+                "similarity": 0.7333688735961914,
+                "tail": "fuel system"
+            },
+            {
+                "head": "jet engine",
+                "relation": "MadeUpOf",
+                "similarity": 0.7310132086277008,
+                "tail": "rotor"
+            },
+            {
+                "head": "car engine",
+                "relation": "ObjectUse",
+                "similarity": 0.7309953570365906,
+                "tail": "lift into engine"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "internal combustion engine",
+                "relation": "MadeUpOf",
+                "similarity": 0.2803042531013489,
+                "tail": "lubricating system"
+            },
+            {
+                "head": "compressor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2674248516559601,
+                "tail": "cylinder"
+            },
+            {
+                "head": "PersonX conducts ___ to determine",
+                "relation": "xWant",
+                "similarity": 0.26145170629024506,
+                "tail": "to publish their findings"
+            },
+            {
+                "head": "PersonX conducts ___ to determine",
+                "relation": "xWant",
+                "similarity": 0.26057949662208557,
+                "tail": "To do another study"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.26023027300834656,
+                "tail": "electricity"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_20",
+        "question_commonsense": [
+            {
+                "head": "water supply",
+                "relation": "ObjectUse",
+                "similarity": 0.6673023104667664,
+                "tail": "keep a population with fresh water"
+            },
+            {
+                "head": "water source",
+                "relation": "ObjectUse",
+                "similarity": 0.6584177315235138,
+                "tail": "provide water to the village"
+            },
+            {
+                "head": "PersonX leaks water",
+                "relation": "xNeed",
+                "similarity": 0.6565589606761932,
+                "tail": "place water in a container."
+            },
+            {
+                "head": "water pressure",
+                "relation": "ObjectUse",
+                "similarity": 0.6532177627086639,
+                "tail": "provide correct level"
+            },
+            {
+                "head": "water supply",
+                "relation": "ObjectUse",
+                "similarity": 0.6505774855613708,
+                "tail": "provide clean water"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "how water heater",
+                "relation": "ObjectUse",
+                "similarity": 0.2993675768375397,
+                "tail": "function as a water holding tank"
+            },
+            {
+                "head": "ventilation system",
+                "relation": "ObjectUse",
+                "similarity": 0.29428084194660187,
+                "tail": "ventilating buildings"
+            },
+            {
+                "head": "sump pump",
+                "relation": "AtLocation",
+                "similarity": 0.2907670736312866,
+                "tail": "basement"
+            },
+            {
+                "head": "ventilation system",
+                "relation": "ObjectUse",
+                "similarity": 0.28400781750679016,
+                "tail": "circulating air"
+            },
+            {
+                "head": "ventilation system",
+                "relation": "ObjectUse",
+                "similarity": 0.27677272260189056,
+                "tail": "moving air around"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_21",
+        "question_commonsense": [
+            {
+                "head": "blimp",
+                "relation": "AtLocation",
+                "similarity": 0.7069328129291534,
+                "tail": "sky"
+            },
+            {
+                "head": "PersonX goes on a hot air balloon",
+                "relation": "HinderedBy",
+                "similarity": 0.6858608424663544,
+                "tail": "PersonX can't find a hot air balloon."
+            },
+            {
+                "head": "PersonX goes on a hot air balloon",
+                "relation": "xNeed",
+                "similarity": 0.6833797991275787,
+                "tail": "Arrive at location of Hot Air Ballon"
+            },
+            {
+                "head": "PersonX goes on a hot air balloon",
+                "relation": "xWant",
+                "similarity": 0.6765699088573456,
+                "tail": "to get on balloon"
+            },
+            {
+                "head": "PersonX goes on a hot air balloon",
+                "relation": "xWant",
+                "similarity": 0.6751343905925751,
+                "tail": "Tell friends about the hot air balloon"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "spedometer",
+                "relation": "ObjectUse",
+                "similarity": 0.28338001668453217,
+                "tail": "determine speed"
+            },
+            {
+                "head": "solar cell",
+                "relation": "ObjectUse",
+                "similarity": 0.2814256250858307,
+                "tail": "converting light into electricity"
+            },
+            {
+                "head": "auriscope",
+                "relation": "ObjectUse",
+                "similarity": 0.2795030176639557,
+                "tail": "plug a hole in a piece of rubber"
+            },
+            {
+                "head": "auriscope",
+                "relation": "ObjectUse",
+                "similarity": 0.2789730876684189,
+                "tail": "look at tympanic membrane"
+            },
+            {
+                "head": "spherical object",
+                "relation": "ObjectUse",
+                "similarity": 0.2761508598923683,
+                "tail": "use as a light fixture"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX fills PersonX's pipe",
+                "relation": "xWant",
+                "similarity": 0.7207119464874268,
+                "tail": "overfill the pipes"
+            },
+            {
+                "head": "PersonX fills PersonY's pipe",
+                "relation": "oWant",
+                "similarity": 0.7144976556301117,
+                "tail": "to fill personXs pipe"
+            },
+            {
+                "head": "PersonX fills PersonX's pipe",
+                "relation": "xNeed",
+                "similarity": 0.7141849994659424,
+                "tail": "get a pipe"
+            },
+            {
+                "head": "PersonX fills PersonY's pipe",
+                "relation": "xWant",
+                "similarity": 0.7129672169685364,
+                "tail": "to fill more pipes"
+            },
+            {
+                "head": "PersonX fills PersonY's pipe",
+                "relation": "xNeed",
+                "similarity": 0.7097041010856628,
+                "tail": "to buy a pipe"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX fills PersonY's pipe",
+                "relation": "oWant",
+                "similarity": 0.2730090022087097,
+                "tail": "to fill personXs pipe"
+            },
+            {
+                "head": "PersonX fills PersonX's pipe",
+                "relation": "xWant",
+                "similarity": 0.272715225815773,
+                "tail": "overfill the pipes"
+            },
+            {
+                "head": "PersonX fills PersonY's pipe",
+                "relation": "xWant",
+                "similarity": 0.2698028236627579,
+                "tail": "to fill more pipes"
+            },
+            {
+                "head": "PersonX fills PersonX's pipe",
+                "relation": "xEffect",
+                "similarity": 0.26622840762138367,
+                "tail": "light the pipe"
+            },
+            {
+                "head": "PersonX fills PersonY's pipe",
+                "relation": "xWant",
+                "similarity": 0.26622840762138367,
+                "tail": "to light the pipe"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_23",
+        "question_commonsense": [
+            {
+                "head": "PersonX fills PersonY's tank",
+                "relation": "xIntent",
+                "similarity": 0.7243248224258423,
+                "tail": "to fill the tank up"
+            },
+            {
+                "head": "air pressure gauge",
+                "relation": "ObjectUse",
+                "similarity": 0.7232435643672943,
+                "tail": "see how much pressure is in an object"
+            },
+            {
+                "head": "PersonX fills PersonX's tank",
+                "relation": "xNeed",
+                "similarity": 0.7225608229637146,
+                "tail": "to have low tank"
+            },
+            {
+                "head": "PersonX fills PersonY's tank",
+                "relation": "oReact",
+                "similarity": 0.7208684384822845,
+                "tail": "good they now have a full tank"
+            },
+            {
+                "head": "PersonX fills PersonY's tank",
+                "relation": "xNeed",
+                "similarity": 0.7196043729782104,
+                "tail": "access to tank"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "how water heater",
+                "relation": "ObjectUse",
+                "similarity": 0.30084261298179626,
+                "tail": "function as a water holding tank"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.28414054214954376,
+                "tail": "measure electricity use"
+            },
+            {
+                "head": "how water heater",
+                "relation": "ObjectUse",
+                "similarity": 0.2819700986146927,
+                "tail": "heat the water up"
+            },
+            {
+                "head": "water heater",
+                "relation": "ObjectUse",
+                "similarity": 0.2819700986146927,
+                "tail": "heat the water"
+            },
+            {
+                "head": "solar cell",
+                "relation": "ObjectUse",
+                "similarity": 0.28044238686561584,
+                "tail": "converting light into electricity"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_24",
+        "question_commonsense": [
+            {
+                "head": "cooking equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.7619883120059967,
+                "tail": "run a kitchen smoothly"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xWant",
+                "similarity": 0.7599253356456757,
+                "tail": "make decisions based on the data analysis"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xNeed",
+                "similarity": 0.7544861137866974,
+                "tail": "get data analysis software"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "isAfter",
+                "similarity": 0.7523525655269623,
+                "tail": "PersonX need to make a plan"
+            },
+            {
+                "head": "cooking equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.7519811987876892,
+                "tail": "use as band instruments"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX supports PersonX's position",
+                "relation": "xWant",
+                "similarity": 0.28587064146995544,
+                "tail": "to argue about their position"
+            },
+            {
+                "head": "volume switch",
+                "relation": "ObjectUse",
+                "similarity": 0.28385142982006073,
+                "tail": "control the TV volume"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.2795133739709854,
+                "tail": "take away so the machine doesn't work"
+            },
+            {
+                "head": "PersonX supports PersonY's position",
+                "relation": "xNeed",
+                "similarity": 0.2782477140426636,
+                "tail": "to learn about person y's position"
+            },
+            {
+                "head": "volume switch",
+                "relation": "ObjectUse",
+                "similarity": 0.27804185450077057,
+                "tail": "block the background noisy"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_25",
+        "question_commonsense": [
+            {
+                "head": "car engine",
+                "relation": "ObjectUse",
+                "similarity": 0.7638640403747559,
+                "tail": "lift into engine"
+            },
+            {
+                "head": "hvac system",
+                "relation": "AtLocation",
+                "similarity": 0.7543825805187225,
+                "tail": "building"
+            },
+            {
+                "head": "processor",
+                "relation": "ObjectUse",
+                "similarity": 0.7533785998821259,
+                "tail": "build a computer"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.7502008974552155,
+                "tail": "repair an automobile"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.7479853928089142,
+                "tail": "add to the engine to make it go"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "internal combustion engine",
+                "relation": "MadeUpOf",
+                "similarity": 0.28729380667209625,
+                "tail": "lubricating system"
+            },
+            {
+                "head": "internal combustion engine",
+                "relation": "MadeUpOf",
+                "similarity": 0.2763636112213135,
+                "tail": "supercharger"
+            },
+            {
+                "head": "processor",
+                "relation": "ObjectUse",
+                "similarity": 0.2760777920484543,
+                "tail": "perform calculations in a computer"
+            },
+            {
+                "head": "compressor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2754107490181923,
+                "tail": "cylinder"
+            },
+            {
+                "head": "compressor",
+                "relation": "ObjectUse",
+                "similarity": 0.27431880682706833,
+                "tail": "learn to work on engines"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_26",
+        "question_commonsense": [
+            {
+                "head": "hose attachment",
+                "relation": "ObjectUse",
+                "similarity": 0.7149210572242737,
+                "tail": "make the hose longer"
+            },
+            {
+                "head": "hose",
+                "relation": "AtLocation",
+                "similarity": 0.6752888560295105,
+                "tail": "hose truck"
+            },
+            {
+                "head": "garden hose",
+                "relation": "ObjectUse",
+                "similarity": 0.6718792021274567,
+                "tail": "watering garden"
+            },
+            {
+                "head": "hose",
+                "relation": "HasProperty",
+                "similarity": 0.6696771681308746,
+                "tail": "flexible pipe"
+            },
+            {
+                "head": "garden hose",
+                "relation": "ObjectUse",
+                "similarity": 0.6686069369316101,
+                "tail": "get water from"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.29814988374710083,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.2892807424068451,
+                "tail": "Person x makes inferences and/or calculations based upon results"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xNeed",
+                "similarity": 0.2860148698091507,
+                "tail": "calculate the dimensions"
+            },
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.28490622341632843,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.2833341062068939,
+                "tail": "Person x utilizes measuring instrument"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_27",
+        "question_commonsense": [
+            {
+                "head": "cylinder",
+                "relation": "MadeUpOf",
+                "similarity": 0.7522145509719849,
+                "tail": "intake valve"
+            },
+            {
+                "head": "PersonX fills PersonX's pipe",
+                "relation": "xWant",
+                "similarity": 0.7250436842441559,
+                "tail": "overfill the pipes"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.7232709527015686,
+                "tail": "add to the engine to make it go"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.7207606434822083,
+                "tail": "build a robot"
+            },
+            {
+                "head": "mechanical part",
+                "relation": "ObjectUse",
+                "similarity": 0.7126454710960388,
+                "tail": "fix a problem"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "ventilation system",
+                "relation": "ObjectUse",
+                "similarity": 0.2976653128862381,
+                "tail": "ventilating buildings"
+            },
+            {
+                "head": "cathode ray tube",
+                "relation": "MadeUpOf",
+                "similarity": 0.29459792375564575,
+                "tail": "electron gun"
+            },
+            {
+                "head": "cheque book holder",
+                "relation": "ObjectUse",
+                "similarity": 0.28422681987285614,
+                "tail": "keep cheque book safe"
+            },
+            {
+                "head": "ventilation system",
+                "relation": "ObjectUse",
+                "similarity": 0.28301964700222015,
+                "tail": "circulating air"
+            },
+            {
+                "head": "latches",
+                "relation": "ObjectUse",
+                "similarity": 0.2822558730840683,
+                "tail": "lock a window"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6580106317996979,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6551510691642761,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6551020443439484,
+                "tail": "PersonX did not learn how to do this equation"
+            },
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.6529427766799927,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "xNeed",
+                "similarity": 0.6485257148742676,
+                "tail": "a caclulator"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "one type of catheter",
+                "relation": "ObjectUse",
+                "similarity": 0.29219524562358856,
+                "tail": "effect bladder drainage"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2914847880601883,
+                "tail": "stator"
+            },
+            {
+                "head": "applicator",
+                "relation": "ObjectUse",
+                "similarity": 0.2889773100614548,
+                "tail": "place solution on scalp"
+            },
+            {
+                "head": "electrical conductor",
+                "relation": "ObjectUse",
+                "similarity": 0.28375962376594543,
+                "tail": "short current source"
+            },
+            {
+                "head": "spedometer",
+                "relation": "ObjectUse",
+                "similarity": 0.2830665856599808,
+                "tail": "determine speed"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_29",
+        "question_commonsense": [
+            {
+                "head": "PersonX fills PersonX's pipe",
+                "relation": "xWant",
+                "similarity": 0.6745986938476562,
+                "tail": "overfill the pipes"
+            },
+            {
+                "head": "turbine",
+                "relation": "MadeUpOf",
+                "similarity": 0.665296733379364,
+                "tail": "rotor"
+            },
+            {
+                "head": "PersonX fills PersonY's pipe",
+                "relation": "xWant",
+                "similarity": 0.6626293659210205,
+                "tail": "to fill more pipes"
+            },
+            {
+                "head": "PersonX fills PersonY's pipe",
+                "relation": "xWant",
+                "similarity": 0.6608706414699554,
+                "tail": "to empty out the pipe"
+            },
+            {
+                "head": "PersonX fills PersonY's pipe",
+                "relation": "xNeed",
+                "similarity": 0.6589827835559845,
+                "tail": "to pickup the pipe"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "patent",
+                "relation": "MadeUpOf",
+                "similarity": 0.29227355122566223,
+                "tail": "patent reference"
+            },
+            {
+                "head": "patent",
+                "relation": "MadeUpOf",
+                "similarity": 0.2883767634630203,
+                "tail": "patent number"
+            },
+            {
+                "head": "patent",
+                "relation": "MadeUpOf",
+                "similarity": 0.27168169617652893,
+                "tail": "inventor's name"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.26864561438560486,
+                "tail": "stator"
+            },
+            {
+                "head": "electric motor",
+                "relation": "MadeUpOf",
+                "similarity": 0.2665799707174301,
+                "tail": "field magnet"
+            }
+        ]
+    },
+    {
+        "id": "validation_Energy_and_Power_30",
+        "question_commonsense": [
+            {
+                "head": "launch platform",
+                "relation": "AtLocation",
+                "similarity": 0.6980948746204376,
+                "tail": "rocketry research facility"
+            },
+            {
+                "head": "launch platform",
+                "relation": "ObjectUse",
+                "similarity": 0.6839829385280609,
+                "tail": "rocketry"
+            },
+            {
+                "head": "launch platform",
+                "relation": "ObjectUse",
+                "similarity": 0.6817118227481842,
+                "tail": "shooting off rockets"
+            },
+            {
+                "head": "launch platform",
+                "relation": "AtLocation",
+                "similarity": 0.6787724494934082,
+                "tail": "launch site"
+            },
+            {
+                "head": "launch platform",
+                "relation": "ObjectUse",
+                "similarity": 0.6782186925411224,
+                "tail": "send rocket off into space"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2830065041780472,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27997076511383057,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27978622913360596,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "electrical conductor",
+                "relation": "ObjectUse",
+                "similarity": 0.2780395597219467,
+                "tail": "short current source"
+            },
+            {
+                "head": "electrostatic plotter",
+                "relation": "CapableOf",
+                "similarity": 0.2771749198436737,
+                "tail": "letter diagram"
+            }
+        ]
+    }
+]

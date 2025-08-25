@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Accounting_1",
+        "question_commonsense": [
+            {
+                "head": "manufacturer",
+                "relation": "CapableOf",
+                "similarity": 0.7577840089797974,
+                "tail": "supply it's product to stores"
+            },
+            {
+                "head": "PersonX reduces PersonY's costs",
+                "relation": "oWant",
+                "similarity": 0.7561935782432556,
+                "tail": "decrease costs"
+            },
+            {
+                "head": "manufacturer",
+                "relation": "CapableOf",
+                "similarity": 0.7551490962505341,
+                "tail": "market product"
+            },
+            {
+                "head": "PersonX reduces PersonX's costs",
+                "relation": "xEffect",
+                "similarity": 0.7547858953475952,
+                "tail": "to reduces costs"
+            },
+            {
+                "head": "PersonX reduces PersonX's costs",
+                "relation": "xNeed",
+                "similarity": 0.7519473135471344,
+                "tail": "identify areas in which costs can be cut"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX meets PersonX's objectives",
+                "relation": "xNeed",
+                "similarity": 0.277036651968956,
+                "tail": "to work on objectives"
+            },
+            {
+                "head": "PersonX meets PersonX's objectives",
+                "relation": "xNeed",
+                "similarity": 0.2693774849176407,
+                "tail": "to make objectives"
+            },
+            {
+                "head": "financial statements",
+                "relation": "ObjectUse",
+                "similarity": 0.2674110382795334,
+                "tail": "fulfill application requirements"
+            },
+            {
+                "head": "PersonX meets PersonY's objectives",
+                "relation": "xEffect",
+                "similarity": 0.26695793867111206,
+                "tail": "is physically tired if meeting PersonY objectives did involve any kind of physical activity"
+            },
+            {
+                "head": "financial statements",
+                "relation": "ObjectUse",
+                "similarity": 0.2661721706390381,
+                "tail": "analyze spending habits"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_2",
+        "question_commonsense": [
+            {
+                "head": "payment account",
+                "relation": "ObjectUse",
+                "similarity": 0.818061113357544,
+                "tail": "hack another account"
+            },
+            {
+                "head": "PersonX provides PersonY account",
+                "relation": "xEffect",
+                "similarity": 0.8165777623653412,
+                "tail": "writes down the account"
+            },
+            {
+                "head": "payment account",
+                "relation": "ObjectUse",
+                "similarity": 0.816565066576004,
+                "tail": "transfer money"
+            },
+            {
+                "head": "PersonX accepts ___ in exchange",
+                "relation": "xNeed",
+                "similarity": 0.816489964723587,
+                "tail": "to make an exchange agreement"
+            },
+            {
+                "head": "payment account",
+                "relation": "ObjectUse",
+                "similarity": 0.8144674897193909,
+                "tail": "confirm purchase"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "financial statements",
+                "relation": "ObjectUse",
+                "similarity": 0.2995566874742508,
+                "tail": "analyze spending habits"
+            },
+            {
+                "head": "banking details",
+                "relation": "ObjectUse",
+                "similarity": 0.2920576184988022,
+                "tail": "examine spending habits"
+            },
+            {
+                "head": "PersonX pays PersonX's expenses",
+                "relation": "xNeed",
+                "similarity": 0.2919052094221115,
+                "tail": "find out the total of the expenses"
+            },
+            {
+                "head": "expense account",
+                "relation": "ObjectUse",
+                "similarity": 0.29126816987991333,
+                "tail": "spend a company into bankruptcy"
+            },
+            {
+                "head": "large bank account",
+                "relation": "ObjectUse",
+                "similarity": 0.2909170836210251,
+                "tail": "pay lawyer's fees"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX projects PersonY image",
+                "relation": "xIntent",
+                "similarity": 0.8252288401126862,
+                "tail": "to be projects"
+            },
+            {
+                "head": "PersonX maximizes PersonX's profits",
+                "relation": "xIntent",
+                "similarity": 0.8216719925403595,
+                "tail": "to make as much money as possible."
+            },
+            {
+                "head": "PersonX projects PersonY image",
+                "relation": "isAfter",
+                "similarity": 0.8215643465518951,
+                "tail": "PersonX gets out a picture of PersonY"
+            },
+            {
+                "head": "PersonX maximizes PersonY's profits",
+                "relation": "xAttr",
+                "similarity": 0.8180658519268036,
+                "tail": "Interesting"
+            },
+            {
+                "head": "PersonX projects PersonY image",
+                "relation": "oWant",
+                "similarity": 0.8171898424625397,
+                "tail": "their images projected as well"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX opens projects in the form",
+                "relation": "xNeed",
+                "similarity": 0.27971288561820984,
+                "tail": "to receive  bids for the project"
+            },
+            {
+                "head": "PersonX uses ___ to estimate",
+                "relation": "xWant",
+                "similarity": 0.27820757031440735,
+                "tail": "to make more estimates"
+            },
+            {
+                "head": "PersonX opens projects in the form",
+                "relation": "xNeed",
+                "similarity": 0.27072353661060333,
+                "tail": "to send out proposals for the projects"
+            },
+            {
+                "head": "payment plan",
+                "relation": "ObjectUse",
+                "similarity": 0.2704980969429016,
+                "tail": "help pay for the loan"
+            },
+            {
+                "head": "PersonX opens projects in the form",
+                "relation": "xEffect",
+                "similarity": 0.2702619731426239,
+                "tail": "decides what to do with project"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xWant",
+                "similarity": 0.8323817253112793,
+                "tail": "make decisions based on the data analysis"
+            },
+            {
+                "head": "tax information",
+                "relation": "ObjectUse",
+                "similarity": 0.8317765295505524,
+                "tail": "make sure you're earning the right amount of money"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xNeed",
+                "similarity": 0.8251447677612305,
+                "tail": "get data analysis software"
+            },
+            {
+                "head": "mathematics",
+                "relation": "HasProperty",
+                "similarity": 0.8240314424037933,
+                "tail": "useful in business"
+            },
+            {
+                "head": "tax information",
+                "relation": "ObjectUse",
+                "similarity": 0.8219811022281647,
+                "tail": "provide to accountant to do taxes"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX cuts PersonX's losses",
+                "relation": "xEffect",
+                "similarity": 0.29397842288017273,
+                "tail": "lose a substantial amount of money"
+            },
+            {
+                "head": "large investment portfolio",
+                "relation": "ObjectUse",
+                "similarity": 0.2872515022754669,
+                "tail": "save for retirement"
+            },
+            {
+                "head": "investor",
+                "relation": "NotDesires",
+                "similarity": 0.2872496694326401,
+                "tail": "lose money"
+            },
+            {
+                "head": "investor",
+                "relation": "CapableOf",
+                "similarity": 0.28577785193920135,
+                "tail": "pick winning stock"
+            },
+            {
+                "head": "PersonX cuts PersonX's losses",
+                "relation": "HinderedBy",
+                "similarity": 0.2850046306848526,
+                "tail": "PersonX is a victim of the sunk cost fallacy."
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX sets up computer systems",
+                "relation": "oWant",
+                "similarity": 0.7460921704769135,
+                "tail": "to work on the computer systems"
+            },
+            {
+                "head": "PersonX sets up computer systems",
+                "relation": "xEffect",
+                "similarity": 0.7429220974445343,
+                "tail": "inputs data"
+            },
+            {
+                "head": "PersonX sets up computer systems",
+                "relation": "xWant",
+                "similarity": 0.7366004288196564,
+                "tail": "to check that the computers work"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.7365336120128632,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX sets up computer systems",
+                "relation": "HinderedBy",
+                "similarity": 0.7337810695171356,
+                "tail": "PersonX's teacher never taught him computer systems."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX supplements PersonY's income",
+                "relation": "HinderedBy",
+                "similarity": 0.27312329411506653,
+                "tail": "Personx is jobless and has no extra income"
+            },
+            {
+                "head": "PersonX supplements PersonY's income",
+                "relation": "HinderedBy",
+                "similarity": 0.2661178559064865,
+                "tail": "PersonX has a large student loan to pay off."
+            },
+            {
+                "head": "PersonX supplements PersonY's income",
+                "relation": "xWant",
+                "similarity": 0.2658970504999161,
+                "tail": "to increase savings"
+            },
+            {
+                "head": "salary history",
+                "relation": "ObjectUse",
+                "similarity": 0.2653616815805435,
+                "tail": "show past salary"
+            },
+            {
+                "head": "some startup cash",
+                "relation": "ObjectUse",
+                "similarity": 0.26533685624599457,
+                "tail": "seed fund a new venture"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_6",
+        "question_commonsense": [
+            {
+                "head": "tax information",
+                "relation": "ObjectUse",
+                "similarity": 0.8117805123329163,
+                "tail": "make sure you're earning the right amount of money"
+            },
+            {
+                "head": "tax information",
+                "relation": "ObjectUse",
+                "similarity": 0.803379237651825,
+                "tail": "provide to accountant to do taxes"
+            },
+            {
+                "head": "PersonX costs PersonY a lot of money",
+                "relation": "oWant",
+                "similarity": 0.7998721897602081,
+                "tail": "to get paid back"
+            },
+            {
+                "head": "PersonX costs ___ a lot of money",
+                "relation": "xReact",
+                "similarity": 0.7994683980941772,
+                "tail": "bad for costing someone extra"
+            },
+            {
+                "head": "data sheets",
+                "relation": "ObjectUse",
+                "similarity": 0.7969646155834198,
+                "tail": "analyze data"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "salary history",
+                "relation": "ObjectUse",
+                "similarity": 0.2669176757335663,
+                "tail": "show past salary"
+            },
+            {
+                "head": "wage stubs",
+                "relation": "ObjectUse",
+                "similarity": 0.26368366181850433,
+                "tail": "keep track of taxes paid throughout the year"
+            },
+            {
+                "head": "wage stubs",
+                "relation": "ObjectUse",
+                "similarity": 0.2542281895875931,
+                "tail": "show their net worth"
+            },
+            {
+                "head": "salary history",
+                "relation": "ObjectUse",
+                "similarity": 0.25270868092775345,
+                "tail": "set a budget"
+            },
+            {
+                "head": "salary history",
+                "relation": "ObjectUse",
+                "similarity": 0.25070711970329285,
+                "tail": "know how much your paid"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_7",
+        "question_commonsense": [
+            {
+                "head": "tax software",
+                "relation": "ObjectUse",
+                "similarity": 0.8185002207756042,
+                "tail": "calculate amount owed"
+            },
+            {
+                "head": "tax software",
+                "relation": "ObjectUse",
+                "similarity": 0.8173593878746033,
+                "tail": "read about new tax laws"
+            },
+            {
+                "head": "tax software",
+                "relation": "ObjectUse",
+                "similarity": 0.8152328431606293,
+                "tail": "lie about their tax revenue"
+            },
+            {
+                "head": "tax software",
+                "relation": "ObjectUse",
+                "similarity": 0.8107120096683502,
+                "tail": "use as a calculator"
+            },
+            {
+                "head": "tax information",
+                "relation": "ObjectUse",
+                "similarity": 0.8105104565620422,
+                "tail": "provide to accountant to do taxes"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX sweats profusely",
+                "relation": "xEffect",
+                "similarity": 0.26223328709602356,
+                "tail": "to sweats profusely"
+            },
+            {
+                "head": "withdrawal slip",
+                "relation": "ObjectUse",
+                "similarity": 0.2588644474744797,
+                "tail": "make a withdrawal"
+            },
+            {
+                "head": "withdrawal slip",
+                "relation": "ObjectUse",
+                "similarity": 0.2574470564723015,
+                "tail": "take out money from an account"
+            },
+            {
+                "head": "withdrawal slip",
+                "relation": "ObjectUse",
+                "similarity": 0.2565184235572815,
+                "tail": "get specific change from bank"
+            },
+            {
+                "head": "PersonX uses ___ to estimate",
+                "relation": "oWant",
+                "similarity": 0.2556812912225723,
+                "tail": "to dispute the data"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_8",
+        "question_commonsense": [
+            {
+                "head": "jet ski",
+                "relation": "AtLocation",
+                "similarity": 0.6061872243881226,
+                "tail": "beach"
+            },
+            {
+                "head": "water skis",
+                "relation": "ObjectUse",
+                "similarity": 0.5843386650085449,
+                "tail": "compete in a water ski race"
+            },
+            {
+                "head": "PersonX rents a boat",
+                "relation": "oEffect",
+                "similarity": 0.5795082747936249,
+                "tail": "loses use of boat for specified rental time"
+            },
+            {
+                "head": "PersonX rents a boat",
+                "relation": "HinderedBy",
+                "similarity": 0.5769149959087372,
+                "tail": "There are no boats available to rent."
+            },
+            {
+                "head": "PersonX rents a boat",
+                "relation": "HinderedBy",
+                "similarity": 0.5742390751838684,
+                "tail": "The boats are too expensive"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "sales",
+                "relation": "ObjectUse",
+                "similarity": 0.27533791959285736,
+                "tail": "persuade the purchase of a cellphone"
+            },
+            {
+                "head": "PersonX purchases ___ at prices",
+                "relation": "xWant",
+                "similarity": 0.2710195630788803,
+                "tail": "resell goods"
+            },
+            {
+                "head": "PersonX uses ___ to estimate",
+                "relation": "xWant",
+                "similarity": 0.27041958272457123,
+                "tail": "to make more estimates"
+            },
+            {
+                "head": "PersonX purchases ___ at prices",
+                "relation": "xEffect",
+                "similarity": 0.26597176492214203,
+                "tail": "buys an idem"
+            },
+            {
+                "head": "PersonX purchases ___ at prices",
+                "relation": "xNeed",
+                "similarity": 0.2657140791416168,
+                "tail": "to fill their cart"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_9",
+        "question_commonsense": [
+            {
+                "head": "finances",
+                "relation": "ObjectUse",
+                "similarity": 0.7590337991714478,
+                "tail": "be able to pay for their items"
+            },
+            {
+                "head": "payment account",
+                "relation": "ObjectUse",
+                "similarity": 0.7581149935722351,
+                "tail": "transfer money"
+            },
+            {
+                "head": "payment method",
+                "relation": "ObjectUse",
+                "similarity": 0.7552492916584015,
+                "tail": "hide transactions"
+            },
+            {
+                "head": "payment account",
+                "relation": "ObjectUse",
+                "similarity": 0.7476659715175629,
+                "tail": "confirm purchase"
+            },
+            {
+                "head": "payment account",
+                "relation": "ObjectUse",
+                "similarity": 0.7476105093955994,
+                "tail": "pay off debt"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "dealership agreement",
+                "relation": "ObjectUse",
+                "similarity": 0.28778132796287537,
+                "tail": "negotiate the warranty"
+            },
+            {
+                "head": "invoices",
+                "relation": "ObjectUse",
+                "similarity": 0.2811659723520279,
+                "tail": "create a balance sheet"
+            },
+            {
+                "head": "dealership agreement",
+                "relation": "ObjectUse",
+                "similarity": 0.27969762682914734,
+                "tail": "agree on monthly payments"
+            },
+            {
+                "head": "dealer contract",
+                "relation": "ObjectUse",
+                "similarity": 0.2794291526079178,
+                "tail": "sign escrow contract"
+            },
+            {
+                "head": "dealership agreement",
+                "relation": "ObjectUse",
+                "similarity": 0.27745798230171204,
+                "tail": "file with legal documents"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_10",
+        "question_commonsense": [
+            {
+                "head": "cash flow",
+                "relation": "ObjectUse",
+                "similarity": 0.7621731460094452,
+                "tail": "invest in innovative technologies"
+            },
+            {
+                "head": "some startup cash",
+                "relation": "ObjectUse",
+                "similarity": 0.7587510943412781,
+                "tail": "invest in the stock market"
+            },
+            {
+                "head": "some startup cash",
+                "relation": "ObjectUse",
+                "similarity": 0.7528694570064545,
+                "tail": "use to buy bonds for the new get rich plan"
+            },
+            {
+                "head": "some startup cash",
+                "relation": "ObjectUse",
+                "similarity": 0.7526077330112457,
+                "tail": "invest in a business"
+            },
+            {
+                "head": "some startup cash",
+                "relation": "ObjectUse",
+                "similarity": 0.7481469213962555,
+                "tail": "seed fund a new venture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX markets and sell a product or service",
+                "relation": "xNeed",
+                "similarity": 0.2741863280534744,
+                "tail": "to acquire or make products to sell"
+            },
+            {
+                "head": "PersonX markets and sell a product or service",
+                "relation": "oEffect",
+                "similarity": 0.2701696753501892,
+                "tail": "gains a product or service"
+            },
+            {
+                "head": "manufacturers specs",
+                "relation": "ObjectUse",
+                "similarity": 0.26889847218990326,
+                "tail": "let customers know details of product"
+            },
+            {
+                "head": "manufacturers specs",
+                "relation": "ObjectUse",
+                "similarity": 0.26832611858844757,
+                "tail": "compare products"
+            },
+            {
+                "head": "manufacturers specs",
+                "relation": "ObjectUse",
+                "similarity": 0.26437560468912125,
+                "tail": "meet requirements"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_11",
+        "question_commonsense": [
+            {
+                "head": "share market investor",
+                "relation": "NotDesires",
+                "similarity": 0.730121374130249,
+                "tail": "stock market crash"
+            },
+            {
+                "head": "PersonX exchanges insurance information",
+                "relation": "xNeed",
+                "similarity": 0.7160220742225647,
+                "tail": "to find the insurance information"
+            },
+            {
+                "head": "PersonX assigns computer to groups",
+                "relation": "isBefore",
+                "similarity": 0.715706080198288,
+                "tail": "PersonX starts teaching the computer course"
+            },
+            {
+                "head": "PersonX exchanges insurance information",
+                "relation": "xNeed",
+                "similarity": 0.7150738835334778,
+                "tail": "to know the insurance information"
+            },
+            {
+                "head": "stock market",
+                "relation": "ObjectUse",
+                "similarity": 0.7103981673717499,
+                "tail": "invest money"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "cell phone contract",
+                "relation": "ObjectUse",
+                "similarity": 0.30691128969192505,
+                "tail": "list the conditions of a cellular plan"
+            },
+            {
+                "head": "cell phone contract",
+                "relation": "ObjectUse",
+                "similarity": 0.286217600107193,
+                "tail": "have cell phone service to call home"
+            },
+            {
+                "head": "PersonX calls PersonY the next day",
+                "relation": "xNeed",
+                "similarity": 0.28105033934116364,
+                "tail": "to have received a call from PersonY"
+            },
+            {
+                "head": "PersonX calls ___ the next day",
+                "relation": "oWant",
+                "similarity": 0.27822062373161316,
+                "tail": "to ignore the call"
+            },
+            {
+                "head": "cell phone plan",
+                "relation": "ObjectUse",
+                "similarity": 0.2781335413455963,
+                "tail": "save money on minutes"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_12",
+        "question_commonsense": [
+            {
+                "head": "h",
+                "relation": "MadeUpOf",
+                "similarity": 0.6332170963287354,
+                "tail": "q"
+            },
+            {
+                "head": "math",
+                "relation": "ObjectUse",
+                "similarity": 0.6324937045574188,
+                "tail": "fun"
+            },
+            {
+                "head": "math",
+                "relation": "HasProperty",
+                "similarity": 0.6324937045574188,
+                "tail": "fun"
+            },
+            {
+                "head": "h",
+                "relation": "MadeUpOf",
+                "similarity": 0.6316784918308258,
+                "tail": "2h"
+            },
+            {
+                "head": "PersonX sees furniture for sale",
+                "relation": "isBefore",
+                "similarity": 0.6230534613132477,
+                "tail": "PersonX buys furniture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "office supplies",
+                "relation": "ObjectUse",
+                "similarity": 0.28261101245880127,
+                "tail": "make an office job more efficient"
+            },
+            {
+                "head": "expense account",
+                "relation": "ObjectUse",
+                "similarity": 0.27835840731859207,
+                "tail": "get the company to pay for something"
+            },
+            {
+                "head": "expense account",
+                "relation": "ObjectUse",
+                "similarity": 0.27754004299640656,
+                "tail": "spend a company into bankruptcy"
+            },
+            {
+                "head": "expense account",
+                "relation": "ObjectUse",
+                "similarity": 0.2749439924955368,
+                "tail": "use as a job perk"
+            },
+            {
+                "head": "expense account",
+                "relation": "ObjectUse",
+                "similarity": 0.2746092975139618,
+                "tail": "Save personal money inside of it"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_13",
+        "question_commonsense": [
+            {
+                "head": "PersonX loves chocolate",
+                "relation": "xEffect",
+                "similarity": 0.7908868789672852,
+                "tail": "buy new chocolate"
+            },
+            {
+                "head": "PersonX loves chocolate",
+                "relation": "xWant",
+                "similarity": 0.7907074391841888,
+                "tail": "to buy all the chocolate!"
+            },
+            {
+                "head": "PersonX loves chocolate",
+                "relation": "xEffect",
+                "similarity": 0.7899588346481323,
+                "tail": "taste chocolate"
+            },
+            {
+                "head": "PersonX loves chocolate",
+                "relation": "xWant",
+                "similarity": 0.7870717942714691,
+                "tail": "to eat all the chocolate!"
+            },
+            {
+                "head": "PersonX loves chocolate",
+                "relation": "xIntent",
+                "similarity": 0.786555290222168,
+                "tail": "to feel good when eating chocolates"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX pays PersonX's expenses",
+                "relation": "xNeed",
+                "similarity": 0.3191104978322983,
+                "tail": "find out the total of the expenses"
+            },
+            {
+                "head": "PersonX pays PersonX's expenses",
+                "relation": "oEffect",
+                "similarity": 0.30639927089214325,
+                "tail": "Person Y receives criticism from others for paying Person X's expenses."
+            },
+            {
+                "head": "expense account",
+                "relation": "ObjectUse",
+                "similarity": 0.29795725643634796,
+                "tail": "Save personal money inside of it"
+            },
+            {
+                "head": "expense account",
+                "relation": "ObjectUse",
+                "similarity": 0.29535749554634094,
+                "tail": "spend a company into bankruptcy"
+            },
+            {
+                "head": "PersonX pays PersonX's expenses",
+                "relation": "xAttr",
+                "similarity": 0.2883603721857071,
+                "tail": "generous"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_14",
+        "question_commonsense": [
+            {
+                "head": "job listings",
+                "relation": "ObjectUse",
+                "similarity": 0.795344352722168,
+                "tail": "find the most popular jobs"
+            },
+            {
+                "head": "job listings",
+                "relation": "ObjectUse",
+                "similarity": 0.7932865917682648,
+                "tail": "jobs that are available"
+            },
+            {
+                "head": "job ads",
+                "relation": "ObjectUse",
+                "similarity": 0.7890356779098511,
+                "tail": "find jobs"
+            },
+            {
+                "head": "job ad",
+                "relation": "ObjectUse",
+                "similarity": 0.7889534831047058,
+                "tail": "use to create an in-house job description template"
+            },
+            {
+                "head": "job ads",
+                "relation": "ObjectUse",
+                "similarity": 0.7878292798995972,
+                "tail": "Help a friend get hired"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX costs ___ to fix",
+                "relation": "xEffect",
+                "similarity": 0.2689855098724365,
+                "tail": "to costs to fix"
+            },
+            {
+                "head": "wage stubs",
+                "relation": "ObjectUse",
+                "similarity": 0.2626478672027588,
+                "tail": "show proof of employment"
+            },
+            {
+                "head": "manufacturers specs",
+                "relation": "ObjectUse",
+                "similarity": 0.26215600967407227,
+                "tail": "compare products"
+            },
+            {
+                "head": "wages",
+                "relation": "ObjectUse",
+                "similarity": 0.25638262182474136,
+                "tail": "bargain over while hiring"
+            },
+            {
+                "head": "PersonX costs a lot",
+                "relation": "xEffect",
+                "similarity": 0.2555978521704674,
+                "tail": "to costs alot"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_15",
+        "question_commonsense": [
+            {
+                "head": "bookkeeping software",
+                "relation": "ObjectUse",
+                "similarity": 0.7896742224693298,
+                "tail": "organize business expenses"
+            },
+            {
+                "head": "bookkeeping software",
+                "relation": "ObjectUse",
+                "similarity": 0.7723110914230347,
+                "tail": "create contribution statements yearly for a non-profit group"
+            },
+            {
+                "head": "PersonX reduces PersonY's costs",
+                "relation": "oWant",
+                "similarity": 0.7695205807685852,
+                "tail": "decrease costs"
+            },
+            {
+                "head": "bookkeeping software",
+                "relation": "ObjectUse",
+                "similarity": 0.7682091891765594,
+                "tail": "pinpoint which customers owe money"
+            },
+            {
+                "head": "tax software",
+                "relation": "ObjectUse",
+                "similarity": 0.7673713564872742,
+                "tail": "calculate amount owed"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "invoices",
+                "relation": "ObjectUse",
+                "similarity": 0.2859821319580078,
+                "tail": "document spending"
+            },
+            {
+                "head": "invoices",
+                "relation": "ObjectUse",
+                "similarity": 0.28288716077804565,
+                "tail": "know how much to pay a contractor"
+            },
+            {
+                "head": "invoices",
+                "relation": "ObjectUse",
+                "similarity": 0.28249265253543854,
+                "tail": "provide the IRS in the case of an audit"
+            },
+            {
+                "head": "invoices",
+                "relation": "ObjectUse",
+                "similarity": 0.28240442276000977,
+                "tail": "pay the bills"
+            },
+            {
+                "head": "amazon payments",
+                "relation": "ObjectUse",
+                "similarity": 0.2814130187034607,
+                "tail": "pay bills"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_16",
+        "question_commonsense": [
+            {
+                "head": "large investment portfolio",
+                "relation": "ObjectUse",
+                "similarity": 0.729128897190094,
+                "tail": "futureproof money"
+            },
+            {
+                "head": "large investment portfolio",
+                "relation": "ObjectUse",
+                "similarity": 0.7289709448814392,
+                "tail": "expand personal wealth"
+            },
+            {
+                "head": "large investment portfolio",
+                "relation": "ObjectUse",
+                "similarity": 0.7281531393527985,
+                "tail": "save for retirement"
+            },
+            {
+                "head": "PersonX raises ___ to buy",
+                "relation": "xEffect",
+                "similarity": 0.7215337753295898,
+                "tail": "they buy it"
+            },
+            {
+                "head": "PersonX assigns computer to groups",
+                "relation": "isBefore",
+                "similarity": 0.7194893658161163,
+                "tail": "PersonX starts teaching the computer course"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX purchases this book without a cover",
+                "relation": "xIntent",
+                "similarity": 0.26555050909519196,
+                "tail": "save money"
+            },
+            {
+                "head": "PersonX purchases this book without a cover",
+                "relation": "xIntent",
+                "similarity": 0.26555050909519196,
+                "tail": "to save money"
+            },
+            {
+                "head": "PersonX purchases ___ at prices",
+                "relation": "xWant",
+                "similarity": 0.2654651552438736,
+                "tail": "to use what they bought"
+            },
+            {
+                "head": "PersonX picks money up quickly",
+                "relation": "isBefore",
+                "similarity": 0.26489847898483276,
+                "tail": "PersonX goes to the store and buys a laptop"
+            },
+            {
+                "head": "PersonX purchases ___ at prices",
+                "relation": "xWant",
+                "similarity": 0.26476678997278214,
+                "tail": "resell goods"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes an account",
+                "relation": "xEffect",
+                "similarity": 0.8393722772598267,
+                "tail": "uses the account"
+            },
+            {
+                "head": "PersonX makes an account",
+                "relation": "xWant",
+                "similarity": 0.8377225399017334,
+                "tail": "to use their account"
+            },
+            {
+                "head": "PersonX makes an account",
+                "relation": "xNeed",
+                "similarity": 0.8360175490379333,
+                "tail": "account information"
+            },
+            {
+                "head": "PersonX makes an account",
+                "relation": "isBefore",
+                "similarity": 0.8335666060447693,
+                "tail": "PersonX deposits money into the account"
+            },
+            {
+                "head": "PersonX makes an account",
+                "relation": "HinderedBy",
+                "similarity": 0.8325205445289612,
+                "tail": "PersonX does not have money to make an account"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "financial statements",
+                "relation": "ObjectUse",
+                "similarity": 0.2873361110687256,
+                "tail": "analyze spending habits"
+            },
+            {
+                "head": "financial resources",
+                "relation": "ObjectUse",
+                "similarity": 0.27705177664756775,
+                "tail": "pay for items"
+            },
+            {
+                "head": "financial statements",
+                "relation": "ObjectUse",
+                "similarity": 0.2745181769132614,
+                "tail": "Use during tax season"
+            },
+            {
+                "head": "financial resources",
+                "relation": "ObjectUse",
+                "similarity": 0.2737387865781784,
+                "tail": "pay for the hospital's services"
+            },
+            {
+                "head": "PersonX provides PersonY estimate",
+                "relation": "oEffect",
+                "similarity": 0.273630291223526,
+                "tail": "thinks about other estimates they ave"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_18",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY inventory",
+                "relation": "HinderedBy",
+                "similarity": 0.8336939513683319,
+                "tail": "PersonX didn't order enough for inventory."
+            },
+            {
+                "head": "PersonX makes PersonY inventory",
+                "relation": "oWant",
+                "similarity": 0.83228400349617,
+                "tail": "to receive inventory report"
+            },
+            {
+                "head": "PersonX makes PersonY inventory",
+                "relation": "xWant",
+                "similarity": 0.8246479332447052,
+                "tail": "to give personY inventory report"
+            },
+            {
+                "head": "PersonX makes PersonY inventory",
+                "relation": "xWant",
+                "similarity": 0.8224747180938721,
+                "tail": "to get paid"
+            },
+            {
+                "head": "PersonX makes PersonY inventory",
+                "relation": "xEffect",
+                "similarity": 0.8214918971061707,
+                "tail": "earns money"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX supplements PersonY's income",
+                "relation": "HinderedBy",
+                "similarity": 0.2713600993156433,
+                "tail": "PersonX has a large student loan to pay off."
+            },
+            {
+                "head": "banking details",
+                "relation": "ObjectUse",
+                "similarity": 0.2648661136627197,
+                "tail": "transfer money to a different bank account"
+            },
+            {
+                "head": "banking details",
+                "relation": "ObjectUse",
+                "similarity": 0.2636733055114746,
+                "tail": "to give to employer for direct deposit"
+            },
+            {
+                "head": "enrollment fee",
+                "relation": "ObjectUse",
+                "similarity": 0.2630183547735214,
+                "tail": "collect dues from members"
+            },
+            {
+                "head": "banking details",
+                "relation": "ObjectUse",
+                "similarity": 0.2627197802066803,
+                "tail": "examine spending habits"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_19",
+        "question_commonsense": [
+            {
+                "head": "manufacturer",
+                "relation": "CapableOf",
+                "similarity": 0.7572287619113922,
+                "tail": "supply it's product to stores"
+            },
+            {
+                "head": "PersonX reduces PersonY's costs",
+                "relation": "oWant",
+                "similarity": 0.7549387514591217,
+                "tail": "decrease costs"
+            },
+            {
+                "head": "manufacturer",
+                "relation": "CapableOf",
+                "similarity": 0.7543329894542694,
+                "tail": "market product"
+            },
+            {
+                "head": "PersonX reduces PersonX's costs",
+                "relation": "xEffect",
+                "similarity": 0.7537623047828674,
+                "tail": "to reduces costs"
+            },
+            {
+                "head": "PersonX reduces PersonX's costs",
+                "relation": "xNeed",
+                "similarity": 0.7510409355163574,
+                "tail": "identify areas in which costs can be cut"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX meets PersonX's objectives",
+                "relation": "xNeed",
+                "similarity": 0.277036651968956,
+                "tail": "to work on objectives"
+            },
+            {
+                "head": "PersonX meets PersonX's objectives",
+                "relation": "xNeed",
+                "similarity": 0.2693774849176407,
+                "tail": "to make objectives"
+            },
+            {
+                "head": "financial statements",
+                "relation": "ObjectUse",
+                "similarity": 0.2674110382795334,
+                "tail": "fulfill application requirements"
+            },
+            {
+                "head": "PersonX meets PersonY's objectives",
+                "relation": "xEffect",
+                "similarity": 0.26695793867111206,
+                "tail": "is physically tired if meeting PersonY objectives did involve any kind of physical activity"
+            },
+            {
+                "head": "financial statements",
+                "relation": "ObjectUse",
+                "similarity": 0.2661721706390381,
+                "tail": "analyze spending habits"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX buys some stock",
+                "relation": "xWant",
+                "similarity": 0.7843899428844452,
+                "tail": "to learn more about how stocks work"
+            },
+            {
+                "head": "PersonX buys some stock",
+                "relation": "xWant",
+                "similarity": 0.7838632166385651,
+                "tail": "to learn about other good stocks"
+            },
+            {
+                "head": "PersonX buys some stock",
+                "relation": "HinderedBy",
+                "similarity": 0.7830846309661865,
+                "tail": "the stockbroker tells PersonX the stocks are too expensive"
+            },
+            {
+                "head": "PersonX buys some stock",
+                "relation": "xWant",
+                "similarity": 0.7810619473457336,
+                "tail": "to find out how to sell their stock"
+            },
+            {
+                "head": "PersonX buys some stock",
+                "relation": "xNeed",
+                "similarity": 0.7801460325717926,
+                "tail": "to see which stock is doing the best"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX uses ___ to estimate",
+                "relation": "oWant",
+                "similarity": 0.2540843337774277,
+                "tail": "to dispute the data"
+            },
+            {
+                "head": "PersonX reduces the ___ by percent",
+                "relation": "xWant",
+                "similarity": 0.25252615660429,
+                "tail": "to even the odds"
+            },
+            {
+                "head": "withdrawal slip",
+                "relation": "ObjectUse",
+                "similarity": 0.2510712891817093,
+                "tail": "make a withdrawal"
+            },
+            {
+                "head": "PersonX uses ___ to estimate",
+                "relation": "xWant",
+                "similarity": 0.2506338134407997,
+                "tail": "to make more estimates"
+            },
+            {
+                "head": "PersonX reduces the ___ by percent",
+                "relation": "xAttr",
+                "similarity": 0.25053728371858597,
+                "tail": "efficient"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_21",
+        "question_commonsense": [
+            {
+                "head": "PersonX opens projects in the form",
+                "relation": "HinderedBy",
+                "similarity": 0.7918818593025208,
+                "tail": "The projects require software PersonX doesn’t have."
+            },
+            {
+                "head": "PersonX opens projects in the form",
+                "relation": "HinderedBy",
+                "similarity": 0.7866459786891937,
+                "tail": "the projects were lost in a data breech"
+            },
+            {
+                "head": "PersonX opens projects in the form",
+                "relation": "xEffect",
+                "similarity": 0.7849781811237335,
+                "tail": "sees project"
+            },
+            {
+                "head": "PersonX opens projects in the form",
+                "relation": "xNeed",
+                "similarity": 0.7762662768363953,
+                "tail": "to of been given the project"
+            },
+            {
+                "head": "PersonX opens projects in the form",
+                "relation": "isAfter",
+                "similarity": 0.7762662768363953,
+                "tail": "PersonX is given a project to do"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX bets PersonX's bottom dollar",
+                "relation": "HinderedBy",
+                "similarity": 0.2680453956127167,
+                "tail": "PersonY won a bet against PersonX."
+            },
+            {
+                "head": "PersonX bets PersonY",
+                "relation": "oEffect",
+                "similarity": 0.26675112545490265,
+                "tail": "person y also preparing to the betting event"
+            },
+            {
+                "head": "PersonX bets PersonX's bottom dollar",
+                "relation": "oWant",
+                "similarity": 0.26541027426719666,
+                "tail": "to win the bet"
+            },
+            {
+                "head": "PersonX bets PersonY",
+                "relation": "oWant",
+                "similarity": 0.2650996744632721,
+                "tail": "to win the bet"
+            },
+            {
+                "head": "PersonX bets PersonX's bottom dollar",
+                "relation": "oWant",
+                "similarity": 0.2594038173556328,
+                "tail": "Bet against PersonX"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_22",
+        "question_commonsense": [
+            {
+                "head": "listing on website",
+                "relation": "ObjectUse",
+                "similarity": 0.7841283082962036,
+                "tail": "search for help"
+            },
+            {
+                "head": "get",
+                "relation": "xNeed",
+                "similarity": 0.7790355682373047,
+                "tail": "earn money to buy"
+            },
+            {
+                "head": "job posting",
+                "relation": "ObjectUse",
+                "similarity": 0.77752286195755,
+                "tail": "find new people o hire for your position"
+            },
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "oReact",
+                "similarity": 0.7772684693336487,
+                "tail": "exposed"
+            },
+            {
+                "head": "get",
+                "relation": "xIntent",
+                "similarity": 0.777101457118988,
+                "tail": "have"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX earns enough money",
+                "relation": "xNeed",
+                "similarity": 0.2739713042974472,
+                "tail": "has a source of income"
+            },
+            {
+                "head": "PersonX earns enough money",
+                "relation": "xIntent",
+                "similarity": 0.2720526456832886,
+                "tail": "financial security"
+            },
+            {
+                "head": "banking details",
+                "relation": "ObjectUse",
+                "similarity": 0.26795776188373566,
+                "tail": "examine spending habits"
+            },
+            {
+                "head": "financial means",
+                "relation": "ObjectUse",
+                "similarity": 0.2669096440076828,
+                "tail": "save for retirement"
+            },
+            {
+                "head": "PersonX earns enough money",
+                "relation": "xEffect",
+                "similarity": 0.26615476608276367,
+                "tail": "his credit rating goes up"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_23",
+        "question_commonsense": [
+            {
+                "head": "interest rate",
+                "relation": "ObjectUse",
+                "similarity": 0.8079433441162109,
+                "tail": "grow their money in a savings account"
+            },
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.8067432940006256,
+                "tail": "apply to an account and generate extra income"
+            },
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.8052910268306732,
+                "tail": "earn a credit company money"
+            },
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.802336186170578,
+                "tail": "manipulate foreign currency"
+            },
+            {
+                "head": "listing on website",
+                "relation": "ObjectUse",
+                "similarity": 0.8016376793384552,
+                "tail": "make extra money"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX puts PersonY in possession",
+                "relation": "HinderedBy",
+                "similarity": 0.26632481813430786,
+                "tail": "There is no reason for PersonX to put PersonY in possession."
+            },
+            {
+                "head": "PersonX improves PersonX's chances",
+                "relation": "HinderedBy",
+                "similarity": 0.25501033663749695,
+                "tail": "They lack the skill to improve their chances"
+            },
+            {
+                "head": "PersonX puts PersonY in possession",
+                "relation": "xAttr",
+                "similarity": 0.25139593333005905,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX improves PersonX's chances",
+                "relation": "oEffect",
+                "similarity": 0.25057870149612427,
+                "tail": "they improve their own chances"
+            },
+            {
+                "head": "PersonX improves PersonX's chances",
+                "relation": "xIntent",
+                "similarity": 0.24898410588502884,
+                "tail": "advancement"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_24",
+        "question_commonsense": [
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.740317702293396,
+                "tail": "manage structured data"
+            },
+            {
+                "head": "PersonX exchanges insurance information",
+                "relation": "xNeed",
+                "similarity": 0.7381273508071899,
+                "tail": "to find the insurance information"
+            },
+            {
+                "head": "share market investor",
+                "relation": "NotDesires",
+                "similarity": 0.7365980446338654,
+                "tail": "stock market crash"
+            },
+            {
+                "head": "PersonX exchanges insurance information",
+                "relation": "xNeed",
+                "similarity": 0.7352237105369568,
+                "tail": "to know the insurance information"
+            },
+            {
+                "head": "PersonX exchanges information",
+                "relation": "xWant",
+                "similarity": 0.7312771081924438,
+                "tail": "to use the information to their advantage"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX buys some stock",
+                "relation": "xNeed",
+                "similarity": 0.2911900728940964,
+                "tail": "research stock"
+            },
+            {
+                "head": "PersonX buys some stock",
+                "relation": "xWant",
+                "similarity": 0.29013940691947937,
+                "tail": "to learn about other good stocks"
+            },
+            {
+                "head": "PersonX buys some stock",
+                "relation": "xWant",
+                "similarity": 0.2879268079996109,
+                "tail": "to learn more about how stocks work"
+            },
+            {
+                "head": "PersonX buys some stock",
+                "relation": "xNeed",
+                "similarity": 0.2873198986053467,
+                "tail": "to see which stock is doing the best"
+            },
+            {
+                "head": "PersonX buys some stock",
+                "relation": "HinderedBy",
+                "similarity": 0.28641729056835175,
+                "tail": "PersonX has no knowledge of the stock market."
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_25",
+        "question_commonsense": [
+            {
+                "head": "large investment portfolio",
+                "relation": "ObjectUse",
+                "similarity": 0.8365579843521118,
+                "tail": "expand personal wealth"
+            },
+            {
+                "head": "large investment portfolio",
+                "relation": "ObjectUse",
+                "similarity": 0.8263178765773773,
+                "tail": "save for retirement"
+            },
+            {
+                "head": "PersonX puts ___ on the market",
+                "relation": "xIntent",
+                "similarity": 0.8255043923854828,
+                "tail": "to sell it"
+            },
+            {
+                "head": "PersonX puts ___ on the market",
+                "relation": "xEffect",
+                "similarity": 0.817627340555191,
+                "tail": "to go to market"
+            },
+            {
+                "head": "share market investor",
+                "relation": "NotDesires",
+                "similarity": 0.8160075545310974,
+                "tail": "stock market crash"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX expects ___ in return",
+                "relation": "oWant",
+                "similarity": 0.2752196937799454,
+                "tail": "to help PersonX with an event in return"
+            },
+            {
+                "head": "PersonX returns the next day",
+                "relation": "xAttr",
+                "similarity": 0.2738335579633713,
+                "tail": "returning"
+            },
+            {
+                "head": "PersonX expects ___ in return",
+                "relation": "xEffect",
+                "similarity": 0.27378013730049133,
+                "tail": "asks for it in return"
+            },
+            {
+                "head": "PersonX expects ___ in return",
+                "relation": "xAttr",
+                "similarity": 0.26922836899757385,
+                "tail": "nice"
+            },
+            {
+                "head": "PersonX returns the next day",
+                "relation": "HinderedBy",
+                "similarity": 0.2691626325249672,
+                "tail": "Is suspended for one week"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_26",
+        "question_commonsense": [
+            {
+                "head": "arabic",
+                "relation": "AtLocation",
+                "similarity": 0.7404217422008514,
+                "tail": "mesopotamian arabic"
+            },
+            {
+                "head": "PersonX markets and sell a product or service",
+                "relation": "xEffect",
+                "similarity": 0.7380498945713043,
+                "tail": "receives complaints about product"
+            },
+            {
+                "head": "PersonX markets and sell a product or service",
+                "relation": "isBefore",
+                "similarity": 0.7375195622444153,
+                "tail": "PersonX makes $100 in profit the first week"
+            },
+            {
+                "head": "PersonX markets and sell a product or service",
+                "relation": "xEffect",
+                "similarity": 0.7285359501838684,
+                "tail": "receives money for product"
+            },
+            {
+                "head": "PersonX markets and sell a product or service",
+                "relation": "xNeed",
+                "similarity": 0.7245252430438995,
+                "tail": "to acquire or make products to sell"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "financial statements",
+                "relation": "ObjectUse",
+                "similarity": 0.2747058868408203,
+                "tail": "analyze spending habits"
+            },
+            {
+                "head": "financial statements",
+                "relation": "ObjectUse",
+                "similarity": 0.259526289999485,
+                "tail": "sell data"
+            },
+            {
+                "head": "PersonX costs a lot",
+                "relation": "xEffect",
+                "similarity": 0.25933875888586044,
+                "tail": "to costs alot"
+            },
+            {
+                "head": "PersonX supplements PersonY's income",
+                "relation": "xWant",
+                "similarity": 0.25851920992136,
+                "tail": "to pay off debt"
+            },
+            {
+                "head": "financial statements",
+                "relation": "ObjectUse",
+                "similarity": 0.257954478263855,
+                "tail": "show during audits"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_27",
+        "question_commonsense": [
+            {
+                "head": "relational database management system",
+                "relation": "ObjectUse",
+                "similarity": 0.7796053886413574,
+                "tail": "manage structured data"
+            },
+            {
+                "head": "large investment portfolio",
+                "relation": "ObjectUse",
+                "similarity": 0.7772698402404785,
+                "tail": "expand personal wealth"
+            },
+            {
+                "head": "bookkeeping software",
+                "relation": "ObjectUse",
+                "similarity": 0.7741084098815918,
+                "tail": "organize business expenses"
+            },
+            {
+                "head": "bookkeeping software",
+                "relation": "ObjectUse",
+                "similarity": 0.7739653885364532,
+                "tail": "create contribution statements yearly for a non-profit group"
+            },
+            {
+                "head": "share market investor",
+                "relation": "NotDesires",
+                "similarity": 0.7739439308643341,
+                "tail": "stock market crash"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "shareholder",
+                "relation": "ObjectUse",
+                "similarity": 0.2971152067184448,
+                "tail": "buying shares in company"
+            },
+            {
+                "head": "shareholder",
+                "relation": "ObjectUse",
+                "similarity": 0.2823251336812973,
+                "tail": "investing in company"
+            },
+            {
+                "head": "shareholder",
+                "relation": "AtLocation",
+                "similarity": 0.27885907888412476,
+                "tail": "investment group"
+            },
+            {
+                "head": "shareholder",
+                "relation": "ObjectUse",
+                "similarity": 0.27547965943813324,
+                "tail": "taking part ownership of corporation"
+            },
+            {
+                "head": "shareholder",
+                "relation": "AtLocation",
+                "similarity": 0.2750648707151413,
+                "tail": "publicly held company"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_28",
+        "question_commonsense": [
+            {
+                "head": "bookkeeping software",
+                "relation": "ObjectUse",
+                "similarity": 0.7360982298851013,
+                "tail": "organize business expenses"
+            },
+            {
+                "head": "PersonX hires PersonY attorney",
+                "relation": "xNeed",
+                "similarity": 0.7327204942703247,
+                "tail": "to discuss the fee structure of Attorney"
+            },
+            {
+                "head": "bookkeeping software",
+                "relation": "ObjectUse",
+                "similarity": 0.7311870753765106,
+                "tail": "create contribution statements yearly for a non-profit group"
+            },
+            {
+                "head": "PersonX hires PersonY attorney",
+                "relation": "xWant",
+                "similarity": 0.7205273509025574,
+                "tail": "meet with the attorney for updates"
+            },
+            {
+                "head": "PersonX hires PersonY attorney",
+                "relation": "xNeed",
+                "similarity": 0.7201785147190094,
+                "tail": "ask the attorney how much he charges"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX provides ___ to clients",
+                "relation": "xIntent",
+                "similarity": 0.30513909459114075,
+                "tail": "to be useful to his clients"
+            },
+            {
+                "head": "PersonX provides ___ to clients",
+                "relation": "xNeed",
+                "similarity": 0.30196090042591095,
+                "tail": "to talk to his clients"
+            },
+            {
+                "head": "PersonX provides ___ to clients",
+                "relation": "xWant",
+                "similarity": 0.298672690987587,
+                "tail": "to ask the clients if they need something else"
+            },
+            {
+                "head": "PersonX provides ___ to clients",
+                "relation": "xEffect",
+                "similarity": 0.2962929606437683,
+                "tail": "to clients the person"
+            },
+            {
+                "head": "PersonX provides ___ to clients",
+                "relation": "xNeed",
+                "similarity": 0.2959156781435013,
+                "tail": "to know what his clients need"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_29",
+        "question_commonsense": [
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.7652171552181244,
+                "tail": "apply to an account and generate extra income"
+            },
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.7651277780532837,
+                "tail": "earn a credit company money"
+            },
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.7636568248271942,
+                "tail": "manipulate foreign currency"
+            },
+            {
+                "head": "interest rates",
+                "relation": "ObjectUse",
+                "similarity": 0.7629339098930359,
+                "tail": "raise to scam customers"
+            },
+            {
+                "head": "PersonX puts ___ on the market",
+                "relation": "xIntent",
+                "similarity": 0.7597782015800476,
+                "tail": "to sell it"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX splits the difference",
+                "relation": "HinderedBy",
+                "similarity": 0.26338037848472595,
+                "tail": "PersonX isn't good at math."
+            },
+            {
+                "head": "gradebook",
+                "relation": "ObjectUse",
+                "similarity": 0.2632220536470413,
+                "tail": "help grade"
+            },
+            {
+                "head": "gradebook",
+                "relation": "ObjectUse",
+                "similarity": 0.26134711503982544,
+                "tail": "Enter grades"
+            },
+            {
+                "head": "gradebook",
+                "relation": "ObjectUse",
+                "similarity": 0.254281610250473,
+                "tail": "keep track of tests"
+            },
+            {
+                "head": "school grades",
+                "relation": "ObjectUse",
+                "similarity": 0.2541815787553787,
+                "tail": "pass a grade"
+            }
+        ]
+    },
+    {
+        "id": "validation_Accounting_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY a discount",
+                "relation": "HinderedBy",
+                "similarity": 0.9012874960899353,
+                "tail": "PersonX doesnt have discounts to give away"
+            },
+            {
+                "head": "PersonX gives ___ a discount",
+                "relation": "xWant",
+                "similarity": 0.8968873620033264,
+                "tail": "to give no more discounts"
+            },
+            {
+                "head": "PersonX gives PersonY a discount",
+                "relation": "xEffect",
+                "similarity": 0.8948079347610474,
+                "tail": "receives gratitude for discount"
+            },
+            {
+                "head": "PersonX gives ___ a discount",
+                "relation": "xNeed",
+                "similarity": 0.8946998715400696,
+                "tail": "to have enough profit even with a discount"
+            },
+            {
+                "head": "PersonX gives PersonY a discount",
+                "relation": "oWant",
+                "similarity": 0.8945768773555756,
+                "tail": "to buy more discounted product"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX splits the money",
+                "relation": "HinderedBy",
+                "similarity": 0.28100599348545074,
+                "tail": "They don't know how to split the money evenly"
+            },
+            {
+                "head": "PersonX splits the money",
+                "relation": "xEffect",
+                "similarity": 0.2793276011943817,
+                "tail": "manages money and reduces risks"
+            },
+            {
+                "head": "banking details",
+                "relation": "ObjectUse",
+                "similarity": 0.2789113223552704,
+                "tail": "transfer money to a different bank account"
+            },
+            {
+                "head": "PersonX overflows PersonY's banks",
+                "relation": "xNeed",
+                "similarity": 0.2767457962036133,
+                "tail": "to have a joint bank account with PersonY"
+            },
+            {
+                "head": "PersonX splits the money",
+                "relation": "xEffect",
+                "similarity": 0.27659446001052856,
+                "tail": "allocates the money for different purposes"
+            }
+        ]
+    }
+]

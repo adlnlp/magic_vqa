@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Art_Theory_1",
+        "question_commonsense": [
+            {
+                "head": "PersonX always loved sculptures",
+                "relation": "isBefore",
+                "similarity": 0.8647292852401733,
+                "tail": "PersonX takes pictures of the sculptures"
+            },
+            {
+                "head": "sculpture",
+                "relation": "AtLocation",
+                "similarity": 0.8470805883407593,
+                "tail": "museum"
+            },
+            {
+                "head": "sculpture",
+                "relation": "AtLocation",
+                "similarity": 0.8462612926959991,
+                "tail": "art show"
+            },
+            {
+                "head": "sculpture",
+                "relation": "AtLocation",
+                "similarity": 0.8446332514286041,
+                "tail": "gallery opening"
+            },
+            {
+                "head": "sculpture",
+                "relation": "ObjectUse",
+                "similarity": 0.8438869416713715,
+                "tail": "sell at an art show"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "statue of buddha",
+                "relation": "ObjectUse",
+                "similarity": 0.26793526113033295,
+                "tail": "meditation"
+            },
+            {
+                "head": "statue",
+                "relation": "ObjectUse",
+                "similarity": 0.2588430196046829,
+                "tail": "propagandanize a figure"
+            },
+            {
+                "head": "statue",
+                "relation": "ObjectUse",
+                "similarity": 0.25410422682762146,
+                "tail": "ward off evil spirits"
+            },
+            {
+                "head": "buddhist meditation",
+                "relation": "ObjectUse",
+                "similarity": 0.24940986186265945,
+                "tail": "developing compassion and wisdom"
+            },
+            {
+                "head": "sculpter",
+                "relation": "CapableOf",
+                "similarity": 0.2483704462647438,
+                "tail": "work clay"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX kneels next to PersonY",
+                "relation": "oWant",
+                "similarity": 0.8435523509979248,
+                "tail": "to look at PersonY"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8365297019481659,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX kneels next to PersonY",
+                "relation": "oWant",
+                "similarity": 0.8350538313388824,
+                "tail": "to thank PersonX"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.8329256772994995,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "PersonX kneels next to PersonY",
+                "relation": "xEffect",
+                "similarity": 0.8321564495563507,
+                "tail": "gets knees scraped up"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX counts ___ for christ",
+                "relation": "xIntent",
+                "similarity": 0.2795040160417557,
+                "tail": "loss for christ"
+            },
+            {
+                "head": "altar",
+                "relation": "ObjectUse",
+                "similarity": 0.26722320914268494,
+                "tail": "adoration of god"
+            },
+            {
+                "head": "PersonX counts ___ for christ",
+                "relation": "xEffect",
+                "similarity": 0.25943052023649216,
+                "tail": "Person X goes to the altar."
+            },
+            {
+                "head": "PersonX counts ___ for christ",
+                "relation": "xNeed",
+                "similarity": 0.2584778517484665,
+                "tail": "to believe in christ."
+            },
+            {
+                "head": "altar",
+                "relation": "ObjectUse",
+                "similarity": 0.25547778606414795,
+                "tail": "worship"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_3",
+        "question_commonsense": [
+            {
+                "head": "artwork",
+                "relation": "ObjectUse",
+                "similarity": 0.8893504440784454,
+                "tail": "show artistic tastes"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8839654624462128,
+                "tail": "love art"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8819864988327026,
+                "tail": "try art"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8813836574554443,
+                "tail": "visit gallery"
+            },
+            {
+                "head": "artwork",
+                "relation": "AtLocation",
+                "similarity": 0.8809479176998138,
+                "tail": "gallery opening"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "parlor",
+                "relation": "ObjectUse",
+                "similarity": 0.2622707709670067,
+                "tail": "sitting in when company comes"
+            },
+            {
+                "head": "salon",
+                "relation": "ObjectUse",
+                "similarity": 0.2595541626214981,
+                "tail": "hair styling"
+            },
+            {
+                "head": "parlor",
+                "relation": "ObjectUse",
+                "similarity": 0.2589923366904259,
+                "tail": "entertaining guests"
+            },
+            {
+                "head": "hairdressing salon",
+                "relation": "xIntent",
+                "similarity": 0.25473927706480026,
+                "tail": "getting hair styled"
+            },
+            {
+                "head": "hairdressing salon",
+                "relation": "xIntent",
+                "similarity": 0.25432244688272476,
+                "tail": "getting manicure"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "xReact",
+                "similarity": 0.8265957832336426,
+                "tail": "like they know where PersonY is"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8228118419647217,
+                "tail": "funny"
+            },
+            {
+                "head": "test",
+                "relation": "ObjectUse",
+                "similarity": 0.8203128278255463,
+                "tail": "read from"
+            },
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "oReact",
+                "similarity": 0.8197876214981079,
+                "tail": "exposed"
+            },
+            {
+                "head": "test",
+                "relation": "ObjectUse",
+                "similarity": 0.8196058571338654,
+                "tail": "do well on"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "interior",
+                "relation": "HasProperty",
+                "similarity": 0.27542103826999664,
+                "tail": "inside"
+            },
+            {
+                "head": "interior area",
+                "relation": "AtLocation",
+                "similarity": 0.27525608241558075,
+                "tail": "interior"
+            },
+            {
+                "head": "first floor",
+                "relation": "ObjectUse",
+                "similarity": 0.26444658637046814,
+                "tail": "being beneath second floor"
+            },
+            {
+                "head": "cathedral",
+                "relation": "MadeUpOf",
+                "similarity": 0.26083119213581085,
+                "tail": "cathedra"
+            },
+            {
+                "head": "entrance hall",
+                "relation": "AtLocation",
+                "similarity": 0.25865568220615387,
+                "tail": "chaple"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_5",
+        "question_commonsense": [
+            {
+                "head": "stone",
+                "relation": "ObjectUse",
+                "similarity": 0.7688368260860443,
+                "tail": "build strong buildings"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "oEffect",
+                "similarity": 0.7645525634288788,
+                "tail": "PersonY sees the structure"
+            },
+            {
+                "head": "stone",
+                "relation": "ObjectUse",
+                "similarity": 0.7591935694217682,
+                "tail": "building houses"
+            },
+            {
+                "head": "PersonX sets in stone",
+                "relation": "xAttr",
+                "similarity": 0.7581994533538818,
+                "tail": "strong"
+            },
+            {
+                "head": "archaeology",
+                "relation": "Causes",
+                "similarity": 0.7581741809844971,
+                "tail": "destroy archaeological record"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX proclaims ___ to the captives",
+                "relation": "xNeed",
+                "similarity": 0.25606484711170197,
+                "tail": "to be with the captives"
+            },
+            {
+                "head": "PersonX proclaims ___ to the captives",
+                "relation": "xNeed",
+                "similarity": 0.24602541327476501,
+                "tail": "to have worked out an exchange for the captives"
+            },
+            {
+                "head": "PersonX proclaims ___ to the captives",
+                "relation": "xWant",
+                "similarity": 0.2455996870994568,
+                "tail": "to send the captives home"
+            },
+            {
+                "head": "cover art",
+                "relation": "ObjectUse",
+                "similarity": 0.24059373885393143,
+                "tail": "adorn the book exterior"
+            },
+            {
+                "head": "PersonX falls among thieves",
+                "relation": "xNeed",
+                "similarity": 0.24050597846508026,
+                "tail": "to go where the thieves are"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "HinderedBy",
+                "similarity": 0.9030549824237823,
+                "tail": "PersonX does not have a picture."
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.8971624672412872,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "HinderedBy",
+                "similarity": 0.8967706561088562,
+                "tail": "PersonX does not have a picture to give"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.8934282660484314,
+                "tail": "to print a picture"
+            },
+            {
+                "head": "PersonX gives PersonY picture",
+                "relation": "xNeed",
+                "similarity": 0.8934282660484314,
+                "tail": "print the picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "panel",
+                "relation": "ObjectUse",
+                "similarity": 0.2577695697546005,
+                "tail": "Cover wall"
+            },
+            {
+                "head": "PersonX proclaims ___ to the captives",
+                "relation": "xNeed",
+                "similarity": 0.25522253662347794,
+                "tail": "to be with the captives"
+            },
+            {
+                "head": "panel",
+                "relation": "ObjectUse",
+                "similarity": 0.2548772841691971,
+                "tail": "block their door from intruders"
+            },
+            {
+                "head": "PersonX darkens a church door",
+                "relation": "HinderedBy",
+                "similarity": 0.252982996404171,
+                "tail": "They are ashamed that they haven't been to church for a while"
+            },
+            {
+                "head": "panel",
+                "relation": "ObjectUse",
+                "similarity": 0.25272176414728165,
+                "tail": "smoothen a surface"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_7",
+        "question_commonsense": [
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.9033834636211395,
+                "tail": "love art"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.899397224187851,
+                "tail": "try art"
+            },
+            {
+                "head": "artwork",
+                "relation": "ObjectUse",
+                "similarity": 0.8962859809398651,
+                "tail": "show artistic tastes"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8960200548171997,
+                "tail": "visit gallery"
+            },
+            {
+                "head": "see art",
+                "relation": "HasSubEvent",
+                "similarity": 0.8939546048641205,
+                "tail": "inspired"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX declares ___ on france",
+                "relation": "xEffect",
+                "similarity": 0.2801211327314377,
+                "tail": "they defeat france"
+            },
+            {
+                "head": "PersonX declares ___ on france",
+                "relation": "xNeed",
+                "similarity": 0.2755979299545288,
+                "tail": "to be upset at france"
+            },
+            {
+                "head": "PersonX declares ___ on france",
+                "relation": "xEffect",
+                "similarity": 0.2634902596473694,
+                "tail": "engages in war"
+            },
+            {
+                "head": "PersonX strikes PersonX's flag",
+                "relation": "xNeed",
+                "similarity": 0.2632981538772583,
+                "tail": "to hold the flag"
+            },
+            {
+                "head": "PersonX strikes PersonX's flag",
+                "relation": "xWant",
+                "similarity": 0.260420486330986,
+                "tail": "to burn the flag"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX often made paintings",
+                "relation": "isAfter",
+                "similarity": 0.8932564854621887,
+                "tail": "PersonX decides to paint a picture"
+            },
+            {
+                "head": "paint picture",
+                "relation": "xNeed",
+                "similarity": 0.8902715444564819,
+                "tail": "artist"
+            },
+            {
+                "head": "paint picture",
+                "relation": "HasSubEvent",
+                "similarity": 0.8884095549583435,
+                "tail": "have paint"
+            },
+            {
+                "head": "painting",
+                "relation": "ObjectUse",
+                "similarity": 0.8846041560173035,
+                "tail": "create a picture"
+            },
+            {
+                "head": "PersonX shows another painting",
+                "relation": "isBefore",
+                "similarity": 0.8845097422599792,
+                "tail": "PersonX carries paintings out"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX proclaims ___ to the captives",
+                "relation": "xNeed",
+                "similarity": 0.2691793441772461,
+                "tail": "to be with the captives"
+            },
+            {
+                "head": "regatta",
+                "relation": "MadeUpOf",
+                "similarity": 0.2622944116592407,
+                "tail": "sailboat"
+            },
+            {
+                "head": "conquistador",
+                "relation": "CapableOf",
+                "similarity": 0.26138389110565186,
+                "tail": "plan to conquer new world"
+            },
+            {
+                "head": "galleon",
+                "relation": "AtLocation",
+                "similarity": 0.2613547742366791,
+                "tail": "sea"
+            },
+            {
+                "head": "PersonX plunges the ___ into war",
+                "relation": "isFilledBy",
+                "similarity": 0.26027609407901764,
+                "tail": "raft"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_9",
+        "question_commonsense": [
+            {
+                "head": "PersonX looks like figure",
+                "relation": "xWant",
+                "similarity": 0.8912917673587799,
+                "tail": "to look closely at the figure"
+            },
+            {
+                "head": "PersonX looks like figure",
+                "relation": "HinderedBy",
+                "similarity": 0.8718802630901337,
+                "tail": "PersonX cannot move the same way as the figure."
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8714683353900909,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX looks like figure",
+                "relation": "xWant",
+                "similarity": 0.8688591420650482,
+                "tail": "to be conscious of apperance"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8688141703605652,
+                "tail": "to explain his project."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "statue",
+                "relation": "ObjectUse",
+                "similarity": 0.2903994023799896,
+                "tail": "propagandanize a figure"
+            },
+            {
+                "head": "sculptor",
+                "relation": "CapableOf",
+                "similarity": 0.27526354789733887,
+                "tail": "produce statue"
+            },
+            {
+                "head": "statue",
+                "relation": "ObjectUse",
+                "similarity": 0.26682619005441666,
+                "tail": "honor a civic figure"
+            },
+            {
+                "head": "sculpture",
+                "relation": "ObjectUse",
+                "similarity": 0.26205097138881683,
+                "tail": "honor a hero"
+            },
+            {
+                "head": "sculptor",
+                "relation": "CapableOf",
+                "similarity": 0.26144856214523315,
+                "tail": "create statues"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_10",
+        "question_commonsense": [
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.9400833249092102,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.9334491789340973,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "oWant",
+                "similarity": 0.9265890121459961,
+                "tail": "to look at what PersonX did"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xWant",
+                "similarity": 0.9265059232711792,
+                "tail": "to sell the artwork"
+            },
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "xIntent",
+                "similarity": 0.9259892106056213,
+                "tail": "to share their art"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "area 51",
+                "relation": "AtLocation",
+                "similarity": 0.2773512750864029,
+                "tail": "groom lake"
+            },
+            {
+                "head": "PersonX misses the target",
+                "relation": "xReact",
+                "similarity": 0.2683831602334976,
+                "tail": "disappointed that they missed the bullseye at the shooting range."
+            },
+            {
+                "head": "PersonX misses the target",
+                "relation": "xEffect",
+                "similarity": 0.26598185300827026,
+                "tail": "to misses the target"
+            },
+            {
+                "head": "PersonX misses the target",
+                "relation": "xWant",
+                "similarity": 0.26511743664741516,
+                "tail": "practice target shooting"
+            },
+            {
+                "head": "targets",
+                "relation": "ObjectUse",
+                "similarity": 0.26136112213134766,
+                "tail": "to practice their firing aim"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_11",
+        "question_commonsense": [
+            {
+                "head": "church",
+                "relation": "AtLocation",
+                "similarity": 0.8745220899581909,
+                "tail": "christian community"
+            },
+            {
+                "head": "church",
+                "relation": "ObjectUse",
+                "similarity": 0.863785445690155,
+                "tail": "spiritual renewal"
+            },
+            {
+                "head": "church",
+                "relation": "ObjectUse",
+                "similarity": 0.8637050092220306,
+                "tail": "worshipping christian god"
+            },
+            {
+                "head": "church",
+                "relation": "ObjectUse",
+                "similarity": 0.8632074892520905,
+                "tail": "learning about christianity"
+            },
+            {
+                "head": "church",
+                "relation": "ObjectUse",
+                "similarity": 0.8622899055480957,
+                "tail": "center for christians"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2920626550912857,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28938569128513336,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2871231138706207,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.28131747245788574,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2764165550470352,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_12",
+        "question_commonsense": [
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.9007520973682404,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.8960374891757965,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xWant",
+                "similarity": 0.8954913318157196,
+                "tail": "to sell the artwork"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.894903838634491,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "oWant",
+                "similarity": 0.8932743966579437,
+                "tail": "to buy the artwork"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "cover art",
+                "relation": "ObjectUse",
+                "similarity": 0.26280883699655533,
+                "tail": "adorn the book exterior"
+            },
+            {
+                "head": "cover art",
+                "relation": "ObjectUse",
+                "similarity": 0.2614443451166153,
+                "tail": "add graphics to an album"
+            },
+            {
+                "head": "cover art",
+                "relation": "ObjectUse",
+                "similarity": 0.2584405690431595,
+                "tail": "market the book"
+            },
+            {
+                "head": "panel",
+                "relation": "ObjectUse",
+                "similarity": 0.25607506930828094,
+                "tail": "smoothen a surface"
+            },
+            {
+                "head": "cover",
+                "relation": "ObjectUse",
+                "similarity": 0.25572267174720764,
+                "tail": "put the paper in"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_13",
+        "question_commonsense": [
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8387657701969147,
+                "tail": "love art"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8370580673217773,
+                "tail": "visit art gallery"
+            },
+            {
+                "head": "visit art gallery",
+                "relation": "HasSubEvent",
+                "similarity": 0.8370580673217773,
+                "tail": "will see art"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8317723572254181,
+                "tail": "try art"
+            },
+            {
+                "head": "visit art gallery",
+                "relation": "xNeed",
+                "similarity": 0.8309151530265808,
+                "tail": "find art gallery"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX counts ___ for christ",
+                "relation": "xIntent",
+                "similarity": 0.2795040160417557,
+                "tail": "loss for christ"
+            },
+            {
+                "head": "altar",
+                "relation": "ObjectUse",
+                "similarity": 0.26722320914268494,
+                "tail": "adoration of god"
+            },
+            {
+                "head": "PersonX counts ___ for christ",
+                "relation": "xEffect",
+                "similarity": 0.25943052023649216,
+                "tail": "Person X goes to the altar."
+            },
+            {
+                "head": "PersonX counts ___ for christ",
+                "relation": "xNeed",
+                "similarity": 0.2584778517484665,
+                "tail": "to believe in christ."
+            },
+            {
+                "head": "altar",
+                "relation": "ObjectUse",
+                "similarity": 0.25547778606414795,
+                "tail": "worship"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_14",
+        "question_commonsense": [
+            {
+                "head": "paint picture",
+                "relation": "xNeed",
+                "similarity": 0.9049749970436096,
+                "tail": "artist"
+            },
+            {
+                "head": "PersonX often made paintings",
+                "relation": "isAfter",
+                "similarity": 0.9001419842243195,
+                "tail": "PersonX decides to paint a picture"
+            },
+            {
+                "head": "painting",
+                "relation": "ObjectUse",
+                "similarity": 0.8993781208992004,
+                "tail": "create a picture"
+            },
+            {
+                "head": "paint picture",
+                "relation": "HasSubEvent",
+                "similarity": 0.8993423581123352,
+                "tail": "have paint"
+            },
+            {
+                "head": "original art",
+                "relation": "AtLocation",
+                "similarity": 0.8955953419208527,
+                "tail": "art show"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX proclaims ___ to the captives",
+                "relation": "xNeed",
+                "similarity": 0.26567621529102325,
+                "tail": "to be with the captives"
+            },
+            {
+                "head": "paintings",
+                "relation": "ObjectUse",
+                "similarity": 0.2656269818544388,
+                "tail": "sell in a gallery"
+            },
+            {
+                "head": "rosary",
+                "relation": "ObjectUse",
+                "similarity": 0.2564155086874962,
+                "tail": "offer to pray with PersonX"
+            },
+            {
+                "head": "PersonX proclaims ___ to the captives",
+                "relation": "xNeed",
+                "similarity": 0.2556556612253189,
+                "tail": "to have worked out an exchange for the captives"
+            },
+            {
+                "head": "rosary",
+                "relation": "ObjectUse",
+                "similarity": 0.2554050236940384,
+                "tail": "cast an evil spirit out"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_15",
+        "question_commonsense": [
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8924227654933929,
+                "tail": "love art"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8883139789104462,
+                "tail": "try art"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8879610896110535,
+                "tail": "visit art gallery"
+            },
+            {
+                "head": "visit art gallery",
+                "relation": "HasSubEvent",
+                "similarity": 0.8879610896110535,
+                "tail": "will see art"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8821602761745453,
+                "tail": "visit gallery"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX declares ___ on france",
+                "relation": "xEffect",
+                "similarity": 0.2801211327314377,
+                "tail": "they defeat france"
+            },
+            {
+                "head": "PersonX declares ___ on france",
+                "relation": "xNeed",
+                "similarity": 0.2755979299545288,
+                "tail": "to be upset at france"
+            },
+            {
+                "head": "PersonX declares ___ on france",
+                "relation": "xEffect",
+                "similarity": 0.2634902596473694,
+                "tail": "engages in war"
+            },
+            {
+                "head": "PersonX strikes PersonX's flag",
+                "relation": "xNeed",
+                "similarity": 0.2632981538772583,
+                "tail": "to hold the flag"
+            },
+            {
+                "head": "PersonX strikes PersonX's flag",
+                "relation": "xWant",
+                "similarity": 0.260420486330986,
+                "tail": "to burn the flag"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_16",
+        "question_commonsense": [
+            {
+                "head": "PersonX enters the building on the side",
+                "relation": "isAfter",
+                "similarity": 0.8885306417942047,
+                "tail": "PersonX parks in front of the building"
+            },
+            {
+                "head": "building",
+                "relation": "ObjectUse",
+                "similarity": 0.8849254250526428,
+                "tail": "teach students in"
+            },
+            {
+                "head": "building s",
+                "relation": "ObjectUse",
+                "similarity": 0.8849254250526428,
+                "tail": "teach students in"
+            },
+            {
+                "head": "building",
+                "relation": "ObjectUse",
+                "similarity": 0.8841653168201447,
+                "tail": "work out of"
+            },
+            {
+                "head": "building",
+                "relation": "ObjectUse",
+                "similarity": 0.8834571242332458,
+                "tail": "do the job in"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2920626550912857,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28938569128513336,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2871231138706207,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.28131747245788574,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2764165550470352,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX becomes PersonY architect",
+                "relation": "HinderedBy",
+                "similarity": 0.8907382488250732,
+                "tail": "PersonX has no experience in architecture."
+            },
+            {
+                "head": "PersonX becomes PersonY architect",
+                "relation": "xNeed",
+                "similarity": 0.8825176358222961,
+                "tail": "to apply for the architect job."
+            },
+            {
+                "head": "PersonX becomes PersonY architect",
+                "relation": "xNeed",
+                "similarity": 0.8818821907043457,
+                "tail": "to be an architect"
+            },
+            {
+                "head": "architect",
+                "relation": "CapableOf",
+                "similarity": 0.8797518312931061,
+                "tail": "picture structural design"
+            },
+            {
+                "head": "architect",
+                "relation": "CapableOf",
+                "similarity": 0.8746543228626251,
+                "tail": "design house"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "theater wing",
+                "relation": "AtLocation",
+                "similarity": 0.25299397110939026,
+                "tail": "building"
+            },
+            {
+                "head": "lecture theatre",
+                "relation": "AtLocation",
+                "similarity": 0.2520817071199417,
+                "tail": "campus"
+            },
+            {
+                "head": "PersonX enrols to dance at PersonY institution",
+                "relation": "isAfter",
+                "similarity": 0.25036682933568954,
+                "tail": "PersonX reads about PersonY's institution"
+            },
+            {
+                "head": "lecture theatre",
+                "relation": "AtLocation",
+                "similarity": 0.24887041747570038,
+                "tail": "university"
+            },
+            {
+                "head": "PersonX enrols to teach at PersonY institution",
+                "relation": "isBefore",
+                "similarity": 0.24813110381364822,
+                "tail": "PersonX walks into a classroom at PersonY institution"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_18",
+        "question_commonsense": [
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "oEffect",
+                "similarity": 0.8931052982807159,
+                "tail": "PersonY sees the structure"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "xEffect",
+                "similarity": 0.8917531967163086,
+                "tail": "PersonX shows the structure to PersonY"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "oEffect",
+                "similarity": 0.8917345702648163,
+                "tail": "design the y's structure"
+            },
+            {
+                "head": "PersonX creates PersonY structure",
+                "relation": "xNeed",
+                "similarity": 0.8887318670749664,
+                "tail": "to look for a place to build the structure"
+            },
+            {
+                "head": "structure",
+                "relation": "MadeUpOf",
+                "similarity": 0.8817810118198395,
+                "tail": "structural member"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "chimney",
+                "relation": "MadeUpOf",
+                "similarity": 0.26274627447128296,
+                "tail": "chimneystack"
+            },
+            {
+                "head": "lighthousekeepers",
+                "relation": "CapableOf",
+                "similarity": 0.2573365420103073,
+                "tail": "man lighthouses"
+            },
+            {
+                "head": "tower",
+                "relation": "AtLocation",
+                "similarity": 0.2551417946815491,
+                "tail": "babel"
+            },
+            {
+                "head": "chimney",
+                "relation": "AtLocation",
+                "similarity": 0.2500031217932701,
+                "tail": "roof"
+            },
+            {
+                "head": "tower",
+                "relation": "HasProperty",
+                "similarity": 0.24735605716705322,
+                "tail": "built for height"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_19",
+        "question_commonsense": [
+            {
+                "head": "chair",
+                "relation": "ObjectUse",
+                "similarity": 0.8809663951396942,
+                "tail": "person to seat"
+            },
+            {
+                "head": "chair",
+                "relation": "ObjectUse",
+                "similarity": 0.8732612133026123,
+                "tail": "seat"
+            },
+            {
+                "head": "chair",
+                "relation": "ObjectUse",
+                "similarity": 0.8730873465538025,
+                "tail": "be seated on"
+            },
+            {
+                "head": "chair",
+                "relation": "ObjectUse",
+                "similarity": 0.8728932440280914,
+                "tail": "sit down and relax"
+            },
+            {
+                "head": "chair",
+                "relation": "ObjectUse",
+                "similarity": 0.8688659369945526,
+                "tail": "sit down"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "offive chair",
+                "relation": "ObjectUse",
+                "similarity": 0.2907315045595169,
+                "tail": "sit at a desk"
+            },
+            {
+                "head": "PersonX leaned back in PersonY's chair",
+                "relation": "xNeed",
+                "similarity": 0.2887709140777588,
+                "tail": "to sit in PersonY's chair"
+            },
+            {
+                "head": "PersonX leaned back in PersonY's chair",
+                "relation": "xNeed",
+                "similarity": 0.2887709140777588,
+                "tail": "sit on PersonY's chair"
+            },
+            {
+                "head": "PersonX leaned back in PersonY's chair",
+                "relation": "oWant",
+                "similarity": 0.2835228145122528,
+                "tail": "to let PersonX sit on her chair"
+            },
+            {
+                "head": "PersonX leaned back in PersonY's chair",
+                "relation": "xNeed",
+                "similarity": 0.28308194875717163,
+                "tail": "borrow PersonY's chair"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9372561275959015,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.934508740901947,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.9305455982685089,
+                "tail": "to explain his project."
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "xNeed",
+                "similarity": 0.9296411573886871,
+                "tail": "make a copy of the picture"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.9267233312129974,
+                "tail": "to illustrate something"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX sits on the edge of the bed",
+                "relation": "HinderedBy",
+                "similarity": 0.24994078278541565,
+                "tail": "PersonX is in a body cast"
+            },
+            {
+                "head": "PersonX sits on the edge of the bed",
+                "relation": "HinderedBy",
+                "similarity": 0.2487051710486412,
+                "tail": "Someone else is sitting there"
+            },
+            {
+                "head": "PersonX sits on the edge of the bed",
+                "relation": "xWant",
+                "similarity": 0.24866320192813873,
+                "tail": "Lay on the bed"
+            },
+            {
+                "head": "PersonX sits on the edge of the bed",
+                "relation": "HinderedBy",
+                "similarity": 0.24750450253486633,
+                "tail": "PersonX isn't allowed to sit on the bed"
+            },
+            {
+                "head": "PersonX sits on the edge of the bed",
+                "relation": "HinderedBy",
+                "similarity": 0.24572591483592987,
+                "tail": "there are items on the bed there"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_21",
+        "question_commonsense": [
+            {
+                "head": "paintings",
+                "relation": "ObjectUse",
+                "similarity": 0.8847197890281677,
+                "tail": "make for an art class"
+            },
+            {
+                "head": "artwork",
+                "relation": "ObjectUse",
+                "similarity": 0.8798644840717316,
+                "tail": "show artistic tastes"
+            },
+            {
+                "head": "PersonX always loved artwork",
+                "relation": "isAfter",
+                "similarity": 0.8783684968948364,
+                "tail": "PersonX is an artist"
+            },
+            {
+                "head": "paintings",
+                "relation": "ObjectUse",
+                "similarity": 0.8782554566860199,
+                "tail": "sell in a gallery"
+            },
+            {
+                "head": "paintings",
+                "relation": "ObjectUse",
+                "similarity": 0.8754735887050629,
+                "tail": "show taste in art"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX dies a martyr 's ___",
+                "relation": "xNeed",
+                "similarity": 0.25473473966121674,
+                "tail": "to have died in war"
+            },
+            {
+                "head": "PersonX proclaims ___ to the captives",
+                "relation": "xNeed",
+                "similarity": 0.25374431163072586,
+                "tail": "to be with the captives"
+            },
+            {
+                "head": "conquistador",
+                "relation": "CapableOf",
+                "similarity": 0.24735435098409653,
+                "tail": "plan to conquer new world"
+            },
+            {
+                "head": "PersonX proclaims ___ to the captives",
+                "relation": "xNeed",
+                "similarity": 0.24521175771951675,
+                "tail": "to have worked out an exchange for the captives"
+            },
+            {
+                "head": "PersonX dies a martyr 's ___",
+                "relation": "xAttr",
+                "similarity": 0.24465443938970566,
+                "tail": "brave"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX brings forth ___",
+                "relation": "xWant",
+                "similarity": 0.9282634258270264,
+                "tail": "to do a new project"
+            },
+            {
+                "head": "PersonX brings PersonY forth",
+                "relation": "oEffect",
+                "similarity": 0.9278656542301178,
+                "tail": "are being moved."
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.9265830516815186,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX brings PersonY forth",
+                "relation": "oReact",
+                "similarity": 0.9258807897567749,
+                "tail": "exposed"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "isFilledBy",
+                "similarity": 0.9240398108959198,
+                "tail": "article"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "vestment",
+                "relation": "MadeUpOf",
+                "similarity": 0.27333109080791473,
+                "tail": "orphrey"
+            },
+            {
+                "head": "mosaic",
+                "relation": "MadeUpOf",
+                "similarity": 0.25581376254558563,
+                "tail": "tessera"
+            },
+            {
+                "head": "panel",
+                "relation": "ObjectUse",
+                "similarity": 0.252510167658329,
+                "tail": "Cover wall"
+            },
+            {
+                "head": "prayer book",
+                "relation": "ObjectUse",
+                "similarity": 0.2522580996155739,
+                "tail": "connect to God"
+            },
+            {
+                "head": "prayer book",
+                "relation": "ObjectUse",
+                "similarity": 0.25135841965675354,
+                "tail": "read a prayer from"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_23",
+        "question_commonsense": [
+            {
+                "head": "PersonX has the time of PersonX's lives",
+                "relation": "xEffect",
+                "similarity": 0.8764155507087708,
+                "tail": "reminisces fondly"
+            },
+            {
+                "head": "PersonX dates back to the time",
+                "relation": "xAttr",
+                "similarity": 0.8762772679328918,
+                "tail": "historical"
+            },
+            {
+                "head": "PersonX has the time of PersonX's lives",
+                "relation": "xWant",
+                "similarity": 0.8721218705177307,
+                "tail": "to do more exciting things"
+            },
+            {
+                "head": "PersonX comes of age",
+                "relation": "xEffect",
+                "similarity": 0.8719567358493805,
+                "tail": "gets older"
+            },
+            {
+                "head": "PersonX comes of age",
+                "relation": "HinderedBy",
+                "similarity": 0.8690398633480072,
+                "tail": "They can't advance the time."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "studio pedestal",
+                "relation": "ObjectUse",
+                "similarity": 0.28491391241550446,
+                "tail": "posing statue on"
+            },
+            {
+                "head": "sculptor",
+                "relation": "CapableOf",
+                "similarity": 0.28320471942424774,
+                "tail": "form piece of art"
+            },
+            {
+                "head": "sculptor",
+                "relation": "CapableOf",
+                "similarity": 0.277874156832695,
+                "tail": "produce statue"
+            },
+            {
+                "head": "knife block",
+                "relation": "ObjectUse",
+                "similarity": 0.27622245252132416,
+                "tail": "Break down into constituent pieces and make wooden sculpture"
+            },
+            {
+                "head": "studio pedestal",
+                "relation": "ObjectUse",
+                "similarity": 0.27522341907024384,
+                "tail": "setting object of art upon"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_24",
+        "question_commonsense": [
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.7040698826313019,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.6984325051307678,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "isFilledBy",
+                "similarity": 0.6954747140407562,
+                "tail": "drawing"
+            },
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "oWant",
+                "similarity": 0.6936544477939606,
+                "tail": "to look at what PersonX did"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "oWant",
+                "similarity": 0.6927970349788666,
+                "tail": "to buy the artwork"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "sleeping aid",
+                "relation": "ObjectUse",
+                "similarity": 0.2715291529893875,
+                "tail": "help with insomnia"
+            },
+            {
+                "head": "sleeping aid",
+                "relation": "ObjectUse",
+                "similarity": 0.26954415440559387,
+                "tail": "take to sleep off depression"
+            },
+            {
+                "head": "sleeping aid",
+                "relation": "ObjectUse",
+                "similarity": 0.2691965848207474,
+                "tail": "help a child sleep"
+            },
+            {
+                "head": "cover",
+                "relation": "ObjectUse",
+                "similarity": 0.2687862366437912,
+                "tail": "covering people when sleep"
+            },
+            {
+                "head": "sleeping aid",
+                "relation": "ObjectUse",
+                "similarity": 0.26820582151412964,
+                "tail": "get a goodnight's rest"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_25",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY comparison",
+                "relation": "xAttr",
+                "similarity": 0.8966570794582367,
+                "tail": "comparing"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xIntent",
+                "similarity": 0.8912591934204102,
+                "tail": "to be understood"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xReact",
+                "similarity": 0.8912591934204102,
+                "tail": "understood"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.890295147895813,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "HinderedBy",
+                "similarity": 0.890253335237503,
+                "tail": "PersonX is out of ideas."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "paintings",
+                "relation": "ObjectUse",
+                "similarity": 0.25571613758802414,
+                "tail": "sell in a gallery"
+            },
+            {
+                "head": "rosary",
+                "relation": "ObjectUse",
+                "similarity": 0.25522761791944504,
+                "tail": "offer to pray with PersonX"
+            },
+            {
+                "head": "charity",
+                "relation": "ObjectUse",
+                "similarity": 0.2490512952208519,
+                "tail": "feed destitute"
+            },
+            {
+                "head": "charity",
+                "relation": "HasProperty",
+                "similarity": 0.24731312692165375,
+                "tail": "intended to help impoverished"
+            },
+            {
+                "head": "rosary",
+                "relation": "ObjectUse",
+                "similarity": 0.24726196378469467,
+                "tail": "pray on"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_26",
+        "question_commonsense": [
+            {
+                "head": "chair",
+                "relation": "ObjectUse",
+                "similarity": 0.867068886756897,
+                "tail": "person to seat"
+            },
+            {
+                "head": "chair",
+                "relation": "ObjectUse",
+                "similarity": 0.865835577249527,
+                "tail": "be seated on"
+            },
+            {
+                "head": "chair",
+                "relation": "ObjectUse",
+                "similarity": 0.8628568947315216,
+                "tail": "sit down"
+            },
+            {
+                "head": "chair",
+                "relation": "ObjectUse",
+                "similarity": 0.8628568947315216,
+                "tail": "sit on"
+            },
+            {
+                "head": "chair",
+                "relation": "ObjectUse",
+                "similarity": 0.8628568947315216,
+                "tail": "sit on"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "offive chair",
+                "relation": "ObjectUse",
+                "similarity": 0.2907315045595169,
+                "tail": "sit at a desk"
+            },
+            {
+                "head": "PersonX leaned back in PersonY's chair",
+                "relation": "xNeed",
+                "similarity": 0.2887709140777588,
+                "tail": "to sit in PersonY's chair"
+            },
+            {
+                "head": "PersonX leaned back in PersonY's chair",
+                "relation": "xNeed",
+                "similarity": 0.2887709140777588,
+                "tail": "sit on PersonY's chair"
+            },
+            {
+                "head": "PersonX leaned back in PersonY's chair",
+                "relation": "oWant",
+                "similarity": 0.2835228145122528,
+                "tail": "to let PersonX sit on her chair"
+            },
+            {
+                "head": "PersonX leaned back in PersonY's chair",
+                "relation": "xNeed",
+                "similarity": 0.28308194875717163,
+                "tail": "borrow PersonY's chair"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_27",
+        "question_commonsense": [
+            {
+                "head": "PersonX enters the building",
+                "relation": "HinderedBy",
+                "similarity": 0.8694853782653809,
+                "tail": "The building is on fire."
+            },
+            {
+                "head": "PersonX enters the building",
+                "relation": "isBefore",
+                "similarity": 0.8676120936870575,
+                "tail": "PersonX and shouts for help"
+            },
+            {
+                "head": "PersonX enters the building",
+                "relation": "xAttr",
+                "similarity": 0.8659403026103973,
+                "tail": "bold"
+            },
+            {
+                "head": "PersonX enters the building",
+                "relation": "xEffect",
+                "similarity": 0.8653281927108765,
+                "tail": "goes to work"
+            },
+            {
+                "head": "PersonX enters the building",
+                "relation": "xIntent",
+                "similarity": 0.8651269674301147,
+                "tail": "to take the test"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "floor plans",
+                "relation": "ObjectUse",
+                "similarity": 0.28610940277576447,
+                "tail": "plan a remodel"
+            },
+            {
+                "head": "floor plans",
+                "relation": "ObjectUse",
+                "similarity": 0.2737380266189575,
+                "tail": "plan out your dream house"
+            },
+            {
+                "head": "ground plan",
+                "relation": "ObjectUse",
+                "similarity": 0.2697027251124382,
+                "tail": "build a hotel"
+            },
+            {
+                "head": "ground plan",
+                "relation": "ObjectUse",
+                "similarity": 0.2694869339466095,
+                "tail": "learn about architecture for school"
+            },
+            {
+                "head": "floor plans",
+                "relation": "ObjectUse",
+                "similarity": 0.2649746835231781,
+                "tail": "draw additional rooms with a Sharpie and then fire any government official who says that they're not real"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_28",
+        "question_commonsense": [
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.9037121832370758,
+                "tail": "love art"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.9018152356147766,
+                "tail": "try art"
+            },
+            {
+                "head": "artwork",
+                "relation": "ObjectUse",
+                "similarity": 0.8975812792778015,
+                "tail": "show artistic tastes"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.897450178861618,
+                "tail": "visit gallery"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.8953115940093994,
+                "tail": "visit art gallery"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "statue",
+                "relation": "ObjectUse",
+                "similarity": 0.2790743261575699,
+                "tail": "propagandanize a figure"
+            },
+            {
+                "head": "sculptor",
+                "relation": "CapableOf",
+                "similarity": 0.263643279671669,
+                "tail": "produce statue"
+            },
+            {
+                "head": "statue",
+                "relation": "ObjectUse",
+                "similarity": 0.26061388850212097,
+                "tail": "honor a civic figure"
+            },
+            {
+                "head": "sculptor",
+                "relation": "CapableOf",
+                "similarity": 0.2600547969341278,
+                "tail": "create statues"
+            },
+            {
+                "head": "statue",
+                "relation": "ObjectUse",
+                "similarity": 0.25581999123096466,
+                "tail": "honoring person"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_29",
+        "question_commonsense": [
+            {
+                "head": "building",
+                "relation": "ObjectUse",
+                "similarity": 0.8600873649120331,
+                "tail": "work out of"
+            },
+            {
+                "head": "building",
+                "relation": "ObjectUse",
+                "similarity": 0.8579234182834625,
+                "tail": "go to for work"
+            },
+            {
+                "head": "building s",
+                "relation": "ObjectUse",
+                "similarity": 0.8573894798755646,
+                "tail": "live in"
+            },
+            {
+                "head": "office building",
+                "relation": "ObjectUse",
+                "similarity": 0.8565758168697357,
+                "tail": "do work in"
+            },
+            {
+                "head": "office building",
+                "relation": "ObjectUse",
+                "similarity": 0.8565758168697357,
+                "tail": "work in"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "guggenheim museum",
+                "relation": "AtLocation",
+                "similarity": 0.2659069821238518,
+                "tail": "bilbao spain"
+            },
+            {
+                "head": "museum pass",
+                "relation": "ObjectUse",
+                "similarity": 0.256978377699852,
+                "tail": "get in to special exhibits for members only"
+            },
+            {
+                "head": "theater wing",
+                "relation": "AtLocation",
+                "similarity": 0.24967103451490402,
+                "tail": "movie or concert theater"
+            },
+            {
+                "head": "museum pass",
+                "relation": "ObjectUse",
+                "similarity": 0.2485850602388382,
+                "tail": "visit museum daily"
+            },
+            {
+                "head": "concert hall",
+                "relation": "MadeUpOf",
+                "similarity": 0.2484656125307083,
+                "tail": "auditorium"
+            }
+        ]
+    },
+    {
+        "id": "validation_Art_Theory_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.9259558916091919,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.9235793054103851,
+                "tail": "to print a picture"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.9228689074516296,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xIntent",
+                "similarity": 0.9197940528392792,
+                "tail": "to share their art"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "isFilledBy",
+                "similarity": 0.9167074263095856,
+                "tail": "article"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "landscape",
+                "relation": "MadeUpOf",
+                "similarity": 0.2654182016849518,
+                "tail": "mountain"
+            },
+            {
+                "head": "oil portion",
+                "relation": "ObjectUse",
+                "similarity": 0.2545941546559334,
+                "tail": "paint a picture"
+            },
+            {
+                "head": "charcoal",
+                "relation": "ObjectUse",
+                "similarity": 0.2523893713951111,
+                "tail": "sketch on paper"
+            },
+            {
+                "head": "barnard",
+                "relation": "AtLocation",
+                "similarity": 0.25167499482631683,
+                "tail": "mars"
+            },
+            {
+                "head": "landscapes",
+                "relation": "ObjectUse",
+                "similarity": 0.24875717610120773,
+                "tail": "paint from memory"
+            }
+        ]
+    }
+]

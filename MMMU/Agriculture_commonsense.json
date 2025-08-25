@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Agriculture_1",
+        "question_commonsense": [
+            {
+                "head": "mountain",
+                "relation": "AtLocation",
+                "similarity": 0.5995523631572723,
+                "tail": "mountainous region"
+            },
+            {
+                "head": "PersonX depends upon the nature",
+                "relation": "HinderedBy",
+                "similarity": 0.5914199352264404,
+                "tail": "Nature is unreliable and cannot take instruction."
+            },
+            {
+                "head": "PersonX depends upon the nature",
+                "relation": "HinderedBy",
+                "similarity": 0.5867195129394531,
+                "tail": "Nature only cares about itself not humans."
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "isAfter",
+                "similarity": 0.583907961845398,
+                "tail": "PersonX takes PersonY to school before work"
+            },
+            {
+                "head": "PersonX depends upon the nature",
+                "relation": "HinderedBy",
+                "similarity": 0.5803053379058838,
+                "tail": "PersonX hasn't learned how to rely on nature."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "ficus",
+                "relation": "AtLocation",
+                "similarity": 0.2731480896472931,
+                "tail": "fig tree"
+            },
+            {
+                "head": "ficus",
+                "relation": "AtLocation",
+                "similarity": 0.26391828060150146,
+                "tail": "ficus garden"
+            },
+            {
+                "head": "fruit trees",
+                "relation": "ObjectUse",
+                "similarity": 0.2634746879339218,
+                "tail": "plant in the orchard"
+            },
+            {
+                "head": "fruit trees",
+                "relation": "ObjectUse",
+                "similarity": 0.2560182064771652,
+                "tail": "grow your own food"
+            },
+            {
+                "head": "fruit trees",
+                "relation": "ObjectUse",
+                "similarity": 0.2542300522327423,
+                "tail": "grow fruit for sell"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_2",
+        "question_commonsense": [
+            {
+                "head": "leaf",
+                "relation": "MadeUpOf",
+                "similarity": 0.822335958480835,
+                "tail": "leaf shape"
+            },
+            {
+                "head": "leaf",
+                "relation": "ObjectUse",
+                "similarity": 0.7806651294231415,
+                "tail": "eat if leaf eatable"
+            },
+            {
+                "head": "leaf",
+                "relation": "HasProperty",
+                "similarity": 0.7773971855640411,
+                "tail": "used by plant for photosynthesis"
+            },
+            {
+                "head": "leaf",
+                "relation": "ObjectUse",
+                "similarity": 0.7711913585662842,
+                "tail": "shade"
+            },
+            {
+                "head": "leaf",
+                "relation": "AtLocation",
+                "similarity": 0.7664656639099121,
+                "tail": "tree"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX grasps the nettle",
+                "relation": "HinderedBy",
+                "similarity": 0.27227725088596344,
+                "tail": "The nettle is poisonous"
+            },
+            {
+                "head": "PersonX grasps the nettle",
+                "relation": "HinderedBy",
+                "similarity": 0.2698713392019272,
+                "tail": "PersonX has a nettle allergy."
+            },
+            {
+                "head": "PersonX grasps the nettle",
+                "relation": "xIntent",
+                "similarity": 0.2662957012653351,
+                "tail": "to grasp the nettle"
+            },
+            {
+                "head": "spinach",
+                "relation": "ObjectUse",
+                "similarity": 0.26608726382255554,
+                "tail": "get roughage in your diet"
+            },
+            {
+                "head": "PersonX grasps the nettle",
+                "relation": "xWant",
+                "similarity": 0.2639346569776535,
+                "tail": "to feel the nettle"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX leaves PersonY there",
+                "relation": "xWant",
+                "similarity": 0.8347642123699188,
+                "tail": "Leave"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "oWant",
+                "similarity": 0.8321926295757294,
+                "tail": "To ask person x why they left."
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "oReact",
+                "similarity": 0.8303177058696747,
+                "tail": "curious"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "xAttr",
+                "similarity": 0.8303177058696747,
+                "tail": "curious"
+            },
+            {
+                "head": "PersonX leaves PersonY there",
+                "relation": "oReact",
+                "similarity": 0.8298264443874359,
+                "tail": "sad"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "leaves",
+                "relation": "ObjectUse",
+                "similarity": 0.26239097118377686,
+                "tail": "crumble and use for plant mulch"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "HinderedBy",
+                "similarity": 0.2571200355887413,
+                "tail": "PersonY is pregnant, now is not the time to leave them"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "isBefore",
+                "similarity": 0.25602342188358307,
+                "tail": "PersonX returns to PersonY's side"
+            },
+            {
+                "head": "leaves",
+                "relation": "ObjectUse",
+                "similarity": 0.2543959766626358,
+                "tail": "cover fresh dirt"
+            },
+            {
+                "head": "leaves",
+                "relation": "ObjectUse",
+                "similarity": 0.25264373421669006,
+                "tail": "as weed barrier"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX plants an apple tree",
+                "relation": "isAfter",
+                "similarity": 0.7922025620937347,
+                "tail": "PersonX would like to have an apple tree"
+            },
+            {
+                "head": "PersonX plants an apple tree",
+                "relation": "isAfter",
+                "similarity": 0.7908528745174408,
+                "tail": "PersonX buys an apple tree sapling"
+            },
+            {
+                "head": "PersonX makes like a tree and leave",
+                "relation": "xEffect",
+                "similarity": 0.7894619107246399,
+                "tail": "plant a trees"
+            },
+            {
+                "head": "fruit trees",
+                "relation": "ObjectUse",
+                "similarity": 0.7820201218128204,
+                "tail": "grow fruit for sell"
+            },
+            {
+                "head": "fruit trees",
+                "relation": "ObjectUse",
+                "similarity": 0.7780144512653351,
+                "tail": "have fruit to eat"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "seedling",
+                "relation": "ObjectUse",
+                "similarity": 0.2852625548839569,
+                "tail": "grow into tree"
+            },
+            {
+                "head": "PersonX plants a seed",
+                "relation": "xIntent",
+                "similarity": 0.280067577958107,
+                "tail": "to grow a plant"
+            },
+            {
+                "head": "sapling",
+                "relation": "ObjectUse",
+                "similarity": 0.2750943750143051,
+                "tail": "grow food from"
+            },
+            {
+                "head": "PersonX plants a seed",
+                "relation": "xWant",
+                "similarity": 0.27432823181152344,
+                "tail": "to grow food"
+            },
+            {
+                "head": "plant soil",
+                "relation": "ObjectUse",
+                "similarity": 0.27334174513816833,
+                "tail": "grow vegetables"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX wants to test it out",
+                "relation": "xNeed",
+                "similarity": 0.7900152206420898,
+                "tail": "Think about how to test"
+            },
+            {
+                "head": "other test materials",
+                "relation": "ObjectUse",
+                "similarity": 0.7857634425163269,
+                "tail": "fill out a test"
+            },
+            {
+                "head": "take test",
+                "relation": "HasSubEvent",
+                "similarity": 0.7840481996536255,
+                "tail": "give test to tester"
+            },
+            {
+                "head": "take test",
+                "relation": "xNeed",
+                "similarity": 0.7826959192752838,
+                "tail": "study for test"
+            },
+            {
+                "head": "test materials",
+                "relation": "ObjectUse",
+                "similarity": 0.7823871374130249,
+                "tail": "get feedback"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "weed killer",
+                "relation": "ObjectUse",
+                "similarity": 0.2731815278530121,
+                "tail": "keep the garden clean"
+            },
+            {
+                "head": "tanning oil",
+                "relation": "ObjectUse",
+                "similarity": 0.26771581172943115,
+                "tail": "soften and hydrate their dry hair"
+            },
+            {
+                "head": "weed killer",
+                "relation": "ObjectUse",
+                "similarity": 0.2671045809984207,
+                "tail": "remove invasive plants"
+            },
+            {
+                "head": "PersonX anoints PersonY with oil",
+                "relation": "xWant",
+                "similarity": 0.2646888643503189,
+                "tail": "rub oil on the forehead"
+            },
+            {
+                "head": "suntan oil",
+                "relation": "ObjectUse",
+                "similarity": 0.26086998730897903,
+                "tail": "use as lubricant"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX sets ___ on soil",
+                "relation": "xReact",
+                "similarity": 0.8475993871688843,
+                "tail": "more knowledgeable about the soil"
+            },
+            {
+                "head": "soil",
+                "relation": "ObjectUse",
+                "similarity": 0.8430468738079071,
+                "tail": "plant seeds in the ground"
+            },
+            {
+                "head": "PersonX sets ___ on soil",
+                "relation": "xWant",
+                "similarity": 0.8425181210041046,
+                "tail": "to look at the dirt to see if it could grow crops"
+            },
+            {
+                "head": "soil",
+                "relation": "ObjectUse",
+                "similarity": 0.841380387544632,
+                "tail": "grow crops"
+            },
+            {
+                "head": "soil",
+                "relation": "AtLocation",
+                "similarity": 0.8391246497631073,
+                "tail": "ground"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "worms",
+                "relation": "ObjectUse",
+                "similarity": 0.2953227311372757,
+                "tail": "make a worm farm"
+            },
+            {
+                "head": "worms",
+                "relation": "ObjectUse",
+                "similarity": 0.2864004373550415,
+                "tail": "help with compost"
+            },
+            {
+                "head": "worm",
+                "relation": "ObjectUse",
+                "similarity": 0.28103743493556976,
+                "tail": "help with compost"
+            },
+            {
+                "head": "worms",
+                "relation": "ObjectUse",
+                "similarity": 0.26526568830013275,
+                "tail": "put on hook"
+            },
+            {
+                "head": "tapeworm",
+                "relation": "AtLocation",
+                "similarity": 0.2644599974155426,
+                "tail": "human intestines"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_7",
+        "question_commonsense": [
+            {
+                "head": "potato",
+                "relation": "AtLocation",
+                "similarity": 0.7578593492507935,
+                "tail": "potato farm"
+            },
+            {
+                "head": "potato",
+                "relation": "AtLocation",
+                "similarity": 0.7442772388458252,
+                "tail": "potato patch"
+            },
+            {
+                "head": "potato",
+                "relation": "AtLocation",
+                "similarity": 0.7347632646560669,
+                "tail": "potatoe field"
+            },
+            {
+                "head": "potato",
+                "relation": "AtLocation",
+                "similarity": 0.7265799045562744,
+                "tail": "potato sack"
+            },
+            {
+                "head": "potato",
+                "relation": "AtLocation",
+                "similarity": 0.7244345545768738,
+                "tail": "bowl of potato saled"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "leaf",
+                "relation": "HasProperty",
+                "similarity": 0.26960334181785583,
+                "tail": "used by plant for photosynthesis"
+            },
+            {
+                "head": "leaf",
+                "relation": "ObjectUse",
+                "similarity": 0.26907476782798767,
+                "tail": "capturing sunlight and plant respiration"
+            },
+            {
+                "head": "leaf",
+                "relation": "ObjectUse",
+                "similarity": 0.26697467267513275,
+                "tail": "eat if leaf eatable"
+            },
+            {
+                "head": "leaf",
+                "relation": "MadeUpOf",
+                "similarity": 0.26664480566978455,
+                "tail": "chlorophyll"
+            },
+            {
+                "head": "leaf",
+                "relation": "ObjectUse",
+                "similarity": 0.26450298726558685,
+                "tail": "photosynthesis"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_8",
+        "question_commonsense": [
+            {
+                "head": "leaf",
+                "relation": "MadeUpOf",
+                "similarity": 0.6765854358673096,
+                "tail": "leaf shape"
+            },
+            {
+                "head": "leaf",
+                "relation": "HasProperty",
+                "similarity": 0.6483574509620667,
+                "tail": "used by plant for photosynthesis"
+            },
+            {
+                "head": "leaf",
+                "relation": "ObjectUse",
+                "similarity": 0.64333575963974,
+                "tail": "eat if leaf eatable"
+            },
+            {
+                "head": "leaf",
+                "relation": "ObjectUse",
+                "similarity": 0.6392627954483032,
+                "tail": "start new plant"
+            },
+            {
+                "head": "leaf",
+                "relation": "ObjectUse",
+                "similarity": 0.6355301439762115,
+                "tail": "capturing sunlight and plant respiration"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "leaf",
+                "relation": "AtLocation",
+                "similarity": 0.2801096439361572,
+                "tail": "compost pile"
+            },
+            {
+                "head": "leaf",
+                "relation": "ObjectUse",
+                "similarity": 0.27804845571517944,
+                "tail": "capturing sunlight and plant respiration"
+            },
+            {
+                "head": "leaf",
+                "relation": "ObjectUse",
+                "similarity": 0.27576786279678345,
+                "tail": "collecting nutrients for plant"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "isBefore",
+                "similarity": 0.2714631110429764,
+                "tail": "PersonX returns to PersonY's side"
+            },
+            {
+                "head": "leaf",
+                "relation": "ObjectUse",
+                "similarity": 0.2708358019590378,
+                "tail": "budding in spring"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_9",
+        "question_commonsense": [
+            {
+                "head": "leaf",
+                "relation": "MadeUpOf",
+                "similarity": 0.5911440253257751,
+                "tail": "leaf shape"
+            },
+            {
+                "head": "leaf",
+                "relation": "ObjectUse",
+                "similarity": 0.5754815340042114,
+                "tail": "capturing sunlight and plant respiration"
+            },
+            {
+                "head": "leaf",
+                "relation": "ObjectUse",
+                "similarity": 0.572184145450592,
+                "tail": "eat if leaf eatable"
+            },
+            {
+                "head": "leaf",
+                "relation": "HasProperty",
+                "similarity": 0.5698564052581787,
+                "tail": "used by plant for photosynthesis"
+            },
+            {
+                "head": "leaf",
+                "relation": "ObjectUse",
+                "similarity": 0.5659798979759216,
+                "tail": "photosynthesis"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX leaves PersonY's mark",
+                "relation": "HinderedBy",
+                "similarity": 0.2592737600207329,
+                "tail": "PersonX doesn't want to lose their spot."
+            },
+            {
+                "head": "PersonX leaves PersonY's mark",
+                "relation": "xNeed",
+                "similarity": 0.25723274797201157,
+                "tail": "to clear the marks in the PersonY's face"
+            },
+            {
+                "head": "PersonX leaves the ___ within hours",
+                "relation": "xReact",
+                "similarity": 0.2500339075922966,
+                "tail": "accopmlished"
+            },
+            {
+                "head": "PersonX leaves the ___ within days",
+                "relation": "xNeed",
+                "similarity": 0.2495606541633606,
+                "tail": "to have been asked to leave"
+            },
+            {
+                "head": "PersonX leaves the ___ within hours",
+                "relation": "xIntent",
+                "similarity": 0.24681377410888672,
+                "tail": "to leave"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_10",
+        "question_commonsense": [
+            {
+                "head": "some potatoes",
+                "relation": "ObjectUse",
+                "similarity": 0.7772853076457977,
+                "tail": "plant and grow more potatoes"
+            },
+            {
+                "head": "potato",
+                "relation": "AtLocation",
+                "similarity": 0.7447901368141174,
+                "tail": "bag of potatoes"
+            },
+            {
+                "head": "potato",
+                "relation": "AtLocation",
+                "similarity": 0.7370008230209351,
+                "tail": "bowl of potato saled"
+            },
+            {
+                "head": "potato",
+                "relation": "AtLocation",
+                "similarity": 0.7255648970603943,
+                "tail": "a"
+            },
+            {
+                "head": "some potatoes",
+                "relation": "ObjectUse",
+                "similarity": 0.7215490639209747,
+                "tail": "use as a power source in an experiment"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX begins to sprout",
+                "relation": "xNeed",
+                "similarity": 0.26754482090473175,
+                "tail": "soil"
+            },
+            {
+                "head": "sea weed",
+                "relation": "AtLocation",
+                "similarity": 0.2658054977655411,
+                "tail": "bottom of sea"
+            },
+            {
+                "head": "eggs",
+                "relation": "ObjectUse",
+                "similarity": 0.25181471556425095,
+                "tail": "hide in the grass"
+            },
+            {
+                "head": "PersonX begins to sprout",
+                "relation": "isAfter",
+                "similarity": 0.2502790614962578,
+                "tail": "PersonX grows up fast"
+            },
+            {
+                "head": "small organisms",
+                "relation": "ObjectUse",
+                "similarity": 0.2502601370215416,
+                "tail": "decay waste"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX plants a tree",
+                "relation": "oWant",
+                "similarity": 0.7084034979343414,
+                "tail": "Watch the tree grow"
+            },
+            {
+                "head": "PersonX plants a tree",
+                "relation": "xEffect",
+                "similarity": 0.7009506821632385,
+                "tail": "watches the tree grow"
+            },
+            {
+                "head": "PersonX plants the tree",
+                "relation": "xNeed",
+                "similarity": 0.698615312576294,
+                "tail": "to have the tree"
+            },
+            {
+                "head": "PersonX plants the tree",
+                "relation": "xNeed",
+                "similarity": 0.69631427526474,
+                "tail": "buy a tree"
+            },
+            {
+                "head": "PersonX plants a tree",
+                "relation": "xWant",
+                "similarity": 0.6946048736572266,
+                "tail": "to hope the tree grows"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "on campus",
+                "relation": "AtLocation",
+                "similarity": 0.26674412190914154,
+                "tail": "fraternity house"
+            },
+            {
+                "head": "PersonX leaves the building",
+                "relation": "xNeed",
+                "similarity": 0.26643501222133636,
+                "tail": "to walk towards the door"
+            },
+            {
+                "head": "PersonX leaves the building",
+                "relation": "xNeed",
+                "similarity": 0.26074742525815964,
+                "tail": "to walk to the exit"
+            },
+            {
+                "head": "cement or stucco",
+                "relation": "ObjectUse",
+                "similarity": 0.2570929601788521,
+                "tail": "repair the roof with"
+            },
+            {
+                "head": "PersonX leaves the office",
+                "relation": "xNeed",
+                "similarity": 0.2565680295228958,
+                "tail": "to close the door."
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_12",
+        "question_commonsense": [
+            {
+                "head": "maintain muscle strength",
+                "relation": "xNeed",
+                "similarity": 0.7463265061378479,
+                "tail": "develop muscle strength"
+            },
+            {
+                "head": "maintain muscle strength",
+                "relation": "xNeed",
+                "similarity": 0.7410619854927063,
+                "tail": "perform amount of weight training"
+            },
+            {
+                "head": "maintain muscle strength",
+                "relation": "xNeed",
+                "similarity": 0.7405619323253632,
+                "tail": "get strong muscles"
+            },
+            {
+                "head": "maintain muscle strength",
+                "relation": "HasSubEvent",
+                "similarity": 0.7395897209644318,
+                "tail": "obtain larger muscles"
+            },
+            {
+                "head": "digestive tract",
+                "relation": "ObjectUse",
+                "similarity": 0.7358226478099823,
+                "tail": "extract nutrients from food"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "sperm",
+                "relation": "MadeUpOf",
+                "similarity": 0.293001264333725,
+                "tail": "flagellum"
+            },
+            {
+                "head": "sperm",
+                "relation": "ObjectUse",
+                "similarity": 0.28315576910972595,
+                "tail": "seed embryo"
+            },
+            {
+                "head": "semen",
+                "relation": "MadeUpOf",
+                "similarity": 0.2827705293893814,
+                "tail": "sperm"
+            },
+            {
+                "head": "semen",
+                "relation": "MadeUpOf",
+                "similarity": 0.28100815415382385,
+                "tail": "sperm cells"
+            },
+            {
+                "head": "semen",
+                "relation": "ObjectUse",
+                "similarity": 0.2792721837759018,
+                "tail": "test for infertility issues"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_13",
+        "question_commonsense": [
+            {
+                "head": "PersonX depends upon the nature",
+                "relation": "HinderedBy",
+                "similarity": 0.8135962188243866,
+                "tail": "Nature only cares about itself not humans."
+            },
+            {
+                "head": "weed killer",
+                "relation": "ObjectUse",
+                "similarity": 0.8081265389919281,
+                "tail": "remove invasive plants"
+            },
+            {
+                "head": "weed killer",
+                "relation": "ObjectUse",
+                "similarity": 0.8059210479259491,
+                "tail": "poison pests"
+            },
+            {
+                "head": "weed killer",
+                "relation": "ObjectUse",
+                "similarity": 0.8057711720466614,
+                "tail": "keep the garden clean"
+            },
+            {
+                "head": "PersonX depends upon the nature",
+                "relation": "xNeed",
+                "similarity": 0.8033156991004944,
+                "tail": "grow plants for living"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "isBefore",
+                "similarity": 0.25298821181058884,
+                "tail": "PersonX returns to PersonY's side"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "xAttr",
+                "similarity": 0.2517634332180023,
+                "tail": "Self-seeking"
+            },
+            {
+                "head": "PersonX leaves PersonY holding the baby",
+                "relation": "xWant",
+                "similarity": 0.25151336938142776,
+                "tail": "to call PersonY"
+            },
+            {
+                "head": "PersonX leaves PersonY holding the baby",
+                "relation": "HinderedBy",
+                "similarity": 0.25025977939367294,
+                "tail": "Person Y needs to return home."
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "HinderedBy",
+                "similarity": 0.2482779249548912,
+                "tail": "PersonY is pregnant, now is not the time to leave them"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.8205141127109528,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX bugs PersonY",
+                "relation": "xReact",
+                "similarity": 0.8195692598819733,
+                "tail": "humorous"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.819366842508316,
+                "tail": "to pick up a picture"
+            },
+            {
+                "head": "PersonX bugs PersonY",
+                "relation": "oEffect",
+                "similarity": 0.8186568021774292,
+                "tail": "becomes agitated at PersonX."
+            },
+            {
+                "head": "PersonX gives PersonY picture",
+                "relation": "oReact",
+                "similarity": 0.8182453513145447,
+                "tail": "bored"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "insect",
+                "relation": "MadeUpOf",
+                "similarity": 0.2907857149839401,
+                "tail": "clypeus"
+            },
+            {
+                "head": "insect",
+                "relation": "MadeUpOf",
+                "similarity": 0.2801355719566345,
+                "tail": "thorax"
+            },
+            {
+                "head": "insect",
+                "relation": "HasProperty",
+                "similarity": 0.275784894824028,
+                "tail": "6 legs"
+            },
+            {
+                "head": "insect",
+                "relation": "AtLocation",
+                "similarity": 0.2700125575065613,
+                "tail": "leaf"
+            },
+            {
+                "head": "lacebug",
+                "relation": "AtLocation",
+                "similarity": 0.26847754418849945,
+                "tail": "underside of leaves"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX finds ___ in the grass",
+                "relation": "xNeed",
+                "similarity": 0.5607700645923615,
+                "tail": "to search in the grass"
+            },
+            {
+                "head": "PersonX finds ___ in the grass",
+                "relation": "xNeed",
+                "similarity": 0.5596329867839813,
+                "tail": "to look in the grass"
+            },
+            {
+                "head": "grass",
+                "relation": "HasProperty",
+                "similarity": 0.5474861264228821,
+                "tail": "composed of individual blades of grass"
+            },
+            {
+                "head": "corn plant",
+                "relation": "CapableOf",
+                "similarity": 0.5470650792121887,
+                "tail": "produce corn cobs"
+            },
+            {
+                "head": "grass",
+                "relation": "AtLocation",
+                "similarity": 0.5456584095954895,
+                "tail": "field"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "corn plant",
+                "relation": "CapableOf",
+                "similarity": 0.28319498896598816,
+                "tail": "produce corn cobs"
+            },
+            {
+                "head": "grow corn",
+                "relation": "xNeed",
+                "similarity": 0.26867981255054474,
+                "tail": "plant corn seeds"
+            },
+            {
+                "head": "plant",
+                "relation": "MadeUpOf",
+                "similarity": 0.2659098356962204,
+                "tail": "plant part"
+            },
+            {
+                "head": "PersonX divides the corn among themselves",
+                "relation": "isAfter",
+                "similarity": 0.2635513097047806,
+                "tail": "PersonX picks some corn"
+            },
+            {
+                "head": "corn and wheat",
+                "relation": "AtLocation",
+                "similarity": 0.2611027657985687,
+                "tail": "field"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_16",
+        "question_commonsense": [
+            {
+                "head": "PersonX sees yellow",
+                "relation": "xEffect",
+                "similarity": 0.7909907698631287,
+                "tail": "Use the yellow to paint"
+            },
+            {
+                "head": "PersonX sees yellow",
+                "relation": "HinderedBy",
+                "similarity": 0.7860151827335358,
+                "tail": "Someone painted over the yellow color."
+            },
+            {
+                "head": "PersonX sees yellow",
+                "relation": "xWant",
+                "similarity": 0.7800836861133575,
+                "tail": "to pick up the yellow item"
+            },
+            {
+                "head": "PersonX sees yellow",
+                "relation": "xEffect",
+                "similarity": 0.7780471742153168,
+                "tail": "likes yellow"
+            },
+            {
+                "head": "PersonX sees yellow",
+                "relation": "xNeed",
+                "similarity": 0.775926411151886,
+                "tail": "to look at it"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX leaves PersonY's mark",
+                "relation": "HinderedBy",
+                "similarity": 0.24876368045806885,
+                "tail": "PersonX doesn't want to lose their spot."
+            },
+            {
+                "head": "PersonX leaves PersonY's mark",
+                "relation": "xNeed",
+                "similarity": 0.24569206684827805,
+                "tail": "to clear the marks in the PersonY's face"
+            },
+            {
+                "head": "PersonX leaves the ___ within days",
+                "relation": "xAttr",
+                "similarity": 0.24548573046922684,
+                "tail": "afraid"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "HinderedBy",
+                "similarity": 0.24519184231758118,
+                "tail": "PersonY is pregnant, now is not the time to leave them"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "isBefore",
+                "similarity": 0.24211376160383224,
+                "tail": "PersonX returns to PersonY's side"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "oWant",
+                "similarity": 0.6718756854534149,
+                "tail": "To be sad since person x is gone."
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "oWant",
+                "similarity": 0.671536922454834,
+                "tail": "To ask person x why they left."
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "isAfter",
+                "similarity": 0.6684007346630096,
+                "tail": "PersonX takes PersonY to school before work"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "xWant",
+                "similarity": 0.6677801012992859,
+                "tail": "to get the details"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "xWant",
+                "similarity": 0.6656362116336823,
+                "tail": "Go about the business they needed to leave for."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "isBefore",
+                "similarity": 0.265664204955101,
+                "tail": "PersonX returns to PersonY's side"
+            },
+            {
+                "head": "leaves",
+                "relation": "ObjectUse",
+                "similarity": 0.2637181729078293,
+                "tail": "crumble and use for plant mulch"
+            },
+            {
+                "head": "leaves",
+                "relation": "ObjectUse",
+                "similarity": 0.26163358241319656,
+                "tail": "cover fresh dirt"
+            },
+            {
+                "head": "PersonX leaves PersonY there",
+                "relation": "xWant",
+                "similarity": 0.2612944319844246,
+                "tail": "Leave"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "HinderedBy",
+                "similarity": 0.25860969722270966,
+                "tail": "PersonY is pregnant, now is not the time to leave them"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_18",
+        "question_commonsense": [
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "oReact",
+                "similarity": 0.7163732051849365,
+                "tail": "curious"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "xAttr",
+                "similarity": 0.7163732051849365,
+                "tail": "curious"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "oWant",
+                "similarity": 0.7136009335517883,
+                "tail": "To ask person x why they left."
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "isAfter",
+                "similarity": 0.7126025259494781,
+                "tail": "PersonX takes PersonY to school before work"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "xWant",
+                "similarity": 0.711650550365448,
+                "tail": "to get the details"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "leaves",
+                "relation": "ObjectUse",
+                "similarity": 0.2731739431619644,
+                "tail": "crumble and use for plant mulch"
+            },
+            {
+                "head": "leaves",
+                "relation": "ObjectUse",
+                "similarity": 0.2608563080430031,
+                "tail": "as weed barrier"
+            },
+            {
+                "head": "leaves",
+                "relation": "ObjectUse",
+                "similarity": 0.25984546542167664,
+                "tail": "as mulch"
+            },
+            {
+                "head": "leaves",
+                "relation": "ObjectUse",
+                "similarity": 0.25893907994031906,
+                "tail": "cover fresh dirt"
+            },
+            {
+                "head": "PersonX leaves PersonY there",
+                "relation": "xWant",
+                "similarity": 0.2588365748524666,
+                "tail": "Leave"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_19",
+        "question_commonsense": [
+            {
+                "head": "coccidiosis",
+                "relation": "Causes",
+                "similarity": 0.5429505705833435,
+                "tail": "treatment with anticoccidials"
+            },
+            {
+                "head": "PersonX bites PersonY's bottom lip",
+                "relation": "xEffect",
+                "similarity": 0.5415291786193848,
+                "tail": "gets bit"
+            },
+            {
+                "head": "coccidiosis",
+                "relation": "Causes",
+                "similarity": 0.5381769239902496,
+                "tail": "economic loss"
+            },
+            {
+                "head": "PersonX bites PersonY's bottom lip",
+                "relation": "oReact",
+                "similarity": 0.5368487536907196,
+                "tail": "suprise"
+            },
+            {
+                "head": "PersonX bites PersonY's bottom lip",
+                "relation": "xWant",
+                "similarity": 0.5361823737621307,
+                "tail": "to explain"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX greases PersonY's palm",
+                "relation": "oWant",
+                "similarity": 0.27396532893180847,
+                "tail": "to allow the grease to remain on the palm for as long as it is needed."
+            },
+            {
+                "head": "asparagus",
+                "relation": "ObjectUse",
+                "similarity": 0.2736941874027252,
+                "tail": "plant in the ground"
+            },
+            {
+                "head": "neosporine",
+                "relation": "ObjectUse",
+                "similarity": 0.2694080322980881,
+                "tail": "kill bacteria on an abrasion"
+            },
+            {
+                "head": "asparagus",
+                "relation": "ObjectUse",
+                "similarity": 0.2669617459177971,
+                "tail": "mame urine smell bad"
+            },
+            {
+                "head": "neosporine",
+                "relation": "ObjectUse",
+                "similarity": 0.2665781080722809,
+                "tail": "prevent cut from going bad"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_20",
+        "question_commonsense": [
+            {
+                "head": "tree",
+                "relation": "HasProperty",
+                "similarity": 0.7480975091457367,
+                "tail": "roots branches leaves and trunk"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.7369339168071747,
+                "tail": "branch in several directions"
+            },
+            {
+                "head": "tree",
+                "relation": "HasProperty",
+                "similarity": 0.7360706925392151,
+                "tail": "leaves on branches"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.7302775084972382,
+                "tail": "grow new branches"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.7297761142253876,
+                "tail": "branch out"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX crashes into a tree",
+                "relation": "xWant",
+                "similarity": 0.26562489569187164,
+                "tail": "to check on the tree"
+            },
+            {
+                "head": "PersonX crashes ___ into a tree",
+                "relation": "xEffect",
+                "similarity": 0.2487105131149292,
+                "tail": "receives injuries from crashing"
+            },
+            {
+                "head": "oak tree",
+                "relation": "AtLocation",
+                "similarity": 0.24813728034496307,
+                "tail": "state park"
+            },
+            {
+                "head": "PersonX crashes ___ into a tree",
+                "relation": "xWant",
+                "similarity": 0.24773623794317245,
+                "tail": "access the damage"
+            },
+            {
+                "head": "PersonX crashes into a tree",
+                "relation": "oWant",
+                "similarity": 0.24569053202867508,
+                "tail": "Personx to drive more safetly"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_21",
+        "question_commonsense": [
+            {
+                "head": "seeds",
+                "relation": "ObjectUse",
+                "similarity": 0.6200090944766998,
+                "tail": "plant vegetables"
+            },
+            {
+                "head": "seeds",
+                "relation": "ObjectUse",
+                "similarity": 0.6116049289703369,
+                "tail": "plant in the garden"
+            },
+            {
+                "head": "seeds",
+                "relation": "ObjectUse",
+                "similarity": 0.6080407202243805,
+                "tail": "plant so the flowers will come out"
+            },
+            {
+                "head": "seeds",
+                "relation": "ObjectUse",
+                "similarity": 0.6051467061042786,
+                "tail": "plant plants"
+            },
+            {
+                "head": "seeds",
+                "relation": "ObjectUse",
+                "similarity": 0.6030859351158142,
+                "tail": "plant in the ground"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX fish or cut bait",
+                "relation": "xNeed",
+                "similarity": 0.289147287607193,
+                "tail": "slice bait in pieces"
+            },
+            {
+                "head": "seeds",
+                "relation": "ObjectUse",
+                "similarity": 0.27706748247146606,
+                "tail": "place into the soil for germination"
+            },
+            {
+                "head": "seeds",
+                "relation": "ObjectUse",
+                "similarity": 0.27569012343883514,
+                "tail": "plant vegetables"
+            },
+            {
+                "head": "PersonX fish or cut bait",
+                "relation": "xWant",
+                "similarity": 0.2725142538547516,
+                "tail": "to have a fish dinner"
+            },
+            {
+                "head": "PersonX fish or cut bait",
+                "relation": "isBefore",
+                "similarity": 0.272482305765152,
+                "tail": "PersonX cut bait and relaxed all day"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX plants a tree in PersonY's backyard",
+                "relation": "xNeed",
+                "similarity": 0.5414697825908661,
+                "tail": "a baby tree to transplant"
+            },
+            {
+                "head": "PersonX plants a tree in PersonY's backyard",
+                "relation": "xNeed",
+                "similarity": 0.5402288734912872,
+                "tail": "tree seeds"
+            },
+            {
+                "head": "apple tree seeds",
+                "relation": "ObjectUse",
+                "similarity": 0.5303708910942078,
+                "tail": "plant a tree"
+            },
+            {
+                "head": "PersonX plants a tree in PersonY's backyard",
+                "relation": "oEffect",
+                "similarity": 0.5241498053073883,
+                "tail": "is a tree owner"
+            },
+            {
+                "head": "PersonX plants a tree in PersonX's backyard",
+                "relation": "xEffect",
+                "similarity": 0.522947758436203,
+                "tail": "sees the tree grow"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "pruners",
+                "relation": "ObjectUse",
+                "similarity": 0.2624497264623642,
+                "tail": "shape a plant"
+            },
+            {
+                "head": "PersonX climbs a tree",
+                "relation": "xWant",
+                "similarity": 0.26058799028396606,
+                "tail": "cut branches"
+            },
+            {
+                "head": "PersonX climbs a tree",
+                "relation": "xEffect",
+                "similarity": 0.2602405548095703,
+                "tail": "scrapes hands on rough tree bark"
+            },
+            {
+                "head": "pruners",
+                "relation": "ObjectUse",
+                "similarity": 0.25543856620788574,
+                "tail": "keep bushes nice"
+            },
+            {
+                "head": "PersonX climbs a tree",
+                "relation": "xWant",
+                "similarity": 0.25465019047260284,
+                "tail": "sit on tree"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_23",
+        "question_commonsense": [
+            {
+                "head": "foliage",
+                "relation": "AtLocation",
+                "similarity": 0.6751518547534943,
+                "tail": "forest"
+            },
+            {
+                "head": "PersonX plants a tree",
+                "relation": "oWant",
+                "similarity": 0.6665725708007812,
+                "tail": "Watch the tree grow"
+            },
+            {
+                "head": "PersonX plants a tree",
+                "relation": "oWant",
+                "similarity": 0.6633628606796265,
+                "tail": "Inquire about the type of tree"
+            },
+            {
+                "head": "PersonX plants a tree",
+                "relation": "xWant",
+                "similarity": 0.6597045660018921,
+                "tail": "to water the tree"
+            },
+            {
+                "head": "PersonX plants a tree",
+                "relation": "xEffect",
+                "similarity": 0.6579740345478058,
+                "tail": "waters the tree"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "isBefore",
+                "similarity": 0.25944188237190247,
+                "tail": "PersonX returns to PersonY's side"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "HinderedBy",
+                "similarity": 0.2575775757431984,
+                "tail": "PersonY is pregnant, now is not the time to leave them"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "xAttr",
+                "similarity": 0.24896850436925888,
+                "tail": "Self-seeking"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "oWant",
+                "similarity": 0.24823474884033203,
+                "tail": "him back on their side"
+            },
+            {
+                "head": "PersonX leaves PersonY's side",
+                "relation": "xWant",
+                "similarity": 0.24692346900701523,
+                "tail": "to get the details"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_24",
+        "question_commonsense": [
+            {
+                "head": "bee",
+                "relation": "AtLocation",
+                "similarity": 0.7353628277778625,
+                "tail": "garden pollinating flowers"
+            },
+            {
+                "head": "bee",
+                "relation": "ObjectUse",
+                "similarity": 0.7351135909557343,
+                "tail": "pollinate flowers"
+            },
+            {
+                "head": "bee",
+                "relation": "CapableOf",
+                "similarity": 0.7316761612892151,
+                "tail": "fly"
+            },
+            {
+                "head": "bee",
+                "relation": "AtLocation",
+                "similarity": 0.7316429615020752,
+                "tail": "beehiev"
+            },
+            {
+                "head": "bee",
+                "relation": "AtLocation",
+                "similarity": 0.7296043038368225,
+                "tail": "bee super"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "male",
+                "relation": "CapableOf",
+                "similarity": 0.2849498987197876,
+                "tail": "kiss female"
+            },
+            {
+                "head": "bee",
+                "relation": "AtLocation",
+                "similarity": 0.2833620458841324,
+                "tail": "garden pollinating flowers"
+            },
+            {
+                "head": "bee",
+                "relation": "AtLocation",
+                "similarity": 0.28234487771987915,
+                "tail": "flower collecting pollen"
+            },
+            {
+                "head": "bee",
+                "relation": "AtLocation",
+                "similarity": 0.28149621188640594,
+                "tail": "beekeeper's yard"
+            },
+            {
+                "head": "male",
+                "relation": "CapableOf",
+                "similarity": 0.27929016947746277,
+                "tail": "impregnate female"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_25",
+        "question_commonsense": [
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.5734198987483978,
+                "tail": "branch in several directions"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.5596003234386444,
+                "tail": "branch into leaves"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.5595134198665619,
+                "tail": "branch out"
+            },
+            {
+                "head": "pine tress",
+                "relation": "AtLocation",
+                "similarity": 0.558159664273262,
+                "tail": "countryside"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.5514796674251556,
+                "tail": "fruit"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "male",
+                "relation": "CapableOf",
+                "similarity": 0.2720700353384018,
+                "tail": "kiss female"
+            },
+            {
+                "head": "male",
+                "relation": "CapableOf",
+                "similarity": 0.26716020703315735,
+                "tail": "impregnate female"
+            },
+            {
+                "head": "male",
+                "relation": "CapableOf",
+                "similarity": 0.25673411786556244,
+                "tail": "reproduce with female"
+            },
+            {
+                "head": "adult",
+                "relation": "MadeUpOf",
+                "similarity": 0.25606585294008255,
+                "tail": "adult body"
+            },
+            {
+                "head": "adult",
+                "relation": "CapableOf",
+                "similarity": 0.25005146861076355,
+                "tail": "lead child by hand"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_26",
+        "question_commonsense": [
+            {
+                "head": "PersonX plants ___ in PersonX's garden",
+                "relation": "xNeed",
+                "similarity": 0.6483254432678223,
+                "tail": "to buy a plant"
+            },
+            {
+                "head": "PersonX plants a garden",
+                "relation": "xWant",
+                "similarity": 0.6428785622119904,
+                "tail": "to grow things"
+            },
+            {
+                "head": "plants",
+                "relation": "ObjectUse",
+                "similarity": 0.6410151124000549,
+                "tail": "plant in garden"
+            },
+            {
+                "head": "PersonX plants ___ in PersonX's garden",
+                "relation": "xReact",
+                "similarity": 0.6396366655826569,
+                "tail": "happy to have the new plants and their fruits."
+            },
+            {
+                "head": "PersonX plants ___ in PersonX's garden",
+                "relation": "xIntent",
+                "similarity": 0.6343254745006561,
+                "tail": "to grow vegetables and fruits"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "oregano",
+                "relation": "MadeUpOf",
+                "similarity": 0.3037784695625305,
+                "tail": "marjoram"
+            },
+            {
+                "head": "oregano",
+                "relation": "ObjectUse",
+                "similarity": 0.2816227674484253,
+                "tail": "sprinkle in the dirt to deter bugs"
+            },
+            {
+                "head": "PersonX grasps the nettle",
+                "relation": "HinderedBy",
+                "similarity": 0.280593141913414,
+                "tail": "The nettle is poisonous"
+            },
+            {
+                "head": "coriander",
+                "relation": "MadeUpOf",
+                "similarity": 0.28047941625118256,
+                "tail": "cilantro"
+            },
+            {
+                "head": "PersonX grasps the nettle",
+                "relation": "HinderedBy",
+                "similarity": 0.2735174894332886,
+                "tail": "PersonX has a nettle allergy."
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_27",
+        "question_commonsense": [
+            {
+                "head": "fungus",
+                "relation": "AtLocation",
+                "similarity": 0.6985846161842346,
+                "tail": "growing on decomposing wood"
+            },
+            {
+                "head": "fungus",
+                "relation": "AtLocation",
+                "similarity": 0.69081911444664,
+                "tail": "fungus garden"
+            },
+            {
+                "head": "fungus",
+                "relation": "AtLocation",
+                "similarity": 0.6889156401157379,
+                "tail": "leaf mold"
+            },
+            {
+                "head": "fungus",
+                "relation": "AtLocation",
+                "similarity": 0.6811956763267517,
+                "tail": "cold moist dark place"
+            },
+            {
+                "head": "fungus",
+                "relation": "AtLocation",
+                "similarity": 0.6768153309822083,
+                "tail": "dark moist place"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX greases PersonY's palm",
+                "relation": "oWant",
+                "similarity": 0.2659875899553299,
+                "tail": "to allow the grease to remain on the palm for as long as it is needed."
+            },
+            {
+                "head": "PersonX leaves PersonY's mark",
+                "relation": "HinderedBy",
+                "similarity": 0.25418680161237717,
+                "tail": "PersonX doesn't want to lose their spot."
+            },
+            {
+                "head": "PersonX greases PersonY's palm",
+                "relation": "HinderedBy",
+                "similarity": 0.2526189014315605,
+                "tail": "Person Y will not allow Person X to touch their palm."
+            },
+            {
+                "head": "PersonX greases PersonY's palm",
+                "relation": "xAttr",
+                "similarity": 0.25205478072166443,
+                "tail": "slimy"
+            },
+            {
+                "head": "PersonX leaves PersonY's mark",
+                "relation": "xNeed",
+                "similarity": 0.250892736017704,
+                "tail": "to clear the marks in the PersonY's face"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_28",
+        "question_commonsense": [
+            {
+                "head": "tree",
+                "relation": "HasProperty",
+                "similarity": 0.7036119103431702,
+                "tail": "leaves on branches"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.7034063637256622,
+                "tail": "grow new branches"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.6950036585330963,
+                "tail": "branch in several directions"
+            },
+            {
+                "head": "tree",
+                "relation": "HasProperty",
+                "similarity": 0.6938508152961731,
+                "tail": "roots branches leaves and trunk"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.6938284337520599,
+                "tail": "grow leaves"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.2831416130065918,
+                "tail": "bird nests"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.26618553698062897,
+                "tail": "grow new branches"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.26119591295719147,
+                "tail": "branch out"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.2610832303762436,
+                "tail": "rain leaves"
+            },
+            {
+                "head": "tree",
+                "relation": "ObjectUse",
+                "similarity": 0.26026882231235504,
+                "tail": "grow branch"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_29",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "xWant",
+                "similarity": 0.8470180928707123,
+                "tail": "to help PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "isBefore",
+                "similarity": 0.8462409377098083,
+                "tail": "PersonX gives a prescribed treatment"
+            },
+            {
+                "head": "PersonX gets sick to PersonX's stomach",
+                "relation": "xEffect",
+                "similarity": 0.8427370190620422,
+                "tail": "looks hurt"
+            },
+            {
+                "head": "PersonX prevents PersonY's recurrence",
+                "relation": "oEffect",
+                "similarity": 0.8399247229099274,
+                "tail": "they cry"
+            },
+            {
+                "head": "PersonX makes PersonY diagnosis",
+                "relation": "HinderedBy",
+                "similarity": 0.839754581451416,
+                "tail": "PersonY has not given enough information."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "vegetable garden",
+                "relation": "ObjectUse",
+                "similarity": 0.3020123541355133,
+                "tail": "growing food for winter"
+            },
+            {
+                "head": "vegetable garden",
+                "relation": "ObjectUse",
+                "similarity": 0.3008544147014618,
+                "tail": "grow courgettes"
+            },
+            {
+                "head": "vegetable garden",
+                "relation": "ObjectUse",
+                "similarity": 0.2984004616737366,
+                "tail": "growing own vegetables"
+            },
+            {
+                "head": "vegetable garden",
+                "relation": "ObjectUse",
+                "similarity": 0.2984004616737366,
+                "tail": "growing vegetables"
+            },
+            {
+                "head": "vegetable garden",
+                "relation": "ObjectUse",
+                "similarity": 0.29769355058670044,
+                "tail": "growing food"
+            }
+        ]
+    },
+    {
+        "id": "validation_Agriculture_30",
+        "question_commonsense": [
+            {
+                "head": "fungus",
+                "relation": "AtLocation",
+                "similarity": 0.7724502384662628,
+                "tail": "growing on decomposing wood"
+            },
+            {
+                "head": "fungus",
+                "relation": "AtLocation",
+                "similarity": 0.7648985385894775,
+                "tail": "forest environment"
+            },
+            {
+                "head": "fungus",
+                "relation": "AtLocation",
+                "similarity": 0.7632404565811157,
+                "tail": "fungus garden"
+            },
+            {
+                "head": "fungus",
+                "relation": "AtLocation",
+                "similarity": 0.7602890729904175,
+                "tail": "humid climate"
+            },
+            {
+                "head": "fungus",
+                "relation": "AtLocation",
+                "similarity": 0.758380651473999,
+                "tail": "food"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "coccidiosis",
+                "relation": "Causes",
+                "similarity": 0.25573354214429855,
+                "tail": "treatment with anticoccidials"
+            },
+            {
+                "head": "mold",
+                "relation": "ObjectUse",
+                "similarity": 0.255472369492054,
+                "tail": "perform an experiment"
+            },
+            {
+                "head": "fruit fly",
+                "relation": "ObjectUse",
+                "similarity": 0.25524871051311493,
+                "tail": "many genetic experiments"
+            },
+            {
+                "head": "egg",
+                "relation": "AtLocation",
+                "similarity": 0.2540670782327652,
+                "tail": "plate"
+            },
+            {
+                "head": "egg",
+                "relation": "HasProperty",
+                "similarity": 0.25349268317222595,
+                "tail": "round"
+            }
+        ]
+    }
+]

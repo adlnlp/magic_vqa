@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Physics_1",
+        "question_commonsense": [
+            {
+                "head": "wires",
+                "relation": "ObjectUse",
+                "similarity": 0.7020740807056427,
+                "tail": "connect power sources"
+            },
+            {
+                "head": "wires",
+                "relation": "ObjectUse",
+                "similarity": 0.7008510231971741,
+                "tail": "conduct electricity"
+            },
+            {
+                "head": "wiring",
+                "relation": "ObjectUse",
+                "similarity": 0.6979859173297882,
+                "tail": "route electricity"
+            },
+            {
+                "head": "metal wire",
+                "relation": "ObjectUse",
+                "similarity": 0.6932426393032074,
+                "tail": "connect a circuit"
+            },
+            {
+                "head": "wires",
+                "relation": "ObjectUse",
+                "similarity": 0.6873029172420502,
+                "tail": "provide electricity to the appliance"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "drum brake",
+                "relation": "MadeUpOf",
+                "similarity": 0.2683546096086502,
+                "tail": "brake drum"
+            },
+            {
+                "head": "applicator",
+                "relation": "ObjectUse",
+                "similarity": 0.2676696330308914,
+                "tail": "test a chemistry theory"
+            },
+            {
+                "head": "applicator",
+                "relation": "ObjectUse",
+                "similarity": 0.2657866030931473,
+                "tail": "place solution on scalp"
+            },
+            {
+                "head": "drum brake",
+                "relation": "MadeUpOf",
+                "similarity": 0.2609217017889023,
+                "tail": "brake shoe"
+            },
+            {
+                "head": "PersonX flies off at a tangent",
+                "relation": "xNeed",
+                "similarity": 0.2532060816884041,
+                "tail": "to not want to discuss current topic"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_2",
+        "question_commonsense": [
+            {
+                "head": "magnetic tool",
+                "relation": "ObjectUse",
+                "similarity": 0.643862247467041,
+                "tail": "attract other magnets"
+            },
+            {
+                "head": "magnetic tool",
+                "relation": "ObjectUse",
+                "similarity": 0.642098069190979,
+                "tail": "place on magnetic rack"
+            },
+            {
+                "head": "magnetic tool",
+                "relation": "ObjectUse",
+                "similarity": 0.62868332862854,
+                "tail": "do magic tricks"
+            },
+            {
+                "head": "circular route",
+                "relation": "ObjectUse",
+                "similarity": 0.6252764463424683,
+                "tail": "returning to start point"
+            },
+            {
+                "head": "circular route",
+                "relation": "ObjectUse",
+                "similarity": 0.6242832541465759,
+                "tail": "traveling in circle"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.29875096678733826,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX falls within the scope",
+                "relation": "HinderedBy",
+                "similarity": 0.2879675477743149,
+                "tail": "PersonX does not know what the scope is"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.2815271019935608,
+                "tail": "record measurements"
+            },
+            {
+                "head": "spherical object",
+                "relation": "ObjectUse",
+                "similarity": 0.2806911915540695,
+                "tail": "use as a light fixture"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "isFilledBy",
+                "similarity": 0.2762204706668854,
+                "tail": "a barrel"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7427780032157898,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "wires",
+                "relation": "ObjectUse",
+                "similarity": 0.7398780286312103,
+                "tail": "conduct electricity"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.736782044172287,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "wires",
+                "relation": "ObjectUse",
+                "similarity": 0.7345994710922241,
+                "tail": "connect power sources"
+            },
+            {
+                "head": "wiring",
+                "relation": "ObjectUse",
+                "similarity": 0.7321718037128448,
+                "tail": "route electricity"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2667408138513565,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "lunge lines",
+                "relation": "ObjectUse",
+                "similarity": 0.2648245543241501,
+                "tail": "jump rope"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.2646353840827942,
+                "tail": "different atoms"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.26334063708782196,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "tuning fork",
+                "relation": "ObjectUse",
+                "similarity": 0.26218847930431366,
+                "tail": "tighten the piano strings"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_4",
+        "question_commonsense": [
+            {
+                "head": "light source",
+                "relation": "ObjectUse",
+                "similarity": 0.7474402189254761,
+                "tail": "using in physics experiments"
+            },
+            {
+                "head": "light source",
+                "relation": "ObjectUse",
+                "similarity": 0.746384471654892,
+                "tail": "obtaining light"
+            },
+            {
+                "head": "light source",
+                "relation": "ObjectUse",
+                "similarity": 0.7423726320266724,
+                "tail": "providing light"
+            },
+            {
+                "head": "light source",
+                "relation": "ObjectUse",
+                "similarity": 0.7371766269207001,
+                "tail": "plants to use for photosynthesis"
+            },
+            {
+                "head": "light source",
+                "relation": "ObjectUse",
+                "similarity": 0.7317459583282471,
+                "tail": "light a room"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.30585522949695587,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.3034265488386154,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "airfoil",
+                "relation": "MadeUpOf",
+                "similarity": 0.294509157538414,
+                "tail": "trailing edge"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xNeed",
+                "similarity": 0.28828635811805725,
+                "tail": "calculate the dimensions"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xEffect",
+                "similarity": 0.2849690169095993,
+                "tail": "Does the math"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX bounces the ball",
+                "relation": "HinderedBy",
+                "similarity": 0.7286944389343262,
+                "tail": "The ball doesn't have any air in it"
+            },
+            {
+                "head": "PersonX bounces the ball",
+                "relation": "HinderedBy",
+                "similarity": 0.72586989402771,
+                "tail": "The ball is deflated and is no longer able to bounce"
+            },
+            {
+                "head": "PersonX bounces the ball",
+                "relation": "xNeed",
+                "similarity": 0.7197737395763397,
+                "tail": "to find a ball"
+            },
+            {
+                "head": "PersonX bounces the ball",
+                "relation": "HinderedBy",
+                "similarity": 0.7174569666385651,
+                "tail": "The ball was too flat."
+            },
+            {
+                "head": "PersonX bounces the ball",
+                "relation": "xWant",
+                "similarity": 0.715844601392746,
+                "tail": "to shoot the ball"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "asterisk wildcard symbol",
+                "relation": "ObjectUse",
+                "similarity": 0.2719457745552063,
+                "tail": "specify strings of characters"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.26753130555152893,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX forms PersonY estimate",
+                "relation": "xAttr",
+                "similarity": 0.2611279636621475,
+                "tail": "analytical"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.2605447545647621,
+                "tail": "to be percise"
+            },
+            {
+                "head": "PersonX forms PersonY estimate",
+                "relation": "xReact",
+                "similarity": 0.2598297744989395,
+                "tail": "completed the estimation"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_6",
+        "question_commonsense": [
+            {
+                "head": "moving truck",
+                "relation": "ObjectUse",
+                "similarity": 0.7962658405303955,
+                "tail": "to tow a vehicle."
+            },
+            {
+                "head": "truck",
+                "relation": "ObjectUse",
+                "similarity": 0.7905816733837128,
+                "tail": "transport their things"
+            },
+            {
+                "head": "moving truck",
+                "relation": "ObjectUse",
+                "similarity": 0.7902424931526184,
+                "tail": "Move large items"
+            },
+            {
+                "head": "truck",
+                "relation": "ObjectUse",
+                "similarity": 0.7854084372520447,
+                "tail": "drive in traffic"
+            },
+            {
+                "head": "truck",
+                "relation": "ObjectUse",
+                "similarity": 0.7836488485336304,
+                "tail": "transport items"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "train ticket",
+                "relation": "ObjectUse",
+                "similarity": 0.2864720970392227,
+                "tail": "travel by train"
+            },
+            {
+                "head": "train ticket",
+                "relation": "AtLocation",
+                "similarity": 0.285840168595314,
+                "tail": "train"
+            },
+            {
+                "head": "train ticket",
+                "relation": "ObjectUse",
+                "similarity": 0.28368981182575226,
+                "tail": "board train"
+            },
+            {
+                "head": "train ticket",
+                "relation": "ObjectUse",
+                "similarity": 0.28368981182575226,
+                "tail": "board the train"
+            },
+            {
+                "head": "train ticket",
+                "relation": "ObjectUse",
+                "similarity": 0.28368981182575226,
+                "tail": "board a train"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_7",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7787597179412842,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7784260213375092,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7778781652450562,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7772037386894226,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.7765694260597229,
+                "tail": "to learn more mathematics"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2963331341743469,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2958115190267563,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28876185417175293,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.28681622445583344,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2821590155363083,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_8",
+        "question_commonsense": [
+            {
+                "head": "pole",
+                "relation": "ObjectUse",
+                "similarity": 0.6738084256649017,
+                "tail": "go under"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "xNeed",
+                "similarity": 0.669261634349823,
+                "tail": "pen and pencil"
+            },
+            {
+                "head": "pole",
+                "relation": "ObjectUse",
+                "similarity": 0.6677333116531372,
+                "tail": "use as a pull up bar"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.6671562194824219,
+                "tail": "build a robot"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "xNeed",
+                "similarity": 0.6665063500404358,
+                "tail": "a caclulator"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.2984534651041031,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "xWant",
+                "similarity": 0.29268915951251984,
+                "tail": "to be realistic when conducting"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.28380440175533295,
+                "tail": "see the notes to play"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.2821709215641022,
+                "tail": "orchestra"
+            },
+            {
+                "head": "PersonX conducts ___ using",
+                "relation": "isFilledBy",
+                "similarity": 0.2821709215641022,
+                "tail": "the orchestra"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_9",
+        "question_commonsense": [
+            {
+                "head": "rope",
+                "relation": "ObjectUse",
+                "similarity": 0.7068074941635132,
+                "tail": "tying up"
+            },
+            {
+                "head": "metal rod",
+                "relation": "ObjectUse",
+                "similarity": 0.7036338746547699,
+                "tail": "conducting electricity"
+            },
+            {
+                "head": "safety rope",
+                "relation": "ObjectUse",
+                "similarity": 0.7030328512191772,
+                "tail": "Secure to"
+            },
+            {
+                "head": "safety rope",
+                "relation": "ObjectUse",
+                "similarity": 0.7026098370552063,
+                "tail": "stay secure"
+            },
+            {
+                "head": "rope",
+                "relation": "ObjectUse",
+                "similarity": 0.7023078501224518,
+                "tail": "tying things"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.287185862660408,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2839663624763489,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.283432275056839,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.28298868238925934,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2788047343492508,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_10",
+        "question_commonsense": [
+            {
+                "head": "round spheres",
+                "relation": "ObjectUse",
+                "similarity": 0.549101859331131,
+                "tail": "paint a globe"
+            },
+            {
+                "head": "round object",
+                "relation": "ObjectUse",
+                "similarity": 0.5446581840515137,
+                "tail": "practice balance"
+            },
+            {
+                "head": "round spheres",
+                "relation": "ObjectUse",
+                "similarity": 0.5444900095462799,
+                "tail": "play marbles with"
+            },
+            {
+                "head": "spherical object",
+                "relation": "ObjectUse",
+                "similarity": 0.5416259169578552,
+                "tail": "Let a hamster play with"
+            },
+            {
+                "head": "projectile ball",
+                "relation": "AtLocation",
+                "similarity": 0.540771484375,
+                "tail": "motion"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "apparatus",
+                "relation": "ObjectUse",
+                "similarity": 0.2915230244398117,
+                "tail": "conduct an experiment"
+            },
+            {
+                "head": "suspension cable",
+                "relation": "ObjectUse",
+                "similarity": 0.29023706912994385,
+                "tail": "suspension"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.2826339453458786,
+                "tail": "take away so the machine doesn't work"
+            },
+            {
+                "head": "apparatus",
+                "relation": "ObjectUse",
+                "similarity": 0.2821480333805084,
+                "tail": "measure results"
+            },
+            {
+                "head": "suspension cable",
+                "relation": "ObjectUse",
+                "similarity": 0.2812948673963547,
+                "tail": "build bridge"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_11",
+        "question_commonsense": [
+            {
+                "head": "light source",
+                "relation": "ObjectUse",
+                "similarity": 0.6998316049575806,
+                "tail": "obtaining light"
+            },
+            {
+                "head": "light source",
+                "relation": "ObjectUse",
+                "similarity": 0.6975824534893036,
+                "tail": "providing light"
+            },
+            {
+                "head": "light source",
+                "relation": "ObjectUse",
+                "similarity": 0.6973962783813477,
+                "tail": "light a room"
+            },
+            {
+                "head": "light source",
+                "relation": "ObjectUse",
+                "similarity": 0.6890681385993958,
+                "tail": "lighting spaces"
+            },
+            {
+                "head": "light source",
+                "relation": "ObjectUse",
+                "similarity": 0.6876329481601715,
+                "tail": "brightening up dark area"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.30241429805755615,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "balance scale",
+                "relation": "ObjectUse",
+                "similarity": 0.299394890666008,
+                "tail": "compare weights of two objects"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29828493297100067,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.2957197576761246,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.29445680975914,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_12",
+        "question_commonsense": [
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.5890063941478729,
+                "tail": "take apart the machine"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.5673379004001617,
+                "tail": "build a robot"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.5662564784288406,
+                "tail": "make the machine work"
+            },
+            {
+                "head": "mechanism",
+                "relation": "ObjectUse",
+                "similarity": 0.5660545080900192,
+                "tail": "take away so the machine doesn't work"
+            },
+            {
+                "head": "laboratory tools",
+                "relation": "ObjectUse",
+                "similarity": 0.5654579401016235,
+                "tail": "teach chemistry class"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.3030640333890915,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.2901975214481354,
+                "tail": "record measurements"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.28856250643730164,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.2882438004016876,
+                "tail": "Person x utilizes measuring instrument"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.28591591119766235,
+                "tail": "Person x makes inferences and/or calculations based upon results"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_13",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.754175066947937,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7459001243114471,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7449008822441101,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.744462788105011,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.744149774312973,
+                "tail": "answer another math problem"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2813470959663391,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.27902457118034363,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.2753669172525406,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xNeed",
+                "similarity": 0.2738105058670044,
+                "tail": "to understand person Y"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.27076615393161774,
+                "tail": "PersonY couldn't find a case study to prove the point to PersonX"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_14",
+        "question_commonsense": [
+            {
+                "head": "precision lighting",
+                "relation": "ObjectUse",
+                "similarity": 0.6857296824455261,
+                "tail": "light up only one part of an object"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6771111488342285,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6663398742675781,
+                "tail": "PersonX did not learn how to do this equation"
+            },
+            {
+                "head": "light source",
+                "relation": "AtLocation",
+                "similarity": 0.6643381714820862,
+                "tail": "lamp"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6643159985542297,
+                "tail": "PersonX failed math 101"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.2872282564640045,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.2829164117574692,
+                "tail": "receives illustration"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2814253866672516,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "airfoil",
+                "relation": "MadeUpOf",
+                "similarity": 0.28063568472862244,
+                "tail": "leading edge"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xAttr",
+                "similarity": 0.2758532613515854,
+                "tail": "illustrative"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX does the math",
+                "relation": "xAttr",
+                "similarity": 0.6439466774463654,
+                "tail": "intelligent"
+            },
+            {
+                "head": "rgb light strips",
+                "relation": "ObjectUse",
+                "similarity": 0.6427115499973297,
+                "tail": "light entire house"
+            },
+            {
+                "head": "reflector light",
+                "relation": "ObjectUse",
+                "similarity": 0.6416331231594086,
+                "tail": "send a light signal"
+            },
+            {
+                "head": "light source",
+                "relation": "AtLocation",
+                "similarity": 0.6416081190109253,
+                "tail": "lamp"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6404648125171661,
+                "tail": "PersonX had a math problem"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "light meter",
+                "relation": "ObjectUse",
+                "similarity": 0.285917729139328,
+                "tail": "measure intensity of illumination"
+            },
+            {
+                "head": "cinematographer",
+                "relation": "HasProperty",
+                "similarity": 0.2775251716375351,
+                "tail": "responsible for motion picture photography"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "oEffect",
+                "similarity": 0.2696784883737564,
+                "tail": "understand the schematics"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xIntent",
+                "similarity": 0.2672088146209717,
+                "tail": "to explain using figures"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.26678286492824554,
+                "tail": "study the diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_16",
+        "question_commonsense": [
+            {
+                "head": "circular route",
+                "relation": "ObjectUse",
+                "similarity": 0.7077494263648987,
+                "tail": "traveling in circle"
+            },
+            {
+                "head": "circular route",
+                "relation": "ObjectUse",
+                "similarity": 0.7071123421192169,
+                "tail": "go in circles"
+            },
+            {
+                "head": "circular route",
+                "relation": "ObjectUse",
+                "similarity": 0.7055543065071106,
+                "tail": "returning to start point"
+            },
+            {
+                "head": "circular route",
+                "relation": "ObjectUse",
+                "similarity": 0.6795415282249451,
+                "tail": "returning to start"
+            },
+            {
+                "head": "circular route",
+                "relation": "AtLocation",
+                "similarity": 0.6748441457748413,
+                "tail": "city"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.2985067367553711,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "protractor",
+                "relation": "ObjectUse",
+                "similarity": 0.2967332750558853,
+                "tail": "measure angles"
+            },
+            {
+                "head": "protractor",
+                "relation": "ObjectUse",
+                "similarity": 0.2945091426372528,
+                "tail": "determine an angle"
+            },
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.28528308868408203,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.282672718167305,
+                "tail": "Person x utilizes measuring instrument"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7863527238368988,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7828733026981354,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7793219983577728,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.778666228055954,
+                "tail": "illustrative"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7776722311973572,
+                "tail": "scientific"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.2946216017007828,
+                "tail": "calculating angles"
+            },
+            {
+                "head": "triangle",
+                "relation": "AtLocation",
+                "similarity": 0.2923108637332916,
+                "tail": "trigonometry"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.29123158752918243,
+                "tail": "measure angles"
+            },
+            {
+                "head": "triangle",
+                "relation": "AtLocation",
+                "similarity": 0.28838083148002625,
+                "tail": "geometry"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.28838083148002625,
+                "tail": "do geometry"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_18",
+        "question_commonsense": [
+            {
+                "head": "incandescent bulb",
+                "relation": "ObjectUse",
+                "similarity": 0.7153224945068359,
+                "tail": "illumination"
+            },
+            {
+                "head": "light bulb",
+                "relation": "ObjectUse",
+                "similarity": 0.703326404094696,
+                "tail": "check if a lamp is working"
+            },
+            {
+                "head": "light bulb",
+                "relation": "ObjectUse",
+                "similarity": 0.7029720842838287,
+                "tail": "illumination"
+            },
+            {
+                "head": "light bulb",
+                "relation": "Causes",
+                "similarity": 0.7029720842838287,
+                "tail": "illumination"
+            },
+            {
+                "head": "light bulbs",
+                "relation": "ObjectUse",
+                "similarity": 0.6991517543792725,
+                "tail": "create light"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "wiring",
+                "relation": "ObjectUse",
+                "similarity": 0.2888990342617035,
+                "tail": "route electricity"
+            },
+            {
+                "head": "programmable logic controller",
+                "relation": "ObjectUse",
+                "similarity": 0.28828495740890503,
+                "tail": "control processes in factory"
+            },
+            {
+                "head": "volume switch",
+                "relation": "ObjectUse",
+                "similarity": 0.28580623865127563,
+                "tail": "control the TV volume"
+            },
+            {
+                "head": "wiring",
+                "relation": "ObjectUse",
+                "similarity": 0.28576308488845825,
+                "tail": "connect to the channels"
+            },
+            {
+                "head": "electric meter",
+                "relation": "ObjectUse",
+                "similarity": 0.2837652415037155,
+                "tail": "know if your electric bill is correct"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_19",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7415095269680023,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7400938868522644,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7343039214611053,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7332668602466583,
+                "tail": "scientific"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.7326009571552277,
+                "tail": "to read the equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2902706563472748,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.28556160628795624,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.28076405823230743,
+                "tail": "a demonstration"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.280139222741127,
+                "tail": "receives illustration"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xNeed",
+                "similarity": 0.27611808478832245,
+                "tail": "to understand person Y"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_20",
+        "question_commonsense": [
+            {
+                "head": "gas chromatograph",
+                "relation": "AtLocation",
+                "similarity": 0.6144273579120636,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "spectrophotometer",
+                "relation": "AtLocation",
+                "similarity": 0.607781171798706,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6048630177974701,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6023142635822296,
+                "tail": "PersonX did not learn how to do this equation"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6021367013454437,
+                "tail": "PersonX failed math 101"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.29361826181411743,
+                "tail": "measure distance"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2869565784931183,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.28178080916404724,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xEffect",
+                "similarity": 0.27731722593307495,
+                "tail": "Does the math"
+            },
+            {
+                "head": "graphs",
+                "relation": "ObjectUse",
+                "similarity": 0.27437925338745117,
+                "tail": "display information"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_21",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.6495424211025238,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6386560797691345,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6261433660984039,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.6193393766880035,
+                "tail": "different atoms"
+            },
+            {
+                "head": "nuclear weapon",
+                "relation": "MadeUpOf",
+                "similarity": 0.6182588934898376,
+                "tail": "atomic warhead"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "MadeUpOf",
+                "similarity": 0.28652423620224,
+                "tail": "curve"
+            },
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.28579962253570557,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2837246209383011,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.28002333641052246,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.27809910476207733,
+                "tail": "clearly present data"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_22",
+        "question_commonsense": [
+            {
+                "head": "hydrogen",
+                "relation": "MadeUpOf",
+                "similarity": 0.684701681137085,
+                "tail": "1 proton and 1 electron"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.6800925731658936,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6696759164333344,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6692728102207184,
+                "tail": "PersonX did not learn how to do this equation"
+            },
+            {
+                "head": "nitrogen molecule",
+                "relation": "AtLocation",
+                "similarity": 0.6662440598011017,
+                "tail": "air"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "diaphragm",
+                "relation": "AtLocation",
+                "similarity": 0.2841840386390686,
+                "tail": "respitory system"
+            },
+            {
+                "head": "gyrocompass",
+                "relation": "MadeUpOf",
+                "similarity": 0.28379566967487335,
+                "tail": "gyroscope"
+            },
+            {
+                "head": "auriscope",
+                "relation": "ObjectUse",
+                "similarity": 0.2702998071908951,
+                "tail": "look at tympanic membrane"
+            },
+            {
+                "head": "auriscope",
+                "relation": "ObjectUse",
+                "similarity": 0.27009083330631256,
+                "tail": "examine an ear"
+            },
+            {
+                "head": "diaphragm",
+                "relation": "ObjectUse",
+                "similarity": 0.2664403021335602,
+                "tail": "birthcontrol sounding wall barrier"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_23",
+        "question_commonsense": [
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6850204765796661,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.6807953715324402,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "xAttr",
+                "similarity": 0.6771580278873444,
+                "tail": "intelligent"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6720623075962067,
+                "tail": "PersonX did not learn how to do this equation"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "xWant",
+                "similarity": 0.669196367263794,
+                "tail": "understand interest rates"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "magnet",
+                "relation": "ObjectUse",
+                "similarity": 0.3071617931127548,
+                "tail": "study magnetic force"
+            },
+            {
+                "head": "magnetic tool",
+                "relation": "ObjectUse",
+                "similarity": 0.29543305933475494,
+                "tail": "attract other magnets"
+            },
+            {
+                "head": "magnetic tool",
+                "relation": "ObjectUse",
+                "similarity": 0.2779383659362793,
+                "tail": "do magic tricks"
+            },
+            {
+                "head": "magnetic tool",
+                "relation": "ObjectUse",
+                "similarity": 0.2764906734228134,
+                "tail": "find metals"
+            },
+            {
+                "head": "magnetic tool",
+                "relation": "ObjectUse",
+                "similarity": 0.2757598012685776,
+                "tail": "place on magnetic rack"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_24",
+        "question_commonsense": [
+            {
+                "head": "science",
+                "relation": "MadeUpOf",
+                "similarity": 0.844563364982605,
+                "tail": "scientific theory"
+            },
+            {
+                "head": "science",
+                "relation": "ObjectUse",
+                "similarity": 0.8441537916660309,
+                "tail": "chemistry"
+            },
+            {
+                "head": "PersonX expresses PersonX's ___ clearly",
+                "relation": "xEffect",
+                "similarity": 0.8428719639778137,
+                "tail": "Becomes understood"
+            },
+            {
+                "head": "science",
+                "relation": "MadeUpOf",
+                "similarity": 0.8406327962875366,
+                "tail": "organic chemistry"
+            },
+            {
+                "head": "PersonX induces PersonY response",
+                "relation": "xEffect",
+                "similarity": 0.838292121887207,
+                "tail": "PersonX gets a response"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.28558750450611115,
+                "tail": "to read the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.28341975808143616,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.2831822782754898,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.2803029865026474,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "asterisk wildcard symbol",
+                "relation": "ObjectUse",
+                "similarity": 0.2798263728618622,
+                "tail": "specify strings of characters"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_25",
+        "question_commonsense": [
+            {
+                "head": "optical equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.7884272634983063,
+                "tail": "test the vision"
+            },
+            {
+                "head": "lense solution",
+                "relation": "ObjectUse",
+                "similarity": 0.7805902063846588,
+                "tail": "clean a lens"
+            },
+            {
+                "head": "optical equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.7744261622428894,
+                "tail": "give precise measurements"
+            },
+            {
+                "head": "optical equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.7660695016384125,
+                "tail": "test someone's eyes"
+            },
+            {
+                "head": "PersonX sees PersonY object",
+                "relation": "HinderedBy",
+                "similarity": 0.7655209898948669,
+                "tail": "PersonY will not object."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.27337731420993805,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2723451107740402,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.2713840454816818,
+                "tail": "a demonstration"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.2700737714767456,
+                "tail": "receives illustration"
+            },
+            {
+                "head": "airfoil",
+                "relation": "MadeUpOf",
+                "similarity": 0.2699013128876686,
+                "tail": "leading edge"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_26",
+        "question_commonsense": [
+            {
+                "head": "duck",
+                "relation": "MadeUpOf",
+                "similarity": 0.7854231595993042,
+                "tail": "duck down"
+            },
+            {
+                "head": "PersonX breaks PersonX's duck",
+                "relation": "xWant",
+                "similarity": 0.7819499671459198,
+                "tail": "to fix the duck"
+            },
+            {
+                "head": "PersonX breaks PersonX's duck",
+                "relation": "HinderedBy",
+                "similarity": 0.7799581587314606,
+                "tail": "PersonX can't get to the duck."
+            },
+            {
+                "head": "PersonX breaks PersonX's duck",
+                "relation": "HinderedBy",
+                "similarity": 0.7792321741580963,
+                "tail": "PersonY let the duck go free."
+            },
+            {
+                "head": "PersonX breaks PersonX's duck",
+                "relation": "HinderedBy",
+                "similarity": 0.7783522307872772,
+                "tail": "PersonY already broke the duck."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2838338315486908,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.28318724036216736,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "graph",
+                "relation": "MadeUpOf",
+                "similarity": 0.2778599411249161,
+                "tail": "curve"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.27220118045806885,
+                "tail": "clearly present data"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.2721506506204605,
+                "tail": "a demonstration"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_27",
+        "question_commonsense": [
+            {
+                "head": "circuit",
+                "relation": "MadeUpOf",
+                "similarity": 0.6643525660037994,
+                "tail": "resistor"
+            },
+            {
+                "head": "circuit",
+                "relation": "MadeUpOf",
+                "similarity": 0.6468738615512848,
+                "tail": "capacitor"
+            },
+            {
+                "head": "power supply",
+                "relation": "ObjectUse",
+                "similarity": 0.644823431968689,
+                "tail": "provide an energy source for electrical appliances"
+            },
+            {
+                "head": "air pressure gauge",
+                "relation": "ObjectUse",
+                "similarity": 0.6363219618797302,
+                "tail": "measure tire pressure"
+            },
+            {
+                "head": "capacitor",
+                "relation": "MadeUpOf",
+                "similarity": 0.6346617341041565,
+                "tail": "2 piece of thin metal seperated by insulator"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28707265853881836,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "chord chart",
+                "relation": "ObjectUse",
+                "similarity": 0.28233644366264343,
+                "tail": "look up guitar chords"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28106021881103516,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.28000977635383606,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2781517803668976,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_28",
+        "question_commonsense": [
+            {
+                "head": "string",
+                "relation": "ObjectUse",
+                "similarity": 0.7297059595584869,
+                "tail": "measure the length or height of things"
+            },
+            {
+                "head": "string",
+                "relation": "ObjectUse",
+                "similarity": 0.7240573465824127,
+                "tail": "bind objects together by tying"
+            },
+            {
+                "head": "string",
+                "relation": "ObjectUse",
+                "similarity": 0.7142569124698639,
+                "tail": "tying items together"
+            },
+            {
+                "head": "string",
+                "relation": "ObjectUse",
+                "similarity": 0.7033568024635315,
+                "tail": "tie around"
+            },
+            {
+                "head": "string",
+                "relation": "ObjectUse",
+                "similarity": 0.7013881802558899,
+                "tail": "pull on the engine"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2773003429174423,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.27632763981819153,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.274875745177269,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX forms PersonY estimate",
+                "relation": "xReact",
+                "similarity": 0.2735614627599716,
+                "tail": "completed the estimation"
+            },
+            {
+                "head": "PersonX forms PersonY estimate",
+                "relation": "xWant",
+                "similarity": 0.27346208691596985,
+                "tail": "to present the estimate"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_29",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7349550426006317,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7272920906543732,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.7260047495365143,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.7236695885658264,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7229392230510712,
+                "tail": "PersonY forgot to bring the equation to class"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "cathode ray tube",
+                "relation": "MadeUpOf",
+                "similarity": 0.2860358655452728,
+                "tail": "electron gun"
+            },
+            {
+                "head": "electrical conductor",
+                "relation": "ObjectUse",
+                "similarity": 0.2832092195749283,
+                "tail": "short current source"
+            },
+            {
+                "head": "proton",
+                "relation": "MadeUpOf",
+                "similarity": 0.27747903764247894,
+                "tail": "quarks"
+            },
+            {
+                "head": "proton",
+                "relation": "MadeUpOf",
+                "similarity": 0.27710314095020294,
+                "tail": "two up quarks and one down quark"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.2754565179347992,
+                "tail": "different atoms"
+            }
+        ]
+    },
+    {
+        "id": "validation_Physics_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX waves at PersonY",
+                "relation": "oWant",
+                "similarity": 0.7613109946250916,
+                "tail": "waves back"
+            },
+            {
+                "head": "PersonX waves at PersonY",
+                "relation": "oWant",
+                "similarity": 0.7553563117980957,
+                "tail": "to wave back at PersonX"
+            },
+            {
+                "head": "PersonX waves to PersonY",
+                "relation": "oWant",
+                "similarity": 0.7553563117980957,
+                "tail": "to wave back"
+            },
+            {
+                "head": "PersonX waves at PersonY",
+                "relation": "xEffect",
+                "similarity": 0.7527039349079132,
+                "tail": "gets a wave back"
+            },
+            {
+                "head": "PersonX waves ___ around",
+                "relation": "xWant",
+                "similarity": 0.7422888278961182,
+                "tail": "go over"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "dna",
+                "relation": "MadeUpOf",
+                "similarity": 0.2864048182964325,
+                "tail": "nucleotide"
+            },
+            {
+                "head": "dna",
+                "relation": "HasProperty",
+                "similarity": 0.28310374915599823,
+                "tail": "short for deoxyribonucleic acid"
+            },
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.2688410133123398,
+                "tail": "different atoms"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.26332733035087585,
+                "tail": "receives illustration"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.2595880255103111,
+                "tail": "a demonstration"
+            }
+        ]
+    }
+]

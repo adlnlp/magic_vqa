@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Psychology_1",
+        "question_commonsense": [
+            {
+                "head": "PersonX evaluates PersonY's performance",
+                "relation": "xWant",
+                "similarity": 0.8555421531200409,
+                "tail": "to estimate the PersonY's performance"
+            },
+            {
+                "head": "PersonX evaluates PersonX's performance",
+                "relation": "xReact",
+                "similarity": 0.8544447124004364,
+                "tail": "critiqued"
+            },
+            {
+                "head": "PersonX evaluates PersonX's performance",
+                "relation": "isAfter",
+                "similarity": 0.8534072935581207,
+                "tail": "PersonX performs"
+            },
+            {
+                "head": "PersonX evaluates PersonX's performance",
+                "relation": "oWant",
+                "similarity": 0.8527794182300568,
+                "tail": "to see what they did"
+            },
+            {
+                "head": "PersonX evaluates PersonX's performance",
+                "relation": "isBefore",
+                "similarity": 0.852591872215271,
+                "tail": "PersonX approves of PersonX's performance"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.27282507717609406,
+                "tail": "measure distance"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2697903662919998,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX assists the ___ in determining",
+                "relation": "xNeed",
+                "similarity": 0.2650153636932373,
+                "tail": "to determine the correct action"
+            },
+            {
+                "head": "PersonX assists the ___ in determining",
+                "relation": "xNeed",
+                "similarity": 0.2649945467710495,
+                "tail": "to assess the situation"
+            },
+            {
+                "head": "PersonX assists the ___ in determining",
+                "relation": "xAttr",
+                "similarity": 0.26351986080408096,
+                "tail": "arbitrative"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX projects PersonY image",
+                "relation": "oWant",
+                "similarity": 0.8077162504196167,
+                "tail": "their images projected as well"
+            },
+            {
+                "head": "PersonX takes part in the study",
+                "relation": "oWant",
+                "similarity": 0.7971603274345398,
+                "tail": "pay PersonX for participating in the study"
+            },
+            {
+                "head": "computer information",
+                "relation": "ObjectUse",
+                "similarity": 0.7938458323478699,
+                "tail": "use to hack a computer"
+            },
+            {
+                "head": "PersonX takes part in the study",
+                "relation": "isAfter",
+                "similarity": 0.7931278049945831,
+                "tail": "PersonX volunteers for a scientific study"
+            },
+            {
+                "head": "PersonX applies the paper to the study",
+                "relation": "isAfter",
+                "similarity": 0.791531890630722,
+                "tail": "PersonX types up a paper"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "commit to memory",
+                "relation": "xNeed",
+                "similarity": 0.2703711837530136,
+                "tail": "concentrate and form visual images"
+            },
+            {
+                "head": "memory card",
+                "relation": "ObjectUse",
+                "similarity": 0.26963838934898376,
+                "tail": "hold data of all pictures"
+            },
+            {
+                "head": "commit to memory",
+                "relation": "HasSubEvent",
+                "similarity": 0.2671348676085472,
+                "tail": "memorization"
+            },
+            {
+                "head": "commit to memory",
+                "relation": "xNeed",
+                "similarity": 0.26667433232069016,
+                "tail": "build mental associations"
+            },
+            {
+                "head": "commit to memory",
+                "relation": "HasSubEvent",
+                "similarity": 0.26121946424245834,
+                "tail": "memorize"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xEffect",
+                "similarity": 0.8909765779972076,
+                "tail": "explains the diagram"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.8786137104034424,
+                "tail": "analyze and explain"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8776939809322357,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.8732353150844574,
+                "tail": "follow trends over time"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xAttr",
+                "similarity": 0.8723823428153992,
+                "tail": "helpful"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX acts as PersonY intermediary",
+                "relation": "HinderedBy",
+                "similarity": 0.27041323482990265,
+                "tail": "PersonX is not qualified to be an intermediary for PersonY."
+            },
+            {
+                "head": "PersonX acts as PersonY intermediary",
+                "relation": "HinderedBy",
+                "similarity": 0.2607609033584595,
+                "tail": "PersonY has chosen someone else as their intermediary."
+            },
+            {
+                "head": "PersonX represents PersonY increase",
+                "relation": "xEffect",
+                "similarity": 0.2573786601424217,
+                "tail": "represents Y"
+            },
+            {
+                "head": "PersonX acts as PersonY intermediary",
+                "relation": "xNeed",
+                "similarity": 0.25662610679864883,
+                "tail": "to be in position to help persony"
+            },
+            {
+                "head": "PersonX represents PersonY increase",
+                "relation": "xEffect",
+                "similarity": 0.2530721500515938,
+                "tail": "increases"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX controls PersonX's emotions",
+                "relation": "xIntent",
+                "similarity": 0.8288529515266418,
+                "tail": "to hide emotions"
+            },
+            {
+                "head": "emotion",
+                "relation": "ObjectUse",
+                "similarity": 0.8287245035171509,
+                "tail": "feeling"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8262667059898376,
+                "tail": "to sell the image"
+            },
+            {
+                "head": "PersonX controls PersonX's emotions",
+                "relation": "xWant",
+                "similarity": 0.8226476907730103,
+                "tail": "to show no emotions"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8201396763324738,
+                "tail": "funny"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX controls PersonX's behavior",
+                "relation": "xWant",
+                "similarity": 0.27710941433906555,
+                "tail": "to change behavior more"
+            },
+            {
+                "head": "PersonX controls PersonX's behavior",
+                "relation": "HinderedBy",
+                "similarity": 0.26596849411726,
+                "tail": "PersonX has an impulsive control disorder."
+            },
+            {
+                "head": "PersonX develops PersonY model",
+                "relation": "HinderedBy",
+                "similarity": 0.26569756865501404,
+                "tail": "PersonY won't share the model."
+            },
+            {
+                "head": "PersonX controls PersonX's behavior",
+                "relation": "xWant",
+                "similarity": 0.2634126991033554,
+                "tail": "to exercise self-control"
+            },
+            {
+                "head": "PersonX develops PersonY model",
+                "relation": "xNeed",
+                "similarity": 0.2608647644519806,
+                "tail": "create a framework"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX looks like someone",
+                "relation": "xWant",
+                "similarity": 0.8184753358364105,
+                "tail": "to keep looking like them"
+            },
+            {
+                "head": "PersonX looks like someone",
+                "relation": "xReact",
+                "similarity": 0.8183951675891876,
+                "tail": "interesting"
+            },
+            {
+                "head": "PersonX does n't know what was wrong",
+                "relation": "oWant",
+                "similarity": 0.8172990083694458,
+                "tail": "to tell them what they think about it"
+            },
+            {
+                "head": "PersonX does n't know what was wrong",
+                "relation": "xNeed",
+                "similarity": 0.815626323223114,
+                "tail": "to not be able to put it into context"
+            },
+            {
+                "head": "PersonX does n't know what was wrong",
+                "relation": "xNeed",
+                "similarity": 0.8151005208492279,
+                "tail": "to of seen a problem"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.2908378690481186,
+                "tail": "temporal lobe"
+            },
+            {
+                "head": "brain",
+                "relation": "HasProperty",
+                "similarity": 0.2907407581806183,
+                "tail": "connected to brain stem"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.2878335118293762,
+                "tail": "amygdala"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.28714579343795776,
+                "tail": "frontal lobe"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.2867460697889328,
+                "tail": "hindbrain"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7364430725574493,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.732276439666748,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7224489450454712,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7213799357414246,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7190567553043365,
+                "tail": "scientific"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.28049236536026,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX steps on the scale",
+                "relation": "xIntent",
+                "similarity": 0.27677786350250244,
+                "tail": "to break the scale"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27535682916641235,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2748653441667557,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX steps on the scale",
+                "relation": "isBefore",
+                "similarity": 0.27251213788986206,
+                "tail": "PersonX reads the scale"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_7",
+        "question_commonsense": [
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.7890709638595581,
+                "tail": "neurons"
+            },
+            {
+                "head": "brain",
+                "relation": "HasProperty",
+                "similarity": 0.7836829721927643,
+                "tail": "tens of billions of neurons"
+            },
+            {
+                "head": "PersonX plays PersonY ___ in the pathogenesis",
+                "relation": "xWant",
+                "similarity": 0.7754234969615936,
+                "tail": "to find out what Pathogenesis is"
+            },
+            {
+                "head": "brain",
+                "relation": "HasProperty",
+                "similarity": 0.7713514566421509,
+                "tail": "connected to brain stem"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.7680346667766571,
+                "tail": "brain cell"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "membrane",
+                "relation": "ObjectUse",
+                "similarity": 0.2710266411304474,
+                "tail": "surround delicate body organs"
+            },
+            {
+                "head": "membrane",
+                "relation": "AtLocation",
+                "similarity": 0.25108617544174194,
+                "tail": "cell"
+            },
+            {
+                "head": "membrane",
+                "relation": "ObjectUse",
+                "similarity": 0.2503098025918007,
+                "tail": "create osmosis"
+            },
+            {
+                "head": "hippocampus",
+                "relation": "HasProperty",
+                "similarity": 0.24868212640285492,
+                "tail": "essential for forming new memories"
+            },
+            {
+                "head": "streptokinase",
+                "relation": "ObjectUse",
+                "similarity": 0.24842683225870132,
+                "tail": "break up blood clots"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.88544762134552,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xWant",
+                "similarity": 0.8836100697517395,
+                "tail": "to synthesize data"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xAttr",
+                "similarity": 0.883188009262085,
+                "tail": "numerical"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xNeed",
+                "similarity": 0.8828540444374084,
+                "tail": "to access the data"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8802560567855835,
+                "tail": "to give the image to PersonY"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "data sheets",
+                "relation": "ObjectUse",
+                "similarity": 0.2792760878801346,
+                "tail": "organize data"
+            },
+            {
+                "head": "data sheets",
+                "relation": "ObjectUse",
+                "similarity": 0.2764826864004135,
+                "tail": "analyze data"
+            },
+            {
+                "head": "data sheets",
+                "relation": "ObjectUse",
+                "similarity": 0.271178737282753,
+                "tail": "see trends in the data"
+            },
+            {
+                "head": "PersonX waits tables",
+                "relation": "xWant",
+                "similarity": 0.26951874792575836,
+                "tail": "to count their tips"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.26314153522253036,
+                "tail": "to be in the jury"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_9",
+        "question_commonsense": [
+            {
+                "head": "article in newspaper",
+                "relation": "AtLocation",
+                "similarity": 0.8573097288608551,
+                "tail": "certain section of newspaper"
+            },
+            {
+                "head": "article in newspaper",
+                "relation": "ObjectUse",
+                "similarity": 0.8487052619457245,
+                "tail": "spreading news"
+            },
+            {
+                "head": "article in newspaper",
+                "relation": "ObjectUse",
+                "similarity": 0.8484760522842407,
+                "tail": "comment"
+            },
+            {
+                "head": "article in newspaper",
+                "relation": "ObjectUse",
+                "similarity": 0.842396080493927,
+                "tail": "read"
+            },
+            {
+                "head": "article in newspaper",
+                "relation": "ObjectUse",
+                "similarity": 0.8417324423789978,
+                "tail": "information"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "newspaper ads",
+                "relation": "ObjectUse",
+                "similarity": 0.2884892374277115,
+                "tail": "look at classifieds"
+            },
+            {
+                "head": "classified ads",
+                "relation": "ObjectUse",
+                "similarity": 0.28791484236717224,
+                "tail": "advertise a job opening at your company"
+            },
+            {
+                "head": "article in newspaper",
+                "relation": "AtLocation",
+                "similarity": 0.28449931740760803,
+                "tail": "classifieds"
+            },
+            {
+                "head": "classified ads",
+                "relation": "ObjectUse",
+                "similarity": 0.28059837222099304,
+                "tail": "advertise a product"
+            },
+            {
+                "head": "classified ad",
+                "relation": "ObjectUse",
+                "similarity": 0.2801169604063034,
+                "tail": "Do social research on the types of things people sell"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_10",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7930222153663635,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7905652821063995,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7898642122745514,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.785257488489151,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX uses PersonY analogy",
+                "relation": "xWant",
+                "similarity": 0.7850631475448608,
+                "tail": "to explain the analogy"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.30212150514125824,
+                "tail": "temporal lobe"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.29939037561416626,
+                "tail": "frontal lobe"
+            },
+            {
+                "head": "brain",
+                "relation": "HasProperty",
+                "similarity": 0.2975243330001831,
+                "tail": "connected to brain stem"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.2961967885494232,
+                "tail": "hindbrain"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.29484064877033234,
+                "tail": "amygdala"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX sets up computer systems",
+                "relation": "oWant",
+                "similarity": 0.7329031527042389,
+                "tail": "to work on the computer systems"
+            },
+            {
+                "head": "cellular connection",
+                "relation": "ObjectUse",
+                "similarity": 0.7282041311264038,
+                "tail": "hack and listen to the conversation"
+            },
+            {
+                "head": "PersonX sets up computer systems",
+                "relation": "xNeed",
+                "similarity": 0.7272686660289764,
+                "tail": "to research information"
+            },
+            {
+                "head": "PersonX sets up computer systems",
+                "relation": "HinderedBy",
+                "similarity": 0.726714700460434,
+                "tail": "PersonX's mom never explained computers to him."
+            },
+            {
+                "head": "PersonX sets up computer systems",
+                "relation": "xWant",
+                "similarity": 0.7263476252555847,
+                "tail": "to check that the computers work"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX develops PersonY model",
+                "relation": "HinderedBy",
+                "similarity": 0.27820298075675964,
+                "tail": "PersonY won't share the model."
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2772644907236099,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27593715488910675,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX develops PersonY model",
+                "relation": "xNeed",
+                "similarity": 0.2719956636428833,
+                "tail": "create a framework"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27191875874996185,
+                "tail": "draw a diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_12",
+        "question_commonsense": [
+            {
+                "head": "PersonX learns the language",
+                "relation": "xAttr",
+                "similarity": 0.7419090867042542,
+                "tail": "bilingual"
+            },
+            {
+                "head": "PersonX learns the language",
+                "relation": "xEffect",
+                "similarity": 0.7368959188461304,
+                "tail": "can understand the language"
+            },
+            {
+                "head": "PersonX learns PersonY's language",
+                "relation": "xEffect",
+                "similarity": 0.7331127226352692,
+                "tail": "asked questions in that language"
+            },
+            {
+                "head": "PersonX learns the language",
+                "relation": "xNeed",
+                "similarity": 0.7326826453208923,
+                "tail": "To study the language"
+            },
+            {
+                "head": "PersonX learns the language",
+                "relation": "oEffect",
+                "similarity": 0.732569694519043,
+                "tail": "get taught the language"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX improves PersonX's chances",
+                "relation": "oEffect",
+                "similarity": 0.2682521492242813,
+                "tail": "they improve their own chances"
+            },
+            {
+                "head": "PersonX returns to PersonX's position",
+                "relation": "isBefore",
+                "similarity": 0.24842675030231476,
+                "tail": "PersonX notices a lot of changes in just three months"
+            },
+            {
+                "head": "PersonX returns to PersonX's position",
+                "relation": "isBefore",
+                "similarity": 0.24762163311243057,
+                "tail": "PersonX finishes their exercise routine"
+            },
+            {
+                "head": "PersonX improves PersonX's chances",
+                "relation": "xWant",
+                "similarity": 0.24722040444612503,
+                "tail": "to appear fo test"
+            },
+            {
+                "head": "PersonX returns to PersonX's position",
+                "relation": "xAttr",
+                "similarity": 0.24601594358682632,
+                "tail": "deliberate"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_13",
+        "question_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.7774950861930847,
+                "tail": "different atoms"
+            },
+            {
+                "head": "PersonX behaves like a PersonY",
+                "relation": "xWant",
+                "similarity": 0.7770889401435852,
+                "tail": "to continue acting like PersonY"
+            },
+            {
+                "head": "PersonX applies ___ to situations",
+                "relation": "xIntent",
+                "similarity": 0.7744922339916229,
+                "tail": "to explain"
+            },
+            {
+                "head": "PersonX applies ___ to situations",
+                "relation": "xAttr",
+                "similarity": 0.7691304683685303,
+                "tail": "rational"
+            },
+            {
+                "head": "PersonX behaves like a PersonY",
+                "relation": "xAttr",
+                "similarity": 0.7689141631126404,
+                "tail": "different"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "membrane",
+                "relation": "ObjectUse",
+                "similarity": 0.28123939037323,
+                "tail": "surround delicate body organs"
+            },
+            {
+                "head": "metranome",
+                "relation": "ObjectUse",
+                "similarity": 0.2722655236721039,
+                "tail": "coordinate to a meditative breathing rate"
+            },
+            {
+                "head": "neocortex",
+                "relation": "AtLocation",
+                "similarity": 0.2689705640077591,
+                "tail": "human brain"
+            },
+            {
+                "head": "membrane",
+                "relation": "AtLocation",
+                "similarity": 0.26311711221933365,
+                "tail": "cell"
+            },
+            {
+                "head": "membrane",
+                "relation": "ObjectUse",
+                "similarity": 0.26285727322101593,
+                "tail": "create osmosis"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX develops PersonY system",
+                "relation": "xEffect",
+                "similarity": 0.8164297938346863,
+                "tail": "to develops system"
+            },
+            {
+                "head": "artificial intelligence",
+                "relation": "ObjectUse",
+                "similarity": 0.8156499564647675,
+                "tail": "understanding human mind and brains"
+            },
+            {
+                "head": "PersonX develops PersonY system",
+                "relation": "xWant",
+                "similarity": 0.8136740028858185,
+                "tail": "to implement the system"
+            },
+            {
+                "head": "PersonX develops PersonY system",
+                "relation": "oEffect",
+                "similarity": 0.8120095133781433,
+                "tail": "Uses system"
+            },
+            {
+                "head": "PersonX uses PersonY technique",
+                "relation": "isBefore",
+                "similarity": 0.8090166747570038,
+                "tail": "PersonX perfects PersonY's technique"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "linguist",
+                "relation": "CapableOf",
+                "similarity": 0.2674022614955902,
+                "tail": "speak many languages"
+            },
+            {
+                "head": "PersonX learns PersonY's language",
+                "relation": "xAttr",
+                "similarity": 0.2659824639558792,
+                "tail": "communicative"
+            },
+            {
+                "head": "language",
+                "relation": "MadeUpOf",
+                "similarity": 0.2654155492782593,
+                "tail": "vocabulary"
+            },
+            {
+                "head": "PersonX deciphers a word 's ___ within context",
+                "relation": "xWant",
+                "similarity": 0.26254911720752716,
+                "tail": "reads it aloud to see how it sounds"
+            },
+            {
+                "head": "language books",
+                "relation": "ObjectUse",
+                "similarity": 0.26201994717121124,
+                "tail": "learn the language"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives another example",
+                "relation": "xAttr",
+                "similarity": 0.9017610549926758,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xAttr",
+                "similarity": 0.9017610549926758,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "isBefore",
+                "similarity": 0.9014306664466858,
+                "tail": "PersonX explains it slowly"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.901079535484314,
+                "tail": "PersonX offers one example"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "HinderedBy",
+                "similarity": 0.8986315131187439,
+                "tail": "PersonX doesn't have anymore information to give."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX affects children 's ___",
+                "relation": "xNeed",
+                "similarity": 0.28580982983112335,
+                "tail": "to be in a position to affect young minds"
+            },
+            {
+                "head": "PersonX affects children 's ___",
+                "relation": "oWant",
+                "similarity": 0.2576359733939171,
+                "tail": "to make sure their children are safe"
+            },
+            {
+                "head": "PersonX affects children 's ___",
+                "relation": "xEffect",
+                "similarity": 0.25566552579402924,
+                "tail": "PersonX finances their children's education"
+            },
+            {
+                "head": "PersonX affects children 's ___",
+                "relation": "xWant",
+                "similarity": 0.25447845458984375,
+                "tail": "to teach the children"
+            },
+            {
+                "head": "PersonX affects children 's ___",
+                "relation": "xNeed",
+                "similarity": 0.25397223979234695,
+                "tail": "to know how to behave with children"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_16",
+        "question_commonsense": [
+            {
+                "head": "artificial intelligence",
+                "relation": "ObjectUse",
+                "similarity": 0.7232771217823029,
+                "tail": "understanding human mind and brains"
+            },
+            {
+                "head": "optical equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.7198196947574615,
+                "tail": "do a vision exam"
+            },
+            {
+                "head": "optical equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.7192938923835754,
+                "tail": "test the vision"
+            },
+            {
+                "head": "optical prescription",
+                "relation": "ObjectUse",
+                "similarity": 0.7079557776451111,
+                "tail": "define the optical measurements"
+            },
+            {
+                "head": "optical equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.7073485851287842,
+                "tail": "test someone's eyes"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "one type of catheter",
+                "relation": "ObjectUse",
+                "similarity": 0.26428064703941345,
+                "tail": "effect bladder drainage"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xNeed",
+                "similarity": 0.2507995739579201,
+                "tail": "evaluate patient's symptoms"
+            },
+            {
+                "head": "PersonX bases upon data",
+                "relation": "xNeed",
+                "similarity": 0.2506231516599655,
+                "tail": "to know how to read data"
+            },
+            {
+                "head": "PersonX bases upon data",
+                "relation": "xNeed",
+                "similarity": 0.24820824712514877,
+                "tail": "to look at data"
+            },
+            {
+                "head": "PersonX predicts ___ in patients",
+                "relation": "xEffect",
+                "similarity": 0.2472619265317917,
+                "tail": "is reading diagnosis reports of patients"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.8193518817424774,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.8153850734233856,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.8112056851387024,
+                "tail": "scientific"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.8106510937213898,
+                "tail": "illustrative"
+            },
+            {
+                "head": "graphs",
+                "relation": "ObjectUse",
+                "similarity": 0.810261607170105,
+                "tail": "present gains and losses"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "arousal",
+                "relation": "Causes",
+                "similarity": 0.2988852858543396,
+                "tail": "ejaculation"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xAttr",
+                "similarity": 0.2867521494626999,
+                "tail": "argumentative"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.28303147852420807,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.28079453110694885,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "airfoil",
+                "relation": "MadeUpOf",
+                "similarity": 0.2776417210698128,
+                "tail": "trailing edge"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_18",
+        "question_commonsense": [
+            {
+                "head": "prison",
+                "relation": "ObjectUse",
+                "similarity": 0.7947324812412262,
+                "tail": "rehabilitation of inmates"
+            },
+            {
+                "head": "prison",
+                "relation": "ObjectUse",
+                "similarity": 0.7907907068729401,
+                "tail": "holding people convicted of crimes"
+            },
+            {
+                "head": "PersonX takes drugs at school",
+                "relation": "isAfter",
+                "similarity": 0.7890101671218872,
+                "tail": "PersonX is addicted to marijuana"
+            },
+            {
+                "head": "prison",
+                "relation": "ObjectUse",
+                "similarity": 0.7883889675140381,
+                "tail": "reeducation of inmates"
+            },
+            {
+                "head": "prison",
+                "relation": "ObjectUse",
+                "similarity": 0.7801486849784851,
+                "tail": "keeping criminals apart from law abiding citizens"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX releases PersonY's hold",
+                "relation": "HinderedBy",
+                "similarity": 0.2751292735338211,
+                "tail": "PersonY's hold isn't ready to be released."
+            },
+            {
+                "head": "release papers",
+                "relation": "ObjectUse",
+                "similarity": 0.2690153643488884,
+                "tail": "finally jump ship after being at sea for months on end."
+            },
+            {
+                "head": "PersonX releases PersonY's hold",
+                "relation": "HinderedBy",
+                "similarity": 0.2656082510948181,
+                "tail": "It is not safe to release the hold as both will fall."
+            },
+            {
+                "head": "release papers",
+                "relation": "ObjectUse",
+                "similarity": 0.2643497660756111,
+                "tail": "show that one has been allowed to leave"
+            },
+            {
+                "head": "PersonX releases PersonY",
+                "relation": "oEffect",
+                "similarity": 0.26235323399305344,
+                "tail": "Y is freed"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_19",
+        "question_commonsense": [
+            {
+                "head": "more music scores",
+                "relation": "ObjectUse",
+                "similarity": 0.8042095899581909,
+                "tail": "plagiarize someone else's music scores"
+            },
+            {
+                "head": "music sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.80206298828125,
+                "tail": "learn the correct notes"
+            },
+            {
+                "head": "more music scores",
+                "relation": "ObjectUse",
+                "similarity": 0.8009539246559143,
+                "tail": "keep track of learning music"
+            },
+            {
+                "head": "more music scores",
+                "relation": "ObjectUse",
+                "similarity": 0.7973452210426331,
+                "tail": "have a variety of songs"
+            },
+            {
+                "head": "music paper",
+                "relation": "ObjectUse",
+                "similarity": 0.7946574091911316,
+                "tail": "read the songs"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "more music scores",
+                "relation": "ObjectUse",
+                "similarity": 0.277206227183342,
+                "tail": "plagiarize someone else's music scores"
+            },
+            {
+                "head": "PersonX justifies the ___ to men",
+                "relation": "xWant",
+                "similarity": 0.27093279361724854,
+                "tail": "to persuade the men"
+            },
+            {
+                "head": "PersonX justifies the ___ to men",
+                "relation": "xNeed",
+                "similarity": 0.2682029902935028,
+                "tail": "read about sexism"
+            },
+            {
+                "head": "gender",
+                "relation": "HasProperty",
+                "similarity": 0.26327086985111237,
+                "tail": "male or female"
+            },
+            {
+                "head": "PersonX justifies the ___ to men",
+                "relation": "xNeed",
+                "similarity": 0.2614946663379669,
+                "tail": "to round up the men"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX tells PersonY was pregnant",
+                "relation": "xNeed",
+                "similarity": 0.8288181126117706,
+                "tail": "to see that PersonY is pregnant"
+            },
+            {
+                "head": "PersonX tells PersonY was pregnant",
+                "relation": "xNeed",
+                "similarity": 0.809939056634903,
+                "tail": "to find out she is pregnant"
+            },
+            {
+                "head": "PersonX tells PersonY was pregnant",
+                "relation": "xReact",
+                "similarity": 0.8088510930538177,
+                "tail": "informative"
+            },
+            {
+                "head": "pregnant woman",
+                "relation": "CapableOf",
+                "similarity": 0.8075947761535645,
+                "tail": "expect baby"
+            },
+            {
+                "head": "PersonX tells ___ that PersonY was pregnant",
+                "relation": "xEffect",
+                "similarity": 0.8069841861724854,
+                "tail": "is asked for proof"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.280636265873909,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "abortion",
+                "relation": "ObjectUse",
+                "similarity": 0.2805747538805008,
+                "tail": "terminating pregnancy"
+            },
+            {
+                "head": "prenatal vitamins",
+                "relation": "ObjectUse",
+                "similarity": 0.27857500314712524,
+                "tail": "have a healthy pregnancy"
+            },
+            {
+                "head": "PersonX conceives a child",
+                "relation": "xWant",
+                "similarity": 0.2774687707424164,
+                "tail": "to give birth to the child"
+            },
+            {
+                "head": "PersonX conceives a child",
+                "relation": "HinderedBy",
+                "similarity": 0.27525146305561066,
+                "tail": "PersonX's doctor told him he is infertile."
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_21",
+        "question_commonsense": [
+            {
+                "head": "schizophrenia",
+                "relation": "Causes",
+                "similarity": 0.6705701649188995,
+                "tail": "stigma"
+            },
+            {
+                "head": "PersonX diagnoses PersonY",
+                "relation": "xEffect",
+                "similarity": 0.6619047820568085,
+                "tail": "explains the diagnosis"
+            },
+            {
+                "head": "psychologist",
+                "relation": "CapableOf",
+                "similarity": 0.6573194265365601,
+                "tail": "condition subject"
+            },
+            {
+                "head": "psychologist",
+                "relation": "CapableOf",
+                "similarity": 0.6571231186389923,
+                "tail": "counselling"
+            },
+            {
+                "head": "organizational psychologist",
+                "relation": "CapableOf",
+                "similarity": 0.6480827927589417,
+                "tail": "conduct job analysis"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX diagnoses PersonY",
+                "relation": "xEffect",
+                "similarity": 0.264409139752388,
+                "tail": "explains the diagnosis"
+            },
+            {
+                "head": "PersonX diagnoses PersonY",
+                "relation": "xWant",
+                "similarity": 0.2501588389277458,
+                "tail": "prescribe some medicines"
+            },
+            {
+                "head": "PersonX diagnoses PersonY",
+                "relation": "xNeed",
+                "similarity": 0.2498290091753006,
+                "tail": "look at the chart"
+            },
+            {
+                "head": "schizophrenia",
+                "relation": "Causes",
+                "similarity": 0.24848692119121552,
+                "tail": "stigma"
+            },
+            {
+                "head": "PersonX diagnoses PersonY",
+                "relation": "xNeed",
+                "similarity": 0.2484242394566536,
+                "tail": "to see Person Y blood report"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX is diagnosed with cancer",
+                "relation": "xWant",
+                "similarity": 0.7948501110076904,
+                "tail": "to have a will"
+            },
+            {
+                "head": "PersonX tells PersonY that PersonZ had cancer",
+                "relation": "xAttr",
+                "similarity": 0.79294753074646,
+                "tail": "sad"
+            },
+            {
+                "head": "PersonX tells PersonY that PersonZ had cancer",
+                "relation": "xReact",
+                "similarity": 0.79294753074646,
+                "tail": "sad"
+            },
+            {
+                "head": "PersonX is diagnosed with cancer",
+                "relation": "xAttr",
+                "similarity": 0.7891617119312286,
+                "tail": "ill"
+            },
+            {
+                "head": "PersonX is diagnosed with cancer",
+                "relation": "oReact",
+                "similarity": 0.7890367209911346,
+                "tail": "sad"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.2678161561489105,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.2579157203435898,
+                "tail": "determine the nutritional content of a food"
+            },
+            {
+                "head": "PersonX introduces ___ into the findings",
+                "relation": "xWant",
+                "similarity": 0.25593171268701553,
+                "tail": "to publish new results"
+            },
+            {
+                "head": "prescribed medications",
+                "relation": "ObjectUse",
+                "similarity": 0.2507968544960022,
+                "tail": "help with ailments"
+            },
+            {
+                "head": "antibacterial oitment",
+                "relation": "ObjectUse",
+                "similarity": 0.24874461442232132,
+                "tail": "prevent the need for antibiotics."
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_23",
+        "question_commonsense": [
+            {
+                "head": "artificial intelligence",
+                "relation": "ObjectUse",
+                "similarity": 0.8259454071521759,
+                "tail": "understanding human mind and brains"
+            },
+            {
+                "head": "psychologist",
+                "relation": "CapableOf",
+                "similarity": 0.802443653345108,
+                "tail": "condition subject"
+            },
+            {
+                "head": "psychologist",
+                "relation": "CapableOf",
+                "similarity": 0.7936826944351196,
+                "tail": "counselling"
+            },
+            {
+                "head": "PersonX can it",
+                "relation": "xAttr",
+                "similarity": 0.79026859998703,
+                "tail": "Nil"
+            },
+            {
+                "head": "PersonX can it",
+                "relation": "xAttr",
+                "similarity": 0.79026859998703,
+                "tail": "Nil"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "hockey stick",
+                "relation": "ObjectUse",
+                "similarity": 0.25058574974536896,
+                "tail": "play hockey"
+            },
+            {
+                "head": "PersonX assists the ___ in determining",
+                "relation": "xNeed",
+                "similarity": 0.24649231135845184,
+                "tail": "to determine the correct action"
+            },
+            {
+                "head": "hockey stick",
+                "relation": "ObjectUse",
+                "similarity": 0.24468649178743362,
+                "tail": "play a sports game"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xWant",
+                "similarity": 0.24164549261331558,
+                "tail": "to extract work from him"
+            },
+            {
+                "head": "hockey stick",
+                "relation": "AtLocation",
+                "similarity": 0.24143853783607483,
+                "tail": "hockey game"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_24",
+        "question_commonsense": [
+            {
+                "head": "brain",
+                "relation": "HasProperty",
+                "similarity": 0.7372504770755768,
+                "tail": "connected to brain stem"
+            },
+            {
+                "head": "PersonX goes blue",
+                "relation": "HinderedBy",
+                "similarity": 0.7342932522296906,
+                "tail": "The color blue is against the law."
+            },
+            {
+                "head": "PersonX goes blue",
+                "relation": "HinderedBy",
+                "similarity": 0.7281106114387512,
+                "tail": "PersonX has run out of blue things."
+            },
+            {
+                "head": "PersonX turns blue",
+                "relation": "HinderedBy",
+                "similarity": 0.7246013581752777,
+                "tail": "PersonX is allergic to blue paint."
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.721704751253128,
+                "tail": "amygdala"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "neocortex",
+                "relation": "AtLocation",
+                "similarity": 0.2901937663555145,
+                "tail": "human brain"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.2888896316289902,
+                "tail": "temporal lobe"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.28876976668834686,
+                "tail": "amygdala"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.2884707599878311,
+                "tail": "cerebellum"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.2882648855447769,
+                "tail": "frontal lobe"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_25",
+        "question_commonsense": [
+            {
+                "head": "artificial intelligence",
+                "relation": "ObjectUse",
+                "similarity": 0.7860940098762512,
+                "tail": "understanding human mind and brains"
+            },
+            {
+                "head": "data",
+                "relation": "AtLocation",
+                "similarity": 0.7576412558555603,
+                "tail": "storage media"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xEffect",
+                "similarity": 0.7538529634475708,
+                "tail": "too learns computer programing"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xWant",
+                "similarity": 0.7506636381149292,
+                "tail": "to apply for jobs in computer programming"
+            },
+            {
+                "head": "psychologist",
+                "relation": "CapableOf",
+                "similarity": 0.7499047815799713,
+                "tail": "condition subject"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX makes PersonY assessment",
+                "relation": "xNeed",
+                "similarity": 0.27914246916770935,
+                "tail": "to analyze PersonY's class participation"
+            },
+            {
+                "head": "PersonX makes PersonY assessment",
+                "relation": "xNeed",
+                "similarity": 0.2741706818342209,
+                "tail": "to evaluate PersonY's test results"
+            },
+            {
+                "head": "PersonX makes PersonY assessment",
+                "relation": "xNeed",
+                "similarity": 0.2739575654268265,
+                "tail": "to review PersonY's homework"
+            },
+            {
+                "head": "performance review",
+                "relation": "ObjectUse",
+                "similarity": 0.27358298003673553,
+                "tail": "evaluate workers"
+            },
+            {
+                "head": "performance review",
+                "relation": "ObjectUse",
+                "similarity": 0.27268703281879425,
+                "tail": "use to your advantage for a raise"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_26",
+        "question_commonsense": [
+            {
+                "head": "PersonX is trying to sleep",
+                "relation": "xWant",
+                "similarity": 0.715142697095871,
+                "tail": "have a sleep"
+            },
+            {
+                "head": "PersonX is trying to sleep",
+                "relation": "xNeed",
+                "similarity": 0.7061220705509186,
+                "tail": "bed"
+            },
+            {
+                "head": "PersonX is trying to sleep",
+                "relation": "xAttr",
+                "similarity": 0.7056711316108704,
+                "tail": "sleep-deprived"
+            },
+            {
+                "head": "PersonX is trying to sleep",
+                "relation": "xReact",
+                "similarity": 0.7049287855625153,
+                "tail": "sleepy"
+            },
+            {
+                "head": "PersonX is trying to sleep",
+                "relation": "HinderedBy",
+                "similarity": 0.7039842009544373,
+                "tail": "PersonX slept all day and now it's night."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX gets enough sleep",
+                "relation": "HinderedBy",
+                "similarity": 0.26608651876449585,
+                "tail": "PersonX has insomnia."
+            },
+            {
+                "head": "PersonX gets enough sleep",
+                "relation": "xIntent",
+                "similarity": 0.2646714597940445,
+                "tail": "to be well-rested"
+            },
+            {
+                "head": "PersonX gets enough sleep",
+                "relation": "xIntent",
+                "similarity": 0.2587202563881874,
+                "tail": "well rested"
+            },
+            {
+                "head": "PersonX gets enough sleep",
+                "relation": "xNeed",
+                "similarity": 0.2587202563881874,
+                "tail": "to be well rested"
+            },
+            {
+                "head": "PersonX gets enough sleep",
+                "relation": "HinderedBy",
+                "similarity": 0.2582237645983696,
+                "tail": "Person X has terrible night sweats"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_27",
+        "question_commonsense": [
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.8006253242492676,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.7909708619117737,
+                "tail": "linear algebra"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.7859966456890106,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "math",
+                "relation": "HasProperty",
+                "similarity": 0.7850860059261322,
+                "tail": "difficult for students"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7813320159912109,
+                "tail": "PersonX failed math 101"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "gender",
+                "relation": "HasProperty",
+                "similarity": 0.2812442183494568,
+                "tail": "male or female"
+            },
+            {
+                "head": "PersonX classifies ___ into groups",
+                "relation": "xNeed",
+                "similarity": 0.26907487213611603,
+                "tail": "Gather data on the group"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2687948942184448,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "PersonX distributes the ___ evenly",
+                "relation": "xNeed",
+                "similarity": 0.2668813467025757,
+                "tail": "to figure how many cells there are"
+            },
+            {
+                "head": "PersonX classifies ___ into groups",
+                "relation": "xAttr",
+                "similarity": 0.26146380603313446,
+                "tail": "scientific"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.846715658903122,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.8421277403831482,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.8404004871845245,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.8294810056686401,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.8261994421482086,
+                "tail": "illustrative"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2789585441350937,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.27106785774230957,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.27001823484897614,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2661905139684677,
+                "tail": "to understand what PersonX is showing them"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.26468855142593384,
+                "tail": "procure a book with diagrams"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_29",
+        "question_commonsense": [
+            {
+                "head": "artificial intelligence",
+                "relation": "ObjectUse",
+                "similarity": 0.7860940098762512,
+                "tail": "understanding human mind and brains"
+            },
+            {
+                "head": "data",
+                "relation": "AtLocation",
+                "similarity": 0.7576412558555603,
+                "tail": "storage media"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xEffect",
+                "similarity": 0.7538529634475708,
+                "tail": "too learns computer programing"
+            },
+            {
+                "head": "PersonX learns computer programming",
+                "relation": "xWant",
+                "similarity": 0.7506636381149292,
+                "tail": "to apply for jobs in computer programming"
+            },
+            {
+                "head": "psychologist",
+                "relation": "CapableOf",
+                "similarity": 0.7499047815799713,
+                "tail": "condition subject"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX makes PersonY assessment",
+                "relation": "xNeed",
+                "similarity": 0.27914246916770935,
+                "tail": "to analyze PersonY's class participation"
+            },
+            {
+                "head": "PersonX makes PersonY assessment",
+                "relation": "xNeed",
+                "similarity": 0.2741706818342209,
+                "tail": "to evaluate PersonY's test results"
+            },
+            {
+                "head": "PersonX makes PersonY assessment",
+                "relation": "xNeed",
+                "similarity": 0.2739575654268265,
+                "tail": "to review PersonY's homework"
+            },
+            {
+                "head": "performance review",
+                "relation": "ObjectUse",
+                "similarity": 0.27358298003673553,
+                "tail": "evaluate workers"
+            },
+            {
+                "head": "performance review",
+                "relation": "ObjectUse",
+                "similarity": 0.27268703281879425,
+                "tail": "use to your advantage for a raise"
+            }
+        ]
+    },
+    {
+        "id": "validation_Psychology_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7698039710521698,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.764904260635376,
+                "tail": "scientific"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.764761358499527,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7642573416233063,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7640444934368134,
+                "tail": "draw a diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "arousal",
+                "relation": "Causes",
+                "similarity": 0.2918621450662613,
+                "tail": "ejaculation"
+            },
+            {
+                "head": "graph",
+                "relation": "MadeUpOf",
+                "similarity": 0.28889451920986176,
+                "tail": "curve"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xAttr",
+                "similarity": 0.28160400688648224,
+                "tail": "argumentative"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.27773918211460114,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2776160091161728,
+                "tail": "determine profit margin"
+            }
+        ]
+    }
+]

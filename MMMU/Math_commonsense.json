@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Math_1",
+        "question_commonsense": [
+            {
+                "head": "PersonX learns programming",
+                "relation": "xEffect",
+                "similarity": 0.8037175834178925,
+                "tail": "learns functions"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7906366884708405,
+                "tail": "illustrative"
+            },
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.789596438407898,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX learns programming",
+                "relation": "xNeed",
+                "similarity": 0.7834322154521942,
+                "tail": "to be interested in programming"
+            },
+            {
+                "head": "PersonX learns programming",
+                "relation": "oWant",
+                "similarity": 0.7832218408584595,
+                "tail": "to see what they have made"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.273969367146492,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27302083373069763,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27139778435230255,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.27012625336647034,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.26904159784317017,
+                "tail": "to have the thing in question"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7713227272033691,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.7687301635742188,
+                "tail": "to make more images"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7684537172317505,
+                "tail": "illustrative"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.7678307294845581,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.7678307294845581,
+                "tail": "to give the image to PersonY"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2890464961528778,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.282411590218544,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.282277449965477,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2787783443927765,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.27838917076587677,
+                "tail": "study the diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_3",
+        "question_commonsense": [
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.8282825648784637,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX does PersonX's math homework",
+                "relation": "xEffect",
+                "similarity": 0.8198535144329071,
+                "tail": "learn some math concepts"
+            },
+            {
+                "head": "PersonX does PersonX's math homework",
+                "relation": "xNeed",
+                "similarity": 0.814974308013916,
+                "tail": "to of had math homework"
+            },
+            {
+                "head": "PersonX does PersonX's math homework",
+                "relation": "oWant",
+                "similarity": 0.8061182498931885,
+                "tail": "to help them learn more"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.8046410381793976,
+                "tail": "determine profit margin"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "MadeUpOf",
+                "similarity": 0.3078593313694,
+                "tail": "set of vertices and set of edges"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2992802709341049,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2936260253190994,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2924300730228424,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29211093485355377,
+                "tail": "procure a book with diagrams"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.8735724091529846,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.8727783858776093,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.8723695576190948,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.8712633848190308,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.8688190877437592,
+                "tail": "to learn more mathematics"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "oscilloscope",
+                "relation": "MadeUpOf",
+                "similarity": 0.2619701325893402,
+                "tail": "cathode ray tube"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2567613422870636,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.25406838953495026,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xWant",
+                "similarity": 0.25310467928647995,
+                "tail": "to work with numbers"
+            },
+            {
+                "head": "airfoil",
+                "relation": "MadeUpOf",
+                "similarity": 0.2511400878429413,
+                "tail": "trailing edge"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7751435041427612,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7718610763549805,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7680859267711639,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7637342810630798,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7589567601680756,
+                "tail": "procure a book with diagrams"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.2854859530925751,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.27502699196338654,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.2716488912701607,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.27029819786548615,
+                "tail": "PersonX doesn't understand PersonY's point."
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.26964882016181946,
+                "tail": "a demonstration"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.733704149723053,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7307274043560028,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7216907441616058,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.7202103137969971,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7136156260967255,
+                "tail": "show the result of the equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.28829425573349,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.285490021109581,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "HinderedBy",
+                "similarity": 0.27748528122901917,
+                "tail": "PERSON X DOES NOT HAVE A PEN"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "HinderedBy",
+                "similarity": 0.27592675387859344,
+                "tail": "PERSON X CANT DRAW"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xNeed",
+                "similarity": 0.27474308013916016,
+                "tail": "to draw on a piece of paper"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_7",
+        "question_commonsense": [
+            {
+                "head": "PersonX dances with PersonY",
+                "relation": "oWant",
+                "similarity": 0.720414400100708,
+                "tail": "dance"
+            },
+            {
+                "head": "PersonX dances with PersonY",
+                "relation": "oWant",
+                "similarity": 0.720414400100708,
+                "tail": "dance some more with PersonX"
+            },
+            {
+                "head": "PersonX dances with PersonY",
+                "relation": "xIntent",
+                "similarity": 0.720414400100708,
+                "tail": "to dance"
+            },
+            {
+                "head": "PersonX dances with PersonY",
+                "relation": "xWant",
+                "similarity": 0.720414400100708,
+                "tail": "dance"
+            },
+            {
+                "head": "square dancer",
+                "relation": "CapableOf",
+                "similarity": 0.7197736501693726,
+                "tail": "dance two step"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX inherits as PersonY trait",
+                "relation": "xWant",
+                "similarity": 0.27939434349536896,
+                "tail": "to discuss how person y dealt with the trait"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.27777568995952606,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27725738286972046,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.27551867067813873,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.27065223455429077,
+                "tail": "draw a diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX takes PersonX's boat out",
+                "relation": "xIntent",
+                "similarity": 0.8257162272930145,
+                "tail": "to test the boat"
+            },
+            {
+                "head": "PersonX takes PersonX's boat",
+                "relation": "xNeed",
+                "similarity": 0.8158776462078094,
+                "tail": "make sure the boat runs"
+            },
+            {
+                "head": "PersonX takes PersonX's boat out",
+                "relation": "xNeed",
+                "similarity": 0.8130102753639221,
+                "tail": "Prepare their boat"
+            },
+            {
+                "head": "PersonX takes PersonX's boat",
+                "relation": "xWant",
+                "similarity": 0.8129715323448181,
+                "tail": "to go somewhere with boat"
+            },
+            {
+                "head": "PersonX takes PersonX's boat",
+                "relation": "xIntent",
+                "similarity": 0.8110742568969727,
+                "tail": "go boating"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.28877854347229004,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2878716439008713,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xReact",
+                "similarity": 0.28537240624427795,
+                "tail": "accommodative"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2807104140520096,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2785325050354004,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_9",
+        "question_commonsense": [
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.8219155967235565,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8207374513149261,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8207374513149261,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.8200157880783081,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8193282783031464,
+                "tail": "to make more images"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "triangle",
+                "relation": "HasProperty",
+                "similarity": 0.2977355420589447,
+                "tail": "three vertices"
+            },
+            {
+                "head": "graph",
+                "relation": "MadeUpOf",
+                "similarity": 0.29539841413497925,
+                "tail": "set of vertices and set of edges"
+            },
+            {
+                "head": "network",
+                "relation": "ObjectUse",
+                "similarity": 0.28046026825904846,
+                "tail": "connect with people"
+            },
+            {
+                "head": "triangle",
+                "relation": "AtLocation",
+                "similarity": 0.2784203588962555,
+                "tail": "geometry"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.2784203588962555,
+                "tail": "do geometry"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_10",
+        "question_commonsense": [
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.906610757112503,
+                "tail": "analyze and explain"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.905012845993042,
+                "tail": "clearly present data"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.9019202291965485,
+                "tail": "follow trends over time"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.8958706557750702,
+                "tail": "notice the way the stuff is trending down"
+            },
+            {
+                "head": "graphs",
+                "relation": "ObjectUse",
+                "similarity": 0.8935404121875763,
+                "tail": "keep track of progress"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2986737787723541,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.298191100358963,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2961004972457886,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.28984594345092773,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2852350026369095,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_11",
+        "question_commonsense": [
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.782947450876236,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7735596001148224,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7690690755844116,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7653243243694305,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.7652715444564819,
+                "tail": "more difficult than algebra"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.29021792113780975,
+                "tail": "to read the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.2869647294282913,
+                "tail": "to understand the equation."
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.28688086569309235,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.2839134782552719,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.2790752351284027,
+                "tail": "try to understand the solution"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_12",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.8304436206817627,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.8257029950618744,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.8246549367904663,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.8180511593818665,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.8169499933719635,
+                "tail": "try to understand the solution"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29196640849113464,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.28912079334259033,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2882891744375229,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.286256805062294,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.28399917483329773,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_13",
+        "question_commonsense": [
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.689711183309555,
+                "tail": "calculating angles"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.67923504114151,
+                "tail": "measure angles"
+            },
+            {
+                "head": "triangle",
+                "relation": "AtLocation",
+                "similarity": 0.6706786155700684,
+                "tail": "geometry"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.6706786155700684,
+                "tail": "do geometry"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.6706786155700684,
+                "tail": "geometry"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.2847713679075241,
+                "tail": "different atoms"
+            },
+            {
+                "head": "diaphragm",
+                "relation": "AtLocation",
+                "similarity": 0.2770858556032181,
+                "tail": "person's chest"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "oWant",
+                "similarity": 0.2768222987651825,
+                "tail": "find holes in the individual's argument"
+            },
+            {
+                "head": "diaphragm",
+                "relation": "AtLocation",
+                "similarity": 0.2765085846185684,
+                "tail": "respitory system"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.2726479321718216,
+                "tail": "receives illustration"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6609791815280914,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.6590032279491425,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.6544423401355743,
+                "tail": "linear algebra"
+            },
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.652876228094101,
+                "tail": "vector space"
+            },
+            {
+                "head": "graph",
+                "relation": "MadeUpOf",
+                "similarity": 0.6483408808708191,
+                "tail": "set of vertices and set of edges"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.2849625051021576,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "airfoil",
+                "relation": "MadeUpOf",
+                "similarity": 0.2832410931587219,
+                "tail": "trailing edge"
+            },
+            {
+                "head": "airfoil",
+                "relation": "MadeUpOf",
+                "similarity": 0.27541520446538925,
+                "tail": "leading edge"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2745762765407562,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.2720084860920906,
+                "tail": "receives illustration"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_15",
+        "question_commonsense": [
+            {
+                "head": "climb ladder",
+                "relation": "xNeed",
+                "similarity": 0.7860375046730042,
+                "tail": "have ladder"
+            },
+            {
+                "head": "PersonX gets a ladder",
+                "relation": "xNeed",
+                "similarity": 0.7845821678638458,
+                "tail": "to spot a ladder"
+            },
+            {
+                "head": "PersonX gets a ladder",
+                "relation": "xEffect",
+                "similarity": 0.7787571549415588,
+                "tail": "carried ladder to location"
+            },
+            {
+                "head": "PersonX gets a ladder",
+                "relation": "xEffect",
+                "similarity": 0.7758038640022278,
+                "tail": "thinks about the best place to use ladder"
+            },
+            {
+                "head": "PersonX places the ladder on a footing",
+                "relation": "isBefore",
+                "similarity": 0.7734410762786865,
+                "tail": "PersonX climbs the ladder"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.276648610830307,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.27411285787820816,
+                "tail": "a demonstration"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.27382396161556244,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.27244628965854645,
+                "tail": "PersonY couldn't find a case study to prove the point to PersonX"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.2712654173374176,
+                "tail": "PersonX doesn't understand PersonY's point."
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_16",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.8567844927310944,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.8545039892196655,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "solve problem",
+                "relation": "HasSubEvent",
+                "similarity": 0.851056694984436,
+                "tail": "learn about problem domain"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oWant",
+                "similarity": 0.8509247601032257,
+                "tail": "try to understand the solution"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.8478122055530548,
+                "tail": "to learn more mathematics"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.28018517792224884,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "oWant",
+                "similarity": 0.27619998157024384,
+                "tail": "find holes in the individual's argument"
+            },
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.27571454644203186,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.27359119057655334,
+                "tail": "PersonY couldn't find a case study to prove the point to PersonX"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.2712390199303627,
+                "tail": "receives illustration"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX rubs in a tiny circular motion",
+                "relation": "xIntent",
+                "similarity": 0.7561708986759186,
+                "tail": "to rub tiny circular motion"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "xEffect",
+                "similarity": 0.7454520761966705,
+                "tail": "reacts better"
+            },
+            {
+                "head": "PersonX turns off the water with PersonY's right foot",
+                "relation": "xWant",
+                "similarity": 0.741156131029129,
+                "tail": "to put back PersonY's right foot"
+            },
+            {
+                "head": "PersonX rubs in a tiny circular motion",
+                "relation": "isAfter",
+                "similarity": 0.7408095896244049,
+                "tail": "PersonX puts on medicine gel"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "xEffect",
+                "similarity": 0.740421712398529,
+                "tail": "figures out scam"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xIntent",
+                "similarity": 0.3009639233350754,
+                "tail": "she measures  mm in diameter"
+            },
+            {
+                "head": "protractor",
+                "relation": "ObjectUse",
+                "similarity": 0.2973054349422455,
+                "tail": "determine an angle"
+            },
+            {
+                "head": "protractor",
+                "relation": "ObjectUse",
+                "similarity": 0.2955404669046402,
+                "tail": "measure angles"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xEffect",
+                "similarity": 0.2848026007413864,
+                "tail": "Person x utilizes measuring instrument"
+            },
+            {
+                "head": "PersonX measures ___ in diameter",
+                "relation": "xWant",
+                "similarity": 0.275405578315258,
+                "tail": "record measurements"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_18",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7711002826690674,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7659748196601868,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7651532292366028,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7618268430233002,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7524447441101074,
+                "tail": "PersonX puts away diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "MadeUpOf",
+                "similarity": 0.27627602219581604,
+                "tail": "set of vertices and set of edges"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2755578011274338,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2743983268737793,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "network",
+                "relation": "ObjectUse",
+                "similarity": 0.2732643485069275,
+                "tail": "connect with people"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2706739455461502,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_19",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8396385312080383,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8396385312080383,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.839209645986557,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8380547165870667,
+                "tail": "to make more images"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.8327929973602295,
+                "tail": "to keep the image"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2969306707382202,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.292936772108078,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "triangle",
+                "relation": "AtLocation",
+                "similarity": 0.29252563416957855,
+                "tail": "trigonometry"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.29222024977207184,
+                "tail": "measure angles"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29178884625434875,
+                "tail": "procure a book with diagrams"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7507954239845276,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7464356422424316,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7413369417190552,
+                "tail": "illustrative"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7395020723342896,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7384040057659149,
+                "tail": "PersonX puts away diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2857913225889206,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.2856413871049881,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "triangle",
+                "relation": "AtLocation",
+                "similarity": 0.28388291597366333,
+                "tail": "trigonometry"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28149065375328064,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2811996042728424,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_21",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7454616129398346,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7436496913433075,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7421868741512299,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7402746975421906,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.7383750379085541,
+                "tail": "to read the equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "airfoil",
+                "relation": "MadeUpOf",
+                "similarity": 0.26979129761457443,
+                "tail": "trailing edge"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.26889796555042267,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.2668611779808998,
+                "tail": "PersonX doesn't understand PersonY's point."
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.26548953354358673,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.2652822211384773,
+                "tail": "2 dimensions"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_22",
+        "question_commonsense": [
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.7066904902458191,
+                "tail": "vector space"
+            },
+            {
+                "head": "algebra",
+                "relation": "MadeUpOf",
+                "similarity": 0.7023226320743561,
+                "tail": "linear algebra"
+            },
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.6976639032363892,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6924749314785004,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.6917655766010284,
+                "tail": "The teacher has not taught PersonX how to solve the problem"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.30518612265586853,
+                "tail": "measure angles"
+            },
+            {
+                "head": "triangle",
+                "relation": "HasProperty",
+                "similarity": 0.29988549649715424,
+                "tail": "three vertices"
+            },
+            {
+                "head": "triangle",
+                "relation": "AtLocation",
+                "similarity": 0.29722335934638977,
+                "tail": "trigonometry"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.29722335934638977,
+                "tail": "trigonometry"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.2946322113275528,
+                "tail": "draw line at angle"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_23",
+        "question_commonsense": [
+            {
+                "head": "tower",
+                "relation": "HasProperty",
+                "similarity": 0.7376181781291962,
+                "tail": "built for height"
+            },
+            {
+                "head": "rocket engineer",
+                "relation": "CapableOf",
+                "similarity": 0.7330195009708405,
+                "tail": "prepare rocket to launch"
+            },
+            {
+                "head": "tower",
+                "relation": "ObjectUse",
+                "similarity": 0.731041669845581,
+                "tail": "broadcasting radio signals"
+            },
+            {
+                "head": "tower",
+                "relation": "ObjectUse",
+                "similarity": 0.7275776267051697,
+                "tail": "install radio antenna"
+            },
+            {
+                "head": "tower",
+                "relation": "AtLocation",
+                "similarity": 0.7207611501216888,
+                "tail": "medieval castle"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2811562120914459,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.2805241346359253,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.2749972492456436,
+                "tail": "PersonX doesn't understand PersonY's point."
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.27402395009994507,
+                "tail": "a demonstration"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xAttr",
+                "similarity": 0.2732340767979622,
+                "tail": "illustrative"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_24",
+        "question_commonsense": [
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.6913431882858276,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.6860640048980713,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.6832802891731262,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.682267814874649,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.6777912378311157,
+                "tail": "2 dimensions"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.2881566733121872,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "oEffect",
+                "similarity": 0.27898138761520386,
+                "tail": "receives illustration"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.2746065855026245,
+                "tail": "a demonstration"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2735755443572998,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.2719804495573044,
+                "tail": "to illustrate point"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_25",
+        "question_commonsense": [
+            {
+                "head": "launch platform",
+                "relation": "AtLocation",
+                "similarity": 0.6993370950222015,
+                "tail": "launch site"
+            },
+            {
+                "head": "jump up and down",
+                "relation": "HasSubEvent",
+                "similarity": 0.6949920654296875,
+                "tail": "jump"
+            },
+            {
+                "head": "jump up and down",
+                "relation": "HasSubEvent",
+                "similarity": 0.6949920654296875,
+                "tail": "jump up"
+            },
+            {
+                "head": "launch platform",
+                "relation": "ObjectUse",
+                "similarity": 0.6871665716171265,
+                "tail": "shooting off rockets"
+            },
+            {
+                "head": "launch platform",
+                "relation": "ObjectUse",
+                "similarity": 0.6862872242927551,
+                "tail": "launching water baloon"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.28973501920700073,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.2860620617866516,
+                "tail": "to illustrate point"
+            },
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.2831003814935684,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.28012342751026154,
+                "tail": "PersonY couldn't find a case study to prove the point to PersonX"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.2784475237131119,
+                "tail": "a demonstration"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_26",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.8241649270057678,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.8231484889984131,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.8224120140075684,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.8196827173233032,
+                "tail": "illustrative"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.8142572045326233,
+                "tail": "study the diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.2801345884799957,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2709250748157501,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xIntent",
+                "similarity": 0.27036917209625244,
+                "tail": "a demonstration"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "HinderedBy",
+                "similarity": 0.27005435526371,
+                "tail": "PersonX doesn't understand PersonY's point."
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xAttr",
+                "similarity": 0.2682434767484665,
+                "tail": "illustrative"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_27",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6925475597381592,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.6878030896186829,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.6867056488990784,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xIntent",
+                "similarity": 0.6849444508552551,
+                "tail": "to learn more mathematics"
+            },
+            {
+                "head": "circle",
+                "relation": "HasProperty",
+                "similarity": 0.6843905746936798,
+                "tail": "round"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "protractor",
+                "relation": "ObjectUse",
+                "similarity": 0.2950497567653656,
+                "tail": "determine an angle"
+            },
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.29337838292121887,
+                "tail": "calculating radius"
+            },
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.2927829772233963,
+                "tail": "calculating angles"
+            },
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.28868816792964935,
+                "tail": "calculating circumference"
+            },
+            {
+                "head": "protractor",
+                "relation": "ObjectUse",
+                "similarity": 0.28812484443187714,
+                "tail": "measure angles"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.8999742567539215,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8946535885334015,
+                "tail": "to make more images"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.8936656713485718,
+                "tail": "buy image"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8913421034812927,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8913421034812927,
+                "tail": "to give the image to PersonY"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.30331912636756897,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2961677610874176,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.29489584267139435,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29372575879096985,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2878137230873108,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_29",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7508085072040558,
+                "tail": "Practices maths equation"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7439452707767487,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7395563423633575,
+                "tail": "show the result of the equation"
+            },
+            {
+                "head": "calculus",
+                "relation": "HasProperty",
+                "similarity": 0.735456794500351,
+                "tail": "more difficult than algebra"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xNeed",
+                "similarity": 0.7297167479991913,
+                "tail": "to read the equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.275004118680954,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xWant",
+                "similarity": 0.2669295594096184,
+                "tail": "to strengthen their argument"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xAttr",
+                "similarity": 0.2664363831281662,
+                "tail": "percise"
+            },
+            {
+                "head": "PersonX classifies ___ on the basis",
+                "relation": "xAttr",
+                "similarity": 0.2652597278356552,
+                "tail": "analytical"
+            },
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xAttr",
+                "similarity": 0.26492752879858017,
+                "tail": "precise"
+            }
+        ]
+    },
+    {
+        "id": "validation_Math_30",
+        "question_commonsense": [
+            {
+                "head": "triangle",
+                "relation": "AtLocation",
+                "similarity": 0.7653480768203735,
+                "tail": "geometry"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.7653480768203735,
+                "tail": "do geometry"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.7653480768203735,
+                "tail": "geometry"
+            },
+            {
+                "head": "triangle",
+                "relation": "AtLocation",
+                "similarity": 0.7582577466964722,
+                "tail": "math"
+            },
+            {
+                "head": "triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.7571710646152496,
+                "tail": "understanding math"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "conic section",
+                "relation": "MadeUpOf",
+                "similarity": 0.28115467727184296,
+                "tail": "2 dimensions"
+            },
+            {
+                "head": "right triangle",
+                "relation": "MadeUpOf",
+                "similarity": 0.27325906604528427,
+                "tail": "one angle 90 degrees"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "oWant",
+                "similarity": 0.26862916350364685,
+                "tail": "find holes in the individual's argument"
+            },
+            {
+                "head": "PersonX illustrates PersonY point",
+                "relation": "xWant",
+                "similarity": 0.2683141380548477,
+                "tail": "ask if his illustration of point made it clear"
+            },
+            {
+                "head": "PersonX illustrates PersonX's point",
+                "relation": "xIntent",
+                "similarity": 0.26451481878757477,
+                "tail": "to illustrate point"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_History_1",
+        "question_commonsense": [
+            {
+                "head": "quote",
+                "relation": "MadeUpOf",
+                "similarity": 0.7976678609848022,
+                "tail": "word"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.7956754565238953,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX makes PersonY remark",
+                "relation": "xNeed",
+                "similarity": 0.7880755066871643,
+                "tail": "make sure that the particular remark is right"
+            },
+            {
+                "head": "PersonX assumes another ___",
+                "relation": "xReact",
+                "similarity": 0.7869870960712433,
+                "tail": "like a new person"
+            },
+            {
+                "head": "PersonX assumes another ___",
+                "relation": "xEffect",
+                "similarity": 0.7855660319328308,
+                "tail": "THAT IS WORK"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX grants ___ in cases",
+                "relation": "xWant",
+                "similarity": 0.25743382424116135,
+                "tail": "to bang the gavel"
+            },
+            {
+                "head": "advertisement",
+                "relation": "ObjectUse",
+                "similarity": 0.25742023438215256,
+                "tail": "peruse in the newspaper"
+            },
+            {
+                "head": "advertisement",
+                "relation": "ObjectUse",
+                "similarity": 0.25563184916973114,
+                "tail": "electing politician"
+            },
+            {
+                "head": "PersonX grants ___ in cases",
+                "relation": "oWant",
+                "similarity": 0.254666730761528,
+                "tail": "to appeal the case"
+            },
+            {
+                "head": "PersonX grants ___ in cases",
+                "relation": "xWant",
+                "similarity": 0.25154566019773483,
+                "tail": "to move on to other cases"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "isAfter",
+                "similarity": 0.8802952468395233,
+                "tail": "PersonX draws a cartoon"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8740758299827576,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.8724940121173859,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "isAfter",
+                "similarity": 0.8724839389324188,
+                "tail": "PersonX draws an illustration"
+            },
+            {
+                "head": "cartoon",
+                "relation": "ObjectUse",
+                "similarity": 0.8713648915290833,
+                "tail": "have fun on the weekends"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX receives ___ from the government",
+                "relation": "isFilledBy",
+                "similarity": 0.25119127333164215,
+                "tail": "a document"
+            },
+            {
+                "head": "PersonX receives ___ from the government",
+                "relation": "xEffect",
+                "similarity": 0.24521201103925705,
+                "tail": "receives government funding or subsidies"
+            },
+            {
+                "head": "PersonX receives ___ from the government",
+                "relation": "isFilledBy",
+                "similarity": 0.23465334624052048,
+                "tail": "social security"
+            },
+            {
+                "head": "alexander hamilton bill",
+                "relation": "ObjectUse",
+                "similarity": 0.23450101166963577,
+                "tail": "show a decree"
+            },
+            {
+                "head": "PersonX receives ___ from the government",
+                "relation": "xNeed",
+                "similarity": 0.23339489102363586,
+                "tail": "to gather documents"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "HinderedBy",
+                "similarity": 0.8903482258319855,
+                "tail": "PersonX does not have a picture."
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "HinderedBy",
+                "similarity": 0.8821758925914764,
+                "tail": "PersonX does not have a picture to give"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.8798682689666748,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX gives PersonY picture",
+                "relation": "xReact",
+                "similarity": 0.8795317709445953,
+                "tail": "great"
+            },
+            {
+                "head": "PersonX gives PersonY picture",
+                "relation": "xIntent",
+                "similarity": 0.8764264285564423,
+                "tail": "to share"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX is a baseball player",
+                "relation": "xEffect",
+                "similarity": 0.27553942799568176,
+                "tail": "to baseball player"
+            },
+            {
+                "head": "spearman",
+                "relation": "CapableOf",
+                "similarity": 0.26738668978214264,
+                "tail": "throw spear"
+            },
+            {
+                "head": "fencer",
+                "relation": "CapableOf",
+                "similarity": 0.26614394783973694,
+                "tail": "practice lunges"
+            },
+            {
+                "head": "PersonX is a baseball player",
+                "relation": "xEffect",
+                "similarity": 0.26528744399547577,
+                "tail": "Person X practices his swing."
+            },
+            {
+                "head": "fencer",
+                "relation": "CapableOf",
+                "similarity": 0.26299948990345,
+                "tail": "practice parrying"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives another example",
+                "relation": "xReact",
+                "similarity": 0.8991280794143677,
+                "tail": "good about himself"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "isBefore",
+                "similarity": 0.8978427648544312,
+                "tail": "PersonX explains it slowly"
+            },
+            {
+                "head": "PersonX takes another example",
+                "relation": "xNeed",
+                "similarity": 0.8970203995704651,
+                "tail": "A first example"
+            },
+            {
+                "head": "PersonX takes another example",
+                "relation": "HinderedBy",
+                "similarity": 0.8966187834739685,
+                "tail": "There are no more examples."
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.8958381712436676,
+                "tail": "PersonX offers one example"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX pays ___ on demand",
+                "relation": "xWant",
+                "similarity": 0.24939090013504028,
+                "tail": "To fulfil the demand"
+            },
+            {
+                "head": "PersonX pays ___ on demand",
+                "relation": "xIntent",
+                "similarity": 0.24094907939434052,
+                "tail": "to be known for extreme wealth"
+            },
+            {
+                "head": "PersonX divides the ___ into regions",
+                "relation": "oWant",
+                "similarity": 0.23933695256710052,
+                "tail": "to dispute the informatoin"
+            },
+            {
+                "head": "PersonX divides the ___ into regions",
+                "relation": "xWant",
+                "similarity": 0.23911235481500626,
+                "tail": "to divide other things"
+            },
+            {
+                "head": "PersonX divides the ___ into regions",
+                "relation": "xNeed",
+                "similarity": 0.23891859501600266,
+                "tail": "draw a diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_5",
+        "question_commonsense": [
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6435449421405792,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "menu",
+                "relation": "AtLocation",
+                "similarity": 0.6156124472618103,
+                "tail": "table"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6086325347423553,
+                "tail": "determine the nutritional content of a food"
+            },
+            {
+                "head": "menu",
+                "relation": "ObjectUse",
+                "similarity": 0.6078829169273376,
+                "tail": "interfacing with computer"
+            },
+            {
+                "head": "menu",
+                "relation": "AtLocation",
+                "similarity": 0.6060201227664948,
+                "tail": "financial computer program"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.2551182508468628,
+                "tail": "organizing telephone numbers"
+            },
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.2524044066667557,
+                "tail": "keeping telephone numbers"
+            },
+            {
+                "head": "participation number",
+                "relation": "ObjectUse",
+                "similarity": 0.2496257796883583,
+                "tail": "keep track of the participants"
+            },
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.2471529319882393,
+                "tail": "look for telephone number"
+            },
+            {
+                "head": "telephone index",
+                "relation": "ObjectUse",
+                "similarity": 0.24709494411945343,
+                "tail": "storing telphone numbers"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_6",
+        "question_commonsense": [
+            {
+                "head": "communism",
+                "relation": "AtLocation",
+                "similarity": 0.6914392411708832,
+                "tail": "china"
+            },
+            {
+                "head": "socialism",
+                "relation": "MadeUpOf",
+                "similarity": 0.689140260219574,
+                "tail": "socialists"
+            },
+            {
+                "head": "capitalist",
+                "relation": "NotDesires",
+                "similarity": 0.6850976347923279,
+                "tail": "socialism"
+            },
+            {
+                "head": "art",
+                "relation": "HasProperty",
+                "similarity": 0.6837411820888519,
+                "tail": "based on historical events"
+            },
+            {
+                "head": "paintings",
+                "relation": "ObjectUse",
+                "similarity": 0.6812882721424103,
+                "tail": "make for an art class"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "cover",
+                "relation": "ObjectUse",
+                "similarity": 0.2539921700954437,
+                "tail": "close on a book"
+            },
+            {
+                "head": "cover art",
+                "relation": "ObjectUse",
+                "similarity": 0.2531781569123268,
+                "tail": "market the book"
+            },
+            {
+                "head": "cover",
+                "relation": "ObjectUse",
+                "similarity": 0.2530326247215271,
+                "tail": "prevent discovery of truth"
+            },
+            {
+                "head": "cover",
+                "relation": "ObjectUse",
+                "similarity": 0.252958282828331,
+                "tail": "covering pages in book"
+            },
+            {
+                "head": "cover art",
+                "relation": "ObjectUse",
+                "similarity": 0.2501106783747673,
+                "tail": "adorn the book exterior"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_7",
+        "question_commonsense": [
+            {
+                "head": "cartoonist",
+                "relation": "CapableOf",
+                "similarity": 0.7006491422653198,
+                "tail": "draw cartoon"
+            },
+            {
+                "head": "cartoon",
+                "relation": "ObjectUse",
+                "similarity": 0.6928216814994812,
+                "tail": "make propaganda"
+            },
+            {
+                "head": "local newspaper",
+                "relation": "ObjectUse",
+                "similarity": 0.6815104484558105,
+                "tail": "read the comics"
+            },
+            {
+                "head": "PersonX sketches briefly the ___",
+                "relation": "oEffect",
+                "similarity": 0.6801034808158875,
+                "tail": "critiques sketch work"
+            },
+            {
+                "head": "cartoon",
+                "relation": "ObjectUse",
+                "similarity": 0.6777607500553131,
+                "tail": "make a caricature of someone"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "advertisement",
+                "relation": "ObjectUse",
+                "similarity": 0.2532973811030388,
+                "tail": "peruse in the newspaper"
+            },
+            {
+                "head": "playbill",
+                "relation": "ObjectUse",
+                "similarity": 0.25089840590953827,
+                "tail": "display information about show"
+            },
+            {
+                "head": "cover art",
+                "relation": "ObjectUse",
+                "similarity": 0.24983720481395721,
+                "tail": "market the book"
+            },
+            {
+                "head": "advertisement",
+                "relation": "ObjectUse",
+                "similarity": 0.24940107762813568,
+                "tail": "electing politician"
+            },
+            {
+                "head": "advertisement",
+                "relation": "AtLocation",
+                "similarity": 0.2482178881764412,
+                "tail": "web page"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX draws PersonY conclusion",
+                "relation": "xAttr",
+                "similarity": 0.8043437600135803,
+                "tail": "Astute"
+            },
+            {
+                "head": "PersonX explores another ___",
+                "relation": "xEffect",
+                "similarity": 0.8039956390857697,
+                "tail": "increases awareness"
+            },
+            {
+                "head": "PersonX draws PersonY conclusion",
+                "relation": "xNeed",
+                "similarity": 0.8039874732494354,
+                "tail": "Think about the subject."
+            },
+            {
+                "head": "PersonX draws PersonY conclusion",
+                "relation": "HinderedBy",
+                "similarity": 0.8010776937007904,
+                "tail": "PersonX doesn't understand it"
+            },
+            {
+                "head": "PersonX draws PersonY conclusion",
+                "relation": "oReact",
+                "similarity": 0.7994000315666199,
+                "tail": "knowledgable"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX learns about history",
+                "relation": "xNeed",
+                "similarity": 0.2694568485021591,
+                "tail": "find a source to teach history"
+            },
+            {
+                "head": "indian ocean",
+                "relation": "AtLocation",
+                "similarity": 0.252576507627964,
+                "tail": "southern hemisphere"
+            },
+            {
+                "head": "PersonX learns about history",
+                "relation": "xNeed",
+                "similarity": 0.2522925063967705,
+                "tail": "to visit historical sights"
+            },
+            {
+                "head": "indian ocean",
+                "relation": "ObjectUse",
+                "similarity": 0.24862537533044815,
+                "tail": "transport between africa and asia"
+            },
+            {
+                "head": "PersonX learns about history",
+                "relation": "xEffect",
+                "similarity": 0.24848675727844238,
+                "tail": "ENJOYS HISTORY"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_9",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.7884933650493622,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX explores another ___",
+                "relation": "xEffect",
+                "similarity": 0.7866792976856232,
+                "tail": "increases awareness"
+            },
+            {
+                "head": "PersonX makes ___ in PersonY's image",
+                "relation": "xIntent",
+                "similarity": 0.7860215306282043,
+                "tail": "to make god in person y's image."
+            },
+            {
+                "head": "PersonX explores another ___",
+                "relation": "xNeed",
+                "similarity": 0.7854098081588745,
+                "tail": "to be bored of the first one"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oEffect",
+                "similarity": 0.7852016985416412,
+                "tail": "looks better"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX whistles dixie",
+                "relation": "xWant",
+                "similarity": 0.24042366445064545,
+                "tail": "to make dixie aware of his presence"
+            },
+            {
+                "head": "PersonX whistles dixie",
+                "relation": "xNeed",
+                "similarity": 0.23700539022684097,
+                "tail": "to notice dixie"
+            },
+            {
+                "head": "PersonX whistles dixie",
+                "relation": "xEffect",
+                "similarity": 0.2363816425204277,
+                "tail": "zones out"
+            },
+            {
+                "head": "PersonX follows in detail the map",
+                "relation": "isBefore",
+                "similarity": 0.2362351194024086,
+                "tail": "PersonX finds the correct route"
+            },
+            {
+                "head": "national interstate highway",
+                "relation": "AtLocation",
+                "similarity": 0.23562396317720413,
+                "tail": "state in us"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_10",
+        "question_commonsense": [
+            {
+                "head": "cartoonist",
+                "relation": "CapableOf",
+                "similarity": 0.8738143146038055,
+                "tail": "draw cartoon"
+            },
+            {
+                "head": "PersonX makes PersonY remark",
+                "relation": "xNeed",
+                "similarity": 0.8695424497127533,
+                "tail": "make sure that the particular remark is right"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.8683532476425171,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.8656710088253021,
+                "tail": "to print a picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.8642723560333252,
+                "tail": "to pick up a picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "northwest passage",
+                "relation": "AtLocation",
+                "similarity": 0.24963843822479248,
+                "tail": "arctic"
+            },
+            {
+                "head": "PersonX advances upon PersonY",
+                "relation": "oWant",
+                "similarity": 0.23978161811828613,
+                "tail": "too defend themselves"
+            },
+            {
+                "head": "PersonX advances upon PersonY",
+                "relation": "xWant",
+                "similarity": 0.2397453337907791,
+                "tail": "to attack them"
+            },
+            {
+                "head": "PersonX advances upon PersonY",
+                "relation": "oReact",
+                "similarity": 0.23894160985946655,
+                "tail": "obtainment"
+            },
+            {
+                "head": "PersonX advances upon PersonY",
+                "relation": "xIntent",
+                "similarity": 0.23815513402223587,
+                "tail": "approach person y"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "isAfter",
+                "similarity": 0.7884392440319061,
+                "tail": "PersonX draws a cartoon"
+            },
+            {
+                "head": "cartoonist",
+                "relation": "CapableOf",
+                "similarity": 0.787779688835144,
+                "tail": "draw cartoon"
+            },
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "isAfter",
+                "similarity": 0.7856393158435822,
+                "tail": "PersonX draws an illustration"
+            },
+            {
+                "head": "PersonX gives PersonY illustration",
+                "relation": "xNeed",
+                "similarity": 0.7854089736938477,
+                "tail": "draw the illustration"
+            },
+            {
+                "head": "cartoon",
+                "relation": "ObjectUse",
+                "similarity": 0.7763347923755646,
+                "tail": "make propaganda"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX fish in troubled waters",
+                "relation": "xNeed",
+                "similarity": 0.2600816637277603,
+                "tail": "to find troubled waters"
+            },
+            {
+                "head": "PersonX divides the ___ from the waters",
+                "relation": "xIntent",
+                "similarity": 0.25806334614753723,
+                "tail": "to acquire something from the waters."
+            },
+            {
+                "head": "PersonX fish in troubled waters",
+                "relation": "HinderedBy",
+                "similarity": 0.2580084055662155,
+                "tail": "PersonX can't get to the troubled waters."
+            },
+            {
+                "head": "PersonX divides the ___ from the waters",
+                "relation": "xWant",
+                "similarity": 0.2575444057583809,
+                "tail": "to get back out of the water"
+            },
+            {
+                "head": "PersonX divides the ___ from the waters",
+                "relation": "xWant",
+                "similarity": 0.24949973076581955,
+                "tail": "to quench a thirst"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_12",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.6842059195041656,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6706543266773224,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.664458155632019,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.6625936627388,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "family tree",
+                "relation": "ObjectUse",
+                "similarity": 0.6588089764118195,
+                "tail": "see who your ancestors are"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX learns about history",
+                "relation": "xNeed",
+                "similarity": 0.27843619883060455,
+                "tail": "find a source to teach history"
+            },
+            {
+                "head": "PersonX learns about history",
+                "relation": "xEffect",
+                "similarity": 0.25967010855674744,
+                "tail": "ENJOYS HISTORY"
+            },
+            {
+                "head": "PersonX learns about history",
+                "relation": "HinderedBy",
+                "similarity": 0.2566027194261551,
+                "tail": "No one wants to teach personX about history."
+            },
+            {
+                "head": "proof of pedigree",
+                "relation": "ObjectUse",
+                "similarity": 0.25163352489471436,
+                "tail": "prove medical history"
+            },
+            {
+                "head": "PersonX learns about history",
+                "relation": "xEffect",
+                "similarity": 0.2509714439511299,
+                "tail": "learns about important dates"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_13",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.8034871816635132,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.800913542509079,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.794600248336792,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "maps",
+                "relation": "ObjectUse",
+                "similarity": 0.7945079803466797,
+                "tail": "find landmarks within a specific region"
+            },
+            {
+                "head": "PersonX takes place in europe",
+                "relation": "xIntent",
+                "similarity": 0.7940163612365723,
+                "tail": "to know europe"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX takes place in europe",
+                "relation": "xIntent",
+                "similarity": 0.27679720520973206,
+                "tail": "to know europe"
+            },
+            {
+                "head": "PersonX spreads abroad the ___",
+                "relation": "xIntent",
+                "similarity": 0.267490029335022,
+                "tail": "spreads abroad the business"
+            },
+            {
+                "head": "PersonX takes place in europe",
+                "relation": "xWant",
+                "similarity": 0.25635985285043716,
+                "tail": "to decide what to do in their home country"
+            },
+            {
+                "head": "PersonX takes place in europe",
+                "relation": "HinderedBy",
+                "similarity": 0.25634781271219254,
+                "tail": "personX doesn't have a passport to travel"
+            },
+            {
+                "head": "PersonX takes place in europe",
+                "relation": "isAfter",
+                "similarity": 0.25007904320955276,
+                "tail": "PersonX decides they want to move abroad"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX answers ___ correctly",
+                "relation": "xIntent",
+                "similarity": 0.841377854347229,
+                "tail": "do well on test"
+            },
+            {
+                "head": "test",
+                "relation": "ObjectUse",
+                "similarity": 0.8381876945495605,
+                "tail": "do well on"
+            },
+            {
+                "head": "PersonX answers ___ correctly",
+                "relation": "oReact",
+                "similarity": 0.837837278842926,
+                "tail": "good"
+            },
+            {
+                "head": "PersonX answers ___ correctly",
+                "relation": "xReact",
+                "similarity": 0.837837278842926,
+                "tail": "good"
+            },
+            {
+                "head": "PersonX answers ___ correctly",
+                "relation": "xWant",
+                "similarity": 0.8363617956638336,
+                "tail": "win the contest"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX excludes ___ from the territories",
+                "relation": "xWant",
+                "similarity": 0.26319412887096405,
+                "tail": "to improve the country's economy"
+            },
+            {
+                "head": "PersonX excludes ___ from the territories",
+                "relation": "isFilledBy",
+                "similarity": 0.26016605645418167,
+                "tail": "the plan"
+            },
+            {
+                "head": "north america",
+                "relation": "MadeUpOf",
+                "similarity": 0.25963395833969116,
+                "tail": "three countries"
+            },
+            {
+                "head": "PersonX excludes ___ from the territories",
+                "relation": "xAttr",
+                "similarity": 0.25899966806173325,
+                "tail": "racist"
+            },
+            {
+                "head": "PersonX excludes ___ from the territories",
+                "relation": "xIntent",
+                "similarity": 0.25770150125026703,
+                "tail": "to keep their country safe"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.8921704888343811,
+                "tail": "PersonX offers one example"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xIntent",
+                "similarity": 0.8876797556877136,
+                "tail": "to be understood"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xReact",
+                "similarity": 0.8876797556877136,
+                "tail": "understood"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "HinderedBy",
+                "similarity": 0.8862657248973846,
+                "tail": "PersonX doesn't have anymore information to give."
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xReact",
+                "similarity": 0.8850519359111786,
+                "tail": "good about himself"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX is a baseball player",
+                "relation": "xEffect",
+                "similarity": 0.27553942799568176,
+                "tail": "to baseball player"
+            },
+            {
+                "head": "spearman",
+                "relation": "CapableOf",
+                "similarity": 0.26738668978214264,
+                "tail": "throw spear"
+            },
+            {
+                "head": "fencer",
+                "relation": "CapableOf",
+                "similarity": 0.26614394783973694,
+                "tail": "practice lunges"
+            },
+            {
+                "head": "PersonX is a baseball player",
+                "relation": "xEffect",
+                "similarity": 0.26528744399547577,
+                "tail": "Person X practices his swing."
+            },
+            {
+                "head": "fencer",
+                "relation": "CapableOf",
+                "similarity": 0.26299948990345,
+                "tail": "practice parrying"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_16",
+        "question_commonsense": [
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8496703505516052,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.8384439051151276,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8353933095932007,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8338575661182404,
+                "tail": "to explain his project."
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xAttr",
+                "similarity": 0.8328058123588562,
+                "tail": "helpful"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX crosses the ___ to get",
+                "relation": "xIntent",
+                "similarity": 0.2590678185224533,
+                "tail": "persons crosses the  grasess  to get"
+            },
+            {
+                "head": "religious artifact",
+                "relation": "ObjectUse",
+                "similarity": 0.25822271406650543,
+                "tail": "use in religious studies"
+            },
+            {
+                "head": "religious artifact",
+                "relation": "ObjectUse",
+                "similarity": 0.2557428777217865,
+                "tail": "send to a museum"
+            },
+            {
+                "head": "religious artifact",
+                "relation": "ObjectUse",
+                "similarity": 0.25552933663129807,
+                "tail": "exorcise the demons"
+            },
+            {
+                "head": "PersonX crosses the ___ to get",
+                "relation": "xWant",
+                "similarity": 0.25396642833948135,
+                "tail": "to win the crossing competition"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY remark",
+                "relation": "xNeed",
+                "similarity": 0.8948264420032501,
+                "tail": "make sure that the particular remark is right"
+            },
+            {
+                "head": "PersonX follows ___ closely",
+                "relation": "xEffect",
+                "similarity": 0.8928591907024384,
+                "tail": "becomes informed"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xReact",
+                "similarity": 0.8911230266094208,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX makes PersonY remark",
+                "relation": "xAttr",
+                "similarity": 0.8908991515636444,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX makes PersonY remark",
+                "relation": "xNeed",
+                "similarity": 0.888233870267868,
+                "tail": "proper analysis of the situation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "aerial tramway",
+                "relation": "ObjectUse",
+                "similarity": 0.2726060599088669,
+                "tail": "get over your fear of heights by facing them daily"
+            },
+            {
+                "head": "aerial tramway",
+                "relation": "ObjectUse",
+                "similarity": 0.267612487077713,
+                "tail": "board the tram"
+            },
+            {
+                "head": "bungee jump from high bridge",
+                "relation": "HasSubEvent",
+                "similarity": 0.2658132165670395,
+                "tail": "bungee jump feeling"
+            },
+            {
+                "head": "bungee jump from high bridge",
+                "relation": "xNeed",
+                "similarity": 0.26211733371019363,
+                "tail": "measure height of bridge"
+            },
+            {
+                "head": "aerial tramway",
+                "relation": "ObjectUse",
+                "similarity": 0.2601393237709999,
+                "tail": "travel in"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_18",
+        "question_commonsense": [
+            {
+                "head": "PersonX takes part in politics",
+                "relation": "HinderedBy",
+                "similarity": 0.7882934510707855,
+                "tail": "PersonX is forbidden from participating in politics."
+            },
+            {
+                "head": "PersonX takes part in politics",
+                "relation": "HinderedBy",
+                "similarity": 0.7848774194717407,
+                "tail": "PersonX doesn't know how politics works."
+            },
+            {
+                "head": "PersonX sends ___ to parliament",
+                "relation": "xNeed",
+                "similarity": 0.7836490571498871,
+                "tail": "to know what is going on in parliament"
+            },
+            {
+                "head": "PersonX sends ___ to parliament",
+                "relation": "xWant",
+                "similarity": 0.7834051847457886,
+                "tail": "to go to parliament"
+            },
+            {
+                "head": "PersonX takes part in politics",
+                "relation": "HinderedBy",
+                "similarity": 0.7825185358524323,
+                "tail": "PersonX does not have political convictions."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "advertisement",
+                "relation": "ObjectUse",
+                "similarity": 0.2611456587910652,
+                "tail": "electing politician"
+            },
+            {
+                "head": "pamphlet",
+                "relation": "ObjectUse",
+                "similarity": 0.25468070060014725,
+                "tail": "spread propaganda"
+            },
+            {
+                "head": "advertisement",
+                "relation": "ObjectUse",
+                "similarity": 0.2531971335411072,
+                "tail": "supporting political parties"
+            },
+            {
+                "head": "slogan",
+                "relation": "ObjectUse",
+                "similarity": 0.2507106810808182,
+                "tail": "spread propaganda among the masses"
+            },
+            {
+                "head": "advertisement",
+                "relation": "ObjectUse",
+                "similarity": 0.24980994313955307,
+                "tail": "peruse in the newspaper"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_19",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.9185959100723267,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9147485792636871,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9144841134548187,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9106586575508118,
+                "tail": "to make more images"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9087352454662323,
+                "tail": "to thank PersonX"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "china",
+                "relation": "MadeUpOf",
+                "similarity": 0.2532944008708,
+                "tail": "harbin"
+            },
+            {
+                "head": "PersonX builds castles in the air",
+                "relation": "isBefore",
+                "similarity": 0.25319547951221466,
+                "tail": "PersonX sells the castles"
+            },
+            {
+                "head": "china",
+                "relation": "MadeUpOf",
+                "similarity": 0.2530195862054825,
+                "tail": "anhui"
+            },
+            {
+                "head": "china",
+                "relation": "MadeUpOf",
+                "similarity": 0.2527749240398407,
+                "tail": "east asia"
+            },
+            {
+                "head": "china",
+                "relation": "MadeUpOf",
+                "similarity": 0.2523270398378372,
+                "tail": "shenzhen"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes war upon PersonY",
+                "relation": "xNeed",
+                "similarity": 0.8611622750759125,
+                "tail": "to get into a political conflict with PersonY"
+            },
+            {
+                "head": "political ideology",
+                "relation": "MadeUpOf",
+                "similarity": 0.8599097728729248,
+                "tail": "political ideals"
+            },
+            {
+                "head": "PersonX puts PersonY ___ to the war",
+                "relation": "xAttr",
+                "similarity": 0.8550768494606018,
+                "tail": "powerful"
+            },
+            {
+                "head": "PersonX puts PersonY ___ to the war",
+                "relation": "xReact",
+                "similarity": 0.8550155162811279,
+                "tail": "good"
+            },
+            {
+                "head": "PersonX puts PersonY ___ to the war",
+                "relation": "xWant",
+                "similarity": 0.8549090027809143,
+                "tail": "to let the world know"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX develops PersonY theory",
+                "relation": "HinderedBy",
+                "similarity": 0.28102073073387146,
+                "tail": "PersonX doesn't understand the theory."
+            },
+            {
+                "head": "PersonX develops PersonY theory",
+                "relation": "xNeed",
+                "similarity": 0.2794863432645798,
+                "tail": "to understand PersonY's theory"
+            },
+            {
+                "head": "PersonX develops PersonY theory",
+                "relation": "xNeed",
+                "similarity": 0.2794863432645798,
+                "tail": "to understand PersonY's theory"
+            },
+            {
+                "head": "PersonX develops PersonY theory",
+                "relation": "oWant",
+                "similarity": 0.2793485224246979,
+                "tail": "to write down the theory"
+            },
+            {
+                "head": "PersonX develops PersonY theory",
+                "relation": "xWant",
+                "similarity": 0.2793485224246979,
+                "tail": "to write down the theory"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_21",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7961870431900024,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7929632663726807,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7902713418006897,
+                "tail": "scientific"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7901119291782379,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "world",
+                "relation": "HasProperty",
+                "similarity": 0.7889928221702576,
+                "tail": "divided in many countries"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xNeed",
+                "similarity": 0.28483204543590546,
+                "tail": "decide what groups they should be in"
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xIntent",
+                "similarity": 0.276449590921402,
+                "tail": "to set up groups."
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xWant",
+                "similarity": 0.2678450495004654,
+                "tail": "address each group"
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xIntent",
+                "similarity": 0.2666051685810089,
+                "tail": "to categorize"
+            },
+            {
+                "head": "PersonX divides the ___ into groups",
+                "relation": "xWant",
+                "similarity": 0.2639688700437546,
+                "tail": "to assign task to each group"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX learns japanese",
+                "relation": "xNeed",
+                "similarity": 0.7198780477046967,
+                "tail": "To take classes for japanese"
+            },
+            {
+                "head": "chinese person",
+                "relation": "AtLocation",
+                "similarity": 0.7131306529045105,
+                "tail": "china"
+            },
+            {
+                "head": "PersonX learns japanese",
+                "relation": "xWant",
+                "similarity": 0.7097077369689941,
+                "tail": "to practise his japanese language with others"
+            },
+            {
+                "head": "PersonX learns japanese",
+                "relation": "xNeed",
+                "similarity": 0.7096209824085236,
+                "tail": "to attend the japanese language class"
+            },
+            {
+                "head": "PersonX learns japanese",
+                "relation": "xWant",
+                "similarity": 0.7086032330989838,
+                "tail": "to visit japan to test out their new japanese speakin skills"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "dojo",
+                "relation": "ObjectUse",
+                "similarity": 0.2820257991552353,
+                "tail": "watch a demonstration"
+            },
+            {
+                "head": "dojo",
+                "relation": "ObjectUse",
+                "similarity": 0.2677340507507324,
+                "tail": "watch a martial arts match"
+            },
+            {
+                "head": "dojo",
+                "relation": "ObjectUse",
+                "similarity": 0.2676095813512802,
+                "tail": "practice martial arts in"
+            },
+            {
+                "head": "dojo",
+                "relation": "ObjectUse",
+                "similarity": 0.26662782579660416,
+                "tail": "honor the lineage of master practitioners"
+            },
+            {
+                "head": "guillotine",
+                "relation": "ObjectUse",
+                "similarity": 0.2609767019748688,
+                "tail": "torture the inmates"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_23",
+        "question_commonsense": [
+            {
+                "head": "cartoon",
+                "relation": "ObjectUse",
+                "similarity": 0.7497294545173645,
+                "tail": "make propaganda"
+            },
+            {
+                "head": "illustration",
+                "relation": "MadeUpOf",
+                "similarity": 0.7464955747127533,
+                "tail": "caption"
+            },
+            {
+                "head": "drawing",
+                "relation": "ObjectUse",
+                "similarity": 0.7394669950008392,
+                "tail": "make propaganda"
+            },
+            {
+                "head": "diagram",
+                "relation": "AtLocation",
+                "similarity": 0.7381100058555603,
+                "tail": "demonstration"
+            },
+            {
+                "head": "advertisement",
+                "relation": "ObjectUse",
+                "similarity": 0.7359776496887207,
+                "tail": "sell"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX strikes PersonY a blow",
+                "relation": "oWant",
+                "similarity": 0.2834297716617584,
+                "tail": "strike PersonX back"
+            },
+            {
+                "head": "PersonX strikes PersonY a blow",
+                "relation": "isAfter",
+                "similarity": 0.27404601871967316,
+                "tail": "PersonX has a boxing match with PersonY"
+            },
+            {
+                "head": "PersonX strikes a blow",
+                "relation": "xNeed",
+                "similarity": 0.2715231329202652,
+                "tail": "to swing the bat"
+            },
+            {
+                "head": "PersonX strikes a blow",
+                "relation": "xWant",
+                "similarity": 0.2715231329202652,
+                "tail": "to swing the bat again"
+            },
+            {
+                "head": "PersonX strikes a blow",
+                "relation": "HinderedBy",
+                "similarity": 0.26955150067806244,
+                "tail": "striking people in church is not allowed"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_24",
+        "question_commonsense": [
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.7951659858226776,
+                "tail": "economic theory"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7951136529445648,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7932261824607849,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7924339175224304,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7876758277416229,
+                "tail": "PersonX puts away diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2749692499637604,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2663421779870987,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.26631440222263336,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xEffect",
+                "similarity": 0.26585209369659424,
+                "tail": "explains the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.26356832683086395,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_25",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xEffect",
+                "similarity": 0.8746372759342194,
+                "tail": "explains the diagram"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8652796447277069,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xReact",
+                "similarity": 0.863424688577652,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xAttr",
+                "similarity": 0.8617682158946991,
+                "tail": "comprehensive"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "oEffect",
+                "similarity": 0.859937310218811,
+                "tail": "understand the schematics"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "indian ocean",
+                "relation": "AtLocation",
+                "similarity": 0.2733873128890991,
+                "tail": "asia"
+            },
+            {
+                "head": "landmass",
+                "relation": "ObjectUse",
+                "similarity": 0.26967230439186096,
+                "tail": "creating islands and or continents"
+            },
+            {
+                "head": "landmass",
+                "relation": "ObjectUse",
+                "similarity": 0.2668166309595108,
+                "tail": "establishing civilizations"
+            },
+            {
+                "head": "indian ocean",
+                "relation": "ObjectUse",
+                "similarity": 0.26589955389499664,
+                "tail": "travel to other countries"
+            },
+            {
+                "head": "paper map",
+                "relation": "ObjectUse",
+                "similarity": 0.26513250172138214,
+                "tail": "teach geography"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_26",
+        "question_commonsense": [
+            {
+                "head": "PersonX lets PersonY know what you think",
+                "relation": "HinderedBy",
+                "similarity": 0.9006053805351257,
+                "tail": "PersonX does not know what you think."
+            },
+            {
+                "head": "PersonX lets PersonY know what you think",
+                "relation": "xIntent",
+                "similarity": 0.8980441987514496,
+                "tail": "to know you think"
+            },
+            {
+                "head": "PersonX lets PersonY know what you think",
+                "relation": "xWant",
+                "similarity": 0.8929581940174103,
+                "tail": "to be understood"
+            },
+            {
+                "head": "PersonX tells PersonY the truth",
+                "relation": "oEffect",
+                "similarity": 0.8913481533527374,
+                "tail": "knows the truth"
+            },
+            {
+                "head": "PersonX tells the truth",
+                "relation": "oWant",
+                "similarity": 0.8897444009780884,
+                "tail": "to understand it"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX learns about history",
+                "relation": "xNeed",
+                "similarity": 0.2768488824367523,
+                "tail": "find a source to teach history"
+            },
+            {
+                "head": "PersonX learns about history",
+                "relation": "xNeed",
+                "similarity": 0.2621570751070976,
+                "tail": "to visit historical sights"
+            },
+            {
+                "head": "PersonX learns about history",
+                "relation": "HinderedBy",
+                "similarity": 0.26144085824489594,
+                "tail": "No one wants to teach personX about history."
+            },
+            {
+                "head": "PersonX learns about history",
+                "relation": "xEffect",
+                "similarity": 0.26030321419239044,
+                "tail": "ENJOYS HISTORY"
+            },
+            {
+                "head": "PersonX excludes ___ from the territories",
+                "relation": "xAttr",
+                "similarity": 0.25704876333475113,
+                "tail": "racist"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_27",
+        "question_commonsense": [
+            {
+                "head": "china",
+                "relation": "MadeUpOf",
+                "similarity": 0.7990489900112152,
+                "tail": "east asia"
+            },
+            {
+                "head": "chinese person",
+                "relation": "AtLocation",
+                "similarity": 0.7978417277336121,
+                "tail": "china"
+            },
+            {
+                "head": "chinese person",
+                "relation": "CapableOf",
+                "similarity": 0.7920767366886139,
+                "tail": "read chinese book"
+            },
+            {
+                "head": "chinese",
+                "relation": "CapableOf",
+                "similarity": 0.7882306575775146,
+                "tail": "speak mandarin"
+            },
+            {
+                "head": "PersonX makes an exhibition of oneself",
+                "relation": "xNeed",
+                "similarity": 0.7835217714309692,
+                "tail": "to be good"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "china",
+                "relation": "MadeUpOf",
+                "similarity": 0.2747960686683655,
+                "tail": "anhui"
+            },
+            {
+                "head": "china",
+                "relation": "MadeUpOf",
+                "similarity": 0.27005527913570404,
+                "tail": "harbin"
+            },
+            {
+                "head": "china",
+                "relation": "MadeUpOf",
+                "similarity": 0.2686843276023865,
+                "tail": "guangzhou"
+            },
+            {
+                "head": "gis system",
+                "relation": "ObjectUse",
+                "similarity": 0.2666737884283066,
+                "tail": "mark an itinerary"
+            },
+            {
+                "head": "gis system",
+                "relation": "ObjectUse",
+                "similarity": 0.2662504315376282,
+                "tail": "type in a new route"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8675168752670288,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8672693967819214,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.8644998669624329,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8623131215572357,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8591112494468689,
+                "tail": "to make more images"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "statue of buddha",
+                "relation": "ObjectUse",
+                "similarity": 0.26112816482782364,
+                "tail": "meditation"
+            },
+            {
+                "head": "statue",
+                "relation": "ObjectUse",
+                "similarity": 0.25849637389183044,
+                "tail": "propagandanize a figure"
+            },
+            {
+                "head": "kyushu",
+                "relation": "AtLocation",
+                "similarity": 0.25642237067222595,
+                "tail": "east asia"
+            },
+            {
+                "head": "statue",
+                "relation": "ObjectUse",
+                "similarity": 0.25632278621196747,
+                "tail": "honor a civic figure"
+            },
+            {
+                "head": "PersonX finds oneself",
+                "relation": "xNeed",
+                "similarity": 0.2545812055468559,
+                "tail": "to look for oneself"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_29",
+        "question_commonsense": [
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6899102032184601,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.6843299269676208,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "hindi",
+                "relation": "AtLocation",
+                "similarity": 0.680032342672348,
+                "tail": "india"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6723402440547943,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.6694027781486511,
+                "tail": "PersonX makes diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX pays PersonY's share",
+                "relation": "HinderedBy",
+                "similarity": 0.2601654753088951,
+                "tail": "The share costs too much."
+            },
+            {
+                "head": "PersonX pays ___ for goods",
+                "relation": "xNeed",
+                "similarity": 0.2499467208981514,
+                "tail": "some form of currency"
+            },
+            {
+                "head": "PersonX pays PersonY's share",
+                "relation": "HinderedBy",
+                "similarity": 0.2463916540145874,
+                "tail": "There is no money."
+            },
+            {
+                "head": "PersonX pays ___ for goods",
+                "relation": "oWant",
+                "similarity": 0.24613188952207565,
+                "tail": "PersonX's currency"
+            },
+            {
+                "head": "PersonX pays ___ for goods",
+                "relation": "isFilledBy",
+                "similarity": 0.24613188952207565,
+                "tail": "currency"
+            }
+        ]
+    },
+    {
+        "id": "validation_History_30",
+        "question_commonsense": [
+            {
+                "head": "map",
+                "relation": "AtLocation",
+                "similarity": 0.7172513008117676,
+                "tail": "map website"
+            },
+            {
+                "head": "map",
+                "relation": "ObjectUse",
+                "similarity": 0.693967193365097,
+                "tail": "locating place"
+            },
+            {
+                "head": "map",
+                "relation": "ObjectUse",
+                "similarity": 0.6923365294933319,
+                "tail": "locating"
+            },
+            {
+                "head": "map",
+                "relation": "ObjectUse",
+                "similarity": 0.6885121166706085,
+                "tail": "find directions to location"
+            },
+            {
+                "head": "map",
+                "relation": "ObjectUse",
+                "similarity": 0.6881724298000336,
+                "tail": "get directions to the location"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX spreads abroad the ___",
+                "relation": "xIntent",
+                "similarity": 0.2498270347714424,
+                "tail": "spreads abroad the business"
+            },
+            {
+                "head": "space debris",
+                "relation": "AtLocation",
+                "similarity": 0.24872421473264694,
+                "tail": "orbit"
+            },
+            {
+                "head": "global positioning system",
+                "relation": "ObjectUse",
+                "similarity": 0.24804502725601196,
+                "tail": "know your running route"
+            },
+            {
+                "head": "global positioning system",
+                "relation": "ObjectUse",
+                "similarity": 0.2449151575565338,
+                "tail": "track someone's location"
+            },
+            {
+                "head": "PersonX pays the freight",
+                "relation": "HinderedBy",
+                "similarity": 0.2444775551557541,
+                "tail": "Someone else has paid the freight."
+            }
+        ]
+    }
+]

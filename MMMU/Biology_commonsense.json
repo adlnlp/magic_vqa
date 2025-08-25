@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Biology_1",
+        "question_commonsense": [
+            {
+                "head": "PersonX injures PersonX's leg",
+                "relation": "HinderedBy",
+                "similarity": 0.8040997385978699,
+                "tail": "PersonX has no legs."
+            },
+            {
+                "head": "PersonX injures PersonX's leg",
+                "relation": "xEffect",
+                "similarity": 0.7975906729698181,
+                "tail": "his leg bleeds"
+            },
+            {
+                "head": "PersonX injures PersonX's leg",
+                "relation": "isBefore",
+                "similarity": 0.7881957292556763,
+                "tail": "PersonX cannot walk on PersonX's leg"
+            },
+            {
+                "head": "PersonX injures PersonY's leg",
+                "relation": "isAfter",
+                "similarity": 0.7881053686141968,
+                "tail": "PersonX kicks PersonY"
+            },
+            {
+                "head": "PersonX injures PersonX's leg",
+                "relation": "HinderedBy",
+                "similarity": 0.7804786562919617,
+                "tail": "They can't find an object to cause injury."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.285062775015831,
+                "tail": "renal vein"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.28486116230487823,
+                "tail": "adrenal gland"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.28407011926174164,
+                "tail": "convoluted tubule"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.28376466035842896,
+                "tail": "renal cortex"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.2833034098148346,
+                "tail": "renal artery"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.7493689358234406,
+                "tail": "test if variable works"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.7438382208347321,
+                "tail": "check what is affecting the variables"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xEffect",
+                "similarity": 0.7311738431453705,
+                "tail": "PersonX forms a hypothesis"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xNeed",
+                "similarity": 0.7308734357357025,
+                "tail": "to be studying financial reports"
+            },
+            {
+                "head": "PersonX assigns a ___ to a variable",
+                "relation": "xWant",
+                "similarity": 0.7301249206066132,
+                "tail": "figure out more calculations"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "dust particles",
+                "relation": "ObjectUse",
+                "similarity": 0.252786785364151,
+                "tail": "analyze under a microscope"
+            },
+            {
+                "head": "bacteria",
+                "relation": "HasProperty",
+                "similarity": 0.24810674041509628,
+                "tail": "microscopic"
+            },
+            {
+                "head": "PersonX inhibits ___ in vitro",
+                "relation": "xEffect",
+                "similarity": 0.24086198955774307,
+                "tail": "wins the scientist award"
+            },
+            {
+                "head": "bacteria",
+                "relation": "AtLocation",
+                "similarity": 0.24067995697259903,
+                "tail": "petri dish"
+            },
+            {
+                "head": "small organisms",
+                "relation": "ObjectUse",
+                "similarity": 0.23889120668172836,
+                "tail": "create a virus"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX does the math",
+                "relation": "isAfter",
+                "similarity": 0.7617321014404297,
+                "tail": "PersonX had a math problem"
+            },
+            {
+                "head": "science",
+                "relation": "MadeUpOf",
+                "similarity": 0.7613090872764587,
+                "tail": "organic chemistry"
+            },
+            {
+                "head": "PersonX does the math",
+                "relation": "HinderedBy",
+                "similarity": 0.7570845782756805,
+                "tail": "PersonX failed math 101"
+            },
+            {
+                "head": "science",
+                "relation": "MadeUpOf",
+                "similarity": 0.7570324838161469,
+                "tail": "scientific theory"
+            },
+            {
+                "head": "science",
+                "relation": "ObjectUse",
+                "similarity": 0.7566717565059662,
+                "tail": "chemistry"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "membrane",
+                "relation": "ObjectUse",
+                "similarity": 0.27886974811553955,
+                "tail": "surround delicate body organs"
+            },
+            {
+                "head": "membrane",
+                "relation": "ObjectUse",
+                "similarity": 0.2663769945502281,
+                "tail": "filtration"
+            },
+            {
+                "head": "membrane",
+                "relation": "ObjectUse",
+                "similarity": 0.26037993282079697,
+                "tail": "create osmosis"
+            },
+            {
+                "head": "membrane",
+                "relation": "ObjectUse",
+                "similarity": 0.26017455756664276,
+                "tail": "separating fluids"
+            },
+            {
+                "head": "membrane",
+                "relation": "AtLocation",
+                "similarity": 0.2557172402739525,
+                "tail": "cell"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_4",
+        "question_commonsense": [
+            {
+                "head": "proof of pedigree",
+                "relation": "ObjectUse",
+                "similarity": 0.8054825067520142,
+                "tail": "enter a contest"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.8048650920391083,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX makes PersonY inference",
+                "relation": "HinderedBy",
+                "similarity": 0.802564799785614,
+                "tail": "PersonX has not spoken with PersonY."
+            },
+            {
+                "head": "proof of pedigree",
+                "relation": "ObjectUse",
+                "similarity": 0.8024886548519135,
+                "tail": "be able to win a prize"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.8022964000701904,
+                "tail": "looks at picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29330165684223175,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2918805629014969,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "family tree",
+                "relation": "ObjectUse",
+                "similarity": 0.29009266197681427,
+                "tail": "branch out over many generations"
+            },
+            {
+                "head": "family tree",
+                "relation": "ObjectUse",
+                "similarity": 0.28983400762081146,
+                "tail": "see who your ancestors are"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2888311594724655,
+                "tail": "procure a book with diagrams"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX looks like figure",
+                "relation": "xWant",
+                "similarity": 0.8908537328243256,
+                "tail": "to look closely at the figure"
+            },
+            {
+                "head": "PersonX looks like figure",
+                "relation": "HinderedBy",
+                "similarity": 0.881552666425705,
+                "tail": "PersonX cannot move the same way as the figure."
+            },
+            {
+                "head": "PersonX looks like figure",
+                "relation": "xAttr",
+                "similarity": 0.8770622909069061,
+                "tail": "beautiful"
+            },
+            {
+                "head": "PersonX looks like figure",
+                "relation": "xAttr",
+                "similarity": 0.8770622909069061,
+                "tail": "beautiful"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.8767400681972504,
+                "tail": "PersonX offers one example"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "virus",
+                "relation": "ObjectUse",
+                "similarity": 0.2679902911186218,
+                "tail": "infect"
+            },
+            {
+                "head": "malaria",
+                "relation": "HasProperty",
+                "similarity": 0.2646263688802719,
+                "tail": "carried by mosquitoes"
+            },
+            {
+                "head": "PersonX threads the needle",
+                "relation": "xNeed",
+                "similarity": 0.2600037306547165,
+                "tail": "to hold the needle"
+            },
+            {
+                "head": "virus",
+                "relation": "ObjectUse",
+                "similarity": 0.2532624378800392,
+                "tail": "destroy cells"
+            },
+            {
+                "head": "virus",
+                "relation": "ObjectUse",
+                "similarity": 0.2522708475589752,
+                "tail": "mutate"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX plays PersonY ___ in the pathogenesis",
+                "relation": "xWant",
+                "similarity": 0.7880909740924835,
+                "tail": "to find out what Pathogenesis is"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.7823237478733063,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xAttr",
+                "similarity": 0.7769386768341064,
+                "tail": "scientific"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.7765848338603973,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.7734476923942566,
+                "tail": "PersonX puts away diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.3031960427761078,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.30072684586048126,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2967078238725662,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.29233168065547943,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.28823554515838623,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_7",
+        "question_commonsense": [
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.7615911662578583,
+                "tail": "remove cells from the tumor"
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "xIntent",
+                "similarity": 0.7605641484260559,
+                "tail": "to learn medicine."
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "isBefore",
+                "similarity": 0.7576582133769989,
+                "tail": "PersonX gets accepted to medical school"
+            },
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "isBefore",
+                "similarity": 0.7576582133769989,
+                "tail": "PersonX gets accepted to medical school"
+            },
+            {
+                "head": "biopsy",
+                "relation": "ObjectUse",
+                "similarity": 0.7554738521575928,
+                "tail": "write a medical journal"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.27230381965637207,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "membrane",
+                "relation": "ObjectUse",
+                "similarity": 0.26810212433338165,
+                "tail": "surround delicate body organs"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.26681528985500336,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2621205449104309,
+                "tail": "PersonX puts away diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2618837505578995,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX sees a bird",
+                "relation": "HinderedBy",
+                "similarity": 0.5471222698688507,
+                "tail": "It is winter and there are no birds around."
+            },
+            {
+                "head": "PersonX sees a bird",
+                "relation": "xEffect",
+                "similarity": 0.5427271127700806,
+                "tail": "sees a feather falling through the air"
+            },
+            {
+                "head": "PersonX eats crow",
+                "relation": "oWant",
+                "similarity": 0.5412160754203796,
+                "tail": "to be superior"
+            },
+            {
+                "head": "PersonX eats crow",
+                "relation": "xAttr",
+                "similarity": 0.5377208292484283,
+                "tail": "adventurous"
+            },
+            {
+                "head": "PersonX sees a bird",
+                "relation": "xWant",
+                "similarity": 0.5374625325202942,
+                "tail": "to research what bird that was."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX swings PersonY",
+                "relation": "oEffect",
+                "similarity": 0.27570846676826477,
+                "tail": "Person Y goes flying"
+            },
+            {
+                "head": "PersonX swings through ___",
+                "relation": "xNeed",
+                "similarity": 0.2731212079524994,
+                "tail": "to be at bat"
+            },
+            {
+                "head": "PersonX swings PersonY",
+                "relation": "xEffect",
+                "similarity": 0.2713075280189514,
+                "tail": "he falls down"
+            },
+            {
+                "head": "PersonX swings through ___",
+                "relation": "xEffect",
+                "similarity": 0.2713075280189514,
+                "tail": "Falls down"
+            },
+            {
+                "head": "PersonX swings through ___",
+                "relation": "xEffect",
+                "similarity": 0.2713075280189514,
+                "tail": "falls"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_9",
+        "question_commonsense": [
+            {
+                "head": "dna",
+                "relation": "HasProperty",
+                "similarity": 0.6762225925922394,
+                "tail": "short for deoxyribonucleic acid"
+            },
+            {
+                "head": "dna",
+                "relation": "MadeUpOf",
+                "similarity": 0.6600266993045807,
+                "tail": "nucleotide"
+            },
+            {
+                "head": "dna",
+                "relation": "MadeUpOf",
+                "similarity": 0.656647652387619,
+                "tail": "adenozine"
+            },
+            {
+                "head": "alphabet",
+                "relation": "MadeUpOf",
+                "similarity": 0.6491533517837524,
+                "tail": "h"
+            },
+            {
+                "head": "dna",
+                "relation": "ObjectUse",
+                "similarity": 0.6433629989624023,
+                "tail": "make proteins"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "medical chart",
+                "relation": "ObjectUse",
+                "similarity": 0.2753307372331619,
+                "tail": "learn medical terms"
+            },
+            {
+                "head": "PersonX deciphers a word 's ___ within context",
+                "relation": "xNeed",
+                "similarity": 0.27345994114875793,
+                "tail": "to know how to decipher word meanings"
+            },
+            {
+                "head": "PersonX distinguishes ___ from terms by following",
+                "relation": "xNeed",
+                "similarity": 0.2699493169784546,
+                "tail": "to read the terms"
+            },
+            {
+                "head": "list of medications",
+                "relation": "ObjectUse",
+                "similarity": 0.2688237279653549,
+                "tail": "check off medicines taken"
+            },
+            {
+                "head": "list of medications",
+                "relation": "ObjectUse",
+                "similarity": 0.2638644427061081,
+                "tail": "check side effects"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_10",
+        "question_commonsense": [
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.7739898264408112,
+                "tail": "genetic disorders"
+            },
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.7726313173770905,
+                "tail": "genetic diseases"
+            },
+            {
+                "head": "quiz",
+                "relation": "ObjectUse",
+                "similarity": 0.7455958127975464,
+                "tail": "test your knowledge"
+            },
+            {
+                "head": "quiz",
+                "relation": "ObjectUse",
+                "similarity": 0.7455958127975464,
+                "tail": "test their knowledge"
+            },
+            {
+                "head": "PersonX follows the doctor 's ___",
+                "relation": "oWant",
+                "similarity": 0.7451536357402802,
+                "tail": "to help patient"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28979140520095825,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2876664400100708,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2826734334230423,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2807641327381134,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.27870357036590576,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_11",
+        "question_commonsense": [
+            {
+                "head": "gas chromatograph",
+                "relation": "AtLocation",
+                "similarity": 0.6998067200183868,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "science",
+                "relation": "ObjectUse",
+                "similarity": 0.6716834902763367,
+                "tail": "chemistry"
+            },
+            {
+                "head": "laboratory tools",
+                "relation": "ObjectUse",
+                "similarity": 0.6690055131912231,
+                "tail": "teach chemistry class"
+            },
+            {
+                "head": "science",
+                "relation": "MadeUpOf",
+                "similarity": 0.6690048277378082,
+                "tail": "organic chemistry"
+            },
+            {
+                "head": "pipette",
+                "relation": "ObjectUse",
+                "similarity": 0.6653344035148621,
+                "tail": "measure volume of liquids"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "spectrophotometer",
+                "relation": "AtLocation",
+                "similarity": 0.2727617472410202,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "lab equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.2716706693172455,
+                "tail": "perform an experiment"
+            },
+            {
+                "head": "laboratory tools",
+                "relation": "ObjectUse",
+                "similarity": 0.2708657681941986,
+                "tail": "analyze samples with"
+            },
+            {
+                "head": "solar cell",
+                "relation": "ObjectUse",
+                "similarity": 0.27067887783050537,
+                "tail": "converting light into electricity"
+            },
+            {
+                "head": "programmable logic controller",
+                "relation": "ObjectUse",
+                "similarity": 0.26970820128917694,
+                "tail": "control processes in factory"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_12",
+        "question_commonsense": [
+            {
+                "head": "petri dishes",
+                "relation": "ObjectUse",
+                "similarity": 0.6467721462249756,
+                "tail": "merge cells together"
+            },
+            {
+                "head": "petri dish",
+                "relation": "AtLocation",
+                "similarity": 0.6458165943622589,
+                "tail": "chemistry lab"
+            },
+            {
+                "head": "petri dishes",
+                "relation": "ObjectUse",
+                "similarity": 0.6446180641651154,
+                "tail": "grow live cultures"
+            },
+            {
+                "head": "petri dishes",
+                "relation": "ObjectUse",
+                "similarity": 0.636637806892395,
+                "tail": "study the diseases"
+            },
+            {
+                "head": "petri dish",
+                "relation": "AtLocation",
+                "similarity": 0.6337136328220367,
+                "tail": "laboratory"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX conducts ___ to determine",
+                "relation": "xWant",
+                "similarity": 0.2777412533760071,
+                "tail": "to publish their findings"
+            },
+            {
+                "head": "PersonX waits tables",
+                "relation": "xWant",
+                "similarity": 0.2723393440246582,
+                "tail": "to count their tips"
+            },
+            {
+                "head": "sheet of instructions",
+                "relation": "ObjectUse",
+                "similarity": 0.2716212272644043,
+                "tail": "understand the process"
+            },
+            {
+                "head": "PersonX waits tables",
+                "relation": "oWant",
+                "similarity": 0.26788992434740067,
+                "tail": "to order food"
+            },
+            {
+                "head": "PersonX conducts ___ to determine",
+                "relation": "xWant",
+                "similarity": 0.26786649227142334,
+                "tail": "To publish results"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_13",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.6434536576271057,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6421588063240051,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "PersonX diagnoses with diabetes",
+                "relation": "isBefore",
+                "similarity": 0.6268846094608307,
+                "tail": "PersonX writes up a prescription for insulin"
+            },
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6268845200538635,
+                "tail": "determine the nutritional content of a food"
+            },
+            {
+                "head": "PersonX diagnoses with diabetes",
+                "relation": "xNeed",
+                "similarity": 0.6238816380500793,
+                "tail": "to assess a patient"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2760089486837387,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.27491095662117004,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.271932914853096,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2698768973350525,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2681135982275009,
+                "tail": "clearly present data"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.6698874533176422,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6576333940029144,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "group of animals",
+                "relation": "ObjectUse",
+                "similarity": 0.6565756499767303,
+                "tail": "provide familial ties between individual animals"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.6502577364444733,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6496749222278595,
+                "tail": "procure a book with diagrams"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.28817714750766754,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "emacs",
+                "relation": "MadeUpOf",
+                "similarity": 0.2872976064682007,
+                "tail": "emacs lisp"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.28726544976234436,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "family tree",
+                "relation": "ObjectUse",
+                "similarity": 0.2861092835664749,
+                "tail": "find displaced/estranged family"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2845911383628845,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_15",
+        "question_commonsense": [
+            {
+                "head": "site",
+                "relation": "ObjectUse",
+                "similarity": 0.8424943387508392,
+                "tail": "host a website"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.8396014273166656,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "search site",
+                "relation": "ObjectUse",
+                "similarity": 0.8342190682888031,
+                "tail": "see what's out there"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.8341932594776154,
+                "tail": "to pick up a picture"
+            },
+            {
+                "head": "search site",
+                "relation": "ObjectUse",
+                "similarity": 0.8323802947998047,
+                "tail": "find the newest video game"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "mount erebus",
+                "relation": "AtLocation",
+                "similarity": 0.28530465066432953,
+                "tail": "ross island"
+            },
+            {
+                "head": "mount erebus",
+                "relation": "AtLocation",
+                "similarity": 0.28201715648174286,
+                "tail": "antarctica"
+            },
+            {
+                "head": "jan mayen",
+                "relation": "AtLocation",
+                "similarity": 0.27871614694595337,
+                "tail": "arctic ocean"
+            },
+            {
+                "head": "lava",
+                "relation": "HasProperty",
+                "similarity": 0.2737228721380234,
+                "tail": "melted rock from volcanoes"
+            },
+            {
+                "head": "mount hood",
+                "relation": "AtLocation",
+                "similarity": 0.27008256316185,
+                "tail": "oregon"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_16",
+        "question_commonsense": [
+            {
+                "head": "compound molecule",
+                "relation": "MadeUpOf",
+                "similarity": 0.7758134603500366,
+                "tail": "different atoms"
+            },
+            {
+                "head": "formal logic",
+                "relation": "ObjectUse",
+                "similarity": 0.7525083422660828,
+                "tail": "prove theorems"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "HinderedBy",
+                "similarity": 0.7520820796489716,
+                "tail": "PersonY forgot to bring the equation to class"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "xWant",
+                "similarity": 0.7501790523529053,
+                "tail": "answer another math problem"
+            },
+            {
+                "head": "PersonX solves PersonY equation",
+                "relation": "oEffect",
+                "similarity": 0.7466381788253784,
+                "tail": "Practices maths equation"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xIntent",
+                "similarity": 0.3153882771730423,
+                "tail": "to set up groups."
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xNeed",
+                "similarity": 0.30697089433670044,
+                "tail": "decide what groups they should be in"
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xWant",
+                "similarity": 0.30120043456554413,
+                "tail": "to create small groups"
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xWant",
+                "similarity": 0.2891760915517807,
+                "tail": "address each group"
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xNeed",
+                "similarity": 0.28594793379306793,
+                "tail": "a large group of people"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_17",
+        "question_commonsense": [
+            {
+                "head": "brain",
+                "relation": "AtLocation",
+                "similarity": 0.8020886778831482,
+                "tail": "skull"
+            },
+            {
+                "head": "brain",
+                "relation": "HasProperty",
+                "similarity": 0.7988626658916473,
+                "tail": "protected by skull"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.7977173626422882,
+                "tail": "frontal lobe"
+            },
+            {
+                "head": "human head",
+                "relation": "HasProperty",
+                "similarity": 0.797441691160202,
+                "tail": "brain"
+            },
+            {
+                "head": "brain",
+                "relation": "MadeUpOf",
+                "similarity": 0.790991872549057,
+                "tail": "visual cortex"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "main artery",
+                "relation": "AtLocation",
+                "similarity": 0.29556041955947876,
+                "tail": "cirulatory system"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.29296381771564484,
+                "tail": "arcuate artery of kidney"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.29256801307201385,
+                "tail": "renal vein"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.29173702001571655,
+                "tail": "arcuate vein of kidney"
+            },
+            {
+                "head": "kidney",
+                "relation": "MadeUpOf",
+                "similarity": 0.28969553112983704,
+                "tail": "renal artery"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_18",
+        "question_commonsense": [
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.671074628829956,
+                "tail": "genetic disorders"
+            },
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.6708702743053436,
+                "tail": "genetic diseases"
+            },
+            {
+                "head": "protein",
+                "relation": "MadeUpOf",
+                "similarity": 0.6673782169818878,
+                "tail": "amino acid"
+            },
+            {
+                "head": "protein",
+                "relation": "MadeUpOf",
+                "similarity": 0.6512160003185272,
+                "tail": "aminoacids"
+            },
+            {
+                "head": "protein",
+                "relation": "ObjectUse",
+                "similarity": 0.6466678082942963,
+                "tail": "repair tissue"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.27588534355163574,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2730504274368286,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "programmable logic controller",
+                "relation": "ObjectUse",
+                "similarity": 0.2729072868824005,
+                "tail": "control processes in factory"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.26848964393138885,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2629818618297577,
+                "tail": "PersonX makes diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_19",
+        "question_commonsense": [
+            {
+                "head": "infection",
+                "relation": "HasProperty",
+                "similarity": 0.6582369804382324,
+                "tail": "caused by bacteria and viruses"
+            },
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.6551038920879364,
+                "tail": "genetic diseases"
+            },
+            {
+                "head": "infection",
+                "relation": "HasProperty",
+                "similarity": 0.6544095873832703,
+                "tail": "caused by bacteria"
+            },
+            {
+                "head": "bacteria",
+                "relation": "Causes",
+                "similarity": 0.6543916761875153,
+                "tail": "infection in cut"
+            },
+            {
+                "head": "antibiotics",
+                "relation": "ObjectUse",
+                "similarity": 0.6533052623271942,
+                "tail": "combat bacteria"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.2865816354751587,
+                "tail": "genetic diseases"
+            },
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.2858746200799942,
+                "tail": "genetic disorders"
+            },
+            {
+                "head": "dna",
+                "relation": "HasProperty",
+                "similarity": 0.2767728418111801,
+                "tail": "short for deoxyribonucleic acid"
+            },
+            {
+                "head": "dna",
+                "relation": "MadeUpOf",
+                "similarity": 0.27571988105773926,
+                "tail": "nucleotide"
+            },
+            {
+                "head": "dna",
+                "relation": "ObjectUse",
+                "similarity": 0.27469877898693085,
+                "tail": "make proteins"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_20",
+        "question_commonsense": [
+            {
+                "head": "oxygen",
+                "relation": "HasProperty",
+                "similarity": 0.7112195193767548,
+                "tail": "essential for respiration"
+            },
+            {
+                "head": "PersonX increases the patient 's ___",
+                "relation": "isFilledBy",
+                "similarity": 0.7017053961753845,
+                "tail": "antibiotic dose"
+            },
+            {
+                "head": "PersonX increases the patient 's ___",
+                "relation": "xNeed",
+                "similarity": 0.7001818120479584,
+                "tail": "examine patient roughly"
+            },
+            {
+                "head": "oxygen",
+                "relation": "HasProperty",
+                "similarity": 0.6883431077003479,
+                "tail": "breathed"
+            },
+            {
+                "head": "PersonX increases the patient 's ___",
+                "relation": "oWant",
+                "similarity": 0.686872124671936,
+                "tail": "to stay healthy"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.27148735523223877,
+                "tail": "summarize pages of boring numbers"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2664348930120468,
+                "tail": "determine profit margin"
+            },
+            {
+                "head": "PersonX measures ___ in length",
+                "relation": "xIntent",
+                "similarity": 0.26237575709819794,
+                "tail": "measure distance"
+            },
+            {
+                "head": "graph",
+                "relation": "ObjectUse",
+                "similarity": 0.2610477805137634,
+                "tail": "clearly present data"
+            },
+            {
+                "head": "graph",
+                "relation": "MadeUpOf",
+                "similarity": 0.25565187633037567,
+                "tail": "curve"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_21",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8430359065532684,
+                "tail": "to sell the image"
+            },
+            {
+                "head": "PersonX offer to help PersonY",
+                "relation": "xNeed",
+                "similarity": 0.8397107422351837,
+                "tail": "to have been asked for help by PersonY"
+            },
+            {
+                "head": "list of questions",
+                "relation": "ObjectUse",
+                "similarity": 0.8379685878753662,
+                "tail": "find out information"
+            },
+            {
+                "head": "PersonX offer to help PersonY",
+                "relation": "xIntent",
+                "similarity": 0.8363809883594513,
+                "tail": "to help something"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8360873162746429,
+                "tail": "to give the image to PersonY"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "membrane",
+                "relation": "ObjectUse",
+                "similarity": 0.28218208253383636,
+                "tail": "surround delicate body organs"
+            },
+            {
+                "head": "PersonX plays PersonY ___ in the pathogenesis",
+                "relation": "xWant",
+                "similarity": 0.2705543339252472,
+                "tail": "to find out what Pathogenesis is"
+            },
+            {
+                "head": "membrane",
+                "relation": "ObjectUse",
+                "similarity": 0.2681349813938141,
+                "tail": "create osmosis"
+            },
+            {
+                "head": "diaphragm",
+                "relation": "AtLocation",
+                "similarity": 0.26599666476249695,
+                "tail": "respitory system"
+            },
+            {
+                "head": "membrane",
+                "relation": "AtLocation",
+                "similarity": 0.25855883955955505,
+                "tail": "cell"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX sets a ___ at variance",
+                "relation": "xNeed",
+                "similarity": 0.8485208749771118,
+                "tail": "to have the thing in question"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xWant",
+                "similarity": 0.8481130599975586,
+                "tail": "make decisions based on the data analysis"
+            },
+            {
+                "head": "PersonX makes PersonY inference",
+                "relation": "xWant",
+                "similarity": 0.8446088135242462,
+                "tail": "to help PersonX"
+            },
+            {
+                "head": "PersonX makes PersonY inference",
+                "relation": "xReact",
+                "similarity": 0.8424592018127441,
+                "tail": "knowledgable"
+            },
+            {
+                "head": "PersonX uses data analysis",
+                "relation": "xWant",
+                "similarity": 0.8416646122932434,
+                "tail": "to synthesize data"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.300357386469841,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.29477769136428833,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.29444120824337006,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isAfter",
+                "similarity": 0.2897832989692688,
+                "tail": "PersonX makes diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "isBefore",
+                "similarity": 0.2829252779483795,
+                "tail": "PersonX puts away diagram"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_23",
+        "question_commonsense": [
+            {
+                "head": "PersonX applies to medical school",
+                "relation": "xIntent",
+                "similarity": 0.7608075439929962,
+                "tail": "to learn medicine."
+            },
+            {
+                "head": "maintain muscle strength",
+                "relation": "xNeed",
+                "similarity": 0.7595333456993103,
+                "tail": "develop muscle strength"
+            },
+            {
+                "head": "maintain muscle strength",
+                "relation": "xNeed",
+                "similarity": 0.7526048719882965,
+                "tail": "get strong muscles"
+            },
+            {
+                "head": "maintain muscle strength",
+                "relation": "xNeed",
+                "similarity": 0.7525952160358429,
+                "tail": "perform amount of weight training"
+            },
+            {
+                "head": "maintain muscle strength",
+                "relation": "HasSubEvent",
+                "similarity": 0.7504737973213196,
+                "tail": "get healthy"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "main artery",
+                "relation": "AtLocation",
+                "similarity": 0.2998324781656265,
+                "tail": "cirulatory system"
+            },
+            {
+                "head": "intestine",
+                "relation": "ObjectUse",
+                "similarity": 0.29102493822574615,
+                "tail": "digestion"
+            },
+            {
+                "head": "diaphragm",
+                "relation": "AtLocation",
+                "similarity": 0.2888876497745514,
+                "tail": "respitory system"
+            },
+            {
+                "head": "main artery",
+                "relation": "AtLocation",
+                "similarity": 0.2862212359905243,
+                "tail": "organism with heart"
+            },
+            {
+                "head": "main artery",
+                "relation": "ObjectUse",
+                "similarity": 0.28346918523311615,
+                "tail": "providing oxygen to cells"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_24",
+        "question_commonsense": [
+            {
+                "head": "heart",
+                "relation": "MadeUpOf",
+                "similarity": 0.7698593139648438,
+                "tail": "cardiac muscle"
+            },
+            {
+                "head": "circulatory system",
+                "relation": "MadeUpOf",
+                "similarity": 0.7453011870384216,
+                "tail": "heart"
+            },
+            {
+                "head": "heart",
+                "relation": "MadeUpOf",
+                "similarity": 0.7408584952354431,
+                "tail": "heart valve"
+            },
+            {
+                "head": "PersonX has a heart",
+                "relation": "xEffect",
+                "similarity": 0.740469366312027,
+                "tail": "heart beats"
+            },
+            {
+                "head": "heart",
+                "relation": "MadeUpOf",
+                "similarity": 0.7379303276538849,
+                "tail": "coronary artery"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "cell",
+                "relation": "MadeUpOf",
+                "similarity": 0.2988070547580719,
+                "tail": "cytoplasm"
+            },
+            {
+                "head": "cell",
+                "relation": "MadeUpOf",
+                "similarity": 0.29546256363391876,
+                "tail": "organelle"
+            },
+            {
+                "head": "cell",
+                "relation": "MadeUpOf",
+                "similarity": 0.29366596043109894,
+                "tail": "vacuole"
+            },
+            {
+                "head": "cell",
+                "relation": "HasProperty",
+                "similarity": 0.29014886915683746,
+                "tail": "surrounded by membrane"
+            },
+            {
+                "head": "cell",
+                "relation": "MadeUpOf",
+                "similarity": 0.29000428318977356,
+                "tail": "cell wall"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_25",
+        "question_commonsense": [
+            {
+                "head": "nutrition chart",
+                "relation": "ObjectUse",
+                "similarity": 0.6134169101715088,
+                "tail": "to use when debunking the nutrition chart"
+            },
+            {
+                "head": "diagram",
+                "relation": "AtLocation",
+                "similarity": 0.5965002477169037,
+                "tail": "demonstration"
+            },
+            {
+                "head": "map",
+                "relation": "AtLocation",
+                "similarity": 0.5948663651943207,
+                "tail": "map website"
+            },
+            {
+                "head": "map",
+                "relation": "ObjectUse",
+                "similarity": 0.5948266088962555,
+                "tail": "represent mountains"
+            },
+            {
+                "head": "map",
+                "relation": "ObjectUse",
+                "similarity": 0.5943442285060883,
+                "tail": "estimate distances"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "spedometer",
+                "relation": "ObjectUse",
+                "similarity": 0.27612899243831635,
+                "tail": "determine speed"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xEffect",
+                "similarity": 0.262149378657341,
+                "tail": "explains the diagram"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xIntent",
+                "similarity": 0.2577299475669861,
+                "tail": "to explain using figures"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xAttr",
+                "similarity": 0.25724875926971436,
+                "tail": "analytical"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "oEffect",
+                "similarity": 0.2565513476729393,
+                "tail": "understand the schematics"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_26",
+        "question_commonsense": [
+            {
+                "head": "neosporine",
+                "relation": "ObjectUse",
+                "similarity": 0.671636164188385,
+                "tail": "kill bacteria on an abrasion"
+            },
+            {
+                "head": "dna",
+                "relation": "HasProperty",
+                "similarity": 0.6640579104423523,
+                "tail": "short for deoxyribonucleic acid"
+            },
+            {
+                "head": "dna",
+                "relation": "MadeUpOf",
+                "similarity": 0.6626283526420593,
+                "tail": "adenozine"
+            },
+            {
+                "head": "dna",
+                "relation": "MadeUpOf",
+                "similarity": 0.6625519692897797,
+                "tail": "nucleotide"
+            },
+            {
+                "head": "bacteria",
+                "relation": "AtLocation",
+                "similarity": 0.6594931185245514,
+                "tail": "petri dish"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.25667808949947357,
+                "tail": "genetic diseases"
+            },
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.2540212571620941,
+                "tail": "genetic disorders"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.24587222933769226,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "metranome",
+                "relation": "ObjectUse",
+                "similarity": 0.24032940715551376,
+                "tail": "coordinate to a meditative breathing rate"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2398688718676567,
+                "tail": "procure a book with diagrams"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_27",
+        "question_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.7039965093135834,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "dna",
+                "relation": "HasProperty",
+                "similarity": 0.7022524476051331,
+                "tail": "short for deoxyribonucleic acid"
+            },
+            {
+                "head": "dna",
+                "relation": "MadeUpOf",
+                "similarity": 0.6876321732997894,
+                "tail": "nucleotide"
+            },
+            {
+                "head": "dna",
+                "relation": "MadeUpOf",
+                "similarity": 0.6861840188503265,
+                "tail": "adenozine"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.6835592091083527,
+                "tail": "draw a diagram"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2929672598838806,
+                "tail": "draw a diagram"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "xNeed",
+                "similarity": 0.2914094477891922,
+                "tail": "procure a book with diagrams"
+            },
+            {
+                "head": "PersonX shows diagrammatically in fig",
+                "relation": "oWant",
+                "similarity": 0.2912582755088806,
+                "tail": "study the diagram"
+            },
+            {
+                "head": "court system",
+                "relation": "ObjectUse",
+                "similarity": 0.2873995304107666,
+                "tail": "resolving disputes"
+            },
+            {
+                "head": "family tree",
+                "relation": "ObjectUse",
+                "similarity": 0.2871222347021103,
+                "tail": "show and tell in class"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX injures PersonX's knee",
+                "relation": "HinderedBy",
+                "similarity": 0.8043020963668823,
+                "tail": "PersonX's knee is too strong."
+            },
+            {
+                "head": "PersonX injures PersonX's knee",
+                "relation": "HinderedBy",
+                "similarity": 0.8003199100494385,
+                "tail": "PersonX doesn't engage in activities that would allow for injuring the knee."
+            },
+            {
+                "head": "PersonX injures PersonX's knee",
+                "relation": "HinderedBy",
+                "similarity": 0.7931983172893524,
+                "tail": "PersonX has too solid of knees."
+            },
+            {
+                "head": "PersonX injures PersonX's knee",
+                "relation": "xWant",
+                "similarity": 0.7899924516677856,
+                "tail": "to bandage their knee"
+            },
+            {
+                "head": "knee",
+                "relation": "ObjectUse",
+                "similarity": 0.788093239068985,
+                "tail": "knee someone in stomach"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "diaphragm",
+                "relation": "AtLocation",
+                "similarity": 0.28455638885498047,
+                "tail": "respitory system"
+            },
+            {
+                "head": "main artery",
+                "relation": "AtLocation",
+                "similarity": 0.2837273180484772,
+                "tail": "cirulatory system"
+            },
+            {
+                "head": "endoscope",
+                "relation": "ObjectUse",
+                "similarity": 0.2700786143541336,
+                "tail": "look inside a pipe"
+            },
+            {
+                "head": "main artery",
+                "relation": "ObjectUse",
+                "similarity": 0.2666904181241989,
+                "tail": "providing oxygen to cells"
+            },
+            {
+                "head": "main artery",
+                "relation": "AtLocation",
+                "similarity": 0.26642684638500214,
+                "tail": "organism with heart"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_29",
+        "question_commonsense": [
+            {
+                "head": "science",
+                "relation": "MadeUpOf",
+                "similarity": 0.8500432968139648,
+                "tail": "organic chemistry"
+            },
+            {
+                "head": "PersonX reduces the chemical to levels",
+                "relation": "isAfter",
+                "similarity": 0.8438161015510559,
+                "tail": "PersonX mixes hydrogen and oxygen"
+            },
+            {
+                "head": "science",
+                "relation": "ObjectUse",
+                "similarity": 0.842687338590622,
+                "tail": "chemistry"
+            },
+            {
+                "head": "science",
+                "relation": "MadeUpOf",
+                "similarity": 0.8343462347984314,
+                "tail": "scientific theory"
+            },
+            {
+                "head": "product design",
+                "relation": "ObjectUse",
+                "similarity": 0.833965539932251,
+                "tail": "sell product"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "nitrocellulose",
+                "relation": "MadeUpOf",
+                "similarity": 0.2894459515810013,
+                "tail": "nitric acid and cotton"
+            },
+            {
+                "head": "molecule",
+                "relation": "ObjectUse",
+                "similarity": 0.2801855057477951,
+                "tail": "compounds"
+            },
+            {
+                "head": "antiacids",
+                "relation": "ObjectUse",
+                "similarity": 0.2772284299135208,
+                "tail": "neutralize stomach acid"
+            },
+            {
+                "head": "tetrahydrogestrinone",
+                "relation": "HasProperty",
+                "similarity": 0.27639732509851456,
+                "tail": "abbreviated to'thg"
+            },
+            {
+                "head": "molecule",
+                "relation": "AtLocation",
+                "similarity": 0.2725357860326767,
+                "tail": "atom"
+            }
+        ]
+    },
+    {
+        "id": "validation_Biology_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "xReact",
+                "similarity": 0.7960131764411926,
+                "tail": "like they know where PersonY is"
+            },
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "oReact",
+                "similarity": 0.7900130748748779,
+                "tail": "exposed"
+            },
+            {
+                "head": "PersonX plays a ___ in the etiology",
+                "relation": "isFilledBy",
+                "similarity": 0.7895655930042267,
+                "tail": "game"
+            },
+            {
+                "head": "PersonX plays a ___ in the etiology",
+                "relation": "xWant",
+                "similarity": 0.7881097197532654,
+                "tail": "to be great"
+            },
+            {
+                "head": "PersonX plays a ___ in the etiology",
+                "relation": "xWant",
+                "similarity": 0.7870943248271942,
+                "tail": "to further their knowledge"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "color television",
+                "relation": "MadeUpOf",
+                "similarity": 0.25622037053108215,
+                "tail": "color tube"
+            },
+            {
+                "head": "cathode ray tube",
+                "relation": "MadeUpOf",
+                "similarity": 0.2521327808499336,
+                "tail": "screen"
+            },
+            {
+                "head": "membrane",
+                "relation": "ObjectUse",
+                "similarity": 0.24884292483329773,
+                "tail": "surround delicate body organs"
+            },
+            {
+                "head": "cathode ray tube",
+                "relation": "MadeUpOf",
+                "similarity": 0.24746321141719818,
+                "tail": "electron gun"
+            },
+            {
+                "head": "PersonX rings down the curtain",
+                "relation": "xIntent",
+                "similarity": 0.24418672919273376,
+                "tail": "to close the curtain"
+            }
+        ]
+    }
+]

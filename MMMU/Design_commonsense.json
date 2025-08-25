@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Design_1",
+        "question_commonsense": [
+            {
+                "head": "PersonX solves ___ using",
+                "relation": "xReact",
+                "similarity": 0.8866254091262817,
+                "tail": "good about himself"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.8864481747150421,
+                "tail": "to test out her theory"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xEffect",
+                "similarity": 0.886220395565033,
+                "tail": "Starts another task"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xWant",
+                "similarity": 0.8853110074996948,
+                "tail": "find the solution"
+            },
+            {
+                "head": "PersonX solves the ___ using",
+                "relation": "xNeed",
+                "similarity": 0.8830988705158234,
+                "tail": "to learn a formula"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "dress form",
+                "relation": "ObjectUse",
+                "similarity": 0.2784486562013626,
+                "tail": "store scarves and belts"
+            },
+            {
+                "head": "scabbard",
+                "relation": "ObjectUse",
+                "similarity": 0.27694515883922577,
+                "tail": "prevent clothing from being ripped by weapon"
+            },
+            {
+                "head": "second violin",
+                "relation": "ObjectUse",
+                "similarity": 0.2754894644021988,
+                "tail": "accompanying first violin"
+            },
+            {
+                "head": "violin case",
+                "relation": "ObjectUse",
+                "similarity": 0.27342553436756134,
+                "tail": "protect the violin"
+            },
+            {
+                "head": "scabbard",
+                "relation": "ObjectUse",
+                "similarity": 0.2723049372434616,
+                "tail": "decorate with fine jewels"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX sees the elephant",
+                "relation": "isAfter",
+                "similarity": 0.4139087051153183,
+                "tail": "PersonX looks for the elephant at the circus"
+            },
+            {
+                "head": "photo identification",
+                "relation": "ObjectUse",
+                "similarity": 0.4128544181585312,
+                "tail": "prove personal identity"
+            },
+            {
+                "head": "PersonX sees the elephant",
+                "relation": "xWant",
+                "similarity": 0.4118005484342575,
+                "tail": "to observe the elephant"
+            },
+            {
+                "head": "rosetta stone",
+                "relation": "ObjectUse",
+                "similarity": 0.41159988939762115,
+                "tail": "unlock a difficult puzzle"
+            },
+            {
+                "head": "rosetta stone",
+                "relation": "ObjectUse",
+                "similarity": 0.41086189448833466,
+                "tail": "learn about a new culture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "picnic",
+                "relation": "AtLocation",
+                "similarity": 0.272100567817688,
+                "tail": "park"
+            },
+            {
+                "head": "PersonX waters PersonY's lawn",
+                "relation": "oEffect",
+                "similarity": 0.25697343796491623,
+                "tail": "has a fresher lawn"
+            },
+            {
+                "head": "spectator",
+                "relation": "AtLocation",
+                "similarity": 0.2552287355065346,
+                "tail": "sporting event"
+            },
+            {
+                "head": "PersonX waters PersonX's lawn",
+                "relation": "xNeed",
+                "similarity": 0.25517766922712326,
+                "tail": "to have lawn at home"
+            },
+            {
+                "head": "PersonX waters PersonY's lawn",
+                "relation": "oWant",
+                "similarity": 0.2525821030139923,
+                "tail": "cuts the lawn"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_3",
+        "question_commonsense": [
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "xReact",
+                "similarity": 0.8172999620437622,
+                "tail": "like they know where PersonY is"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8150531649589539,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX shows schematically in figure",
+                "relation": "xAttr",
+                "similarity": 0.8142853081226349,
+                "tail": "exacting"
+            },
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "oReact",
+                "similarity": 0.8140382766723633,
+                "tail": "exposed"
+            },
+            {
+                "head": "PersonX shows schematically in figure",
+                "relation": "xIntent",
+                "similarity": 0.8137010931968689,
+                "tail": "figure out his design"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX wants a new dress",
+                "relation": "xEffect",
+                "similarity": 0.3020562380552292,
+                "tail": "PersonX thinks deeply about the dress they want"
+            },
+            {
+                "head": "PersonX finds the perfect dress",
+                "relation": "HinderedBy",
+                "similarity": 0.300968274474144,
+                "tail": "PersonX may not have enough money for a dress."
+            },
+            {
+                "head": "PersonX wants a new dress",
+                "relation": "xWant",
+                "similarity": 0.2924386113882065,
+                "tail": "to select the dress"
+            },
+            {
+                "head": "PersonX finds the perfect dress",
+                "relation": "xEffect",
+                "similarity": 0.2897931933403015,
+                "tail": "buys dress"
+            },
+            {
+                "head": "PersonX wants a new dress",
+                "relation": "xEffect",
+                "similarity": 0.2850346118211746,
+                "tail": "PersonX sweats from  stressing about searching for a dress"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX takes ___ at PersonX's local community college",
+                "relation": "xNeed",
+                "similarity": 0.7630655467510223,
+                "tail": "go to the college"
+            },
+            {
+                "head": "PersonX takes an art class",
+                "relation": "xIntent",
+                "similarity": 0.7575153410434723,
+                "tail": "to teach art to his students"
+            },
+            {
+                "head": "PersonX takes ___ at PersonX's local community college",
+                "relation": "isFilledBy",
+                "similarity": 0.7554965317249298,
+                "tail": "a test"
+            },
+            {
+                "head": "PersonX takes an art class",
+                "relation": "isBefore",
+                "similarity": 0.7516230344772339,
+                "tail": "PersonX creates a painting"
+            },
+            {
+                "head": "PersonX takes ___ at PersonX's local community college",
+                "relation": "xEffect",
+                "similarity": 0.7502382397651672,
+                "tail": "gets a bill for tuition"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX sees yellow",
+                "relation": "xEffect",
+                "similarity": 0.2606082260608673,
+                "tail": "likes yellow"
+            },
+            {
+                "head": "PersonX sees yellow",
+                "relation": "HinderedBy",
+                "similarity": 0.2548765391111374,
+                "tail": "Someone painted over the yellow color."
+            },
+            {
+                "head": "PersonX sees yellow",
+                "relation": "xEffect",
+                "similarity": 0.2520710378885269,
+                "tail": "Use the yellow to paint"
+            },
+            {
+                "head": "PersonX sees yellow",
+                "relation": "xWant",
+                "similarity": 0.2469581663608551,
+                "tail": "to smile at the beautiful yellow thing"
+            },
+            {
+                "head": "gesso",
+                "relation": "ObjectUse",
+                "similarity": 0.2458125427365303,
+                "tail": "prime canvas"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9287235736846924,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX interprets the ___ correctly",
+                "relation": "xEffect",
+                "similarity": 0.9277409613132477,
+                "tail": "comes to the right conclusion"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9263101816177368,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX includes also the ___",
+                "relation": "xReact",
+                "similarity": 0.925163596868515,
+                "tail": "great"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "xNeed",
+                "similarity": 0.924010694026947,
+                "tail": "make a copy of the picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "cap-and-gown set",
+                "relation": "ObjectUse",
+                "similarity": 0.25362052023410797,
+                "tail": "wear as in-formal dress"
+            },
+            {
+                "head": "cap-and-gown set",
+                "relation": "ObjectUse",
+                "similarity": 0.2505020201206207,
+                "tail": "dress up for Halloween"
+            },
+            {
+                "head": "PersonX marries the king 's ___",
+                "relation": "xIntent",
+                "similarity": 0.2489146664738655,
+                "tail": "to be married"
+            },
+            {
+                "head": "housecoat",
+                "relation": "ObjectUse",
+                "similarity": 0.24544984102249146,
+                "tail": "get dressed"
+            },
+            {
+                "head": "PersonX marries ___ at kamouraska",
+                "relation": "isFilledBy",
+                "similarity": 0.24508538842201233,
+                "tail": "fiance"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX thinks could find",
+                "relation": "xEffect",
+                "similarity": 0.8877471387386322,
+                "tail": "Questions"
+            },
+            {
+                "head": "PersonX thinks could find",
+                "relation": "xNeed",
+                "similarity": 0.8876728713512421,
+                "tail": "to go out and look"
+            },
+            {
+                "head": "PersonX looks like something",
+                "relation": "HinderedBy",
+                "similarity": 0.8865970969200134,
+                "tail": "PersonX has never seen the thing they want to look like."
+            },
+            {
+                "head": "PersonX thinks could find",
+                "relation": "xWant",
+                "similarity": 0.8851044476032257,
+                "tail": "to actually find it"
+            },
+            {
+                "head": "PersonX looks like something",
+                "relation": "xReact",
+                "similarity": 0.8848665952682495,
+                "tail": "good"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "portable speakers",
+                "relation": "ObjectUse",
+                "similarity": 0.27324607968330383,
+                "tail": "use the audio components to repair a TV."
+            },
+            {
+                "head": "portable speakers",
+                "relation": "ObjectUse",
+                "similarity": 0.27318695187568665,
+                "tail": "hear music wherever one goes"
+            },
+            {
+                "head": "speakers",
+                "relation": "ObjectUse",
+                "similarity": 0.26634711027145386,
+                "tail": "be able to hear the TV"
+            },
+            {
+                "head": "stereo sound system",
+                "relation": "ObjectUse",
+                "similarity": 0.2638588100671768,
+                "tail": "amplify musical instruments playing"
+            },
+            {
+                "head": "speakers",
+                "relation": "ObjectUse",
+                "similarity": 0.26361802965402603,
+                "tail": "Hear sound waves"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_7",
+        "question_commonsense": [
+            {
+                "head": "PersonX thinks could find",
+                "relation": "xEffect",
+                "similarity": 0.8877471387386322,
+                "tail": "Questions"
+            },
+            {
+                "head": "PersonX thinks could find",
+                "relation": "xNeed",
+                "similarity": 0.8876728713512421,
+                "tail": "to go out and look"
+            },
+            {
+                "head": "PersonX looks like something",
+                "relation": "HinderedBy",
+                "similarity": 0.8865970969200134,
+                "tail": "PersonX has never seen the thing they want to look like."
+            },
+            {
+                "head": "PersonX thinks could find",
+                "relation": "xWant",
+                "similarity": 0.8851044476032257,
+                "tail": "to actually find it"
+            },
+            {
+                "head": "PersonX looks like something",
+                "relation": "xReact",
+                "similarity": 0.8848665952682495,
+                "tail": "good"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX smells really good",
+                "relation": "xReact",
+                "similarity": 0.28578704595565796,
+                "tail": "happy to smell good parfume."
+            },
+            {
+                "head": "PersonX smells really good",
+                "relation": "xEffect",
+                "similarity": 0.279347687959671,
+                "tail": "he smells like perfume"
+            },
+            {
+                "head": "men's cologne",
+                "relation": "ObjectUse",
+                "similarity": 0.2785363793373108,
+                "tail": "smell good with"
+            },
+            {
+                "head": "bottle of perfume",
+                "relation": "ObjectUse",
+                "similarity": 0.278240829706192,
+                "tail": "smell nice"
+            },
+            {
+                "head": "PersonX smells like PersonY",
+                "relation": "xWant",
+                "similarity": 0.27697405219078064,
+                "tail": "to smell good"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.8972707390785217,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xIntent",
+                "similarity": 0.8971218168735504,
+                "tail": "to share their art"
+            },
+            {
+                "head": "artist's picture",
+                "relation": "ObjectUse",
+                "similarity": 0.8932217061519623,
+                "tail": "show you what the artist looks like"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.89262655377388,
+                "tail": "to pick up a picture"
+            },
+            {
+                "head": "picture",
+                "relation": "ObjectUse",
+                "similarity": 0.888974130153656,
+                "tail": "show the artist"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX confesses PersonY ___ unto the lord",
+                "relation": "xIntent",
+                "similarity": 0.2612392157316208,
+                "tail": "transgressions unto the lord"
+            },
+            {
+                "head": "paintings",
+                "relation": "ObjectUse",
+                "similarity": 0.2548825740814209,
+                "tail": "sell in a gallery"
+            },
+            {
+                "head": "PersonX confesses PersonY ___ unto the lord",
+                "relation": "xWant",
+                "similarity": 0.2514757513999939,
+                "tail": "to bring y to Christ"
+            },
+            {
+                "head": "PersonX confesses PersonY ___ unto the lord",
+                "relation": "xEffect",
+                "similarity": 0.25127824395895004,
+                "tail": "PersonX is embraced by the church"
+            },
+            {
+                "head": "PersonX confesses PersonY ___ unto the lord",
+                "relation": "xWant",
+                "similarity": 0.2512032464146614,
+                "tail": "to absolve y"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_9",
+        "question_commonsense": [
+            {
+                "head": "PersonX becomes aware",
+                "relation": "xReact",
+                "similarity": 0.8728133141994476,
+                "tail": "good"
+            },
+            {
+                "head": "PersonX brings PersonY forth",
+                "relation": "oReact",
+                "similarity": 0.8698748052120209,
+                "tail": "exposed"
+            },
+            {
+                "head": "PersonX brings forth ___",
+                "relation": "xIntent",
+                "similarity": 0.8698179423809052,
+                "tail": "to be moral"
+            },
+            {
+                "head": "PersonX brings forth ___",
+                "relation": "xReact",
+                "similarity": 0.8698179423809052,
+                "tail": "moral"
+            },
+            {
+                "head": "PersonX brings forth ___",
+                "relation": "xIntent",
+                "similarity": 0.8694992959499359,
+                "tail": "to share"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "votives",
+                "relation": "ObjectUse",
+                "similarity": 0.2731734812259674,
+                "tail": "hold votive candles"
+            },
+            {
+                "head": "book end",
+                "relation": "ObjectUse",
+                "similarity": 0.2654675021767616,
+                "tail": "making row of books"
+            },
+            {
+                "head": "book end",
+                "relation": "ObjectUse",
+                "similarity": 0.26151371002197266,
+                "tail": "hold books upright"
+            },
+            {
+                "head": "book end",
+                "relation": "ObjectUse",
+                "similarity": 0.2607157230377197,
+                "tail": "making books stand up"
+            },
+            {
+                "head": "book end",
+                "relation": "ObjectUse",
+                "similarity": 0.25980106741189957,
+                "tail": "holding books upright"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_10",
+        "question_commonsense": [
+            {
+                "head": "necklace",
+                "relation": "HasProperty",
+                "similarity": 0.7709148824214935,
+                "tail": "worn around neck"
+            },
+            {
+                "head": "neck",
+                "relation": "MadeUpOf",
+                "similarity": 0.7653871476650238,
+                "tail": "collar"
+            },
+            {
+                "head": "necklace",
+                "relation": "ObjectUse",
+                "similarity": 0.7653424441814423,
+                "tail": "wearing around neck"
+            },
+            {
+                "head": "necklace",
+                "relation": "ObjectUse",
+                "similarity": 0.7646651268005371,
+                "tail": "wear around neck"
+            },
+            {
+                "head": "necklace",
+                "relation": "ObjectUse",
+                "similarity": 0.7646651268005371,
+                "tail": "wear around the neck"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "bridal gown",
+                "relation": "ObjectUse",
+                "similarity": 0.2901468724012375,
+                "tail": "cut into an evening gown"
+            },
+            {
+                "head": "bridal gown",
+                "relation": "ObjectUse",
+                "similarity": 0.28809837996959686,
+                "tail": "dress for the wedding"
+            },
+            {
+                "head": "bridal gown",
+                "relation": "ObjectUse",
+                "similarity": 0.2867663949728012,
+                "tail": "make a bride look beautiful"
+            },
+            {
+                "head": "wedding dress",
+                "relation": "ObjectUse",
+                "similarity": 0.281085267663002,
+                "tail": "dress for wedding"
+            },
+            {
+                "head": "bridal gown",
+                "relation": "ObjectUse",
+                "similarity": 0.2716931477189064,
+                "tail": "make children's formal wear from"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX brings two together",
+                "relation": "HinderedBy",
+                "similarity": 0.9076576232910156,
+                "tail": "The two aren't withing reach of each other."
+            },
+            {
+                "head": "PersonX brings two together",
+                "relation": "HinderedBy",
+                "similarity": 0.902381420135498,
+                "tail": "The two don't want to be together."
+            },
+            {
+                "head": "PersonX brings two together",
+                "relation": "HinderedBy",
+                "similarity": 0.896752655506134,
+                "tail": "They are located on different sides of the country."
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "isFilledBy",
+                "similarity": 0.8961634933948517,
+                "tail": "article"
+            },
+            {
+                "head": "PersonX brings two together",
+                "relation": "HinderedBy",
+                "similarity": 0.8946638703346252,
+                "tail": "The two will hurt each other if they get too close"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX has three children",
+                "relation": "HinderedBy",
+                "similarity": 0.2634330689907074,
+                "tail": "PersonX has five children"
+            },
+            {
+                "head": "new testament",
+                "relation": "ObjectUse",
+                "similarity": 0.25897544622421265,
+                "tail": "study theology"
+            },
+            {
+                "head": "dining room",
+                "relation": "ObjectUse",
+                "similarity": 0.2565082684159279,
+                "tail": "host the meal"
+            },
+            {
+                "head": "new testament",
+                "relation": "ObjectUse",
+                "similarity": 0.2562797889113426,
+                "tail": "learn about Jesus' grace"
+            },
+            {
+                "head": "new testament",
+                "relation": "ObjectUse",
+                "similarity": 0.2562478482723236,
+                "tail": "teach sunday school"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_12",
+        "question_commonsense": [
+            {
+                "head": "PersonX wears PersonX's ___ on PersonX's sleeve",
+                "relation": "xEffect",
+                "similarity": 0.862726241350174,
+                "tail": "PersonX shows their hand"
+            },
+            {
+                "head": "PersonX touches PersonY's arm",
+                "relation": "xEffect",
+                "similarity": 0.8571383655071259,
+                "tail": "PersonX feels their arm"
+            },
+            {
+                "head": "PersonX wears PersonX's ___ on PersonX's sleeve",
+                "relation": "xEffect",
+                "similarity": 0.8434805870056152,
+                "tail": "Gets attention"
+            },
+            {
+                "head": "sleeve",
+                "relation": "ObjectUse",
+                "similarity": 0.843174159526825,
+                "tail": "cover up tattoos"
+            },
+            {
+                "head": "sleeve",
+                "relation": "ObjectUse",
+                "similarity": 0.842244565486908,
+                "tail": "keep one's arms warm"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "long sleeved top",
+                "relation": "ObjectUse",
+                "similarity": 0.26396243274211884,
+                "tail": "look modest"
+            },
+            {
+                "head": "long sleeved top",
+                "relation": "ObjectUse",
+                "similarity": 0.26220300793647766,
+                "tail": "wear underneath a short sleeve top"
+            },
+            {
+                "head": "long sleeved top",
+                "relation": "ObjectUse",
+                "similarity": 0.2599710375070572,
+                "tail": "layer under a t shirt"
+            },
+            {
+                "head": "backback",
+                "relation": "ObjectUse",
+                "similarity": 0.25401993840932846,
+                "tail": "hold clothing while sleeping aay from home"
+            },
+            {
+                "head": "long sleeved top",
+                "relation": "ObjectUse",
+                "similarity": 0.253090538084507,
+                "tail": "keep dry"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_13",
+        "question_commonsense": [
+            {
+                "head": "tiles",
+                "relation": "ObjectUse",
+                "similarity": 0.7480590045452118,
+                "tail": "fix the grout"
+            },
+            {
+                "head": "tile",
+                "relation": "ObjectUse",
+                "similarity": 0.746132105588913,
+                "tail": "wall covering"
+            },
+            {
+                "head": "tile",
+                "relation": "ObjectUse",
+                "similarity": 0.7405843138694763,
+                "tail": "make up floor"
+            },
+            {
+                "head": "tile",
+                "relation": "ObjectUse",
+                "similarity": 0.7399566769599915,
+                "tail": "floor covering"
+            },
+            {
+                "head": "tile",
+                "relation": "ObjectUse",
+                "similarity": 0.73487389087677,
+                "tail": "pave floors"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "war",
+                "relation": "MadeUpOf",
+                "similarity": 0.2516252100467682,
+                "tail": "battle"
+            },
+            {
+                "head": "battle",
+                "relation": "AtLocation",
+                "similarity": 0.2516252100467682,
+                "tail": "war"
+            },
+            {
+                "head": "war",
+                "relation": "MadeUpOf",
+                "similarity": 0.24589110910892487,
+                "tail": "combat"
+            },
+            {
+                "head": "battle",
+                "relation": "AtLocation",
+                "similarity": 0.24523283541202545,
+                "tail": "battlefield"
+            },
+            {
+                "head": "tapestry",
+                "relation": "ObjectUse",
+                "similarity": 0.24416499584913254,
+                "tail": "wall hanging"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_14",
+        "question_commonsense": [
+            {
+                "head": "paintings",
+                "relation": "ObjectUse",
+                "similarity": 0.8572312295436859,
+                "tail": "make for an art class"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xNeed",
+                "similarity": 0.8547853231430054,
+                "tail": "have something to illustrate"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xWant",
+                "similarity": 0.8538174033164978,
+                "tail": "to display the artwork"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8536437451839447,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "artwork",
+                "relation": "ObjectUse",
+                "similarity": 0.8533067107200623,
+                "tail": "show artistic tastes"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX has three children",
+                "relation": "HinderedBy",
+                "similarity": 0.26310573518276215,
+                "tail": "PersonX has five children"
+            },
+            {
+                "head": "vestment",
+                "relation": "MadeUpOf",
+                "similarity": 0.25944913923740387,
+                "tail": "orphrey"
+            },
+            {
+                "head": "mosaic",
+                "relation": "MadeUpOf",
+                "similarity": 0.25735534727573395,
+                "tail": "tessera"
+            },
+            {
+                "head": "PersonX has three children",
+                "relation": "xAttr",
+                "similarity": 0.2448951005935669,
+                "tail": "a mother"
+            },
+            {
+                "head": "religious icon",
+                "relation": "AtLocation",
+                "similarity": 0.23972853273153305,
+                "tail": "church"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX brings two together",
+                "relation": "HinderedBy",
+                "similarity": 0.9095727205276489,
+                "tail": "The two aren't withing reach of each other."
+            },
+            {
+                "head": "PersonX brings two together",
+                "relation": "HinderedBy",
+                "similarity": 0.9079350233078003,
+                "tail": "They are located on different sides of the country."
+            },
+            {
+                "head": "PersonX brings two together",
+                "relation": "HinderedBy",
+                "similarity": 0.9076921045780182,
+                "tail": "The two don't want to be together."
+            },
+            {
+                "head": "PersonX brings two together",
+                "relation": "xIntent",
+                "similarity": 0.9038046002388,
+                "tail": "to show how great the two can be"
+            },
+            {
+                "head": "PersonX brings two together",
+                "relation": "HinderedBy",
+                "similarity": 0.9011657536029816,
+                "tail": "The two will hurt each other if they get too close"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX confesses PersonY ___ unto the lord",
+                "relation": "xIntent",
+                "similarity": 0.2612392157316208,
+                "tail": "transgressions unto the lord"
+            },
+            {
+                "head": "paintings",
+                "relation": "ObjectUse",
+                "similarity": 0.2548825740814209,
+                "tail": "sell in a gallery"
+            },
+            {
+                "head": "PersonX confesses PersonY ___ unto the lord",
+                "relation": "xWant",
+                "similarity": 0.2514757513999939,
+                "tail": "to bring y to Christ"
+            },
+            {
+                "head": "PersonX confesses PersonY ___ unto the lord",
+                "relation": "xEffect",
+                "similarity": 0.25127824395895004,
+                "tail": "PersonX is embraced by the church"
+            },
+            {
+                "head": "PersonX confesses PersonY ___ unto the lord",
+                "relation": "xWant",
+                "similarity": 0.2512032464146614,
+                "tail": "to absolve y"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_16",
+        "question_commonsense": [
+            {
+                "head": "colour",
+                "relation": "HasProperty",
+                "similarity": 0.904633104801178,
+                "tail": "color"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.9040409028530121,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.903682291507721,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9015056192874908,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8963307738304138,
+                "tail": "to illustrate something"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "fluid",
+                "relation": "ObjectUse",
+                "similarity": 0.27573463320732117,
+                "tail": "gas or liquid"
+            },
+            {
+                "head": "cleaning fluid",
+                "relation": "ObjectUse",
+                "similarity": 0.2735610157251358,
+                "tail": "splash an attacker in the eyes"
+            },
+            {
+                "head": "cleaning fluid",
+                "relation": "ObjectUse",
+                "similarity": 0.2654838562011719,
+                "tail": "use in  a spray bottle"
+            },
+            {
+                "head": "eye",
+                "relation": "AtLocation",
+                "similarity": 0.2626309096813202,
+                "tail": "eye socket"
+            },
+            {
+                "head": "glass of liquid",
+                "relation": "ObjectUse",
+                "similarity": 0.2623097375035286,
+                "tail": "rinse out mouth"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX likes the color",
+                "relation": "HinderedBy",
+                "similarity": 0.8725383877754211,
+                "tail": "They are color blind and cannot distinguish between the colors."
+            },
+            {
+                "head": "PersonX likes the color",
+                "relation": "isAfter",
+                "similarity": 0.8656628429889679,
+                "tail": "PersonX looks at paint colors"
+            },
+            {
+                "head": "PersonX likes the color",
+                "relation": "xEffect",
+                "similarity": 0.8591231107711792,
+                "tail": "looks more closely at the color"
+            },
+            {
+                "head": "PersonX likes the color",
+                "relation": "xWant",
+                "similarity": 0.857799768447876,
+                "tail": "to find more of the color"
+            },
+            {
+                "head": "color swatch",
+                "relation": "ObjectUse",
+                "similarity": 0.8575035929679871,
+                "tail": "get correct colors"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "iris",
+                "relation": "HasProperty",
+                "similarity": 0.25814325362443924,
+                "tail": "perennial"
+            },
+            {
+                "head": "viola",
+                "relation": "AtLocation",
+                "similarity": 0.2553219646215439,
+                "tail": "viola case"
+            },
+            {
+                "head": "orchid",
+                "relation": "MadeUpOf",
+                "similarity": 0.25092093646526337,
+                "tail": "mentum"
+            },
+            {
+                "head": "viola",
+                "relation": "AtLocation",
+                "similarity": 0.24666067212820053,
+                "tail": "case"
+            },
+            {
+                "head": "iris",
+                "relation": "MadeUpOf",
+                "similarity": 0.2422761619091034,
+                "tail": "pupil"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_18",
+        "question_commonsense": [
+            {
+                "head": "design software",
+                "relation": "HasSubEvent",
+                "similarity": 0.9234606921672821,
+                "tail": "design solution strategy"
+            },
+            {
+                "head": "PersonX designs formats to make",
+                "relation": "xEffect",
+                "similarity": 0.9219471216201782,
+                "tail": "becomes confident of making more designs"
+            },
+            {
+                "head": "PersonX designs ___ to make",
+                "relation": "xNeed",
+                "similarity": 0.921729326248169,
+                "tail": "learn to be creative"
+            },
+            {
+                "head": "PersonX designs formats to make",
+                "relation": "HinderedBy",
+                "similarity": 0.9215436279773712,
+                "tail": "PersonX does not know how to design formats."
+            },
+            {
+                "head": "PersonX designs ___ to make",
+                "relation": "xWant",
+                "similarity": 0.9179540872573853,
+                "tail": "build designs"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX lives happily ever after",
+                "relation": "xNeed",
+                "similarity": 0.2878769487142563,
+                "tail": "to have happy things happen in their life"
+            },
+            {
+                "head": "PersonX lives happily ever after",
+                "relation": "xWant",
+                "similarity": 0.2780234217643738,
+                "tail": "live every day to the fullest"
+            },
+            {
+                "head": "PersonX lives happily ever after",
+                "relation": "xWant",
+                "similarity": 0.27175845205783844,
+                "tail": "make everyone around them happy"
+            },
+            {
+                "head": "PersonX lives happily ever",
+                "relation": "xNeed",
+                "similarity": 0.27157995104789734,
+                "tail": "to have a fairy tale wedding"
+            },
+            {
+                "head": "PersonX lives happily ever after",
+                "relation": "oReact",
+                "similarity": 0.2708147317171097,
+                "tail": "uplifted by learning about x's wonderful life."
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_19",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.8920876681804657,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.8846235275268555,
+                "tail": "to thank PersonX"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.8846235275268555,
+                "tail": "to thank PersonX"
+            },
+            {
+                "head": "PersonX makes PersonY remark",
+                "relation": "oWant",
+                "similarity": 0.8844589293003082,
+                "tail": "to see what he thinks"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.8838123381137848,
+                "tail": "to keep the image"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX finds PersonY's father",
+                "relation": "xWant",
+                "similarity": 0.2823087126016617,
+                "tail": "to tell PersonY they found their father"
+            },
+            {
+                "head": "PersonX finds PersonY's father",
+                "relation": "xNeed",
+                "similarity": 0.2794303596019745,
+                "tail": "to know where their father was last"
+            },
+            {
+                "head": "PersonX finds PersonX's father",
+                "relation": "isBefore",
+                "similarity": 0.27867385745048523,
+                "tail": "PersonX sends a message to PersonX's father"
+            },
+            {
+                "head": "PersonX finds PersonY's father",
+                "relation": "xWant",
+                "similarity": 0.27766062319278717,
+                "tail": "to tell father who PersonY is"
+            },
+            {
+                "head": "PersonX finds PersonY's father",
+                "relation": "isBefore",
+                "similarity": 0.27745315432548523,
+                "tail": "PersonX kills his father"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes ___ in the kitchen",
+                "relation": "xNeed",
+                "similarity": 0.8188046514987946,
+                "tail": "to of been cooking"
+            },
+            {
+                "head": "kitchen equipment",
+                "relation": "ObjectUse",
+                "similarity": 0.8180399239063263,
+                "tail": "help build their new house"
+            },
+            {
+                "head": "PersonX makes ___ in the kitchen",
+                "relation": "xWant",
+                "similarity": 0.815938264131546,
+                "tail": "to taste the dish"
+            },
+            {
+                "head": "PersonX makes ___ in the kitchen",
+                "relation": "xIntent",
+                "similarity": 0.8158392906188965,
+                "tail": "cook something"
+            },
+            {
+                "head": "PersonX makes ___ in the kitchen",
+                "relation": "xEffect",
+                "similarity": 0.8147972822189331,
+                "tail": "cleans up the kitchen"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "kitchen",
+                "relation": "ObjectUse",
+                "similarity": 0.31869564950466156,
+                "tail": "storage cabinets"
+            },
+            {
+                "head": "laundry room",
+                "relation": "ObjectUse",
+                "similarity": 0.31621450185775757,
+                "tail": "storing washer and dryer"
+            },
+            {
+                "head": "kitchen",
+                "relation": "ObjectUse",
+                "similarity": 0.31014566123485565,
+                "tail": "food preparation area"
+            },
+            {
+                "head": "kitchen",
+                "relation": "ObjectUse",
+                "similarity": 0.30991505086421967,
+                "tail": "counters and counter tops"
+            },
+            {
+                "head": "laundry room",
+                "relation": "AtLocation",
+                "similarity": 0.304838627576828,
+                "tail": "apartment"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_21",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.8512904047966003,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "HinderedBy",
+                "similarity": 0.8502716422080994,
+                "tail": "PersonX does not have a picture."
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "HinderedBy",
+                "similarity": 0.8492555022239685,
+                "tail": "PersonX does not have a picture to give"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.8446032106876373,
+                "tail": "to pick up a picture"
+            },
+            {
+                "head": "PersonX gives PersonY picture",
+                "relation": "xWant",
+                "similarity": 0.8429955840110779,
+                "tail": "to follow up with PersonY"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "foulard",
+                "relation": "ObjectUse",
+                "similarity": 0.2866567522287369,
+                "tail": "adorn outfit"
+            },
+            {
+                "head": "scarf",
+                "relation": "ObjectUse",
+                "similarity": 0.2816680520772934,
+                "tail": "Add style to outfit"
+            },
+            {
+                "head": "winter clothes",
+                "relation": "ObjectUse",
+                "similarity": 0.2815544605255127,
+                "tail": "look stylish"
+            },
+            {
+                "head": "old scarf",
+                "relation": "ObjectUse",
+                "similarity": 0.2744995057582855,
+                "tail": "fold into a top or skirt"
+            },
+            {
+                "head": "winter clothes",
+                "relation": "ObjectUse",
+                "similarity": 0.2736843228340149,
+                "tail": "make a fashion statement in hot weather"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_22",
+        "question_commonsense": [
+            {
+                "head": "circle",
+                "relation": "HasProperty",
+                "similarity": 0.8040471076965332,
+                "tail": "round"
+            },
+            {
+                "head": "round object",
+                "relation": "ObjectUse",
+                "similarity": 0.800918847322464,
+                "tail": "practice balance"
+            },
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.7925573587417603,
+                "tail": "calculating radius"
+            },
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.7854106426239014,
+                "tail": "calculating circumference"
+            },
+            {
+                "head": "geometry",
+                "relation": "ObjectUse",
+                "similarity": 0.7827774584293365,
+                "tail": "calculating volume"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "restaurant table",
+                "relation": "AtLocation",
+                "similarity": 0.27506305277347565,
+                "tail": "dining room of hotel"
+            },
+            {
+                "head": "dining table",
+                "relation": "ObjectUse",
+                "similarity": 0.27475208044052124,
+                "tail": "use as a work table"
+            },
+            {
+                "head": "dining room",
+                "relation": "ObjectUse",
+                "similarity": 0.27259911596775055,
+                "tail": "keep the table in"
+            },
+            {
+                "head": "dining table",
+                "relation": "ObjectUse",
+                "similarity": 0.2707100734114647,
+                "tail": "use as an art table"
+            },
+            {
+                "head": "restaurant table",
+                "relation": "ObjectUse",
+                "similarity": 0.2690895348787308,
+                "tail": "dining"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_23",
+        "question_commonsense": [
+            {
+                "head": "PersonX thinks could find",
+                "relation": "xEffect",
+                "similarity": 0.8877471387386322,
+                "tail": "Questions"
+            },
+            {
+                "head": "PersonX thinks could find",
+                "relation": "xNeed",
+                "similarity": 0.8876728713512421,
+                "tail": "to go out and look"
+            },
+            {
+                "head": "PersonX looks like something",
+                "relation": "HinderedBy",
+                "similarity": 0.8865970969200134,
+                "tail": "PersonX has never seen the thing they want to look like."
+            },
+            {
+                "head": "PersonX thinks could find",
+                "relation": "xWant",
+                "similarity": 0.8851044476032257,
+                "tail": "to actually find it"
+            },
+            {
+                "head": "PersonX looks like something",
+                "relation": "xReact",
+                "similarity": 0.8848665952682495,
+                "tail": "good"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "polaroid camera",
+                "relation": "ObjectUse",
+                "similarity": 0.2640482112765312,
+                "tail": "take photos"
+            },
+            {
+                "head": "digital camera",
+                "relation": "ObjectUse",
+                "similarity": 0.2574343606829643,
+                "tail": "take snapshots of memories"
+            },
+            {
+                "head": "polaroid camera",
+                "relation": "ObjectUse",
+                "similarity": 0.25659551471471786,
+                "tail": "capture images of the real rocks"
+            },
+            {
+                "head": "underwater camera",
+                "relation": "ObjectUse",
+                "similarity": 0.25565268099308014,
+                "tail": "take pictures with"
+            },
+            {
+                "head": "underwater camera",
+                "relation": "ObjectUse",
+                "similarity": 0.25477972626686096,
+                "tail": "use for underwater photography"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_24",
+        "question_commonsense": [
+            {
+                "head": "PersonX gets PersonY picture",
+                "relation": "xWant",
+                "similarity": 0.9212328195571899,
+                "tail": "gives picture to PersonY"
+            },
+            {
+                "head": "PersonX gets a picture",
+                "relation": "xIntent",
+                "similarity": 0.9186838269233704,
+                "tail": "a picture"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.9160428643226624,
+                "tail": "visit gallery"
+            },
+            {
+                "head": "see art",
+                "relation": "xNeed",
+                "similarity": 0.9142422378063202,
+                "tail": "love art"
+            },
+            {
+                "head": "see art",
+                "relation": "HasSubEvent",
+                "similarity": 0.912016361951828,
+                "tail": "inspired"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX declares ___ on japan",
+                "relation": "xEffect",
+                "similarity": 0.2541358098387718,
+                "tail": "gets peace entity from japan"
+            },
+            {
+                "head": "kyushu",
+                "relation": "AtLocation",
+                "similarity": 0.25372060388326645,
+                "tail": "east asia"
+            },
+            {
+                "head": "PersonX declares ___ on japan",
+                "relation": "xEffect",
+                "similarity": 0.24990647286176682,
+                "tail": "receives threats from Japan"
+            },
+            {
+                "head": "landscape",
+                "relation": "MadeUpOf",
+                "similarity": 0.24644606560468674,
+                "tail": "mountain"
+            },
+            {
+                "head": "waterway",
+                "relation": "AtLocation",
+                "similarity": 0.24348421394824982,
+                "tail": "bridge"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_25",
+        "question_commonsense": [
+            {
+                "head": "paint picture",
+                "relation": "xNeed",
+                "similarity": 0.917201578617096,
+                "tail": "use oil paint"
+            },
+            {
+                "head": "paint picture",
+                "relation": "HasSubEvent",
+                "similarity": 0.9128530919551849,
+                "tail": "have paint"
+            },
+            {
+                "head": "paint picture",
+                "relation": "xNeed",
+                "similarity": 0.9104410111904144,
+                "tail": "artist"
+            },
+            {
+                "head": "paint picture",
+                "relation": "xNeed",
+                "similarity": 0.907190591096878,
+                "tail": "paint on canvas"
+            },
+            {
+                "head": "paint picture",
+                "relation": "xNeed",
+                "similarity": 0.9043558537960052,
+                "tail": "learn how to paint"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "tapestry",
+                "relation": "ObjectUse",
+                "similarity": 0.2635927200317383,
+                "tail": "wall hanging"
+            },
+            {
+                "head": "puppeteer",
+                "relation": "CapableOf",
+                "similarity": 0.26353663206100464,
+                "tail": "control marionette"
+            },
+            {
+                "head": "guillotine",
+                "relation": "ObjectUse",
+                "similarity": 0.26073408126831055,
+                "tail": "behead PersonX"
+            },
+            {
+                "head": "guillotine",
+                "relation": "ObjectUse",
+                "similarity": 0.25954754650592804,
+                "tail": "torture the inmates"
+            },
+            {
+                "head": "janitor",
+                "relation": "CapableOf",
+                "similarity": 0.253984697163105,
+                "tail": "mop floor"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_26",
+        "question_commonsense": [
+            {
+                "head": "interior design program",
+                "relation": "ObjectUse",
+                "similarity": 0.5134426057338715,
+                "tail": "get an education in interior design"
+            },
+            {
+                "head": "gallerist",
+                "relation": "AtLocation",
+                "similarity": 0.5099036991596222,
+                "tail": "gallery opening"
+            },
+            {
+                "head": "realty agency",
+                "relation": "ObjectUse",
+                "similarity": 0.5081760585308075,
+                "tail": "get ideas for making a house more presentable"
+            },
+            {
+                "head": "interior design program",
+                "relation": "ObjectUse",
+                "similarity": 0.5063124001026154,
+                "tail": "learn out to decorate like a professional"
+            },
+            {
+                "head": "PersonX sits quietly",
+                "relation": "xEffect",
+                "similarity": 0.4992128610610962,
+                "tail": "hear faint noses in the air"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "cabinet door",
+                "relation": "ObjectUse",
+                "similarity": 0.2461172342300415,
+                "tail": "decorate with artwork"
+            },
+            {
+                "head": "PersonX beats PersonX's swords into ploughshares",
+                "relation": "isAfter",
+                "similarity": 0.239337719976902,
+                "tail": "PersonX swings the sword"
+            },
+            {
+                "head": "PersonX sweeps the board",
+                "relation": "HinderedBy",
+                "similarity": 0.2383277788758278,
+                "tail": "PersonX was mislead on the location of the board by Jane"
+            },
+            {
+                "head": "paintings",
+                "relation": "ObjectUse",
+                "similarity": 0.23554043471813202,
+                "tail": "put on the wall"
+            },
+            {
+                "head": "PersonX beats PersonX's swords into ploughshares",
+                "relation": "xNeed",
+                "similarity": 0.2352376952767372,
+                "tail": "to abstain from destructive behaviour"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_27",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "oEffect",
+                "similarity": 0.9143636524677277,
+                "tail": "looks at picture"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "HinderedBy",
+                "similarity": 0.9132049977779388,
+                "tail": "PersonX does not have a picture to give"
+            },
+            {
+                "head": "PersonX gives PersonY picture",
+                "relation": "xReact",
+                "similarity": 0.9100635945796967,
+                "tail": "great"
+            },
+            {
+                "head": "PersonX gives PersonY a picture",
+                "relation": "xNeed",
+                "similarity": 0.9087464213371277,
+                "tail": "to print a picture"
+            },
+            {
+                "head": "PersonX gives PersonY picture",
+                "relation": "xNeed",
+                "similarity": 0.9087464213371277,
+                "tail": "print the picture"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX finds antiques back home",
+                "relation": "isBefore",
+                "similarity": 0.24443160742521286,
+                "tail": "PersonX takes the antiques to be appraised"
+            },
+            {
+                "head": "PersonX sits on the edge of the bed",
+                "relation": "HinderedBy",
+                "similarity": 0.23741108179092407,
+                "tail": "PersonX is in a body cast"
+            },
+            {
+                "head": "PersonX sits on the edge of the bed",
+                "relation": "xWant",
+                "similarity": 0.23704461753368378,
+                "tail": "Lay on the bed"
+            },
+            {
+                "head": "PersonX sits on the edge of the bed",
+                "relation": "HinderedBy",
+                "similarity": 0.23567626625299454,
+                "tail": "Someone else is sitting there"
+            },
+            {
+                "head": "sculpture",
+                "relation": "AtLocation",
+                "similarity": 0.23557476699352264,
+                "tail": "museum"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.8550122976303101,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8524592220783234,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xAttr",
+                "similarity": 0.8518416881561279,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xAttr",
+                "similarity": 0.8518416881561279,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.851287454366684,
+                "tail": "funny"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "floor plans",
+                "relation": "ObjectUse",
+                "similarity": 0.30063411593437195,
+                "tail": "plan a remodel"
+            },
+            {
+                "head": "floor plans",
+                "relation": "ObjectUse",
+                "similarity": 0.2847408950328827,
+                "tail": "plan out your dream house"
+            },
+            {
+                "head": "apartment",
+                "relation": "ObjectUse",
+                "similarity": 0.28213849663734436,
+                "tail": "compacting living space"
+            },
+            {
+                "head": "ventilation system",
+                "relation": "ObjectUse",
+                "similarity": 0.2801573574542999,
+                "tail": "ventilating buildings"
+            },
+            {
+                "head": "floor plans",
+                "relation": "ObjectUse",
+                "similarity": 0.2779875546693802,
+                "tail": "install secret trapdoors"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_29",
+        "question_commonsense": [
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8080499172210693,
+                "tail": "to illustrate something"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "oEffect",
+                "similarity": 0.8029581606388092,
+                "tail": "understand the schematics"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8015055954456329,
+                "tail": "to make more images"
+            },
+            {
+                "head": "PersonX shows schematically in fig",
+                "relation": "xEffect",
+                "similarity": 0.8013997972011566,
+                "tail": "explains the diagram"
+            },
+            {
+                "head": "PersonX illustrates another ___",
+                "relation": "xIntent",
+                "similarity": 0.8012063205242157,
+                "tail": "to explain his project."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX cracks the screen",
+                "relation": "xWant",
+                "similarity": 0.2728155702352524,
+                "tail": "repair the screen"
+            },
+            {
+                "head": "grid object",
+                "relation": "ObjectUse",
+                "similarity": 0.27258042991161346,
+                "tail": "plan"
+            },
+            {
+                "head": "grid object",
+                "relation": "AtLocation",
+                "similarity": 0.27248550951480865,
+                "tail": "grid"
+            },
+            {
+                "head": "grid object",
+                "relation": "ObjectUse",
+                "similarity": 0.26495884358882904,
+                "tail": "graphing"
+            },
+            {
+                "head": "PersonX cracks the screen",
+                "relation": "xNeed",
+                "similarity": 0.2634713426232338,
+                "tail": "hold an object with screen"
+            }
+        ]
+    },
+    {
+        "id": "validation_Design_30",
+        "question_commonsense": [
+            {
+                "head": "PersonX is in new york",
+                "relation": "xIntent",
+                "similarity": 0.7283215224742889,
+                "tail": "to see the statue of liberty"
+            },
+            {
+                "head": "PersonX is in new york",
+                "relation": "HinderedBy",
+                "similarity": 0.7223098278045654,
+                "tail": "PersonX can't afford to fly to New York"
+            },
+            {
+                "head": "PersonX is in new york",
+                "relation": "xEffect",
+                "similarity": 0.7188755571842194,
+                "tail": "Takes many clicks"
+            },
+            {
+                "head": "PersonX is in new york",
+                "relation": "xWant",
+                "similarity": 0.7147283852100372,
+                "tail": "to visit the city"
+            },
+            {
+                "head": "PersonX is in new york",
+                "relation": "HinderedBy",
+                "similarity": 0.7131175696849823,
+                "tail": "There are no more flights to the city until tomorrow."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "eiffel tower",
+                "relation": "ObjectUse",
+                "similarity": 0.26231132447719574,
+                "tail": "have great view of paris"
+            },
+            {
+                "head": "eiffel tower",
+                "relation": "AtLocation",
+                "similarity": 0.26122622191905975,
+                "tail": "paris"
+            },
+            {
+                "head": "eiffel tower",
+                "relation": "ObjectUse",
+                "similarity": 0.25999392569065094,
+                "tail": "symbolize paris"
+            },
+            {
+                "head": "kiev",
+                "relation": "AtLocation",
+                "similarity": 0.2587112635374069,
+                "tail": "ukraine"
+            },
+            {
+                "head": "build cathedral",
+                "relation": "xNeed",
+                "similarity": 0.2573220431804657,
+                "tail": "become catholic architect"
+            }
+        ]
+    }
+]

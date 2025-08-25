@@ -1,0 +1,2012 @@
+[
+    {
+        "id": "validation_Sociology_1",
+        "question_commonsense": [
+            {
+                "head": "cinema",
+                "relation": "ObjectUse",
+                "similarity": 0.7112448811531067,
+                "tail": "watching films"
+            },
+            {
+                "head": "cinema",
+                "relation": "ObjectUse",
+                "similarity": 0.7112448811531067,
+                "tail": "watching films in"
+            },
+            {
+                "head": "cinema",
+                "relation": "ObjectUse",
+                "similarity": 0.7111500799655914,
+                "tail": "watching movies"
+            },
+            {
+                "head": "cinema",
+                "relation": "ObjectUse",
+                "similarity": 0.7098558843135834,
+                "tail": "showing movies"
+            },
+            {
+                "head": "PersonX sees the movie",
+                "relation": "xNeed",
+                "similarity": 0.7098138332366943,
+                "tail": "purchase a movie ticket"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX is a young girl",
+                "relation": "HinderedBy",
+                "similarity": 0.24758508801460266,
+                "tail": "PersonX is 80 years old now."
+            },
+            {
+                "head": "PersonX is a young girl",
+                "relation": "xReact",
+                "similarity": 0.24195320159196854,
+                "tail": "little"
+            },
+            {
+                "head": "PersonX is a young girl",
+                "relation": "HinderedBy",
+                "similarity": 0.24096113443374634,
+                "tail": "The director cast PersonX as a young boy in the play."
+            },
+            {
+                "head": "PersonX is a young girl",
+                "relation": "HinderedBy",
+                "similarity": 0.23970767855644226,
+                "tail": "PersonX's parents won't let them transition to being a girl."
+            },
+            {
+                "head": "PersonX is a young girl",
+                "relation": "xReact",
+                "similarity": 0.2380339801311493,
+                "tail": "small"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_2",
+        "question_commonsense": [
+            {
+                "head": "PersonX develops PersonY theory",
+                "relation": "xNeed",
+                "similarity": 0.8938835859298706,
+                "tail": "to understand PersonY's theory"
+            },
+            {
+                "head": "PersonX develops PersonY theory",
+                "relation": "xNeed",
+                "similarity": 0.8938835859298706,
+                "tail": "to understand PersonY's theory"
+            },
+            {
+                "head": "PersonX develops PersonY theory",
+                "relation": "HinderedBy",
+                "similarity": 0.8926611244678497,
+                "tail": "PersonX doesn't understand the theory."
+            },
+            {
+                "head": "PersonX develops PersonY theory",
+                "relation": "xNeed",
+                "similarity": 0.8915342092514038,
+                "tail": "to know PersonY's theory"
+            },
+            {
+                "head": "PersonX develops PersonY theory",
+                "relation": "oWant",
+                "similarity": 0.8886042535305023,
+                "tail": "to write down the theory"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX provides PersonY education",
+                "relation": "HinderedBy",
+                "similarity": 0.28505755960941315,
+                "tail": "PersonY doesn't want an education."
+            },
+            {
+                "head": "education degree",
+                "relation": "ObjectUse",
+                "similarity": 0.28241845965385437,
+                "tail": "move overseas to teach"
+            },
+            {
+                "head": "PersonX provides PersonY education",
+                "relation": "HinderedBy",
+                "similarity": 0.2814478129148483,
+                "tail": "PersonX doesn't have the funds to provide an education."
+            },
+            {
+                "head": "PersonX provides PersonY education",
+                "relation": "xNeed",
+                "similarity": 0.2762947678565979,
+                "tail": "to open school"
+            },
+            {
+                "head": "PersonX provides PersonY education",
+                "relation": "xWant",
+                "similarity": 0.2751587778329849,
+                "tail": "inquires about level of education"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_3",
+        "question_commonsense": [
+            {
+                "head": "government",
+                "relation": "MadeUpOf",
+                "similarity": 0.8690587282180786,
+                "tail": "political ideology"
+            },
+            {
+                "head": "political ideology",
+                "relation": "MadeUpOf",
+                "similarity": 0.86201211810112,
+                "tail": "political ideals"
+            },
+            {
+                "head": "PersonX uses PersonY analogy",
+                "relation": "xWant",
+                "similarity": 0.8568911552429199,
+                "tail": "to explain the analogy"
+            },
+            {
+                "head": "PersonX uses PersonY analogy",
+                "relation": "isBefore",
+                "similarity": 0.8567586541175842,
+                "tail": "PersonX asks PersonY for other analogies"
+            },
+            {
+                "head": "college education",
+                "relation": "ObjectUse",
+                "similarity": 0.8541134595870972,
+                "tail": "gain knowledge about people"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "government",
+                "relation": "CapableOf",
+                "similarity": 0.29046913981437683,
+                "tail": "let people get government jobs"
+            },
+            {
+                "head": "government",
+                "relation": "CapableOf",
+                "similarity": 0.28764523565769196,
+                "tail": "govern country"
+            },
+            {
+                "head": "government",
+                "relation": "CapableOf",
+                "similarity": 0.2867269665002823,
+                "tail": "serve public"
+            },
+            {
+                "head": "government",
+                "relation": "CapableOf",
+                "similarity": 0.281485915184021,
+                "tail": "subject citizens to heavy taxation"
+            },
+            {
+                "head": "PersonX receives ___ from the government",
+                "relation": "xEffect",
+                "similarity": 0.28013497591018677,
+                "tail": "receives government funding or subsidies"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_4",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.8993151485919952,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8934901356697083,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8934901356697083,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8933905363082886,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8928766548633575,
+                "tail": "to make more images"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xNeed",
+                "similarity": 0.2682511657476425,
+                "tail": "decide what groups they should be in"
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xIntent",
+                "similarity": 0.26570233702659607,
+                "tail": "to set up groups."
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xWant",
+                "similarity": 0.25709720700979233,
+                "tail": "to create small groups"
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xNeed",
+                "similarity": 0.25541889667510986,
+                "tail": "a large group of people"
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "oWant",
+                "similarity": 0.25386521220207214,
+                "tail": "work together"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_5",
+        "question_commonsense": [
+            {
+                "head": "PersonX tells PersonY's coworkers",
+                "relation": "xNeed",
+                "similarity": 0.8631097078323364,
+                "tail": "know PersonY's coworkers"
+            },
+            {
+                "head": "PersonX takes another example",
+                "relation": "xAttr",
+                "similarity": 0.8623990118503571,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX tells PersonX's coworkers",
+                "relation": "xNeed",
+                "similarity": 0.8604021072387695,
+                "tail": "to get close to their coworkers"
+            },
+            {
+                "head": "PersonX tells PersonX's coworkers",
+                "relation": "oWant",
+                "similarity": 0.8597765266895294,
+                "tail": "to say what they know"
+            },
+            {
+                "head": "PersonX tells PersonY's coworkers",
+                "relation": "xNeed",
+                "similarity": 0.8581371903419495,
+                "tail": "to be at work"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX becomes a success",
+                "relation": "xWant",
+                "similarity": 0.2851911336183548,
+                "tail": "use his success to make money"
+            },
+            {
+                "head": "PersonX becomes a success",
+                "relation": "xWant",
+                "similarity": 0.28240901231765747,
+                "tail": "use his success to impress others"
+            },
+            {
+                "head": "PersonX becomes a success",
+                "relation": "xWant",
+                "similarity": 0.27902214229106903,
+                "tail": "to stay successful"
+            },
+            {
+                "head": "PersonX ensures PersonX's success",
+                "relation": "xIntent",
+                "similarity": 0.27786581218242645,
+                "tail": "satisfied, proud about acquired success & social leverage."
+            },
+            {
+                "head": "PersonX becomes a success",
+                "relation": "isBefore",
+                "similarity": 0.2723132222890854,
+                "tail": "PersonX devoted themselves to philanthropy"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_6",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.9268276989459991,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9212513864040375,
+                "tail": "to make more images"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9212148487567902,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9212148487567902,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9178583920001984,
+                "tail": "to keep the image"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "information sheet",
+                "relation": "ObjectUse",
+                "similarity": 0.27724185585975647,
+                "tail": "know what the terms are"
+            },
+            {
+                "head": "evaluation forms",
+                "relation": "ObjectUse",
+                "similarity": 0.27699968218803406,
+                "tail": "gather feedback"
+            },
+            {
+                "head": "work policy manual",
+                "relation": "ObjectUse",
+                "similarity": 0.27217158675193787,
+                "tail": "understand rules"
+            },
+            {
+                "head": "work policy manual",
+                "relation": "ObjectUse",
+                "similarity": 0.27097271382808685,
+                "tail": "know the rules of your job"
+            },
+            {
+                "head": "PersonX forms PersonY organization",
+                "relation": "oWant",
+                "similarity": 0.2688932865858078,
+                "tail": "to know if PersonX is ready to the task."
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_7",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives ___ to the world",
+                "relation": "xIntent",
+                "similarity": 0.8779184818267822,
+                "tail": "to help the world."
+            },
+            {
+                "head": "globalisation",
+                "relation": "HasProperty",
+                "similarity": 0.8764396607875824,
+                "tail": "inevitable"
+            },
+            {
+                "head": "PersonX quits understanding objective reality",
+                "relation": "xWant",
+                "similarity": 0.8745812177658081,
+                "tail": "to think irrationally"
+            },
+            {
+                "head": "PersonX gives ___ to the world",
+                "relation": "xAttr",
+                "similarity": 0.873680055141449,
+                "tail": "Example"
+            },
+            {
+                "head": "PersonX gives ___ to the world",
+                "relation": "xWant",
+                "similarity": 0.8734674751758575,
+                "tail": "to help the world"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.26689812541007996,
+                "tail": "genetic disorders"
+            },
+            {
+                "head": "gene therapy",
+                "relation": "ObjectUse",
+                "similarity": 0.263982430100441,
+                "tail": "genetic diseases"
+            },
+            {
+                "head": "PersonX determines the patient 's ___",
+                "relation": "xNeed",
+                "similarity": 0.26020196080207825,
+                "tail": "medical knowledge"
+            },
+            {
+                "head": "bureaucracy",
+                "relation": "AtLocation",
+                "similarity": 0.25569865107536316,
+                "tail": "university"
+            },
+            {
+                "head": "PersonX determines the patient 's ___",
+                "relation": "xWant",
+                "similarity": 0.25287972390651703,
+                "tail": "to write a prescription for medicine"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_8",
+        "question_commonsense": [
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "xReact",
+                "similarity": 0.7570427358150482,
+                "tail": "like they know where PersonY is"
+            },
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "oReact",
+                "similarity": 0.7553976476192474,
+                "tail": "exposed"
+            },
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "xWant",
+                "similarity": 0.7527213394641876,
+                "tail": "ignore personY"
+            },
+            {
+                "head": "take test",
+                "relation": "xNeed",
+                "similarity": 0.7526348829269409,
+                "tail": "study for test"
+            },
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "xAttr",
+                "similarity": 0.7516064047813416,
+                "tail": "perceptive"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX marries PersonY woman",
+                "relation": "oWant",
+                "similarity": 0.2619098722934723,
+                "tail": "to celebrate their wedding in a traditional way"
+            },
+            {
+                "head": "PersonX takes part in the ceremony",
+                "relation": "xNeed",
+                "similarity": 0.26060453057289124,
+                "tail": "arrange the thinks for ceremony"
+            },
+            {
+                "head": "PersonX takes part in the ceremony",
+                "relation": "HinderedBy",
+                "similarity": 0.2585616260766983,
+                "tail": "PersonX was not asked to be a part of the ceremony."
+            },
+            {
+                "head": "PersonX marries PersonY woman",
+                "relation": "xNeed",
+                "similarity": 0.25400905311107635,
+                "tail": "to ask PersonY woman if they will marry them"
+            },
+            {
+                "head": "PersonX marries PersonY woman",
+                "relation": "xAttr",
+                "similarity": 0.2505086213350296,
+                "tail": "engaged"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_9",
+        "question_commonsense": [
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.7637277543544769,
+                "tail": "economic theory"
+            },
+            {
+                "head": "protestors",
+                "relation": "AtLocation",
+                "similarity": 0.7598797976970673,
+                "tail": "demonstration"
+            },
+            {
+                "head": "economics",
+                "relation": "MadeUpOf",
+                "similarity": 0.7519284784793854,
+                "tail": "rent seeking"
+            },
+            {
+                "head": "PersonX occupies the ___ for years",
+                "relation": "xEffect",
+                "similarity": 0.7482213377952576,
+                "tail": "to occupies the 34 for yeas"
+            },
+            {
+                "head": "PersonX has had it",
+                "relation": "oWant",
+                "similarity": 0.7479488551616669,
+                "tail": "to fight back"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "protestors",
+                "relation": "AtLocation",
+                "similarity": 0.25444304943084717,
+                "tail": "demonstration"
+            },
+            {
+                "head": "PersonX pushes PersonX's ___ through the crowd",
+                "relation": "xEffect",
+                "similarity": 0.25101587176322937,
+                "tail": "gets slowed down by walking through the crowd"
+            },
+            {
+                "head": "PersonX pushes PersonY's ___ through the crowd",
+                "relation": "xEffect",
+                "similarity": 0.249288871884346,
+                "tail": "pushed by the crowd"
+            },
+            {
+                "head": "PersonX pushes PersonX's ___ through the crowd",
+                "relation": "xNeed",
+                "similarity": 0.246758334338665,
+                "tail": "for their to be a crowd"
+            },
+            {
+                "head": "PersonX pushes PersonX's ___ through the crowd",
+                "relation": "xNeed",
+                "similarity": 0.2455761805176735,
+                "tail": "to meet the crowd"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_10",
+        "question_commonsense": [
+            {
+                "head": "PersonX comes under PersonY observation",
+                "relation": "xEffect",
+                "similarity": 0.8626925945281982,
+                "tail": "Gets scrutinised"
+            },
+            {
+                "head": "PersonX comes under PersonY observation",
+                "relation": "xNeed",
+                "similarity": 0.8613385260105133,
+                "tail": "to be alerted about PersonY"
+            },
+            {
+                "head": "PersonX becomes aware",
+                "relation": "isAfter",
+                "similarity": 0.8611840903759003,
+                "tail": "PersonX researches PersonY's past"
+            },
+            {
+                "head": "PersonX comes under PersonY observation",
+                "relation": "xReact",
+                "similarity": 0.8606934547424316,
+                "tail": "noticed"
+            },
+            {
+                "head": "PersonX becomes aware",
+                "relation": "HinderedBy",
+                "similarity": 0.8603780567646027,
+                "tail": "Is too oblivious"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX sits quietly in my coffee shops",
+                "relation": "HinderedBy",
+                "similarity": 0.24966547638177872,
+                "tail": "The coffee shops are no longer quiet."
+            },
+            {
+                "head": "PersonX sits quietly in my coffee shops",
+                "relation": "xWant",
+                "similarity": 0.24670247733592987,
+                "tail": "to people watch"
+            },
+            {
+                "head": "PersonX sits quietly in my coffee shops",
+                "relation": "HinderedBy",
+                "similarity": 0.24494663625955582,
+                "tail": "PersonX has anxiety when being in a coffee shop."
+            },
+            {
+                "head": "PersonX sits quietly in my coffee shops",
+                "relation": "oWant",
+                "similarity": 0.24091506004333496,
+                "tail": "to ask PersonX if they are waiting for someone"
+            },
+            {
+                "head": "PersonX waits tables",
+                "relation": "xNeed",
+                "similarity": 0.23553545027971268,
+                "tail": "to get a job in a restaurant"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_11",
+        "question_commonsense": [
+            {
+                "head": "PersonX provides PersonY example",
+                "relation": "HinderedBy",
+                "similarity": 0.950177401304245,
+                "tail": "PersonX has no example."
+            },
+            {
+                "head": "PersonX gives PersonY example",
+                "relation": "xNeed",
+                "similarity": 0.9384007155895233,
+                "tail": "to understand the example"
+            },
+            {
+                "head": "PersonX gives PersonY example",
+                "relation": "oWant",
+                "similarity": 0.9310671985149384,
+                "tail": "to learn from the example"
+            },
+            {
+                "head": "PersonX provides PersonY example",
+                "relation": "xAttr",
+                "similarity": 0.9298577010631561,
+                "tail": "insightful"
+            },
+            {
+                "head": "PersonX gives PersonY example",
+                "relation": "xWant",
+                "similarity": 0.9297995269298553,
+                "tail": "to explain PersonY's example"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX helps the pain",
+                "relation": "xEffect",
+                "similarity": 0.2618369460105896,
+                "tail": "experiences relief of the pain"
+            },
+            {
+                "head": "PersonX has a terrible headache",
+                "relation": "xWant",
+                "similarity": 0.26139841973781586,
+                "tail": "some relief from the headache"
+            },
+            {
+                "head": "PersonX helps the pain",
+                "relation": "xIntent",
+                "similarity": 0.25559866428375244,
+                "tail": "to relieve pain"
+            },
+            {
+                "head": "PersonX has a terrible headache",
+                "relation": "xReact",
+                "similarity": 0.2516525238752365,
+                "tail": "much pain and pressure in their head."
+            },
+            {
+                "head": "PersonX helps the pain",
+                "relation": "xIntent",
+                "similarity": 0.25142019987106323,
+                "tail": "to get rid of the pain"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_12",
+        "question_commonsense": [
+            {
+                "head": "PersonX fulfills the ___ thereof",
+                "relation": "xAttr",
+                "similarity": 0.9231337904930115,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX fulfills the ___ thereof",
+                "relation": "xAttr",
+                "similarity": 0.9231337904930115,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX brings PersonY forth",
+                "relation": "oReact",
+                "similarity": 0.9230981171131134,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX brings PersonY forth",
+                "relation": "xAttr",
+                "similarity": 0.9230981171131134,
+                "tail": "helpful"
+            },
+            {
+                "head": "PersonX brings forth ___",
+                "relation": "xIntent",
+                "similarity": 0.9230981171131134,
+                "tail": "to be helpful"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "ovan mitt",
+                "relation": "ObjectUse",
+                "similarity": 0.25572971254587173,
+                "tail": "trace a mitten"
+            },
+            {
+                "head": "photograph",
+                "relation": "HasProperty",
+                "similarity": 0.24972003698349,
+                "tail": "cut up"
+            },
+            {
+                "head": "photograph",
+                "relation": "ObjectUse",
+                "similarity": 0.24815426766872406,
+                "tail": "hand over"
+            },
+            {
+                "head": "portrait",
+                "relation": "AtLocation",
+                "similarity": 0.24730238318443298,
+                "tail": "wall"
+            },
+            {
+                "head": "gardner",
+                "relation": "CapableOf",
+                "similarity": 0.24604283273220062,
+                "tail": "water lawn"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_13",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.9562677443027496,
+                "tail": "PersonX offers one example"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9515862464904785,
+                "tail": "Gets the picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "oEffect",
+                "similarity": 0.9507939517498016,
+                "tail": "Sees picture"
+            },
+            {
+                "head": "PersonX provides PersonY picture",
+                "relation": "xNeed",
+                "similarity": 0.9460130333900452,
+                "tail": "make a copy of the picture"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xReact",
+                "similarity": 0.9441887736320496,
+                "tail": "good about himself"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "cubicle",
+                "relation": "ObjectUse",
+                "similarity": 0.27360936999320984,
+                "tail": "dividing work spaces"
+            },
+            {
+                "head": "card catalog",
+                "relation": "ObjectUse",
+                "similarity": 0.2645084857940674,
+                "tail": "finding books in library"
+            },
+            {
+                "head": "card catalog",
+                "relation": "ObjectUse",
+                "similarity": 0.26182831823825836,
+                "tail": "indexing books"
+            },
+            {
+                "head": "card catalog",
+                "relation": "ObjectUse",
+                "similarity": 0.26071664690971375,
+                "tail": "retrieving information"
+            },
+            {
+                "head": "PersonX offer affordances",
+                "relation": "xEffect",
+                "similarity": 0.2593594864010811,
+                "tail": "to affordances person"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_14",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.9257231652736664,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9201977849006653,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9201977849006653,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9173532724380493,
+                "tail": "to make more images"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9167536199092865,
+                "tail": "to be a good example"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "life insurance",
+                "relation": "ObjectUse",
+                "similarity": 0.29166294634342194,
+                "tail": "provide for family"
+            },
+            {
+                "head": "life insurance",
+                "relation": "ObjectUse",
+                "similarity": 0.2844160795211792,
+                "tail": "make a spouse or loved one a beneficiary for someone's demise."
+            },
+            {
+                "head": "life insurance",
+                "relation": "ObjectUse",
+                "similarity": 0.2740146070718765,
+                "tail": "keep a family safe"
+            },
+            {
+                "head": "life insurance",
+                "relation": "ObjectUse",
+                "similarity": 0.26893244683742523,
+                "tail": "cover funeral expenses"
+            },
+            {
+                "head": "PersonX provides ___ to families",
+                "relation": "xWant",
+                "similarity": 0.2647140845656395,
+                "tail": "income"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_15",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.9245715439319611,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9170513451099396,
+                "tail": "to make more images"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9167884290218353,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9167884290218353,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9157630801200867,
+                "tail": "to keep the image"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xNeed",
+                "similarity": 0.3096652030944824,
+                "tail": "decide what groups they should be in"
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xIntent",
+                "similarity": 0.3008328378200531,
+                "tail": "to set up groups."
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xWant",
+                "similarity": 0.288331001996994,
+                "tail": "to create small groups"
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xIntent",
+                "similarity": 0.2836929261684418,
+                "tail": "to categorize"
+            },
+            {
+                "head": "PersonX divides PersonY into groups",
+                "relation": "xWant",
+                "similarity": 0.2811925336718559,
+                "tail": "address each group"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_16",
+        "question_commonsense": [
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "xReact",
+                "similarity": 0.9052616655826569,
+                "tail": "like they know where PersonY is"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8999338746070862,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.8978158235549927,
+                "tail": "to thank PersonX"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.8978158235549927,
+                "tail": "to thank PersonX"
+            },
+            {
+                "head": "PersonX can see PersonY",
+                "relation": "oReact",
+                "similarity": 0.8973313570022583,
+                "tail": "exposed"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX shakes hands with the unemployed",
+                "relation": "xIntent",
+                "similarity": 0.2769755721092224,
+                "tail": "to shake hands"
+            },
+            {
+                "head": "PersonX shakes hands with the unemployed",
+                "relation": "xNeed",
+                "similarity": 0.26439090073108673,
+                "tail": "grab the hand of the unemployed"
+            },
+            {
+                "head": "marxist",
+                "relation": "Desires",
+                "similarity": 0.2641647979617119,
+                "tail": "class equality"
+            },
+            {
+                "head": "PersonX shakes hands with the unemployed",
+                "relation": "oWant",
+                "similarity": 0.2618404030799866,
+                "tail": "to interact"
+            },
+            {
+                "head": "PersonX shakes hands with the unemployed",
+                "relation": "xNeed",
+                "similarity": 0.26036328822374344,
+                "tail": "stretch his hand"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_17",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.9403488636016846,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9323593378067017,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9323593378067017,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9321612119674683,
+                "tail": "to make more images"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9312040507793427,
+                "tail": "to keep the image"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX follows ___ through society",
+                "relation": "xEffect",
+                "similarity": 0.27278225123882294,
+                "tail": "observes impact on society"
+            },
+            {
+                "head": "change society",
+                "relation": "xNeed",
+                "similarity": 0.26999278366565704,
+                "tail": "define society"
+            },
+            {
+                "head": "change society",
+                "relation": "xNeed",
+                "similarity": 0.26691734790802,
+                "tail": "social activist"
+            },
+            {
+                "head": "change society",
+                "relation": "HasSubEvent",
+                "similarity": 0.25935496389865875,
+                "tail": "social unrest"
+            },
+            {
+                "head": "change society",
+                "relation": "HasSubEvent",
+                "similarity": 0.25740963965654373,
+                "tail": "people might discuss influence"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_18",
+        "question_commonsense": [
+            {
+                "head": "questions",
+                "relation": "ObjectUse",
+                "similarity": 0.7726532518863678,
+                "tail": "test knowledge"
+            },
+            {
+                "head": "question",
+                "relation": "ObjectUse",
+                "similarity": 0.7721982002258301,
+                "tail": "find the answer to"
+            },
+            {
+                "head": "questions",
+                "relation": "ObjectUse",
+                "similarity": 0.770870178937912,
+                "tail": "learn something new"
+            },
+            {
+                "head": "PersonX answers the ___ first",
+                "relation": "xWant",
+                "similarity": 0.7694827914237976,
+                "tail": "to reread the questions"
+            },
+            {
+                "head": "questions",
+                "relation": "ObjectUse",
+                "similarity": 0.7676643431186676,
+                "tail": "learn about something"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX reproduces ___ in this book",
+                "relation": "xNeed",
+                "similarity": 0.2568282410502434,
+                "tail": "reads book"
+            },
+            {
+                "head": "PersonX discusses throughout this book",
+                "relation": "xNeed",
+                "similarity": 0.25500646978616714,
+                "tail": "to have completed a book"
+            },
+            {
+                "head": "PersonX discusses throughout this book",
+                "relation": "xWant",
+                "similarity": 0.25184811651706696,
+                "tail": "To publish his own book"
+            },
+            {
+                "head": "PersonX reproduces ___ in this book",
+                "relation": "xWant",
+                "similarity": 0.24797246605157852,
+                "tail": "to publish the book"
+            },
+            {
+                "head": "PersonX discusses throughout this book",
+                "relation": "xWant",
+                "similarity": 0.24063649028539658,
+                "tail": "to share knowledge"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_19",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes a comment",
+                "relation": "xWant",
+                "similarity": 0.9244197607040405,
+                "tail": "to be seen as right."
+            },
+            {
+                "head": "PersonX makes PersonY comment",
+                "relation": "oEffect",
+                "similarity": 0.9226472675800323,
+                "tail": "speaks"
+            },
+            {
+                "head": "PersonX makes a comment",
+                "relation": "xEffect",
+                "similarity": 0.9226472675800323,
+                "tail": "speaks"
+            },
+            {
+                "head": "PersonX makes PersonY comment",
+                "relation": "xIntent",
+                "similarity": 0.9202515482902527,
+                "tail": "to make a comment"
+            },
+            {
+                "head": "PersonX makes a comment",
+                "relation": "xWant",
+                "similarity": 0.919937014579773,
+                "tail": "to be heard."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX determines PersonY's customer base",
+                "relation": "oWant",
+                "similarity": 0.2531517446041107,
+                "tail": "to determine person x's customer base"
+            },
+            {
+                "head": "photo identification",
+                "relation": "ObjectUse",
+                "similarity": 0.25134776532649994,
+                "tail": "prove personal identity"
+            },
+            {
+                "head": "find information",
+                "relation": "xNeed",
+                "similarity": 0.2505280449986458,
+                "tail": "look for information"
+            },
+            {
+                "head": "PersonX determines PersonY's customer base",
+                "relation": "oEffect",
+                "similarity": 0.2495449185371399,
+                "tail": "PersonY receives insight about customer base"
+            },
+            {
+                "head": "find information",
+                "relation": "HasSubEvent",
+                "similarity": 0.24863167107105255,
+                "tail": "determine how useful information"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_20",
+        "question_commonsense": [
+            {
+                "head": "PersonX takes a train ride",
+                "relation": "xIntent",
+                "similarity": 0.7918521761894226,
+                "tail": "the person made the choice to ride the train."
+            },
+            {
+                "head": "train",
+                "relation": "ObjectUse",
+                "similarity": 0.7745999693870544,
+                "tail": "near station"
+            },
+            {
+                "head": "PersonX takes a train ride",
+                "relation": "HinderedBy",
+                "similarity": 0.7714099884033203,
+                "tail": "The train needs maintenance."
+            },
+            {
+                "head": "PersonX takes a train ride",
+                "relation": "xNeed",
+                "similarity": 0.7713126540184021,
+                "tail": "buy a train ticket"
+            },
+            {
+                "head": "PersonX takes a train ride",
+                "relation": "xWant",
+                "similarity": 0.7705065608024597,
+                "tail": "to get off at the next station."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "metro pass",
+                "relation": "ObjectUse",
+                "similarity": 0.291696161031723,
+                "tail": "ride the metro"
+            },
+            {
+                "head": "metro pass",
+                "relation": "ObjectUse",
+                "similarity": 0.28829848766326904,
+                "tail": "lose on the metro"
+            },
+            {
+                "head": "ride subway",
+                "relation": "xNeed",
+                "similarity": 0.28622961044311523,
+                "tail": "pay subway fare"
+            },
+            {
+                "head": "elevator",
+                "relation": "ObjectUse",
+                "similarity": 0.28594471514225006,
+                "tail": "lift people"
+            },
+            {
+                "head": "subway car",
+                "relation": "AtLocation",
+                "similarity": 0.28354670107364655,
+                "tail": "subway"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_21",
+        "question_commonsense": [
+            {
+                "head": "PersonX uses PersonY's internet",
+                "relation": "oWant",
+                "similarity": 0.8905588388442993,
+                "tail": "to use the internet as well"
+            },
+            {
+                "head": "PersonX uses PersonX's internet",
+                "relation": "xNeed",
+                "similarity": 0.8898909389972687,
+                "tail": "to get internet access"
+            },
+            {
+                "head": "PersonX uses PersonY's internet",
+                "relation": "xIntent",
+                "similarity": 0.8879250288009644,
+                "tail": "to browse the internet."
+            },
+            {
+                "head": "PersonX uses PersonY's internet",
+                "relation": "oEffect",
+                "similarity": 0.8852988481521606,
+                "tail": "reads the webpage"
+            },
+            {
+                "head": "PersonX uses PersonY's internet",
+                "relation": "xEffect",
+                "similarity": 0.8852988481521606,
+                "tail": "reads the webpage"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "digital device",
+                "relation": "ObjectUse",
+                "similarity": 0.25453251600265503,
+                "tail": "gain access to internet"
+            },
+            {
+                "head": "PersonX develops web presence",
+                "relation": "HinderedBy",
+                "similarity": 0.24808251857757568,
+                "tail": "PersonX doesn't know how to register a domain."
+            },
+            {
+                "head": "PersonX drives under the influence",
+                "relation": "xIntent",
+                "similarity": 0.24385154247283936,
+                "tail": "to get home without waiting for a designated driver"
+            },
+            {
+                "head": "PersonX develops web presence",
+                "relation": "HinderedBy",
+                "similarity": 0.24295120686292648,
+                "tail": "PersonX's friend will not help teach him web development."
+            },
+            {
+                "head": "PersonX drives under the influence",
+                "relation": "xReact",
+                "similarity": 0.24235988408327103,
+                "tail": "self-assured in their driving capabilities"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_22",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.9276919662952423,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.921168327331543,
+                "tail": "to make more images"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9200641214847565,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.9200641214847565,
+                "tail": "to give the image to PersonY"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "oWant",
+                "similarity": 0.9157830476760864,
+                "tail": "to keep the image"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX develops PersonY model",
+                "relation": "xNeed",
+                "similarity": 0.2546253502368927,
+                "tail": "create a framework"
+            },
+            {
+                "head": "PersonX develops PersonY model",
+                "relation": "HinderedBy",
+                "similarity": 0.25400158017873764,
+                "tail": "PersonY won't share the model."
+            },
+            {
+                "head": "PersonX brings up something more universal",
+                "relation": "xEffect",
+                "similarity": 0.24883635342121124,
+                "tail": "more people are included"
+            },
+            {
+                "head": "instrument triangle",
+                "relation": "ObjectUse",
+                "similarity": 0.24680151790380478,
+                "tail": "create music"
+            },
+            {
+                "head": "PersonX brings up something more universal",
+                "relation": "HinderedBy",
+                "similarity": 0.24656078219413757,
+                "tail": "Personx doesn't have any ideas."
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_23",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "HinderedBy",
+                "similarity": 0.9039614498615265,
+                "tail": "PersonY does not know what they want for an image."
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.8949271142482758,
+                "tail": "buy image"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8947024643421173,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX creates PersonY image",
+                "relation": "oWant",
+                "similarity": 0.8946237862110138,
+                "tail": "to be a good example"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xWant",
+                "similarity": 0.8939356505870819,
+                "tail": "to make more images"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX appoints a ___ to investigate",
+                "relation": "xNeed",
+                "similarity": 0.26218804717063904,
+                "tail": "become aware of a situation that needs to be investigated"
+            },
+            {
+                "head": "PersonX is out with friends ___ before PersonY's mother found PersonY unresponsive",
+                "relation": "oEffect",
+                "similarity": 0.2620675340294838,
+                "tail": "Person Y dies in the hospital."
+            },
+            {
+                "head": "PersonX is out with friends ___ before PersonY's mother found PersonY unresponsive",
+                "relation": "oWant",
+                "similarity": 0.26056719571352005,
+                "tail": "investigate the scenario"
+            },
+            {
+                "head": "PersonX is out with friends ___ before PersonY's mother found PersonY unresponsive",
+                "relation": "xWant",
+                "similarity": 0.255845844745636,
+                "tail": "mother gives full rights to action"
+            },
+            {
+                "head": "PersonX carries the belongings by assault",
+                "relation": "isAfter",
+                "similarity": 0.25347406417131424,
+                "tail": "PersonX robbed a store"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_24",
+        "question_commonsense": [
+            {
+                "head": "PersonX becomes like PersonY",
+                "relation": "xAttr",
+                "similarity": 0.8381999731063843,
+                "tail": "Inspired"
+            },
+            {
+                "head": "PersonX becomes aware",
+                "relation": "xReact",
+                "similarity": 0.8381284177303314,
+                "tail": "good"
+            },
+            {
+                "head": "PersonX becomes like PersonY",
+                "relation": "oEffect",
+                "similarity": 0.8369555175304413,
+                "tail": "is glad personX learned"
+            },
+            {
+                "head": "PersonX becomes like PersonY",
+                "relation": "xEffect",
+                "similarity": 0.8356608748435974,
+                "tail": "they do better"
+            },
+            {
+                "head": "PersonX becomes aware",
+                "relation": "xEffect",
+                "similarity": 0.8331650197505951,
+                "tail": "becomes informed"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX builds PersonY organization",
+                "relation": "oWant",
+                "similarity": 0.28995218873023987,
+                "tail": "check if the organization is succeeding"
+            },
+            {
+                "head": "rubric",
+                "relation": "ObjectUse",
+                "similarity": 0.2669385299086571,
+                "tail": "categorize something"
+            },
+            {
+                "head": "PersonX provides PersonY framework",
+                "relation": "xAttr",
+                "similarity": 0.2640758231282234,
+                "tail": "orderly"
+            },
+            {
+                "head": "PersonX provides PersonY framework",
+                "relation": "oWant",
+                "similarity": 0.2638908177614212,
+                "tail": "management"
+            },
+            {
+                "head": "bureaucracy",
+                "relation": "AtLocation",
+                "similarity": 0.26343873888254166,
+                "tail": "university"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_25",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.9061529040336609,
+                "tail": "PersonX offers one example"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xIntent",
+                "similarity": 0.8982723653316498,
+                "tail": "to be understood"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xReact",
+                "similarity": 0.8982723653316498,
+                "tail": "understood"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "oReact",
+                "similarity": 0.8969263434410095,
+                "tail": "more understanding of the topic"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "HinderedBy",
+                "similarity": 0.8960564136505127,
+                "tail": "PersonX doesn't have anymore information to give."
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX determines PersonX's value",
+                "relation": "HinderedBy",
+                "similarity": 0.26187093555927277,
+                "tail": "They can't do the math to assess their value."
+            },
+            {
+                "head": "PersonX determines PersonX's value",
+                "relation": "xReact",
+                "similarity": 0.26122263818979263,
+                "tail": "valued by ohers"
+            },
+            {
+                "head": "PersonX determines PersonY's value",
+                "relation": "xNeed",
+                "similarity": 0.2603883594274521,
+                "tail": "evaluate quality"
+            },
+            {
+                "head": "PersonX determines PersonX's value",
+                "relation": "HinderedBy",
+                "similarity": 0.2600094825029373,
+                "tail": "PersonY lied about PersonX's value."
+            },
+            {
+                "head": "internet service contract",
+                "relation": "ObjectUse",
+                "similarity": 0.25988438725471497,
+                "tail": "lock in a price for internet"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_26",
+        "question_commonsense": [
+            {
+                "head": "purchase cellular phone",
+                "relation": "xNeed",
+                "similarity": 0.8759354650974274,
+                "tail": "go to cellular phone vendor"
+            },
+            {
+                "head": "purchase cellular phone",
+                "relation": "HasSubEvent",
+                "similarity": 0.8747765719890594,
+                "tail": "find cellular phone dealer"
+            },
+            {
+                "head": "purchase cellular phone",
+                "relation": "HasSubEvent",
+                "similarity": 0.8746954798698425,
+                "tail": "find out phone number"
+            },
+            {
+                "head": "purchase cellular phone",
+                "relation": "HasSubEvent",
+                "similarity": 0.8719948530197144,
+                "tail": "activate cellular account"
+            },
+            {
+                "head": "purchase cellular phone",
+                "relation": "xNeed",
+                "similarity": 0.8709395825862885,
+                "tail": "go to cell phone vendor"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "purchase cellular phone",
+                "relation": "HasSubEvent",
+                "similarity": 0.28013040125370026,
+                "tail": "find cellular phone dealer"
+            },
+            {
+                "head": "purchase cellular phone",
+                "relation": "HasSubEvent",
+                "similarity": 0.2704392671585083,
+                "tail": "program phone"
+            },
+            {
+                "head": "purchase cellular phone",
+                "relation": "xNeed",
+                "similarity": 0.26989638805389404,
+                "tail": "go to cellular phone retail store"
+            },
+            {
+                "head": "purchase cellular phone",
+                "relation": "xNeed",
+                "similarity": 0.2682100534439087,
+                "tail": "go to cell phone vendor"
+            },
+            {
+                "head": "purchase cellular phone",
+                "relation": "HasSubEvent",
+                "similarity": 0.2681947648525238,
+                "tail": "find out phone number"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_27",
+        "question_commonsense": [
+            {
+                "head": "PersonX makes PersonY remark",
+                "relation": "xNeed",
+                "similarity": 0.88663050532341,
+                "tail": "make sure that the particular remark is right"
+            },
+            {
+                "head": "PersonX interprets ___ in terms",
+                "relation": "xNeed",
+                "similarity": 0.8842028379440308,
+                "tail": "buy image"
+            },
+            {
+                "head": "PersonX interprets ___ in terms",
+                "relation": "oReact",
+                "similarity": 0.8792808651924133,
+                "tail": "informed"
+            },
+            {
+                "head": "PersonX interprets the ___ in terms",
+                "relation": "xIntent",
+                "similarity": 0.8790690302848816,
+                "tail": "good about themselves"
+            },
+            {
+                "head": "PersonX interprets the ___ in terms",
+                "relation": "xReact",
+                "similarity": 0.8790690302848816,
+                "tail": "good"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "membership dues",
+                "relation": "ObjectUse",
+                "similarity": 0.23970337212085724,
+                "tail": "pay to a museum membership"
+            },
+            {
+                "head": "PersonX dates for years",
+                "relation": "HinderedBy",
+                "similarity": 0.23076172918081284,
+                "tail": "Dates break up with PersonX quickly."
+            },
+            {
+                "head": "appointment calendar",
+                "relation": "ObjectUse",
+                "similarity": 0.22951220721006393,
+                "tail": "keep track of doctor appointments"
+            },
+            {
+                "head": "flyer",
+                "relation": "ObjectUse",
+                "similarity": 0.22614208608865738,
+                "tail": "advertise his tutoring services"
+            },
+            {
+                "head": "appointment calendar",
+                "relation": "ObjectUse",
+                "similarity": 0.22613634169101715,
+                "tail": "use as a reminder for when to pay bills"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_28",
+        "question_commonsense": [
+            {
+                "head": "PersonX classifies ___ into groups",
+                "relation": "oReact",
+                "similarity": 0.8836211264133453,
+                "tail": "categorized"
+            },
+            {
+                "head": "PersonX groups ___ according",
+                "relation": "xAttr",
+                "similarity": 0.8809869885444641,
+                "tail": "methodically"
+            },
+            {
+                "head": "PersonX groups ___ according",
+                "relation": "oWant",
+                "similarity": 0.874214768409729,
+                "tail": "to listen"
+            },
+            {
+                "head": "PersonX assigns ___ to groups",
+                "relation": "xEffect",
+                "similarity": 0.8705941438674927,
+                "tail": "makes some people mad"
+            },
+            {
+                "head": "PersonX groups ___ according",
+                "relation": "oEffect",
+                "similarity": 0.8701751232147217,
+                "tail": "knows their part"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX decides to have a picnic",
+                "relation": "isBefore",
+                "similarity": 0.2783653140068054,
+                "tail": "PersonX has a picnic with PersonY"
+            },
+            {
+                "head": "PersonX decides to have a picnic",
+                "relation": "xEffect",
+                "similarity": 0.27444685995578766,
+                "tail": "smiles at the thought of the picnic"
+            },
+            {
+                "head": "PersonX decides to have a picnic",
+                "relation": "xWant",
+                "similarity": 0.2736024558544159,
+                "tail": "go for a picnic"
+            },
+            {
+                "head": "PersonX decides to have a picnic",
+                "relation": "xWant",
+                "similarity": 0.26341579854488373,
+                "tail": "hang out in the park"
+            },
+            {
+                "head": "PersonX decides to have a picnic",
+                "relation": "xEffect",
+                "similarity": 0.26285071671009064,
+                "tail": "thinks about what to bring to the picnic"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_29",
+        "question_commonsense": [
+            {
+                "head": "PersonX gives another example",
+                "relation": "isAfter",
+                "similarity": 0.8739161491394043,
+                "tail": "PersonX offers one example"
+            },
+            {
+                "head": "PersonX makes PersonY image",
+                "relation": "xAttr",
+                "similarity": 0.8709296584129333,
+                "tail": "funny"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xIntent",
+                "similarity": 0.8697470724582672,
+                "tail": "to be understood"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xReact",
+                "similarity": 0.8697470724582672,
+                "tail": "understood"
+            },
+            {
+                "head": "PersonX gives another example",
+                "relation": "xReact",
+                "similarity": 0.8696697056293488,
+                "tail": "good about himself"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX breaks the cycle",
+                "relation": "xNeed",
+                "similarity": 0.27927330136299133,
+                "tail": "to have cycle"
+            },
+            {
+                "head": "communication method",
+                "relation": "ObjectUse",
+                "similarity": 0.2730313092470169,
+                "tail": "teach an online class"
+            },
+            {
+                "head": "communication method",
+                "relation": "ObjectUse",
+                "similarity": 0.26536356657743454,
+                "tail": "build a relationship"
+            },
+            {
+                "head": "political ideology",
+                "relation": "MadeUpOf",
+                "similarity": 0.2552177235484123,
+                "tail": "political ideals"
+            },
+            {
+                "head": "PersonX talks in circles",
+                "relation": "xIntent",
+                "similarity": 0.2547576129436493,
+                "tail": "to be understood, but has not thought through what he wants to say"
+            }
+        ]
+    },
+    {
+        "id": "validation_Sociology_30",
+        "question_commonsense": [
+            {
+                "head": "evidence",
+                "relation": "ObjectUse",
+                "similarity": 0.9297492206096649,
+                "tail": "prove conclusively"
+            },
+            {
+                "head": "evidence",
+                "relation": "ObjectUse",
+                "similarity": 0.9296812117099762,
+                "tail": "look at"
+            },
+            {
+                "head": "PersonX becomes aware",
+                "relation": "xEffect",
+                "similarity": 0.925964891910553,
+                "tail": "becomes informed"
+            },
+            {
+                "head": "evidence",
+                "relation": "ObjectUse",
+                "similarity": 0.9214732944965363,
+                "tail": "provide proof"
+            },
+            {
+                "head": "evidence",
+                "relation": "ObjectUse",
+                "similarity": 0.9200663864612579,
+                "tail": "prove their point"
+            }
+        ],
+        "image_commonsense": [
+            {
+                "head": "PersonX divorces PersonX's husband",
+                "relation": "xNeed",
+                "similarity": 0.3366695046424866,
+                "tail": "talk with divorce lawyer"
+            },
+            {
+                "head": "PersonX divorces PersonX's husband",
+                "relation": "HinderedBy",
+                "similarity": 0.3195101171731949,
+                "tail": "Person X's husband won't sign the divorce papers"
+            },
+            {
+                "head": "PersonX divorces PersonX's husband",
+                "relation": "xNeed",
+                "similarity": 0.31026361882686615,
+                "tail": "Write up the divorce papers"
+            },
+            {
+                "head": "PersonX divorces PersonX's wife",
+                "relation": "oEffect",
+                "similarity": 0.30242858827114105,
+                "tail": "gets divorced"
+            },
+            {
+                "head": "PersonX divorces PersonX's husband",
+                "relation": "xWant",
+                "similarity": 0.300712913274765,
+                "tail": "to ask for alimony"
+            }
+        ]
+    }
+]
